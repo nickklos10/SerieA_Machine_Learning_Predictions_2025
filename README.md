@@ -48,12 +48,12 @@ pip install -r requirements.txt
 
 ## Technologies Used
 
-- Python 3.9
-- Pandas for data manipulation.
-- Requests and BeautifulSoup for web scraping.
-- Scikit-learn for scaling and evaluation metrics.
-- TensorFlow/Keras for machine learning modeling.
-- SHAP for model explainability and feature importance.
+- `Python 3.9`
+- `Pandas` for data manipulation.
+- `Requests` and `BeautifulSoup` for web scraping.
+- `Scikit-learn` for scaling and evaluation metrics.
+- `TensorFlow/Keras` for machine learning modeling.
+- `SHAP` for model explainability and feature importance.
 
 
 ## Data Preparation
