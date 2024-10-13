@@ -1,0 +1,481 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+Inter Milan,In,Zinho Vanheusden,21,Belgium,CB,12000000,Standard Liège,16200000,2021
+Inter Milan,In,Denzel Dumfries,25,"Netherlands, Aruba",RB,16000000,PSV Eindhoven,14250000,2021
+Inter Milan,In,Matteo Darmian,31,Italy,RB,7000000,Parma Calcio 1913,3300000,2021
+Inter Milan,In,Edin Dzeko,35,Bosnia-Herzegovina,CF,4000000,AS Roma,2800000,2021
+Inter Milan,In,Alex Cordaz,38,Italy,GK,500000,FC Crotone,0,2021
+Inter Milan,In,Hakan Çalhanoğlu,27,"Türkiye, Germany",DM,35000000,AC Milan,0,2021
+Inter Milan,In,Martín Satriano,20,"Uruguay, Italy",CF,1000000,Inter Milan Primavera,Other,2021
+Inter Milan,Out,Romelu Lukaku,28,"Belgium, DR Congo",CF,30000000,Chelsea FC,113000000,2021
+Inter Milan,Out,Achraf Hakimi,22,"Morocco, Spain",RB,60000000,Paris Saint-Germain,68000000,2021
+Inter Milan,Out,Matteo Politano,27,Italy,RW,13000000,SSC Napoli,21500000,2021
+Inter Milan,Out,Antonio Candreva,34,Italy,AM,1000000,UC Sampdoria,2500000,2021
+Inter Milan,Out,Rigoberto Rivas,22,"Honduras, Italy",LW,1900000,Reggina 1914,550000,2021
+Inter Milan,Out,Georgios Vagiannidis,19,Greece,RB,5000000,Panathinaikos B,0,2021
+Inter Milan,Out,Edoardo Vergani,20,Italy,CF,200000,US Salernitana 1919,0,2021
+Inter Milan,Out,Xian Emmers,22,Belgium,AM,500000,Roda JC Kerkrade,0,2021
+Inter Milan,Out,João Mário,28,"Portugal, Angola",CM,4000000,SL Benfica,0,2021
+Inter Milan,Out,Giacomo Pozzer,20,Italy,GK,Other,SS Juve Stabia,0,2021
+Inter Milan,Out,Radja Nainggolan,33,Belgium,CM,325000,Royal Antwerp FC,0,2021
+Inter Milan,Out,Ashley Young,35,"England, Jamaica",LB,500000,Aston Villa,0,2021
+Inter Milan,Out,Daniele Padelli,35,Italy,GK,150000,Udinese Calcio,0,2021
+Inter Milan,Out,Thomas Schirò,21,"Italy, France",CM,75000,FC Crotone,Other,2021
+Inter Milan,Out,Christian Eriksen,29,Denmark,CM,8000000,Without Club,Other,2021
+AC Milan,In,Fikayo Tomori,23,"England, Canada",CB,28000000,Chelsea FC,34400000,2021
+AC Milan,In,Mike Maignan,25,"France, French Guiana",GK,25000000,LOSC Lille,16400000,2021
+AC Milan,In,Sandro Tonali,21,Italy,CM,27000000,Brescia Calcio,15750000,2021
+AC Milan,In,Yacine Adli,21,"France, Algeria",DM,9000000,FC Girondins Bordeaux,8750000,2021
+AC Milan,In,Fodé Ballo-Touré,24,"Senegal, France",LB,6500000,AS Monaco,5400000,2021
+AC Milan,In,Olivier Giroud,34,France,CF,4000000,Chelsea FC,4800000,2021
+AC Milan,In,Marko Lazetić,18,Serbia,CF,1500000,Red Star Belgrade,4500000,2021
+AC Milan,In,Antonio Mirante,38,Italy,GK,1000000,Without Club,Other,2021
+AC Milan,Out,Diego Laxalt,28,"Uruguay, Italy",LB,3000000,Dynamo Moscow,3500000,2021
+AC Milan,Out,Gianluigi Donnarumma,22,Italy,GK,40000000,Paris Saint-Germain,0,2021
+AC Milan,Out,Andrea Conti,27,Italy,RB,200000,UC Sampdoria,0,2021
+AC Milan,Out,Hakan Çalhanoğlu,27,"Türkiye, Germany",DM,45000000,Inter Milan,0,2021
+AC Milan,Out,Alessandro Sala,20,Italy,CM,150000,Pro Sesto 1913,0,2021
+AC Milan,Out,Antonio Donnarumma,31,Italy,GK,325000,Calcio Padova,0,2021
+AC Milan,Out,Mario Mandžukić,35,Croatia,CF,Other,Retired,Other,2021
+Atalanta BC,In,Juan Musso,27,"Argentina, Italy",GK,20000000,Udinese Calcio,20500000,2021
+Atalanta BC,In,Cristian Romero,23,Argentina,CB,35000000,Juventus FC,17000000,2021
+Atalanta BC,In,Teun Koopmeiners,23,Netherlands,AM,16500000,AZ Alkmaar,14000000,2021
+Atalanta BC,In,Matteo Lovato,21,Italy,CB,7000000,Hellas Verona,7200000,2021
+Atalanta BC,In,Davide Zappacosta,29,Italy,RM,8000000,Chelsea FC,7000000,2021
+Atalanta BC,In,Simone Mazzocchi,22,Italy,CF,500000,FC Südtirol,Other,2021
+Atalanta BC,In,Giorgio Scalvini,17,Italy,CB,Other,Atalanta Primavera,Other,2021
+Atalanta BC,Out,Musa Barrow,22,The Gambia,LW,8000000,Bologna FC 1909,14340000,2021
+Atalanta BC,Out,Roger Ibañez,22,"Brazil, Italy",CB,20000000,AS Roma,11800000,2021
+Atalanta BC,Out,Andreas Cornelius,28,Denmark,CF,1000000,Parma Calcio 1913,8400000,2021
+Atalanta BC,Out,Lennart Czyborra,22,Germany,LB,700000,Genoa CFC,5500000,2021
+Atalanta BC,Out,Nicolas Haas,25,Switzerland,CM,700000,FC Empoli,2300000,2021
+Atalanta BC,Out,Boris Radunović,25,Serbia,GK,1000000,Cagliari Calcio,625000,2021
+Atalanta BC,Out,Alessandro Pavan,21,Italy,GK,Other,ACD Jesolo,0,2021
+Atalanta BC,Out,Nicolò Milani,20,Italy,CB,50000,Imolese Calcio 1919,0,2021
+Atalanta BC,Out,Alessandro Santopadre,22,Italy,GK,Other,Imolese Calcio 1919,0,2021
+Atalanta BC,Out,Isnik Alimi,27,"North Macedonia, Albania",CM,900000,FK Qabala,0,2021
+Atalanta BC,Out,Thomas Bolis,22,Italy,DM,75000,Without Club,Other,2021
+Juventus FC,In,Dušan Vlahović,22,Serbia,CF,70000000,ACF Fiorentina,83500000,2021
+Juventus FC,In,Weston McKennie,22,United States,CM,25000000,FC Schalke 04,21900000,2021
+Juventus FC,In,Denis Zakaria,25,"Switzerland, DR Congo",DM,27000000,Borussia Mönchengladbach,11350000,2021
+Juventus FC,In,Federico Gatti,23,Italy,CB,1500000,Frosinone Calcio,9000000,2021
+Juventus FC,In,Kaio Jorge,19,Brazil,CF,12000000,Santos FC,7000000,2021
+Juventus FC,In,Mohamed Ihattaren,19,"Netherlands, Morocco",AM,12000000,PSV Eindhoven,1900000,2021
+Juventus FC,In,Marley Aké,21,"France, Cote d'Ivoire",LW,2200000,Juventus U23,Other,2021
+Juventus FC,Out,Rodrigo Bentancur,24,Uruguay,DM,35000000,Tottenham Hotspur,19000000,2021
+Juventus FC,Out,Cristiano Ronaldo,36,Portugal,CF,15000000,Manchester United,17000000,2021
+Juventus FC,Out,Cristian Romero,23,Argentina,CB,65000000,Atalanta BC,17000000,2021
+Juventus FC,Out,Gianluigi Buffon,43,Italy,GK,Other,Parma Calcio 1913,0,2021
+SSC Napoli,In,Matteo Politano,27,Italy,RW,30000000,Inter Milan,21500000,2021
+SSC Napoli,In,Davide Marfella,21,Italy,GK,50000,SSC Bari,0,2021
+SSC Napoli,In,Juan Jesus,30,"Brazil, Italy",CB,2000000,AS Roma,0,2021
+SSC Napoli,Out,Konstantinos Manolas,30,Greece,CB,1000000,Olympiacos Piraeus,2500000,2021
+SSC Napoli,Out,Nikola Maksimović,29,Serbia,CB,450000,Genoa CFC,0,2021
+SSC Napoli,Out,Luigi D'Ignazio,23,Italy,LB,Other,ASD Caserta Neapolis,0,2021
+SSC Napoli,Out,Mario Prezioso,25,Italy,CM,150000,Virtus Francavilla Calcio,0,2021
+SSC Napoli,Out,Amin Younes,28,"Germany, Lebanon",LW,600000,Al-Ettifaq FC,0,2021
+SSC Napoli,Out,Amato Ciciretti,27,Italy,RW,200000,Pordenone Calcio,0,2021
+SSC Napoli,Out,Elseid Hysaj,27,Albania,RB,2500000,SS Lazio,0,2021
+SSC Napoli,Out,Raffaele Russo,22,Italy,LW,225000,ACR Messina,0,2021
+SSC Napoli,Out,Alberto Senese,21,Italy,CB,Other,Without Club,Other,2021
+SS Lazio,In,Toma Bašić,24,Croatia,CM,9000000,FC Girondins Bordeaux,7100000,2021
+SS Lazio,In,Dimitrije Kamenovic,20,Serbia,LB,2000000,FK Cukaricki,3000000,2021
+SS Lazio,In,Felipe Anderson,28,Brazil,LW,10000000,West Ham United,3000000,2021
+SS Lazio,In,Luka Romero,16,"Argentina, Spain",RW,1000000,RCD Mallorca B,200000,2021
+SS Lazio,In,Pedro,34,Spain,RW,5000000,AS Roma,0,2021
+SS Lazio,In,Elseid Hysaj,27,Albania,RB,13000000,SSC Napoli,0,2021
+SS Lazio,In,Raúl Moro,18,Spain,LW,800000,Lazio U19,Other,2021
+SS Lazio,Out,Felipe Caicedo,32,"Ecuador, Spain",CF,200000,Genoa CFC,2000000,2021
+SS Lazio,Out,Nikolaos Baxevanos,21,Greece,CB,175000,AFC Chindia Targoviste,0,2021
+SS Lazio,Out,Sergio Kalaj,21,"Albania, Italy",CB,200000,Carrarese Calcio 1908,0,2021
+SS Lazio,Out,Simone Palombi,25,Italy,CF,250000,US Alessandria Calcio 1912,0,2021
+SS Lazio,Out,Andreas Karo,24,Cyprus,CB,700000,APOEL Nicosia,0,2021
+SS Lazio,Out,Cedric Gondo,24,"Cote d'Ivoire, Italy",CF,700000,Without Club,Other,2021
+SS Lazio,Out,Senad Lulic,35,"Bosnia-Herzegovina, Switzerland",LM,Other,Retired,Other,2021
+SS Lazio,Out,Marco Parolo,36,Italy,CM,Other,Retired,Other,2021
+SS Lazio,Out,Joseph Minala,24,Cameroon,DM,250000,Without Club,Other,2021
+SS Lazio,Out,Mateo Musacchio,30,"Argentina, Italy",CB,Other,Without Club,Other,2021
+SS Lazio,Out,Abukar Mohamed,22,"Finland, Somalia",CM,Other,Career break,Other,2021
+AS Roma,In,Tammy Abraham,23,"England, Nigeria",CF,38000000,Chelsea FC,41000000,2021
+AS Roma,In,Marash Kumbulla,21,"Albania, Italy",CB,25000000,Hellas Verona,26500000,2021
+AS Roma,In,Eldor Shomurodov,26,Uzbekistan,CF,7000000,Genoa CFC,19600000,2021
+AS Roma,In,Matías Viña,23,"Uruguay, Italy",LB,5000000,Sociedade Esportiva Palmeiras,13000000,2021
+AS Roma,In,Rui Patrício,33,Portugal,GK,10000000,Wolverhampton Wanderers,11800000,2021
+AS Roma,In,Roger Ibañez,22,"Brazil, Italy",CB,25000000,Atalanta BC,11800000,2021
+AS Roma,In,Bryan Reynolds,20,United States,RB,6000000,FC Dallas,6850000,2021
+AS Roma,In,Felix Afena-Gyan,18,Ghana,CF,Other,Roma U19,Other,2021
+AS Roma,In,Filippo Tripi,19,Italy,DM,300000,Roma U19,Other,2021
+AS Roma,In,Pietro Boer,19,Italy,GK,150000,Roma U19,Other,2021
+AS Roma,In,Edoardo Bove,19,Italy,CM,300000,Roma U19,Other,2021
+AS Roma,In,Ruben Providence,19,"France, Haiti",LW,350000,Roma U19,Other,2021
+AS Roma,In,Nicola Zalewski,19,Poland,LM,900000,Roma U19,Other,2021
+AS Roma,In,Riccardo Ciervo,19,Italy,LW,300000,Roma U19,Other,2021
+AS Roma,In,Ebrima Darboe,20,The Gambia,DM,2000000,Roma U19,Other,2021
+AS Roma,Out,Mert Çetin,24,Türkiye,CB,700000,Hellas Verona,7800000,2021
+AS Roma,Out,Edin Dzeko,35,Bosnia-Herzegovina,CF,2700000,Inter Milan,2800000,2021
+AS Roma,Out,Aboudramane Diaby,17,"Italy, Mali",LB,Other,Hellas Verona Primavera,2500000,2021
+AS Roma,Out,Zan Celar,22,Slovenia,CF,4500000,FC Lugano,475000,2021
+AS Roma,Out,Ludovico D'Orazio,21,Italy,LW,250000,SPAL,70000,2021
+AS Roma,Out,Pedro,34,Spain,RW,1000000,SS Lazio,0,2021
+AS Roma,Out,Matteo Cardinali,20,Italy,GK,250000,Latina Calcio 1932,0,2021
+AS Roma,Out,Steven Nzonzi,32,"France, DR Congo",DM,900000,Al-Rayyan SC,0,2021
+AS Roma,Out,Juan Jesus,30,"Brazil, Italy",CB,2500000,SSC Napoli,0,2021
+AS Roma,Out,Mirko Antonucci,22,Italy,AM,1400000,AS Cittadella,0,2021
+AS Roma,Out,Zakaria Sdaigui,21,"Italy, Morocco",CM,Other,Monterosi Tuscia FC,0,2021
+AS Roma,Out,Bruno Peres,31,Brazil,RB,500000,Trabzonspor,0,2021
+AS Roma,Out,Federico Fazio,34,"Argentina, Italy",CB,400000,US Salernitana 1919,0,2021
+AS Roma,Out,Lorenzo Valeau,22,Italy,LB,Other,1913 Seregno Calcio,0,2021
+AS Roma,Out,Javier Pastore,32,"Argentina, Italy",AM,300000,Without Club,Other,2021
+AS Roma,Out,Simone Farelli,38,Italy,GK,Other,Retired,Other,2021
+AS Roma,Out,Antonio Mirante,37,Italy,GK,100000,Without Club,Other,2021
+US Sassuolo,In,Hamed Junior Traoré,21,Cote d'Ivoire,AM,20000000,FC Empoli,16000000,2021
+US Sassuolo,In,Ruan Tressoldi,22,Brazil,CB,1500000,Grêmio Foot-Ball Porto Alegrense,5000000,2021
+US Sassuolo,In,Luca Moro,21,Italy,CF,2000000,Calcio Padova,3970000,2021
+US Sassuolo,In,Jeremy Toljan,26,"Germany, United States",RB,5000000,Borussia Dortmund,3500000,2021
+US Sassuolo,In,Martin Erlić,23,Croatia,CB,3000000,Spezia Calcio,3000000,2021
+US Sassuolo,In,Maxime López,23,"France, Algeria",DM,10000000,Olympique Marseille,2500000,2021
+US Sassuolo,In,Pietro Cianci,25,Italy,CF,275000,Città di Teramo 1913,150000,2021
+US Sassuolo,Out,Marlon,25,Brazil,CB,5000000,Shakhtar Donetsk,12000000,2021
+US Sassuolo,Out,Federico Di Francesco,27,Italy,LW,1400000,SPAL,4500000,2021
+US Sassuolo,Out,Giangiacomo Magnani,25,Italy,CB,3000000,Hellas Verona,4000000,2021
+US Sassuolo,Out,Edoardo Goldaniga,28,Italy,CB,1200000,Cagliari Calcio,1100000,2021
+US Sassuolo,Out,Luca Mazzitelli,25,Italy,CM,4000000,AC Monza,300000,2021
+US Sassuolo,Out,Nicholas Pierini,23,Italy,RW,1700000,Cesena FC,220000,2021
+US Sassuolo,Out,Aristidi Kolaj,22,"Albania, Italy",RW,275000,US Alessandria Calcio 1912,100000,2021
+US Sassuolo,Out,Pietro Cianci,25,Italy,CF,275000,US Catanzaro,100000,2021
+US Sassuolo,Out,Federico Ricci,27,Italy,RW,100000,Reggina 1914,0,2021
+US Sassuolo,Out,Raffaele Celia,22,Italy,LB,400000,SPAL,0,2021
+US Sassuolo,Out,Raul Steau,20,Romania,AM,150000,Gaz Metan Medias (- 2022),0,2021
+US Sassuolo,Out,Nicholas Martini,20,Italy,CM,75000,Villa Valle,0,2021
+US Sassuolo,Out,Khouma Babacar,28,"Senegal, Italy",CF,200000,FC Copenhagen,0,2021
+US Sassuolo,Out,Andrea Cisco,22,Italy,LW,150000,Novara FC,0,2021
+US Sassuolo,Out,Luca Ravanelli,24,Italy,CB,2000000,US Cremonese,Other,2021
+US Sassuolo,Out,Cristian Dell'Orco,27,Italy,CB,200000,AC Perugia Calcio,Other,2021
+UC Sampdoria,In,Antonino La Gumina,25,Italy,CF,2000000,FC Empoli,5500000,2021
+UC Sampdoria,In,Ernesto Torregrossa,29,"Venezuela, Italy",CF,5500000,Brescia Calcio,5500000,2021
+UC Sampdoria,In,Antonio Candreva,34,Italy,AM,2500000,Inter Milan,2500000,2021
+UC Sampdoria,In,Lorenzo Campaner,18,Italy,RB,50000,Sangiovannese 1927,7000,2021
+UC Sampdoria,In,Andrea Conti,27,Italy,RB,2500000,AC Milan,0,2021
+UC Sampdoria,In,Manuel De Luca,23,Italy,CF,800000,Chievo Verona,0,2021
+UC Sampdoria,In,Sebastian Giovinco,35,Italy,SS,1000000,Without Club,Other,2021
+UC Sampdoria,In,Nik Prelec,20,Slovenia,CF,450000,Sampdoria Primavera,Other,2021
+UC Sampdoria,In,Simone Trimboli,19,Italy,CM,500000,Sampdoria Primavera,Other,2021
+UC Sampdoria,In,Simone Giordano,19,Italy,LB,250000,Sampdoria Primavera,Other,2021
+UC Sampdoria,Out,Jakub Jankto,25,Czech Republic,LM,1200000,Getafe CF,5160000,2021
+UC Sampdoria,Out,Lorenzo Tonelli,31,Italy,CB,Other,FC Empoli,2400000,2021
+UC Sampdoria,Out,Antonio Palumbo,24,Italy,CM,1400000,Ternana Calcio,150000,2021
+UC Sampdoria,Out,Antonio Di Nardo,22,Italy,CF,175000,Sona Calcio,0,2021
+UC Sampdoria,Out,Ognjen Stijepovic,21,Montenegro,SS,75000,Spezia Calcio,0,2021
+UC Sampdoria,Out,Andrea Tessiore,21,Italy,CM,250000,Latina Calcio 1932,0,2021
+UC Sampdoria,Out,Adrien Silva,32,"Portugal, France",CM,400000,Al-Wahda FC,0,2021
+UC Sampdoria,Out,Cristian Hadziosmanovic,23,"Montenegro, Italy",RB,150000,Città di Teramo 1913,0,2021
+UC Sampdoria,Out,Vasco Regini,30,"Italy, San Marino",CB,Other,Reggina 1914,0,2021
+UC Sampdoria,Out,Ibourahima Baldé,22,"Spain, Senegal",CF,150000,ACR Messina,0,2021
+UC Sampdoria,Out,Axel Campeol,21,"Italy, France",LB,Other,Unknown,Other,2021
+UC Sampdoria,Out,Mohamed Bahlouli,21,"France, Algeria",AM,150000,Without Club,Other,2021
+UC Sampdoria,Out,Gastón Ramírez,30,Uruguay,CM,175000,Without Club,Other,2021
+Hellas Verona,In,Mert Çetin,24,Türkiye,CB,2800000,AS Roma,7800000,2021
+Hellas Verona,In,Ivan Ilić,20,Serbia,CM,8000000,Manchester City U23,7500000,2021
+Hellas Verona,In,Kevin Lasagna,28,Italy,CF,6000000,Udinese Calcio,6500000,2021
+Hellas Verona,In,Antonín Barák,26,Czech Republic,AM,14000000,Udinese Calcio,6000000,2021
+Hellas Verona,In,Giangiacomo Magnani,25,Italy,CB,5000000,US Sassuolo,4000000,2021
+Hellas Verona,In,Matteo Cancellieri,19,Italy,RW,100000,Roma U19,4000000,2021
+Hellas Verona,In,Federico Ceccherini,29,Italy,CB,3500000,ACF Fiorentina,3000000,2021
+Hellas Verona,In,Panagiotis Retsos,23,Greece,CB,3500000,Bayer 04 Leverkusen,0,2021
+Hellas Verona,In,Bogdan Jocic,20,Serbia,CM,200000,Hellas Verona Primavera,Other,2021
+Hellas Verona,In,Diego Coppola,18,"Italy, Netherlands",CB,Other,Hellas Verona Primavera,Other,2021
+Hellas Verona,Out,Marash Kumbulla,21,"Albania, Italy",CB,4500000,AS Roma,26500000,2021
+Hellas Verona,Out,Matteo Lovato,21,Italy,CB,4000000,Atalanta BC,7200000,2021
+Hellas Verona,Out,Marco Silvestri,30,Italy,GK,1000000,Udinese Calcio,2200000,2021
+Hellas Verona,Out,Samuel Di Carmine,32,Italy,CF,300000,US Cremonese,600000,2021
+Hellas Verona,Out,Michele Vano,29,Italy,CF,150000,AC Perugia Calcio,500000,2021
+Hellas Verona,Out,Alan Empereur,27,"Brazil, Italy",CB,750000,Cuiabá Esporte Clube (MT),0,2021
+Hellas Verona,Out,Rayyan Baniya,22,"Türkiye, Italy",CB,2500000,Fatih Karagümrük,0,2021
+Hellas Verona,Out,Lucas Felippe,21,"Brazil, Spain",CM,175000,SC Farense U23,0,2021
+Hellas Verona,Out,Antonino Ragusa,31,Italy,LW,200000,US Lecce,0,2021
+Hellas Verona,Out,Nikola Kalinić,34,Croatia,CF,Other,HNK Hajduk Split,0,2021
+Hellas Verona,Out,Andrea Danzi,22,Italy,DM,350000,AS Cittadella,Other,2021
+Hellas Verona,Out,Karim Laribi,30,"Tunisia, Italy",AM,75000,Reggina 1914,Other,2021
+Hellas Verona,Out,Salvatore Bocchetti,34,"Italy, Russia",CB,Other,Retired,Other,2021
+Hellas Verona,Out,Bachir Mané,23,"Senegal, Italy",CB,Other,Without Club,Other,2021
+Genoa CFC,In,Kelvin Yeboah,21,"Italy, Ghana",CF,4000000,SK Sturm Graz,6500000,2021
+Genoa CFC,In,Lennart Czyborra,22,Germany,LB,3500000,Atalanta BC,5500000,2021
+Genoa CFC,In,Silvan Hefti,24,Switzerland,RB,3500000,BSC Young Boys,5000000,2021
+Genoa CFC,In,Morten Frendrup,20,Denmark,CM,3500000,Bröndby IF,3900000,2021
+Genoa CFC,In,Abdoulaye Touré,27,"Guinea, France",DM,4000000,FC Nantes,3500000,2021
+Genoa CFC,In,Johan Vásquez,23,Mexico,CB,4000000,UNAM Pumas,3500000,2021
+Genoa CFC,In,Caleb Ekuban,27,"Ghana, Italy",CF,7000000,Trabzonspor,2600000,2021
+Genoa CFC,In,Felipe Caicedo,32,"Ecuador, Spain",CF,4000000,SS Lazio,2000000,2021
+Genoa CFC,In,Alessandro Vogliacco,22,Italy,CB,1300000,Pordenone Calcio,2000000,2021
+Genoa CFC,In,Alberto Paleari,28,Italy,GK,1000000,AS Cittadella,2000000,2021
+Genoa CFC,In,Albert Gudmundsson,24,Iceland,SS,3000000,AZ Alkmaar,1500000,2021
+Genoa CFC,In,Nikola Maksimović,29,Serbia,CB,10000000,SSC Napoli,0,2021
+Genoa CFC,In,Adrian Semper,23,Croatia,GK,2300000,Chievo Verona,0,2021
+Genoa CFC,In,Stefano Sabelli,28,Italy,RB,1900000,FC Empoli,0,2021
+Genoa CFC,In,Lorenzo Andrenacci,26,Italy,GK,150000,Brescia Calcio,0,2021
+Genoa CFC,In,Salvatore Sirigu,34,Italy,GK,2500000,Torino FC,0,2021
+Genoa CFC,In,Pablo Galdames,24,Chile,CM,3100000,CA Vélez Sarsfield,0,2021
+Genoa CFC,In,Aleksander Buksa,18,Poland,CF,1500000,Wisla Kraków,0,2021
+Genoa CFC,In,Steeve-Mike Eyango,20,"France, Cameroon",CM,400000,Genoa U19,Other,2021
+Genoa CFC,In,Yayah Kallon,20,Sierra Leone,RW,400000,Genoa U19,Other,2021
+Genoa CFC,In,Laurens Serpe,20,"Italy, Netherlands",CB,200000,Genoa U19,Other,2021
+Genoa CFC,In,Giuseppe Agostino,18,Italy,GK,125000,Genoa U19,Other,2021
+Genoa CFC,Out,Eldor Shomurodov,26,Uzbekistan,CF,5000000,AS Roma,19600000,2021
+Genoa CFC,Out,Giorgio Altare,22,Italy,CB,2000000,Cagliari Calcio,500000,2021
+Genoa CFC,Out,Nicola Dalmonte,23,Italy,RW,300000,LR Vicenza,300000,2021
+Genoa CFC,Out,Goran Pandev,38,"North Macedonia, Italy",SS,Other,Parma Calcio 1913,130000,2021
+Genoa CFC,Out,Luigi Carillo,25,Italy,CB,250000,ACR Messina,0,2021
+Genoa CFC,Out,Ivan Radovanovic,33,Serbia,DM,Other,US Salernitana 1919,0,2021
+Genoa CFC,Out,Lukas Zima,27,Czech Republic,GK,850000,VVV-Venlo,0,2021
+Genoa CFC,Out,Cristian Zapata,34,Colombia,CB,50000,CA San Lorenzo de Almagro,0,2021
+Genoa CFC,Out,Tiago Gonçalves,20,Portugal,LB,200000,ACR Messina,0,2021
+Genoa CFC,Out,Jandrei,28,"Brazil, Italy",GK,400000,Santos FC,0,2021
+Genoa CFC,Out,Valon Behrami,36,"Switzerland, Kosovo",DM,Other,Brescia Calcio,0,2021
+Genoa CFC,Out,Raúl Asencio,23,"Spain, Brazil",CF,175000,AD Alcorcón,0,2021
+Genoa CFC,Out,Claudiu Micovschi,22,Romania,LW,650000,US Avellino 1912,0,2021
+Genoa CFC,Out,Claudio Spinelli,25,"Argentina, Italy",CF,300000,CA Lanús,0,2021
+Genoa CFC,Out,Riccardo Correnti,20,Italy,CM,75000,Acireale Calcio,0,2021
+Genoa CFC,Out,Davide Castelli,21,Italy,CF,150000,Aurora Pro Patria,Other,2021
+Genoa CFC,Out,Fallou Njie,22,The Gambia,CB,Other,Without Club,Other,2021
+Bologna FC 1909,In,Musa Barrow,22,The Gambia,LW,20000000,Atalanta BC,14340000,2021
+Bologna FC 1909,In,Marko Arnautovic,32,"Austria, Serbia",CF,10000000,Shanghai Port,6000000,2021
+Bologna FC 1909,In,Kevin Bonifazi,25,Italy,CB,7000000,SPAL,5850000,2021
+Bologna FC 1909,In,Denso Kasius,19,Netherlands,RB,250000,FC Utrecht U21,3280000,2021
+Bologna FC 1909,In,Adama Soumaoro,29,"France, Mali",CB,4000000,LOSC Lille,2100000,2021
+Bologna FC 1909,In,Sydney van Hooijdonk,21,Netherlands,CF,500000,NAC Breda,735000,2021
+Bologna FC 1909,In,Francesco Bardi,29,Italy,GK,700000,Frosinone Calcio,Other,2021
+Bologna FC 1909,In,Omar Khailoti,19,"Morocco, Italy",CB,200000,Bologna Primavera,Other,2021
+Bologna FC 1909,In,Nicolas Viola,32,Italy,CM,1500000,Without Club,Other,2021
+Bologna FC 1909,In,Marco Molla,19,"Albania, Italy",GK,75000,Bologna Primavera,Other,2021
+Bologna FC 1909,Out,Takehiro Tomiyasu,22,Japan,RB,35000000,Arsenal FC,18600000,2021
+Bologna FC 1909,Out,Andreas Skov Olsen,22,Denmark,RW,18000000,Club Brugge KV,6400000,2021
+Bologna FC 1909,Out,Godfred Donsah,25,Ghana,CM,250000,FC Crotone,0,2021
+Bologna FC 1909,Out,Fabrizio Brignani,23,Italy,CB,450000,Olbia Calcio 1905,0,2021
+Bologna FC 1909,Out,Andrea Poli,31,Italy,CM,150000,Antalyaspor,0,2021
+Bologna FC 1909,Out,Danilo,37,"Brazil, Italy",CB,Other,Parma Calcio 1913,0,2021
+Bologna FC 1909,Out,Alex Cossalter,21,Italy,LW,Other,Dolomiti Bellunesi,0,2021
+Bologna FC 1909,Out,Lassi Lappalainen,23,Finland,LW,1200000,CF Montréal,0,2021
+Bologna FC 1909,Out,Elia Visconti,21,Italy,LM,100000,Lucchese 1905,0,2021
+Bologna FC 1909,Out,Rodrigo Palacio,39,"Argentina, Spain",CF,Other,Brescia Calcio,0,2021
+Bologna FC 1909,Out,Nehuén Paz,28,"Argentina, Italy",CB,100000,FC Crotone,Other,2021
+Bologna FC 1909,Out,Mouhamadou Sarr,24,"Senegal, Italy",GK,300000,US Cremonese,Other,2021
+Bologna FC 1909,Out,Leonardo Stanzani,21,Italy,SS,275000,Aurora Pro Patria,Other,2021
+Bologna FC 1909,Out,Arturo Calabresi,25,Italy,RB,900000,US Lecce,Other,2021
+Bologna FC 1909,Out,Hamza El Kaouakibi,23,"Morocco, Italy",RB,300000,Pordenone Calcio,Other,2021
+Bologna FC 1909,Out,Leonardo Mazza,20,Italy,DM,75000,Ternana Calcio,Other,2021
+Bologna FC 1909,Out,Antonio Santurro,29,"Dominican Republic, Italy",GK,Other,Without Club,Other,2021
+Bologna FC 1909,Out,Angelo da Costa,37,"Brazil, Italy",GK,Other,Retired,Other,2021
+Bologna FC 1909,Out,Juan Valencia,23,Colombia,CM,250000,Without Club,Other,2021
+Udinese Calcio,In,Lazar Samardžić,19,"Serbia, Germany",CM,3000000,RB Leipzig,3000000,2021
+Udinese Calcio,In,Marco Silvestri,30,Italy,GK,9000000,Hellas Verona,2200000,2021
+Udinese Calcio,In,Brandon Soppy,19,"France, Cameroon",RB,7000000,Stade Rennais FC,2000000,2021
+Udinese Calcio,In,Isaac Success,25,Nigeria,CF,1800000,Watford FC,1800000,2021
+Udinese Calcio,In,James Abankwah,18,"Ireland, Ghana",CB,Other,St. Patrick's Athletic,400000,2021
+Udinese Calcio,In,Filip Benkovic,24,Croatia,CB,2000000,Leicester City,0,2021
+Udinese Calcio,In,Daniele Padelli,35,Italy,GK,400000,Inter Milan,0,2021
+Udinese Calcio,In,Antonio Santurro,29,"Dominican Republic, Italy",GK,50000,Without Club,Other,2021
+Udinese Calcio,Out,Rodrigo de Paul,27,"Argentina, Italy",CM,30000000,Atlético de Madrid,35000000,2021
+Udinese Calcio,Out,Juan Musso,27,"Argentina, Italy",GK,5000000,Atalanta BC,20500000,2021
+Udinese Calcio,Out,Kevin Lasagna,28,Italy,CF,950000,Hellas Verona,6500000,2021
+Udinese Calcio,Out,Antonín Barák,26,Czech Republic,AM,4500000,Hellas Verona,6000000,2021
+Udinese Calcio,Out,Samir Caetano,27,Brazil,CB,3500000,Watford FC,5000000,2021
+Udinese Calcio,Out,Mattia Compagnon,19,Italy,RW,500000,Juventus U23,3950000,2021
+Udinese Calcio,Out,Stefano Okaka,32,"Italy, Nigeria",CF,600000,Basaksehir FK,1500000,2021
+Udinese Calcio,Out,Ryder Matos,28,"Brazil, Italy",SS,200000,AC Perugia Calcio,800000,2021
+Udinese Calcio,Out,Simone Scuffet,25,Italy,GK,2500000,APOEL Nicosia,300000,2021
+Udinese Calcio,Out,Federico Ermacora,21,Italy,LB,50000,AC Renate,75000,2021
+Udinese Calcio,Out,Lukasz Teodorczyk,30,Poland,CF,Other,LR Vicenza,0,2021
+Udinese Calcio,Out,Svante Ingelsson,23,Sweden,AM,900000,FC Hansa Rostock,0,2021
+Udinese Calcio,Out,Sebastien De Maio,34,"France, Italy",CB,125000,LR Vicenza,Other,2021
+Udinese Calcio,Out,Nicholas Opoku,23,Ghana,CB,900000,Amiens SC,Other,2021
+Udinese Calcio,Out,Fernando Forestieri,31,"Italy, Argentina",SS,700000,Johor Darul Ta'zim,Other,2021
+Udinese Calcio,Out,Fernando Llorente,36,Spain,CF,Other,Without Club,Other,2021
+Udinese Calcio,Out,Sebastian Prödl,34,Austria,CB,Other,Retired,Other,2021
+ACF Fiorentina,In,Nico González,23,"Argentina, Italy",RW,22000000,VfB Stuttgart,24500000,2021
+ACF Fiorentina,In,Arthur Cabral,23,Brazil,CF,15000000,FC Basel 1893,15500000,2021
+ACF Fiorentina,In,Jonathan Ikoné,23,"France, DR Congo",RW,22000000,LOSC Lille,15400000,2021
+ACF Fiorentina,In,Igor,23,Brazil,CB,5000000,SPAL,7650000,2021
+ACF Fiorentina,In,Matija Nastasic,28,Serbia,CB,5000000,FC Schalke 04,500000,2021
+ACF Fiorentina,In,Niccolò Pierozzi,19,Italy,RB,125000,Fiorentina Primavera,Other,2021
+ACF Fiorentina,Out,Dušan Vlahović,22,Serbia,CF,65000000,Juventus FC,83500000,2021
+ACF Fiorentina,Out,Pol Lirola,24,Spain,RB,1800000,Olympique Marseille,13000000,2021
+ACF Fiorentina,Out,Alban Lafont,22,"France, Burkina Faso",GK,9000000,FC Nantes,7500000,2021
+ACF Fiorentina,Out,Germán Pezzella,30,"Argentina, Italy",CB,3000000,Real Betis Balompié,3250000,2021
+ACF Fiorentina,Out,Federico Ceccherini,29,Italy,CB,1000000,Hellas Verona,3000000,2021
+ACF Fiorentina,Out,Dávid Hancko,23,Slovakia,CB,35000000,AC Sparta Prague,2500000,2021
+ACF Fiorentina,Out,Julián Illanes,24,"Argentina, Italy",CB,300000,Delfino Pescara 1936,350000,2021
+ACF Fiorentina,Out,Borja Valero,36,Spain,CM,Other,Centro Storico Lebowski,0,2021
+ACF Fiorentina,Out,Maximiliano Olivera,29,"Uruguay, Spain",LB,600000,FC Juárez,0,2021
+ACF Fiorentina,Out,Mattia Trovato,24,Italy,RW,25000,Rende Calcio 1968,0,2021
+ACF Fiorentina,Out,Marco Meli,21,Italy,AM,150000,ACR Siena 1904,0,2021
+ACF Fiorentina,Out,Erald Lakti,21,"Albania, Italy",CM,250000,Calcio Lecco 1912,0,2021
+ACF Fiorentina,Out,Franck Ribéry,38,France,LW,Other,US Salernitana 1919,0,2021
+ACF Fiorentina,Out,Rafik Zekhnini,23,Norway,LW,300000,Molde FK,0,2021
+ACF Fiorentina,Out,Petko Hristov,22,Bulgaria,CB,750000,Spezia Calcio,0,2021
+ACF Fiorentina,Out,Kevin Diks,24,Netherlands,CB,4000000,FC Copenhagen,0,2021
+ACF Fiorentina,Out,Valentin Eysseric,29,France,AM,1000000,Kasimpasa,0,2021
+ACF Fiorentina,Out,Niccolò Bigica,20,Italy,CM,50000,AC Trento,0,2021
+ACF Fiorentina,Out,Pierluigi Pinto,22,Italy,CB,Other,Without Club,Other,2021
+ACF Fiorentina,Out,Martín Cáceres,34,Uruguay,CB,200000,Without Club,Other,2021
+ACF Fiorentina,Out,Marco Marozzi,22,Italy,RM,Other,Without Club,Other,2021
+ACF Fiorentina,Out,Martin Graiciar,22,Czech Republic,CF,Other,Without Club,Other,2021
+Spezia Calcio,In,Janis Antiste,19,"France, Martinique",CF,3000000,FC Toulouse,4600000,2021
+Spezia Calcio,In,Kelvin Amian,23,"France, Cote d'Ivoire",RB,3500000,FC Toulouse,3900000,2021
+Spezia Calcio,In,Dimitrios Nikolaou,22,Greece,CB,2300000,FC Empoli,3500000,2021
+Spezia Calcio,In,Emil Holm,21,Sweden,RB,700000,Sönderjyske,2700000,2021
+Spezia Calcio,In,Jakub Kiwior,21,Poland,CB,400000,MSK Zilina,2400000,2021
+Spezia Calcio,In,David Strelec,20,Slovakia,CF,800000,Slovan Bratislava,2280000,2021
+Spezia Calcio,In,Samuel Mraz,24,Slovakia,CF,500000,FC Empoli,1600000,2021
+Spezia Calcio,In,Aimar Sher,18,"Sweden, Iraq",CM,1200000,Hammarby IF,1450000,2021
+Spezia Calcio,In,Léo Sena,25,Brazil,DM,2000000,Clube Atlético Mineiro,1250000,2021
+Spezia Calcio,In,Emil Kornvig,21,Denmark,CM,200000,Lyngby BK,1130000,2021
+Spezia Calcio,In,Mikael Egill Ellertsson,19,Iceland,CM,300000,SPAL Primavera,1000000,2021
+Spezia Calcio,In,Daniele Verde,25,Italy,RW,1500000,AEK Athens,600000,2021
+Spezia Calcio,In,Leandro Sanca,21,"Guinea-Bissau, Portugal",RW,350000,SC Braga B,580000,2021
+Spezia Calcio,In,Suf Podgoreanu,19,"Israel, Romania",LW,250000,Roma U19,410000,2021
+Spezia Calcio,In,Kleis Bozhanaj,20,Albania,AM,25000,Empoli Primavera,0,2021
+Spezia Calcio,In,Ognjen Stijepovic,21,Montenegro,SS,100000,UC Sampdoria,0,2021
+Spezia Calcio,In,Petar Zovko,19,Bosnia-Herzegovina,GK,75000,Sampdoria Primavera,0,2021
+Spezia Calcio,In,Petko Hristov,22,Bulgaria,CB,450000,ACF Fiorentina,0,2021
+Spezia Calcio,In,Nicolò Bertola,18,Italy,CB,Other,Spezia Primavera,Other,2021
+Spezia Calcio,In,Aurélien Nguiamba,22,"France, Cameroon",DM,500000,Without Club,Other,2021
+Spezia Calcio,Out,Martin Erlić,23,Croatia,CB,3000000,US Sassuolo,3000000,2021
+Spezia Calcio,Out,Ardian Ismajli,24,"Albania, Kosovo",CB,3000000,FC Empoli,2000000,2021
+Spezia Calcio,Out,Alessandro Bordin,23,Italy,CM,Other,Fidelis Andria 2018,200000,2021
+Spezia Calcio,Out,Axel Desjardins,21,Canada,GK,125000,Novara FC,1000,2021
+Spezia Calcio,Out,Jacopo Giuliani,22,Italy,DM,50000,US Livorno 1915,0,2021
+Spezia Calcio,Out,Matteo Ricci,27,Italy,DM,1000000,Frosinone Calcio,0,2021
+Spezia Calcio,Out,Juan Ramos,24,"Uruguay, Italy",LB,500000,CA Peñarol,0,2021
+Spezia Calcio,Out,Andrey Galabinov,32,Bulgaria,CF,75000,Reggina 1914,0,2021
+Spezia Calcio,Out,Gennaro Acampora,27,Italy,CM,450000,Benevento Calcio,0,2021
+Spezia Calcio,Out,Claudio Terzi,37,Italy,CB,Other,ACR Siena 1904,0,2021
+Spezia Calcio,Out,Sveinn Aron Gudjohnsen,23,Iceland,CF,700000,IF Elfsborg,0,2021
+Spezia Calcio,Out,Matteo Marinari,21,Italy,CB,50000,Arzachena Academy,0,2021
+Spezia Calcio,Out,Theophilus Awua,23,"Nigeria, Italy",CM,300000,FC Pro Vercelli 1892,0,2021
+Spezia Calcio,Out,Gregorio Morachioli,21,Italy,LW,500000,AC Renate,Other,2021
+Spezia Calcio,Out,Titas Krapikas,22,Lithuania,GK,225000,Without Club,Other,2021
+Spezia Calcio,Out,Rafael,39,"Brazil, Italy",GK,Other,Retired,Other,2021
+Cagliari Calcio,In,Răzvan Marin,25,Romania,DM,15000000,Ajax Amsterdam,10000000,2021
+Cagliari Calcio,In,Gabriele Zappa,21,Italy,RB,7000000,Delfino Pescara 1936,3200000,2021
+Cagliari Calcio,In,Edoardo Goldaniga,28,Italy,CB,1500000,US Sassuolo,1100000,2021
+Cagliari Calcio,In,Boris Radunović,25,Serbia,GK,300000,Atalanta BC,625000,2021
+Cagliari Calcio,In,Giorgio Altare,22,Italy,CB,175000,Genoa CFC,500000,2021
+Cagliari Calcio,In,Adam Obert,18,Slovakia,CB,350000,Sampdoria Primavera,0,2021
+Cagliari Calcio,In,Keita Baldé,26,"Senegal, Spain",CF,8000000,AS Monaco,0,2021
+Cagliari Calcio,In,Daniele Baselli,29,Italy,CM,1900000,Torino FC,Other,2021
+Cagliari Calcio,In,Giuseppe Ciocci,19,Italy,GK,200000,Cagliari Primavera,Other,2021
+Cagliari Calcio,In,Martín Cáceres,34,Uruguay,CB,1000000,Without Club,Other,2021
+Cagliari Calcio,Out,Filip Bradaric,29,Croatia,DM,250000,Al-Ahli SFC,2000000,2021
+Cagliari Calcio,Out,Kiril Despodov,24,Bulgaria,RW,7000000,Ludogorets Razgrad,1700000,2021
+Cagliari Calcio,Out,Simone Pinna,23,Italy,RB,Other,Olbia Calcio 1905,0,2021
+Cagliari Calcio,Out,Ragnar Klavan,35,Estonia,CB,50000,Paide Linnameeskond,0,2021
+Cagliari Calcio,Out,Christian Oliva,25,Uruguay,DM,700000,CA Talleres,0,2021
+Cagliari Calcio,Out,Diego Godín,35,"Uruguay, Spain",CB,Other,Clube Atlético Mineiro,0,2021
+Cagliari Calcio,Out,Martín Cáceres,34,Uruguay,CB,200000,Levante UD,0,2021
+Cagliari Calcio,Out,Giovanni Pinna,20,Italy,LW,175000,Arzachena Academy,0,2021
+Cagliari Calcio,Out,Diego Farias,31,"Brazil, Italy",LW,Other,Without Club,Other,2021
+Cagliari Calcio,Out,Niccolò Cabras,20,Italy,GK,Other,Without Club,Other,2021
+Cagliari Calcio,Out,Kwadwo Asamoah,32,Ghana,LM,Other,Without Club,Other,2021
+Torino FC,In,David Zima,20,Czech Republic,CB,7500000,SK Slavia Prague,5900000,2021
+Torino FC,In,Demba Seck,20,Senegal,RW,600000,SPAL,3600000,2021
+Torino FC,In,Magnus Warming,21,Denmark,LW,700000,Lyngby BK,900000,2021
+Torino FC,In,Răzvan Sava,19,Romania,GK,100000,Torino Primavera,Other,2021
+Torino FC,Out,Lyanco,24,"Brazil, Serbia",CB,3000000,Southampton FC,7500000,2021
+Torino FC,Out,Soualiho Meïté,27,"France, Cote d'Ivoire",CM,3500000,SL Benfica,6000000,2021
+Torino FC,Out,Lucas Boyé,25,"Argentina, Italy",CF,7000000,Elche CF,3000000,2021
+Torino FC,Out,Răzvan Sava,19,Romania,GK,2000000,CFR Cluj,250000,2021
+Torino FC,Out,Riccardo Ricossa,20,Italy,LB,Other,Alcione Milano,0,2021
+Torino FC,Out,Vitalie Damaşcan,22,"Moldova, Romania",CF,500000,Sepsi OSK Sf. Gheorghe,0,2021
+Torino FC,Out,Erick Ferigra,22,"Ecuador, Spain",CB,650000,UD Las Palmas,0,2021
+Torino FC,Out,Luca Trombini,20,Italy,GK,150000,ASD Città Di Varese,0,2021
+Torino FC,Out,Matteo Procopio,25,Italy,LB,50000,Derthona FBC,0,2021
+Torino FC,Out,Salvatore Sirigu,34,Italy,GK,275000,Genoa CFC,0,2021
+Torino FC,Out,Samir Ujkani,33,"Kosovo, Albania",GK,Other,FC Empoli,0,2021
+Torino FC,Out,Filippo Olivero,20,Italy,CB,Other,AC Bra,Other,2021
+Torino FC,Out,Daniele Baselli,29,Italy,CM,400000,Cagliari Calcio,Other,2021
+Torino FC,Out,Moris Sportelli,21,Italy,CB,75000,Aurora Pro Patria,Other,2021
+Torino FC,Out,Mihael Onișa,21,Romania,CM,200000,Pordenone Calcio,Other,2021
+Torino FC,Out,Nicolas N'Koulou,31,Cameroon,CB,450000,Without Club,Other,2021
+Torino FC,Out,Iago Falque,31,Spain,AM,250000,Without Club,Other,2021
+FC Empoli,In,Lorenzo Tonelli,31,Italy,CB,2000000,UC Sampdoria,2400000,2021
+FC Empoli,In,Nicolas Haas,25,Switzerland,CM,2000000,Atalanta BC,2300000,2021
+FC Empoli,In,Ardian Ismajli,24,"Albania, Kosovo",CB,2500000,Spezia Calcio,2000000,2021
+FC Empoli,In,Liam Henderson,25,Scotland,CM,2200000,US Lecce,1500000,2021
+FC Empoli,In,Giovanni Crociata,23,Italy,CM,900000,FC Crotone,1000000,2021
+FC Empoli,In,Riccardo Fiamozzi,28,Italy,RB,500000,US Lecce,500000,2021
+FC Empoli,In,Niccolò Chiorra,20,Italy,GK,75000,US Grosseto 1912,0,2021
+FC Empoli,In,Samir Ujkani,33,"Kosovo, Albania",GK,200000,Torino FC,0,2021
+FC Empoli,In,Simone Canestrelli,20,Italy,CB,300000,UC AlbinoLeffe,Other,2021
+FC Empoli,In,Emmanuel Ekong,19,"Sweden, Nigeria",RW,150000,Empoli Primavera,Other,2021
+FC Empoli,In,Kristjan Asllani,19,"Albania, Italy",DM,200000,Empoli Primavera,Other,2021
+FC Empoli,In,Luca Belardinelli,20,Italy,CM,150000,Empoli Primavera,Other,2021
+FC Empoli,In,Tommaso Baldanzi,18,Italy,AM,600000,Empoli Primavera,Other,2021
+FC Empoli,Out,Hamed Junior Traoré,21,Cote d'Ivoire,AM,17000000,US Sassuolo,16000000,2021
+FC Empoli,Out,Antonino La Gumina,25,Italy,CF,500000,UC Sampdoria,5500000,2021
+FC Empoli,Out,Dimitrios Nikolaou,22,Greece,CB,2000000,Spezia Calcio,3500000,2021
+FC Empoli,Out,Samuel Mraz,24,Slovakia,CF,450000,Spezia Calcio,1600000,2021
+FC Empoli,Out,Kevin Cannavò,21,Italy,CF,250000,Vis Pesaro 1898,400000,2021
+FC Empoli,Out,Andrea Ruscetta,20,Italy,RB,Other,Città di Anagni Calcio,0,2021
+FC Empoli,Out,Stefano Sabelli,28,Italy,RB,1500000,Genoa CFC,0,2021
+FC Empoli,Out,Marco Imperiale,22,Italy,CB,500000,Carrarese Calcio 1908,0,2021
+FC Empoli,Out,Alberto Brignoli,30,Italy,GK,1200000,Panathinaikos FC,0,2021
+FC Empoli,Out,Mouhamadou Sakho,21,Senegal,CM,Other,Without Club,Other,2021
+US Salernitana 1919,In,Éderson,22,Brazil,CM,5000000,Sport Club Corinthians Paulista,6500000,2021
+US Salernitana 1919,In,Simy,29,Nigeria,CF,4000000,FC Crotone,3500000,2021
+US Salernitana 1919,In,Riccardo Gagliolo,31,"Sweden, Italy",CB,2000000,Parma Calcio 1913,2000000,2021
+US Salernitana 1919,In,Vincenzo Fiorillo,31,Italy,GK,300000,Delfino Pescara 1936,600000,2021
+US Salernitana 1919,In,Reda Boultam,23,"Netherlands, Morocco",AM,150000,US Triestina,200000,2021
+US Salernitana 1919,In,Kaleb Jiménez,18,"Spain, Italy",CM,35000,1913 Seregno Calcio,35000,2021
+US Salernitana 1919,In,Andrea Schiavone,28,Italy,DM,300000,SSC Bari,35000,2021
+US Salernitana 1919,In,Tomasz Kupisz,31,Poland,RW,400000,SSC Bari,Other,2021
+US Salernitana 1919,In,Edoardo Vergani,20,Italy,CF,600000,Inter Milan,0,2021
+US Salernitana 1919,In,Lassana Coulibaly,25,Mali,CM,2000000,Angers SCO,0,2021
+US Salernitana 1919,In,Ivan Radovanovic,33,Serbia,DM,500000,Genoa CFC,0,2021
+US Salernitana 1919,In,Stefan Strandberg,30,Norway,CB,800000,Ural Yekaterinburg,0,2021
+US Salernitana 1919,In,Wajdi Kechrida,25,"Tunisia, France",RB,1500000,Etoile Sportive du Sahel,0,2021
+US Salernitana 1919,In,Joel Obi,30,"Nigeria, Italy",CM,600000,Chievo Verona,0,2021
+US Salernitana 1919,In,Franck Ribéry,38,France,LW,3000000,ACF Fiorentina,0,2021
+US Salernitana 1919,In,Michele Cavion,26,Italy,CM,900000,Ascoli Calcio,0,2021
+US Salernitana 1919,In,Luka Bogdan,25,Croatia,CB,800000,US Livorno 1915,0,2021
+US Salernitana 1919,In,Federico Fazio,34,"Argentina, Italy",CB,500000,AS Roma,0,2021
+US Salernitana 1919,In,Clemente Crisci,19,Italy,CM,25000,ASD Oasi Sanfeliciana,Other,2021
+US Salernitana 1919,In,Cedric Gondo,24,"Cote d'Ivoire, Italy",CF,850000,Without Club,Other,2021
+US Salernitana 1919,In,Diego Perotti,33,"Argentina, Spain",LW,1200000,Without Club,Other,2021
+US Salernitana 1919,Out,Giuseppe Barone,22,"United States, Italy",LW,Other,Ascoli Calcio,0,2021
+US Salernitana 1919,Out,Luca Castiglia,32,Italy,CM,100000,Piacenza Calcio 1919,0,2021
+US Salernitana 1919,Out,Antonino Musso,21,Italy,CF,200000,FC Trapani 1905,0,2021
+US Salernitana 1919,Out,Iacopo Cernigoi,26,Italy,CF,100000,1913 Seregno Calcio,0,2021
+US Salernitana 1919,Out,Emilio Volpicelli,28,Italy,RW,500000,US Viterbese 1908,0,2021
+US Salernitana 1919,Out,Sedrick Kalombo,26,"Italy, DR Congo",RM,Other,Tsarsko Selo (-2022),0,2021
+US Salernitana 1919,Out,Guido Guerrieri,25,Italy,GK,Other,Tsarsko Selo (-2022),0,2021
+US Salernitana 1919,Out,Tomasz Kupisz,31,Poland,RW,Other,Pordenone Calcio,Other,2021
+US Salernitana 1919,Out,Ramzi Aya,31,"Italy, Tunisia",CB,25000,Reggina 1914,Other,2021
+US Salernitana 1919,Out,Cedric Gondo,25,"Cote d'Ivoire, Italy",CF,700000,US Cremonese,Other,2021
+US Salernitana 1919,Out,Felipe Curcio,28,"Brazil, Italy",LB,100000,Calcio Padova,Other,2021
+US Salernitana 1919,Out,Niccolò Giannetti,30,Italy,CF,50000,Without Club,Other,2021
+US Salernitana 1919,Out,Marco Firenze,28,Italy,CM,150000,Without Club,Other,2021
+US Salernitana 1919,Out,Maoudo Diallo,21,Senegal,RB,Other,Without Club,Other,2021
+Venezia FC,In,Gianluca Busio,19,"United States, Italy",CM,6000000,Sporting Kansas City,6000000,2021
+Venezia FC,In,Thomas Henry,26,France,CF,5000000,Oud-Heverlee Leuven,5500000,2021
+Venezia FC,In,Tanner Tessmann,19,United States,DM,1000000,FC Dallas,3640000,2021
+Venezia FC,In,Michaël Cuisance,22,France,CM,5000000,Bayern Munich,2300000,2021
+Venezia FC,In,Ridgeciano Haps,28,"Suriname, Netherlands",LB,4500000,Feyenoord Rotterdam,500000,2021
+Venezia FC,In,Maximilian Ullmann,25,Austria,LB,2500000,Rapid Vienna,500000,2021
+Venezia FC,In,David Schnegg,22,Austria,LB,800000,LASK,250000,2021
+Venezia FC,In,Filippo Neri,18,Italy,GK,50000,US Livorno 1915,0,2021
+Venezia FC,In,Daan Heymans,22,Belgium,AM,1000000,KVRS Waasland - SK Beveren,0,2021
+Venezia FC,In,Nani,35,"Portugal, Cape Verde",LW,2000000,Orlando City SC,0,2021
+Venezia FC,In,Dor Peretz,26,"Israel, Portugal",CM,1800000,Maccabi Tel Aviv,0,2021
+Venezia FC,In,Ales Mateju,25,Czech Republic,RB,1000000,Without Club,Other,2021
+Venezia FC,In,Mikael Tørset Johnsen,21,Norway,AM,50000,Without Club,Other,2021
+Venezia FC,In,Sergio Romero,34,"Argentina, Italy",GK,1000000,Without Club,Other,2021
+Venezia FC,In,Mirza Hasanbegovic,19,"Bosnia-Herzegovina, Sweden",CF,100000,Venezia Primavera,Other,2021
+Venezia FC,Out,Francesco Di Mariano,25,Italy,LW,1200000,US Lecce,200000,2021
+Venezia FC,Out,Antonio Marino,32,Italy,CB,150000,Carrarese Calcio 1908,0,2021
+Venezia FC,Out,Yuri Senesi,24,Italy,SS,100000,US Vibonese,0,2021
+Venezia FC,Out,Emanuele Cigagna,22,"Italy, Switzerland",CB,50000,US Vibonese,0,2021
+Venezia FC,Out,Alberto Pomini,40,Italy,GK,Other,SPAL,0,2021
+Venezia FC,Out,Riccardo Bocalon,32,Italy,CF,150000,AC Trento,Other,2021
+Venezia FC,Out,Jacopo Dezi,29,Italy,CM,275000,Calcio Padova,Other,2021
+Venezia FC,Out,Anthony Taugourdeau,32,France,DM,75000,LR Vicenza,Other,2021
+Venezia FC,Out,Gianmarco Zigoni,30,Italy,CF,50000,Virtus Verona,Other,2021
+Venezia FC,Out,Michele Cremonesi,33,Italy,CB,Other,Without Club,Other,2021

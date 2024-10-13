@@ -1,0 +1,512 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+Inter Milan,In,Cristian Chivu,26,Romania,CB,Other,AS Roma,16000000,2007
+Inter Milan,In,David Suazo,27,"Honduras, Italy",CF,13000000,Cagliari Calcio,13000000,2007
+Inter Milan,In,Nelson Rivas,24,Colombia,CB,2500000,CA River Plate,7500000,2007
+Inter Milan,In,Pelé,19,Portugal,CM,Other,Vitória Guimarães SC,2000000,2007
+Inter Milan,In,Enrico Alfonso,19,Italy,GK,100000,Chievo Verona,1300000,2007
+Inter Milan,In,Robert Acquafresca,19,"Italy, Poland",CF,100000,Treviso FBC 1993,Other,2007
+Inter Milan,In,Ivan Fatic,19,"Montenegro, Serbia",CB,Other,Inter Milan Primavera,Other,2007
+Inter Milan,In,Mario Balotelli,16,"Italy, Ghana",CF,Other,Inter Milan Primavera,Other,2007
+Inter Milan,In,Francesco Bolzoni,18,Italy,DM,50000,Inter Milan Primavera,Other,2007
+Inter Milan,In,Simone Fautario,20,Italy,LB,50000,Inter Milan Primavera,Other,2007
+Inter Milan,In,Attila Filkor,18,Hungary,CM,150000,Inter Milan Primavera,Other,2007
+Inter Milan,Out,Fabio Grosso,29,Italy,LB,Other,Olympique Lyon,8700000,2007
+Inter Milan,Out,Marco Andreolli,21,Italy,CB,Other,AS Roma,5500000,2007
+Inter Milan,Out,Lampros Choutos,28,Greece,CF,Other,Panionios Athens,0,2007
+Inter Milan,Out,Fabián Carini,27,"Uruguay, Italy",GK,Other,Real Murcia CF,0,2007
+Inter Milan,Out,Ianis Zicu,23,Romania,AM,Other,FC Dinamo 1948,0,2007
+Inter Milan,Out,Daniel Maa Boumsong,20,"Cameroon, France",DM,Other,Treviso FBC 1993,0,2007
+Inter Milan,Out,Nicola Beati,24,Italy,DM,Other,AC Arezzo,Other,2007
+Inter Milan,Out,Abdoulaye Diarra,20,Cote d'Ivoire,LM,Other,Cagliari Calcio,Other,2007
+Inter Milan,Out,Mattia Altobelli,23,Italy,AM,Other,Calcio Lecco 1912,Other,2007
+Inter Milan,Out,Simone Fautario,20,Italy,LB,Other,AC Pistoiese,Other,2007
+Inter Milan,Out,Francesco Coco,30,Italy,LB,Other,Retired,Other,2007
+AS Roma,In,Mirko Vucinic,23,Montenegro,CF,9000000,US Lecce,15750000,2007
+AS Roma,In,Cicinho,27,"Brazil, Italy",RB,15000000,Real Madrid,11000000,2007
+AS Roma,In,Juan,28,Brazil,CB,12000000,Bayer 04 Leverkusen,6300000,2007
+AS Roma,In,Marco Andreolli,21,Italy,CB,950000,Inter Milan,5500000,2007
+AS Roma,In,Ludovic Giuly,30,"France, Algeria",RW,7000000,FC Barcelona,4500000,2007
+AS Roma,In,Mauro Esposito,28,Italy,RW,4500000,Cagliari Calcio,4000000,2007
+AS Roma,In,Ahmed Barusso,22,Ghana,DM,2500000,Rimini FC,3500000,2007
+AS Roma,In,Adrian Piț,23,Romania,LM,150000,AC Bellinzona,0,2007
+AS Roma,In,Keivan Zarineh,22,"Iran, Italy",CF,Other,FC Rieti,0,2007
+AS Roma,In,Andrea Giacomini,20,Italy,LM,Other,Roma U19,Other,2007
+AS Roma,Out,Cristian Chivu,26,Romania,CB,Other,Inter Milan,16000000,2007
+AS Roma,Out,Daniele Galloppa,22,Italy,CM,Other,AC Siena,3950000,2007
+AS Roma,Out,Shabani Nonda,30,"DR Congo, France",CF,Other,Galatasaray,1300000,2007
+AS Roma,Out,Leandro Greco,20,Italy,CM,Other,Hellas Verona,300000,2007
+AS Roma,Out,Gianluca Galasso,23,Italy,RB,Other,AS Bari,200000,2007
+AS Roma,Out,Samuel Kuffour,31,"Ghana, Germany",CB,Other,Ajax Amsterdam,0,2007
+AS Roma,Out,Adewale Dauda Wahab,22,Nigeria,CM,Other,AC Bellinzona,Other,2007
+AC Milan,In,Alexandre Pato,17,Brazil,CF,4000000,Sport Club Internacional,24000000,2007
+AC Milan,In,Émerson,31,"Brazil, Germany",DM,16000000,Real Madrid,5000000,2007
+AC Milan,In,William-Fils Aubameyang,20,"Gabon, France",CB,Other,Milan Primavera,Other,2007
+AC Milan,In,Matteo Darmian,17,Italy,RB,Other,Milan Primavera,Other,2007
+AC Milan,In,Marcus Diniz,19,"Brazil, Romania",CB,Other,Milan Primavera,Other,2007
+AC Milan,In,Ibrahim Bá,33,"France, Senegal",RM,1000000,Without Club,Other,2007
+AC Milan,Out,Massimo Donati,26,Italy,DM,Other,Celtic FC,4500000,2007
+AC Milan,Out,Alessandro Matri,22,Italy,CF,Other,Cagliari Calcio,2300000,2007
+AC Milan,Out,Marco Borriello,25,Italy,CF,Other,Genoa CFC,1800000,2007
+AC Milan,Out,Giuseppe Ticli,28,Italy,LM,Other,Without Club,Other,2007
+AC Milan,Out,Alessandro Costacurta,41,Italy,CB,Other,Retired,Other,2007
+UC Sampdoria,In,Andrea Caracciolo,25,Italy,CF,4400000,US Palermo,4250000,2007
+UC Sampdoria,In,Christian Maggio,25,Italy,RB,3000000,ACF Fiorentina,3450000,2007
+UC Sampdoria,In,Reto Ziegler,21,Switzerland,CB,1450000,Tottenham Hotspur,2000000,2007
+UC Sampdoria,In,Hugo Campagnaro,27,"Argentina, Italy",CB,400000,Piacenza FC,1550000,2007
+UC Sampdoria,In,Daniele Gastaldello,24,Italy,CB,1850000,Juventus FC,1250000,2007
+UC Sampdoria,In,Stefano Lucchini,26,Italy,CB,1000000,FC Empoli,500000,2007
+UC Sampdoria,In,Claudio Bellucci,32,Italy,CF,1800000,Bologna FC 1909,0,2007
+UC Sampdoria,In,Ikechukwu Kalu,23,Nigeria,CF,125000,FC Chiasso,0,2007
+UC Sampdoria,In,Massimo Volta,20,Italy,CB,Other,AC Carpenedolo,Other,2007
+UC Sampdoria,In,Leonardo Migliónico,27,"Uruguay, Italy",CB,75000,Piacenza FC,Other,2007
+UC Sampdoria,In,Vincenzo Fiorillo,17,Italy,GK,Other,Sampdoria Primavera,Other,2007
+UC Sampdoria,In,Jonathan Rossini,18,"Switzerland, Italy",CB,Other,Sampdoria Primavera,Other,2007
+UC Sampdoria,In,Pietro Arnulfo,19,Italy,CF,50000,Sampdoria Primavera,Other,2007
+UC Sampdoria,In,Paolo Castellazzi,19,Italy,CM,50000,Sampdoria Primavera,Other,2007
+UC Sampdoria,Out,Fabio Quagliarella,24,Italy,CF,Other,Udinese Calcio,7300000,2007
+UC Sampdoria,Out,Andrea Caracciolo,26,Italy,CF,Other,Brescia Calcio,7050000,2007
+UC Sampdoria,Out,Fabio Bazzani,30,Italy,CF,Other,Brescia Calcio,1800000,2007
+UC Sampdoria,Out,Andrea Parola,28,Italy,DM,Other,Cagliari Calcio,1200000,2007
+UC Sampdoria,Out,Luca Antonini,24,Italy,LB,Other,FC Empoli,1000000,2007
+UC Sampdoria,Out,Giulio Falcone,33,Italy,CB,Other,Parma FC,0,2007
+UC Sampdoria,Out,Bidre'ce Azor,20,"Haiti, Italy",Striker,Other,Teramo Calcio,0,2007
+UC Sampdoria,Out,Gianluca Berti,40,Italy,GK,Other,AC Cesena,0,2007
+UC Sampdoria,Out,Christian Terlizzi,27,Italy,CB,Other,Calcio Catania,Other,2007
+UC Sampdoria,Out,Salvatore Foti,19,Italy,CF,Other,FC Messina Peloro,Other,2007
+UC Sampdoria,Out,Saidi Oluseyi Adeshokan,22,Nigeria,CF,Other,USD Olginatese,Other,2007
+UC Sampdoria,Out,Al-Saadi Al Gaddafi,34,Libya,AM,Other,Retired,Other,2007
+UC Sampdoria,Out,Ivan Zivanovic,25,Serbia,CB,Other,Without Club,Other,2007
+US Palermo,In,Boško Janković,23,Serbia,RW,5000000,RCD Mallorca,8000000,2007
+US Palermo,In,Giulio Migliaccio,26,Italy,CM,5000000,Atalanta BC,5000000,2007
+US Palermo,In,Fabrizio Miccoli,28,Italy,CF,6000000,Juventus FC,4300000,2007
+US Palermo,In,Federico Balzaretti,26,Italy,LB,5000000,ACF Fiorentina,3800000,2007
+US Palermo,In,Fabio Caserta,28,Italy,CM,3200000,Calcio Catania,3600000,2007
+US Palermo,In,Edgar Cani,18,"Albania, Italy",CF,50000,Pescara Calcio,1200000,2007
+US Palermo,In,Luca Di Matteo,19,Italy,LB,Other,Pescara Calcio,950000,2007
+US Palermo,In,Samir Ujkani,18,"Kosovo, Albania",GK,50000,RSC Anderlecht U19,0,2007
+US Palermo,In,Alberto Cossentino,18,Italy,CB,50000,Palermo Primavera,Other,2007
+US Palermo,In,Davis Curiale,19,"Italy, Germany",CF,Other,Palermo Primavera,Other,2007
+US Palermo,Out,Andrea Caracciolo,25,Italy,CF,Other,UC Sampdoria,4250000,2007
+US Palermo,Out,David Di Michele,31,Italy,CF,Other,Torino FC,3800000,2007
+US Palermo,Out,Cesare Bovo,24,Italy,CB,Other,Genoa CFC,2850000,2007
+US Palermo,Out,Radoslaw Matusiak,25,Poland,CF,Other,SC Heerenveen,2700000,2007
+US Palermo,Out,Francesco Parravicini,25,Italy,DM,Other,Parma FC,1500000,2007
+US Palermo,Out,Aimo Diana,30,Italy,RM,Other,Torino FC,1200000,2007
+US Palermo,Out,Igor Budan,27,Croatia,CF,Other,Parma FC,1100000,2007
+US Palermo,Out,Davide Matteini,25,Italy,LW,Other,Parma FC,900000,2007
+US Palermo,Out,Andrea Bovo,21,Italy,CM,Other,Calcio Padova,426000,2007
+US Palermo,Out,Gianni Munari,24,Italy,CM,Other,US Lecce,300000,2007
+US Palermo,Out,Pietro Tripoli,20,Italy,SS,Other,Varese 1910,Other,2007
+US Palermo,Out,Eugenio Corini,36,Italy,DM,Other,Torino FC,0,2007
+US Palermo,Out,Kewullay Conteh,29,Sierra Leone,CB,Other,UC AlbinoLeffe,Other,2007
+US Palermo,Out,Guillermo Giacomazzi,29,"Uruguay, Italy",CM,Other,FC Empoli,Other,2007
+SSC Napoli,In,Daniele Mannini,24,Italy,RM,2000000,Brescia Calcio,7000000,2007
+SSC Napoli,In,Ezequiel Lavezzi,22,"Argentina, Italy",SS,6000000,CA San Lorenzo de Almagro,5600000,2007
+SSC Napoli,In,Fabiano Santacroce,21,"Italy, Brazil",CB,1000000,Brescia Calcio,5500000,2007
+SSC Napoli,In,Marek Hamsik,19,Slovakia,CM,Other,Brescia Calcio,5500000,2007
+SSC Napoli,In,Manuele Blasi,26,Italy,CM,5500000,Juventus FC,5050000,2007
+SSC Napoli,In,Michele Pazienza,25,Italy,DM,2500000,ACF Fiorentina,4250000,2007
+SSC Napoli,In,Nicolás Navarro,22,Argentina,GK,1830000,AA Argentinos Juniors,3360000,2007
+SSC Napoli,In,Walter Gargano,23,"Uruguay, Italy",DM,3000000,Danubio FC,3200000,2007
+SSC Napoli,In,Matteo Contini,27,Italy,CB,2300000,Parma FC,3200000,2007
+SSC Napoli,In,Marcelo Zalayeta,28,"Uruguay, Spain",CF,3500000,Juventus FC,1400000,2007
+SSC Napoli,In,Giuseppe Feola,18,Italy,Midfielder,Other,Livorno Primavera,Other,2007
+SSC Napoli,In,Biagio Del Giudice,18,Italy,GK,Other,Napoli Primavera,Other,2007
+SSC Napoli,In,Carmine Biagio Gatti,19,Italy,GK,Other,Napoli Primavera,Other,2007
+SSC Napoli,Out,Ivano Trotta,29,Italy,RM,Other,Treviso FBC 1993,500000,2007
+SSC Napoli,Out,Tommaso Romito,25,Italy,CB,Other,Pescara Calcio,150000,2007
+SSC Napoli,Out,David Giubilato,30,Italy,CB,Other,Vicenza Calcio,0,2007
+SSC Napoli,Out,Andrea Cittadino,19,Italy,Midfielder,Other,Nuvla San Felice,0,2007
+SSC Napoli,Out,Antonio Saviano,23,Italy,GK,Other,Unione Sportiva Sansovino,Other,2007
+SSC Napoli,Out,Luca Lacrimini,29,Italy,LB,Other,AC Ancona,Other,2007
+SSC Napoli,Out,Giuseppe Marino,19,Italy,GK,Other,Unknown,Other,2007
+SSC Napoli,Out,Fabio Gatti,25,Italy,DM,Other,Modena FC,Other,2007
+Juventus FC,In,Tiago Mendes,26,Portugal,CM,15000000,Olympique Lyon,13000000,2007
+Juventus FC,In,Vincenzo Iaquinta,27,Italy,CF,12000000,Udinese Calcio,11300000,2007
+Juventus FC,In,Mohamed Sissoko,23,"Mali, France",DM,9000000,Liverpool FC,11000000,2007
+Juventus FC,In,Jorge Andrade,29,"Portugal, Cape Verde",CB,12500000,Deportivo de La Coruña,10000000,2007
+Juventus FC,In,Sergio Almirón,26,"Argentina, Italy",CM,11000000,FC Empoli,9000000,2007
+Juventus FC,In,Domenico Criscito,20,Italy,LB,1000000,Genoa CFC,7500000,2007
+Juventus FC,In,Antonio Nocerino,22,Italy,CM,4500000,Piacenza FC,3700000,2007
+Juventus FC,In,Cristian Molinaro,23,Italy,LB,2000000,AC Siena,2500000,2007
+Juventus FC,In,Daniele Gastaldello,24,Italy,CB,1850000,AC Siena,650000,2007
+Juventus FC,In,Rey Volpato,21,Italy,CF,500000,FC Empoli,400000,2007
+Juventus FC,In,Hasan Salihamidzic,30,"Bosnia-Herzegovina, Germany",RM,7250000,Bayern Munich,0,2007
+Juventus FC,In,Zdenek Grygera,27,Czech Republic,RB,4000000,Ajax Amsterdam,0,2007
+Juventus FC,In,Emanuele Belardi,29,Italy,GK,500000,Reggina Calcio,Other,2007
+Juventus FC,In,Stefano Di Berardino,21,Italy,CB,50000,SS Juve Stabia,Other,2007
+Juventus FC,In,Cristiano Novembre,20,Italy,GK,Other,Fano Calcio SSD,Other,2007
+Juventus FC,In,Andrea Pisani,20,Italy,CB,Other,Juventus Primavera,Other,2007
+Juventus FC,In,Oussama Essabr,18,"Morocco, Italy",CF,Other,Juventus Primavera,Other,2007
+Juventus FC,In,Andrea Torta,17,Italy,CB,Other,Juventus Primavera,Other,2007
+Juventus FC,Out,Manuele Blasi,26,Italy,CM,Other,SSC Napoli,5050000,2007
+Juventus FC,Out,Fabrizio Miccoli,28,Italy,CF,Other,US Palermo,4300000,2007
+Juventus FC,Out,Federico Balzaretti,25,Italy,LB,Other,ACF Fiorentina,3800000,2007
+Juventus FC,Out,Matteo Paro,24,Italy,CM,Other,Genoa CFC,3500000,2007
+Juventus FC,Out,Paolo De Ceglie,20,Italy,LB,Other,AC Siena,3500000,2007
+Juventus FC,Out,Jean-Alain Boumsong,28,"France, Cameroon",CB,Other,Olympique Lyon,3200000,2007
+Juventus FC,Out,Olivier Kapo,26,"France, Cote d'Ivoire",AM,Other,Birmingham City,2300000,2007
+Juventus FC,Out,Marcelo Zalayeta,28,"Uruguay, Spain",CF,Other,SSC Napoli,1400000,2007
+Juventus FC,Out,Michele Paolucci,21,Italy,CF,Other,Udinese Calcio,1360000,2007
+Juventus FC,Out,Daniele Gastaldello,24,Italy,CB,Other,UC Sampdoria,1250000,2007
+Juventus FC,Out,Felice Piccolo,23,Italy,CB,Other,FC Empoli,400000,2007
+Juventus FC,Out,Giuseppe Sculli,26,Italy,LW,Other,Genoa CFC,300000,2007
+Juventus FC,Out,Davide Chiumiento,22,"Switzerland, Italy",AM,Other,FC Luzern,150000,2007
+Juventus FC,Out,Douglas Packer,20,"Brazil, Italy",AM,Other,AC Siena,150000,2007
+Juventus FC,Out,Landry Bonnefoi,23,France,GK,Other,Dijon FCO,0,2007
+Juventus FC,Out,Giuliano Giannichedda,32,Italy,DM,Other,AS Livorno,0,2007
+Juventus FC,Out,Alessio Tacchinardi,31,Italy,DM,Other,Brescia Calcio,0,2007
+Juventus FC,Out,Robert Kovac,33,Croatia,CB,Other,Borussia Dortmund,0,2007
+Juventus FC,Out,Igor Tudor,29,Croatia,CB,Other,HNK Hajduk Split,0,2007
+Juventus FC,Out,Rey Volpato,20,Italy,CF,Other,FC Empoli,Other,2007
+Juventus FC,Out,Orlando Urbano,23,Italy,CB,Other,Potenza Sport Club,Other,2007
+Juventus FC,Out,Claudio Scarzanella,21,Italy,GK,Other,Ternana Calcio,Other,2007
+FC Empoli,In,Luca Antonini,24,Italy,LB,1000000,UC Sampdoria,1000000,2007
+FC Empoli,In,Felice Piccolo,23,Italy,CB,900000,Juventus FC,400000,2007
+FC Empoli,In,Felice Prevete,20,Italy,CB,Other,Cavese 1919,0,2007
+FC Empoli,In,Rey Volpato,20,Italy,CF,750000,Juventus FC,Other,2007
+FC Empoli,In,Guillermo Giacomazzi,29,"Uruguay, Italy",CM,2100000,US Palermo,Other,2007
+FC Empoli,In,Alessandro Budel,26,Italy,DM,1000000,Without Club,Other,2007
+FC Empoli,Out,Sergio Almirón,26,"Argentina, Italy",CM,Other,Juventus FC,9000000,2007
+FC Empoli,Out,Éder,21,"Italy, Brazil",CF,Other,Frosinone Calcio,1500000,2007
+FC Empoli,Out,Stefano Lucchini,26,Italy,CB,Other,UC Sampdoria,500000,2007
+FC Empoli,Out,Rey Volpato,21,Italy,CF,Other,Juventus FC,400000,2007
+FC Empoli,Out,Ivano Baldanzeddu,21,Italy,RB,Other,US Avellino,0,2007
+FC Empoli,Out,Felice Prevete,20,Italy,CB,Other,FC Crotone,0,2007
+FC Empoli,Out,Dezmon Giraldi,21,Australia,CF,Other,Adelaide United,0,2007
+FC Empoli,Out,Fabrizio Ficini,33,Italy,DM,Other,AC Pistoiese,Other,2007
+Genoa CFC,In,N'Diaye Papa Waigo,23,Senegal,RW,1000000,AC Cesena,5000000,2007
+Genoa CFC,In,Anthony Vanden Borre,20,"Belgium, DR Congo",RB,5000000,ACF Fiorentina,3800000,2007
+Genoa CFC,In,Matteo Paro,24,Italy,CM,3500000,Juventus FC,3500000,2007
+Genoa CFC,In,Abdelkader Ghezzal,23,"Algeria, France",CF,Other,FC Crotone,3000000,2007
+Genoa CFC,In,Cesare Bovo,24,Italy,CB,4500000,US Palermo,2850000,2007
+Genoa CFC,In,Alessandro Lucarelli,30,Italy,CB,2850000,AC Siena,1900000,2007
+Genoa CFC,In,Marco Borriello,25,Italy,CF,1500000,AC Milan,1800000,2007
+Genoa CFC,In,Santos,25,"Brazil, Italy",CB,100000,UC AlbinoLeffe,1400000,2007
+Genoa CFC,In,Giuseppe Sculli,26,Italy,LW,2000000,Juventus FC,300000,2007
+Genoa CFC,In,Danilo Sacramento,24,"Brazil, Italy",AM,Other,União Barbarense FC (SP),0,2007
+Genoa CFC,In,Gianluca Pegolo,26,Italy,GK,600000,Hellas Verona,Other,2007
+Genoa CFC,In,Mariano Stendardo,25,Italy,CB,125000,FC Messina Peloro,Other,2007
+Genoa CFC,In,Matías Masiero,19,"Uruguay, Italy",SS,Other,Central Español,Other,2007
+Genoa CFC,In,Wilson,22,Brazil,CF,Other,Sport Club Corinthians Paulista,Other,2007
+Genoa CFC,In,Abdoulay Konko,23,"France, Morocco",RB,1700000,AC Siena,Other,2007
+Genoa CFC,In,Damián Lanza,25,"Ecuador, Argentina",GK,500000,Without Club,Other,2007
+Genoa CFC,Out,Domenico Criscito,20,Italy,LB,Other,Juventus FC,7500000,2007
+Genoa CFC,Out,N'Diaye Papa Waigo,23,Senegal,RW,Other,ACF Fiorentina,2100000,2007
+Genoa CFC,Out,Francesco Renzetti,19,"Italy, Monaco",LB,Other,AS Lucchese Libertas,250000,2007
+Genoa CFC,Out,Dario Biasi,27,Italy,CB,Other,AC Cesena,100000,2007
+Genoa CFC,Out,Cristian Stellini,33,Italy,CB,Other,AS Bari,60000,2007
+Genoa CFC,Out,Adaílton,30,"Brazil, Italy",SS,Other,Bologna FC 1909,0,2007
+Genoa CFC,Out,Alessandro Di Maio,20,Italy,CB,Other,FC Lugano,0,2007
+Genoa CFC,Out,Nicola Barasso,25,Italy,GK,Other,Taranto FC 1927,0,2007
+Genoa CFC,Out,Mamede,33,Portugal,CM,Other,Perugia Calcio,0,2007
+Genoa CFC,Out,Matteo Siligato,21,Italy,Striker,Other,Valenzana Calcio,Other,2007
+Genoa CFC,Out,Pedro López,23,Spain,Midfielder,Other,AC Arezzo,Other,2007
+Genoa CFC,Out,Mirco Gasparetto,27,Italy,CF,Other,Chievo Verona,Other,2007
+Genoa CFC,Out,Andrea Masiello,21,Italy,CB,200000,AS Bari,Other,2007
+Genoa CFC,Out,Francesco Bega,33,Italy,CB,Other,Brescia Calcio,Other,2007
+Genoa CFC,Out,Filippo Carobbio,27,Italy,CM,Other,UC AlbinoLeffe,Other,2007
+Genoa CFC,Out,Giuseppe Greco,23,Italy,CF,Other,Chievo Verona,Other,2007
+Genoa CFC,Out,Mariano Stendardo,24,Italy,CB,Other,FC Messina Peloro,Other,2007
+Genoa CFC,Out,Rivaldo González,20,"Paraguay, Spain",AM,Other,Potenza Sport Club,Other,2007
+Genoa CFC,Out,Giacomo Cotellessa,20,Italy,Midfielder,Other,Valenzana Calcio,Other,2007
+Genoa CFC,Out,Francesco Galeoto,35,Italy,RB,Other,FC Messina Peloro,Other,2007
+Genoa CFC,Out,Luca Fusco,29,Italy,CB,Other,Salernitana Calcio 1919,Other,2007
+Genoa CFC,Out,Raffaele Longo,29,Italy,CM,Other,Modena FC,Other,2007
+Genoa CFC,Out,Alessandro Moschella,20,Italy,Midfielder,Other,Retired,Other,2007
+ACF Fiorentina,In,Franco Semioli,27,Italy,RW,9000000,Chievo Verona,6000000,2007
+ACF Fiorentina,In,Manuel da Costa,21,"Morocco, Portugal",CB,1500000,PSV Eindhoven,4500000,2007
+ACF Fiorentina,In,Daniele Cacia,24,Italy,CF,3000000,Piacenza FC,4000000,2007
+ACF Fiorentina,In,Anthony Vanden Borre,19,"Belgium, DR Congo",RB,5000000,RSC Anderlecht,3800000,2007
+ACF Fiorentina,In,Federico Balzaretti,25,Italy,LB,5000000,Juventus FC,3800000,2007
+ACF Fiorentina,In,Michele Pazienza,24,Italy,DM,2500000,Udinese Calcio,3150000,2007
+ACF Fiorentina,In,Daniel Osvaldo,21,"Italy, Argentina",CF,75000,Atalanta BC,3000000,2007
+ACF Fiorentina,In,Ondrej Mazuch,18,Czech Republic,CB,2000000,1. FC Brno,2800000,2007
+ACF Fiorentina,In,Nikola Gulan,18,Serbia,DM,1500000,FK Partizan Belgrade,2800000,2007
+ACF Fiorentina,In,N'Diaye Papa Waigo,23,Senegal,RW,2500000,Genoa CFC,2100000,2007
+ACF Fiorentina,In,Jan Hable,18,Czech Republic,CM,800000,FC Hradec Kralove,800000,2007
+ACF Fiorentina,In,Christian Vieri,33,"Italy, Australia",CF,5000000,Atalanta BC,0,2007
+ACF Fiorentina,In,Arturo Lupoli,20,Italy,CF,1600000,Arsenal FC,0,2007
+ACF Fiorentina,In,David Mateo,20,"Brazil, Italy",CB,Other,Fiorentina Primavera,Other,2007
+ACF Fiorentina,In,Danilo D'Ambrosio,18,Italy,CB,Other,Fiorentina Primavera,Other,2007
+ACF Fiorentina,In,Andrea Paolucci,20,Italy,DM,Other,Fiorentina Primavera,Other,2007
+ACF Fiorentina,In,Matthias Lepiller,19,France,SS,50000,Fiorentina Primavera,Other,2007
+ACF Fiorentina,In,Samuel Di Carmine,18,Italy,CF,250000,Fiorentina Primavera,Other,2007
+ACF Fiorentina,Out,Luca Toni,30,Italy,CF,Other,Bayern Munich,11000000,2007
+ACF Fiorentina,Out,Valeri Bozhinov,21,"Bulgaria, Italy",CF,Other,Manchester City,8000000,2007
+ACF Fiorentina,Out,Reginaldo,23,"Brazil, Italy",CF,Other,Parma FC,4500000,2007
+ACF Fiorentina,Out,Michele Pazienza,25,Italy,DM,Other,SSC Napoli,4250000,2007
+ACF Fiorentina,Out,Anthony Vanden Borre,20,"Belgium, DR Congo",RB,Other,Genoa CFC,3800000,2007
+ACF Fiorentina,Out,Federico Balzaretti,26,Italy,LB,Other,US Palermo,3800000,2007
+ACF Fiorentina,Out,Christian Maggio,25,Italy,RB,Other,UC Sampdoria,3450000,2007
+ACF Fiorentina,Out,Daniele Cacia,24,Italy,CF,Other,Piacenza FC,2900000,2007
+ACF Fiorentina,Out,Davide Brivio,19,Italy,LB,Other,Atalanta BC,516000,2007
+ACF Fiorentina,Out,Danilo D'Ambrosio,19,Italy,CB,1000000,Potenza Sport Club,Other,2007
+Atalanta BC,In,Simone Padoin,23,Italy,CM,Other,Vicenza Calcio,3450000,2007
+Atalanta BC,In,Ivan Radovanovic,19,Serbia,DM,300000,FK Partizan Belgrade,1500000,2007
+Atalanta BC,In,Maximiliano Pellegrino,27,"Argentina, Italy",CB,400000,CA Vélez Sarsfield,1300000,2007
+Atalanta BC,In,Michael Cia,18,Italy,CM,Other,FC Südtirol-Alto Adige,750000,2007
+Atalanta BC,In,Davide Brivio,19,Italy,LB,100000,ACF Fiorentina,516000,2007
+Atalanta BC,In,Zlatan Muslimovic,26,"Bosnia-Herzegovina, Sweden",CF,3000000,Udinese Calcio,500000,2007
+Atalanta BC,In,George Forsyth,25,"Peru, Germany",GK,50000,Club Alianza Lima,0,2007
+Atalanta BC,In,Costinha,32,"Portugal, Angola",DM,9000000,Atlético de Madrid,0,2007
+Atalanta BC,In,Antonio Langella,30,Italy,SS,1450000,Cagliari Calcio,0,2007
+Atalanta BC,In,Leonardo Talamonti,25,"Argentina, Italy",CB,2500000,CA River Plate,Other,2007
+Atalanta BC,In,Sergio Floccari,25,Italy,CF,1550000,FC Messina Peloro,Other,2007
+Atalanta BC,In,Tiberio Guarente,21,Italy,CM,400000,Hellas Verona,Other,2007
+Atalanta BC,In,Diego De Ascentis,30,Italy,DM,1500000,Torino FC,Other,2007
+Atalanta BC,Out,Giulio Migliaccio,26,Italy,CM,Other,US Palermo,5000000,2007
+Atalanta BC,Out,Daniel Osvaldo,21,"Italy, Argentina",CF,Other,ACF Fiorentina,3000000,2007
+Atalanta BC,Out,Adriano,25,Brazil,RB,Other,AS Monaco,2500000,2007
+Atalanta BC,Out,Riccardo Zampagna,33,Italy,CF,Other,Vicenza Calcio,1900000,2007
+Atalanta BC,Out,Davide Brivio,19,Italy,LB,Other,Vicenza Calcio,900000,2007
+Atalanta BC,Out,Simone Loria,30,Italy,CB,Other,AC Siena,750000,2007
+Atalanta BC,Out,Nelson Abeijón,33,"Uruguay, Italy",DM,Other,CA River Plate Montevideo,0,2007
+Atalanta BC,Out,Christian Vieri,33,"Italy, Australia",CF,Other,ACF Fiorentina,0,2007
+Atalanta BC,Out,Michele Magrin,21,Italy,CM,Other,US Pro Vercelli,0,2007
+Atalanta BC,Out,Davide Bombardini,33,Italy,LM,Other,Bologna FC 1909,0,2007
+Atalanta BC,Out,Nicola Ventola,29,Italy,CF,Other,Torino FC,0,2007
+Atalanta BC,Out,Alex Calderoni,31,Italy,GK,Other,Treviso FBC 1993,Other,2007
+Atalanta BC,Out,Luca Ariatti,28,Italy,CM,Other,US Lecce,Other,2007
+Atalanta BC,Out,Simone Sales,19,Italy,RB,Other,Cuoiopelli Cappiano Romaiano,Other,2007
+Atalanta BC,Out,Andrea Ferrari,21,Italy,GK,Other,AC Monza Brianza,Other,2007
+Atalanta BC,Out,Antonino Bernardini,33,Italy,DM,Other,Vicenza Calcio,Other,2007
+AS Livorno,In,Francesco Tavano,28,Italy,CF,5750000,Valencia CF,6000000,2007
+AS Livorno,In,Francesco Volpe,21,Italy,RW,Other,Ravenna Calcio,2050000,2007
+AS Livorno,In,Nico Pulzetti,23,Italy,CM,50000,Hellas Verona,1500000,2007
+AS Livorno,In,Diego Tristán,31,Spain,CF,7000000,RCD Mallorca,470000,2007
+AS Livorno,In,Alessandro Diamanti,24,Italy,AM,300000,AC Prato,400000,2007
+AS Livorno,In,Filip Krstic,19,"Serbia, Germany",CB,Other,Valencia CF,350000,2007
+AS Livorno,In,Massimo Loviso,23,Italy,DM,2300000,Bologna FC 1909,201000,2007
+AS Livorno,In,Sidny,26,Brazil,RB,Other,Clube Náutico Capibaribe,200000,2007
+AS Livorno,In,Giuliano Giannichedda,32,Italy,DM,3500000,Juventus FC,0,2007
+AS Livorno,In,Fausto Rossini,30,Italy,CF,600000,Calcio Catania,0,2007
+AS Livorno,In,Daniele De Vezze,27,Italy,CM,1350000,FC Messina Peloro,0,2007
+AS Livorno,In,Alfonso De Lucia,23,Italy,GK,800000,Parma FC,Other,2007
+AS Livorno,In,Emanuele Filippini,33,Italy,CM,1000000,Treviso FBC 1993,Other,2007
+AS Livorno,In,Vikash Dhorasoo,33,"France, Mauritius",CM,1500000,Without Club,Other,2007
+AS Livorno,Out,Cristiano Lucarelli,31,Italy,CF,Other,Shakhtar Donetsk,7910000,2007
+AS Livorno,Out,Stefano Morrone,28,Italy,CM,Other,Parma FC,2000000,2007
+AS Livorno,Out,Dario Passoni,33,Italy,CM,Other,AC Mantova 1911,800000,2007
+AS Livorno,Out,Andrea Giallombardo,26,Italy,LB,Other,Ascoli Calcio 1898,500000,2007
+AS Livorno,Out,Marc Pfertzel,26,France,RB,Other,VfL Bochum,500000,2007
+AS Livorno,Out,Niccolò Casini,22,Italy,GK,Other,Olbia Calcio,0,2007
+AS Livorno,Out,Ibrahima Bakayoko,30,"Cote d'Ivoire, France",CF,Other,FC Messina Peloro,0,2007
+AS Livorno,Out,Nicola Iannotti,22,Italy,RM,Other,AC Sporting Cecina,Other,2007
+AS Livorno,Out,Stefano Fanucci,28,Italy,CB,Other,AC Ancona,Other,2007
+AS Livorno,Out,Umberto Quistelli,28,Italy,Midfielder,Other,FC Matera,Other,2007
+AS Livorno,Out,Emanuele Manitta,30,Italy,GK,Other,Without Club,Other,2007
+AS Livorno,Out,Vikash Dhorasoo,34,"France, Mauritius",CM,Other,Without Club,Other,2007
+SS Lazio,In,Fernando Muslera,21,"Uruguay, Italy",GK,Other,Montevideo Wanderers,3000000,2007
+SS Lazio,In,Mourad Meghni,23,"Algeria, France",AM,2500000,Bologna FC 1909,1500000,2007
+SS Lazio,In,Aleksandar Kolarov,21,Serbia,LB,1000000,OFK Beograd,925000,2007
+SS Lazio,In,Ousmane Dabo,30,"France, Senegal",DM,3500000,Manchester City,263000,2007
+SS Lazio,In,Fabio Vignaroli,31,Italy,CF,1000000,AS Bari,250000,2007
+SS Lazio,In,Ivan Artipoli,21,Italy,CB,150000,AC Prato,200000,2007
+SS Lazio,In,Lionel Scaloni,29,"Argentina, Italy",RB,3800000,Racing Santander,0,2007
+SS Lazio,In,Simone Del Nero,25,Italy,LW,2000000,Brescia Calcio,Other,2007
+SS Lazio,In,Matteo Merini,19,Italy,CF,Other,Lazio U19,Other,2007
+SS Lazio,In,Lorenzo De Silvestri,19,Italy,RB,150000,Lazio U19,Other,2007
+SS Lazio,Out,Libis Arenas,20,Colombia,GK,Other,Mérida UD,625000,2007
+SS Lazio,Out,Matteo Sereni,32,Italy,GK,Other,Torino FC,0,2007
+SS Lazio,Out,Simone Sannibale,21,Italy,CB,Other,Scafatese Calcio 1922,Other,2007
+SS Lazio,Out,Angelo Peruzzi,37,Italy,GK,Other,Retired,Other,2007
+AC Siena,In,Daniele Galloppa,22,Italy,CM,850000,AS Roma,3950000,2007
+AC Siena,In,Richard Porta,24,"Uruguay, Australia",CF,Other,CA River Plate Montevideo,3500000,2007
+AC Siena,In,Paolo De Ceglie,20,Italy,LB,1000000,Juventus FC,3500000,2007
+AC Siena,In,Artur Moraes,26,"Brazil, Italy",GK,Other,Coritiba Foot Ball Club,800000,2007
+AC Siena,In,Simone Loria,30,Italy,CB,3500000,Atalanta BC,750000,2007
+AC Siena,In,Mirko Guadalupi,20,Italy,CM,Other,Perugia Calcio,200000,2007
+AC Siena,In,Douglas Packer,20,"Brazil, Italy",AM,50000,Juventus FC,150000,2007
+AC Siena,In,Dimitrios Eleftheropoulos,30,Greece,GK,600000,Ascoli Calcio 1898,0,2007
+AC Siena,In,Lukas Jarolim,30,Czech Republic,CM,250000,SK Slavia Prague,0,2007
+AC Siena,In,Alessandro Rigoli,20,Italy,CB,Other,US Poggibonsi,0,2007
+AC Siena,In,Vanderson,22,"Brazil, Italy",LB,Other,Esporte Clube São Bento (SP),0,2007
+AC Siena,In,Daniele Ficagna,26,Italy,CB,250000,AC Cesena,Other,2007
+AC Siena,In,Ricardo Verón,26,"Argentina, Italy",CM,50000,Reggina Calcio,Other,2007
+AC Siena,In,Rodrigo Lazzari,26,"Brazil, Italy",CB,Other,AC Paranavaí,Other,2007
+AC Siena,In,Luca Rossettini,22,Italy,CB,Other,Calcio Padova,Other,2007
+AC Siena,In,Caetano Calil,23,"Brazil, Italy",CF,Other,Ipatinga Futebol Clube (MG),Other,2007
+AC Siena,In,Maximiliano Re,20,"Argentina, Italy",AM,Other,CA Rosario Central,Other,2007
+AC Siena,In,Alessandro Lucarelli,29,Italy,CB,2850000,Reggina Calcio,Other,2007
+AC Siena,In,Stefano Pezzana,20,Italy,Midfielder,Other,Siena Primavera,Other,2007
+AC Siena,Out,Cristian Molinaro,23,Italy,LB,Other,Juventus FC,2500000,2007
+AC Siena,Out,Alessandro Lucarelli,30,Italy,CB,Other,Genoa CFC,1900000,2007
+AC Siena,Out,Daniele Gastaldello,24,Italy,CB,Other,Juventus FC,650000,2007
+AC Siena,Out,Ricardo Verón,26,"Argentina, Italy",CM,Other,PAOK Thessaloniki,200000,2007
+AC Siena,Out,Federico Melchiorri,20,Italy,CF,200000,US Sambenedettese,0,2007
+AC Siena,Out,Vanderson,23,"Brazil, Italy",LB,Other,AC Martina 1947,0,2007
+AC Siena,Out,Nicola Pavarini,33,Italy,GK,Other,Parma FC,0,2007
+AC Siena,Out,Marcin Siedlarz,20,Poland,CM,Other,Ruch Chorzow,0,2007
+AC Siena,Out,Francesco Cozza,33,Italy,AM,Other,Reggina Calcio,Other,2007
+AC Siena,Out,Abdoulay Konko,23,"France, Morocco",RB,Other,Genoa CFC,Other,2007
+AC Siena,Out,Ezio Brevi,37,Italy,DM,Other,SSC Venezia,Other,2007
+AC Siena,Out,Paolo Negro,35,Italy,RB,Other,Retired,Other,2007
+Parma FC,In,Cristiano Lucarelli,32,Italy,CF,10000000,Shakhtar Donetsk,5700000,2007
+Parma FC,In,Reginaldo,23,"Brazil, Italy",CF,2500000,ACF Fiorentina,4500000,2007
+Parma FC,In,Stefano Morrone,28,Italy,CM,3000000,AS Livorno,2000000,2007
+Parma FC,In,Francesco Parravicini,25,Italy,DM,2000000,US Palermo,1500000,2007
+Parma FC,In,Igor Budan,27,Croatia,CF,6250000,US Palermo,1100000,2007
+Parma FC,In,Davide Matteini,25,Italy,LW,1000000,US Palermo,900000,2007
+Parma FC,In,Giulio Falcone,33,Italy,CB,2950000,UC Sampdoria,0,2007
+Parma FC,In,Marcelo Silva,31,Brazil,DM,Other,Atlético Paranaense,0,2007
+Parma FC,In,Nicola Pavarini,33,Italy,GK,600000,AC Siena,0,2007
+Parma FC,In,Manuel Pascali,26,Italy,CB,Other,Foligno Calcio,0,2007
+Parma FC,In,Manuel Pascali,25,Italy,CB,Other,AC Carpenedolo,0,2007
+Parma FC,In,Radek Petr,20,Czech Republic,GK,Other,FC Banik Ostrava,Other,2007
+Parma FC,In,Damiano Zenoni,30,Italy,RB,2500000,Udinese Calcio,Other,2007
+Parma FC,In,Giordano Vanin,21,Italy,GK,Other,AC Pro Sesto,Other,2007
+Parma FC,In,Alessio Tombesi,25,Italy,LB,Other,AC Carpenedolo,Other,2007
+Parma FC,In,Matteo Mandorlini,18,Italy,CM,50000,Parma Primavera,Other,2007
+Parma FC,In,Niccolò Galli,18,Italy,CM,Other,Parma Primavera,Other,2007
+Parma FC,In,Mattia Pin,19,Italy,Striker,Other,Parma Primavera,Other,2007
+Parma FC,Out,Matteo Contini,27,Italy,CB,Other,SSC Napoli,3200000,2007
+Parma FC,Out,Ibrahima Camara,22,"Guinea, Sierra Leone",LB,Other,Le Mans Union Club 72,1000000,2007
+Parma FC,Out,Antonio Bocchetti,27,Italy,LB,Other,Frosinone Calcio,700000,2007
+Parma FC,Out,Vincenzo Grella,27,"Australia, Italy",CM,Other,Torino FC,0,2007
+Parma FC,Out,Marcelo Silva,31,Brazil,DM,Other,Clube Náutico Capibaribe,0,2007
+Parma FC,Out,Manuel Pascali,25,Italy,CB,Other,Foligno Calcio,0,2007
+Parma FC,Out,Damiano Ferronetti,22,Italy,CB,Other,Udinese Calcio,Other,2007
+Parma FC,Out,Alfonso De Lucia,23,Italy,GK,Other,AS Livorno,Other,2007
+Parma FC,Out,Giordano Vanin,22,Italy,GK,Other,Livingston FC,Other,2007
+Parma FC,Out,Alessio Tombesi,25,Italy,LB,Other,US Avellino,Other,2007
+Parma FC,Out,Giuseppe Cardone,33,Italy,RB,Other,AC Cesena,Other,2007
+Parma FC,Out,Jorge Bolaño,30,Colombia,CM,Other,Modena FC,Other,2007
+Parma FC,Out,Mattia Cherubini,19,Italy,Defender,Other,Unknown,Other,2007
+Calcio Catania,In,Jorge Martínez,24,"Uruguay, Spain",RW,Other,Club Nacional,2000000,2007
+Calcio Catania,In,Cristian Llama,21,"Argentina, Spain",AM,500000,Arsenal FC,1800000,2007
+Calcio Catania,In,Matías Silvestre,23,"Argentina, Italy",CB,2300000,CA Boca Juniors,1500000,2007
+Calcio Catania,In,Pablo Álvarez,23,"Argentina, Spain",RB,2750000,Club Estudiantes de La Plata,1030000,2007
+Calcio Catania,In,Christian Terlizzi,27,Italy,CB,2000000,UC Sampdoria,Other,2007
+Calcio Catania,In,Giacomo Tedesco,31,Italy,CM,1800000,Reggina Calcio,Other,2007
+Calcio Catania,In,Takayuki Morimoto,19,Japan,CF,1000000,Tokyo Verdy,Other,2007
+Calcio Catania,In,Marcello Gazzola,22,Italy,RB,100000,SEF Torres 1903,Other,2007
+Calcio Catania,In,Mirco Antenucci,22,Italy,CF,Other,Giulianova Calcio,Other,2007
+Calcio Catania,In,Albano Bizzarri,29,"Argentina, Italy",GK,2750000,Gimnàstic de Tarragona,Other,2007
+Calcio Catania,In,Babù,26,"Brazil, Italy",RW,700000,US Lecce,Other,2007
+Calcio Catania,In,Antonino Profeta,19,Italy,Midfielder,Other,Catania Primavera,Other,2007
+Calcio Catania,Out,Fabio Caserta,28,Italy,CM,Other,US Palermo,3600000,2007
+Calcio Catania,Out,Paolo Bianco,29,Italy,CB,Other,Cagliari Calcio,1300000,2007
+Calcio Catania,Out,Giorgio Lucenti,31,Italy,RB,Other,AC Mantova 1911,200000,2007
+Calcio Catania,Out,Giorgio Corona,33,Italy,CF,Other,AC Mantova 1911,0,2007
+Calcio Catania,Out,Umberto Del Core,27,Italy,CF,Other,US Foggia,0,2007
+Calcio Catania,Out,Fausto Rossini,30,Italy,CF,Other,AS Livorno,0,2007
+Calcio Catania,Out,César,28,"Brazil, Italy",CB,Other,Chievo Verona,Other,2007
+Calcio Catania,Out,Gianluca Falsini,32,Italy,LB,Other,AC Arezzo,Other,2007
+Calcio Catania,Out,Mattia Biso,30,Italy,CM,Other,Spezia Calcio 1906,Other,2007
+Calcio Catania,Out,Armando Pantanelli,36,Italy,GK,Other,US Avellino,Other,2007
+Calcio Catania,Out,Maurizio Anastasi,30,Italy,DM,Other,AC Cesena,Other,2007
+Calcio Catania,Out,Vincenzo Ferrante,20,Italy,GK,Other,Catanzaro FC,Other,2007
+Reggina Calcio,In,Édgar Barreto,23,"Paraguay, Italy",CM,2600000,NEC Nijmegen,2000000,2007
+Reggina Calcio,In,Kris Stadsgaard,22,Denmark,CB,Other,FC Nordsjaelland,1500000,2007
+Reggina Calcio,In,Cristhian Stuani,21,"Uruguay, Italy",CF,Other,Danubio FC,1380000,2007
+Reggina Calcio,In,Mike Tullberg,21,Denmark,CF,Other,Aarhus GF,1300000,2007
+Reggina Calcio,In,Pablo Álvarez,22,"Uruguay, Italy",RB,Other,Club Nacional,1200000,2007
+Reggina Calcio,In,Miguel Garcia,24,Portugal,RB,1250000,Sporting CP,0,2007
+Reggina Calcio,In,José Montiel,19,Paraguay,CM,625000,Udinese Calcio,0,2007
+Reggina Calcio,In,Emil Hallfredsson,23,Iceland,CM,350000,Lyn 1896 FK,0,2007
+Reggina Calcio,In,Francesco Cozza,33,Italy,AM,1650000,AC Siena,Other,2007
+Reggina Calcio,In,Leonardo Pettinari,20,Italy,LW,Other,Sangiovannese 1927,Other,2007
+Reggina Calcio,In,Francesco Cosenza,21,Italy,CB,Other,Taranto FC 1927,Other,2007
+Reggina Calcio,In,Emmanuel Cascione,23,Italy,CM,300000,Rimini FC,Other,2007
+Reggina Calcio,In,Daniele Degano,24,Italy,SS,200000,Piacenza FC,Other,2007
+Reggina Calcio,In,Joelson,23,"Brazil, Italy",RW,200000,UC AlbinoLeffe,Other,2007
+Reggina Calcio,In,Nicolò Cherubin,20,Italy,CB,Other,AS Cittadella,Other,2007
+Reggina Calcio,In,Carlos Valdez,24,Uruguay,CB,500000,Treviso FBC 1993,Other,2007
+Reggina Calcio,In,Daniele Cerretti,33,Italy,GK,Other,Calcio Sandonà,Other,2007
+Reggina Calcio,Out,Rolando Bianchi,24,Italy,CF,Other,Manchester City,13000000,2007
+Reggina Calcio,Out,Giandomenico Mesto,25,Italy,RM,Other,Udinese Calcio,4500000,2007
+Reggina Calcio,Out,Kris Stadsgaard,22,Denmark,CB,Other,Rosenborg BK,500000,2007
+Reggina Calcio,Out,Ricardo Verón,26,"Argentina, Italy",CM,Other,AC Siena,Other,2007
+Reggina Calcio,Out,Emanuele Belardi,29,Italy,GK,Other,Juventus FC,Other,2007
+Reggina Calcio,Out,Giacomo Tedesco,31,Italy,CM,Other,Calcio Catania,Other,2007
+Reggina Calcio,Out,Daniele Amerini,32,Italy,CM,Other,Frosinone Calcio,Other,2007
+Reggina Calcio,Out,Ricardo Esteves,27,Portugal,RB,Other,CS Marítimo,Other,2007
+Reggina Calcio,Out,Davide Biondini,24,Italy,CM,Other,Cagliari Calcio,Other,2007
+Reggina Calcio,Out,Palmiro Di Dio,21,Italy,CB,Other,AS Bari,Other,2007
+Reggina Calcio,Out,Ilyas Zeytullaev,24,Uzbekistan,LW,Other,Hellas Verona,Other,2007
+Reggina Calcio,Out,Alessandro Lucarelli,29,Italy,CB,Other,AC Siena,Other,2007
+Udinese Calcio,In,Fabio Quagliarella,24,Italy,CF,10500000,UC Sampdoria,7300000,2007
+Udinese Calcio,In,Giandomenico Mesto,25,Italy,RM,5500000,Reggina Calcio,4500000,2007
+Udinese Calcio,In,Antonio Floro Flores,24,Italy,CF,800000,AC Arezzo,4000000,2007
+Udinese Calcio,In,Viktor Budyanskiy,23,"Russia, Ukraine",CM,1250000,Juventus Primavera,3000000,2007
+Udinese Calcio,In,Michele Paolucci,21,Italy,CF,2000000,Juventus FC,1360000,2007
+Udinese Calcio,In,Gökhan Inler,23,"Switzerland, Türkiye",DM,950000,FC Zürich,1000000,2007
+Udinese Calcio,In,Antonio Candreva,20,Italy,AM,Other,Ternana Calcio,500000,2007
+Udinese Calcio,In,Antonio Chimenti,37,Italy,GK,550000,Cagliari Calcio,0,2007
+Udinese Calcio,In,Moreno,24,"Brazil, Portugal",LB,Other,Botafogo de Futebol e Regatas,0,2007
+Udinese Calcio,In,Abdul-Aziz Tetteh,17,Ghana,DM,Other,Liberty Professionals FC,0,2007
+Udinese Calcio,In,Damiano Ferronetti,22,Italy,CB,700000,Parma FC,Other,2007
+Udinese Calcio,In,Mauricio Isla,19,Chile,RB,50000,Udinese Primavera,Other,2007
+Udinese Calcio,In,Mohamadou Sissoko,18,"France, Mali",CB,50000,Udinese Primavera,Other,2007
+Udinese Calcio,In,Federico Laurito,17,"Argentina, Italy",CF,50000,Udinese Primavera,Other,2007
+Udinese Calcio,Out,Vincenzo Iaquinta,27,Italy,CF,Other,Juventus FC,11300000,2007
+Udinese Calcio,Out,Sulley Muntari,22,Ghana,CM,Other,Portsmouth FC,10510000,2007
+Udinese Calcio,Out,Cesare Natali,28,Italy,CB,Other,Torino FC,3500000,2007
+Udinese Calcio,Out,Michele Pazienza,24,Italy,DM,Other,ACF Fiorentina,3150000,2007
+Udinese Calcio,Out,Zlatan Muslimovic,26,"Bosnia-Herzegovina, Sweden",CF,Other,Atalanta BC,500000,2007
+Udinese Calcio,Out,Daniele Fornaio,19,Italy,CM,Other,US Massese 1919,0,2007
+Udinese Calcio,Out,José Montiel,19,Paraguay,CM,Other,Reggina Calcio,0,2007
+Udinese Calcio,Out,Morgan De Sanctis,30,Italy,GK,Other,Sevilla FC,0,2007
+Udinese Calcio,Out,Carlo Sciarrone,23,Italy,GK,Other,US Massese 1919,Other,2007
+Udinese Calcio,Out,Fabrizio Casazza,36,Italy,GK,Other,US Caravaggese,Other,2007
+Udinese Calcio,Out,Jarkko Hurme,21,Finland,RB,Other,Hellas Verona,Other,2007
+Udinese Calcio,Out,Piermario Morosini,20,Italy,CM,Other,Vicenza Calcio,Other,2007
+Udinese Calcio,Out,Damiano Zenoni,30,Italy,RB,Other,Parma FC,Other,2007
+Udinese Calcio,Out,Emanuele Politti,20,Italy,CB,Other,Hellas Verona,Other,2007
+Udinese Calcio,Out,Marco Murriero,24,Italy,GK,Other,AC Martina 1947,Other,2007
+Torino FC,In,David Di Michele,31,Italy,CF,7500000,US Palermo,3800000,2007
+Torino FC,In,Cesare Natali,28,Italy,CB,4350000,Udinese Calcio,3500000,2007
+Torino FC,In,Paolo Zanetti,24,Italy,DM,900000,Ascoli Calcio 1898,1500000,2007
+Torino FC,In,Aimo Diana,30,Italy,RM,5350000,US Palermo,1200000,2007
+Torino FC,In,Sasa Bjelanovic,28,"Croatia, Italy",CF,3000000,Ascoli Calcio 1898,1060000,2007
+Torino FC,In,Salvatore Lanna,30,Italy,LB,2350000,Chievo Verona,1000000,2007
+Torino FC,In,Matteo Rubin,19,Italy,LB,Other,AS Cittadella,550000,2007
+Torino FC,In,Vincenzo Grella,27,"Australia, Italy",CM,3200000,Parma FC,0,2007
+Torino FC,In,Dominique Malonga,18,"Congo, France",CF,Other,AS Monaco U19,0,2007
+Torino FC,In,Eugenio Corini,36,Italy,DM,1850000,US Palermo,0,2007
+Torino FC,In,Nicola Ventola,29,Italy,CF,3500000,Atalanta BC,0,2007
+Torino FC,In,Matteo Sereni,32,Italy,GK,1350000,SS Lazio,0,2007
+Torino FC,Out,Elvis Abbruscato,26,Italy,CF,Other,US Lecce,2000000,2007
+Torino FC,Out,Vedin Music,34,Bosnia-Herzegovina,LB,Other,Calcio Padova,1250000,2007
+Torino FC,Out,Claudio De Sousa,21,"Italy, Angola",CF,Other,AC Ancona,0,2007
+Torino FC,Out,Roberto Muzzi,35,Italy,CF,Other,Calcio Padova,0,2007
+Torino FC,Out,Massimo Taibi,37,Italy,GK,Other,Ascoli Calcio 1898,0,2007
+Torino FC,Out,Oscar Brevi,39,Italy,CB,Other,SSC Venezia,0,2007
+Torino FC,Out,Andrea Ardito,30,Italy,DM,Other,US Lecce,Other,2007
+Torino FC,Out,Diaw Doudou,31,Senegal,CB,Other,AC Cesena,Other,2007
+Torino FC,Out,Gabriele Cioffi,31,Italy,CB,Other,Ascoli Calcio 1898,Other,2007
+Torino FC,Out,Giorgio Cantele,21,Italy,GK,Other,FC Pavia 1911,Other,2007
+Torino FC,Out,Fabio Gallo,36,Italy,DM,Other,Novara Calcio 1908,Other,2007
+Torino FC,Out,Diego De Ascentis,30,Italy,DM,Other,Atalanta BC,Other,2007
+Torino FC,Out,Jacopo Balestri,32,Italy,LB,Other,AC Mantova 1911,Other,2007
+Torino FC,Out,Giuseppe Pancaro,35,Italy,RB,Other,Retired,Other,2007
+Torino FC,Out,Luigi Martinelli,36,Italy,RB,Other,Hellas Verona,Other,2007
+Cagliari Calcio,In,Jeda,28,"Brazil, Italy",SS,600000,Rimini FC,2500000,2007
+Cagliari Calcio,In,Alessandro Matri,22,Italy,CF,75000,AC Milan,2300000,2007
+Cagliari Calcio,In,Paolo Bianco,29,Italy,CB,1400000,Calcio Catania,1300000,2007
+Cagliari Calcio,In,Andrea Parola,28,Italy,DM,1200000,UC Sampdoria,1200000,2007
+Cagliari Calcio,In,Joaquín Larrivey,23,"Argentina, Italy",CF,500000,CA Huracán,980000,2007
+Cagliari Calcio,In,Andrea Cossu,27,Italy,AM,1200000,Hellas Verona,500000,2007
+Cagliari Calcio,In,Vincenzo Marruocco,28,Italy,GK,Other,US Foggia,Other,2007
+Cagliari Calcio,In,Rijat Shala,23,"Switzerland, Albania",CM,500000,US Foggia,Other,2007
+Cagliari Calcio,In,Abdoulaye Diarra,20,Cote d'Ivoire,LM,300000,Inter Milan,Other,2007
+Cagliari Calcio,In,Jan Koprivec,19,Slovenia,GK,Other,FC Koper,Other,2007
+Cagliari Calcio,In,Michele Fini,33,Italy,CM,500000,Ascoli Calcio 1898,Other,2007
+Cagliari Calcio,In,Davide Biondini,24,Italy,CM,1600000,Reggina Calcio,Other,2007
+Cagliari Calcio,In,Marco Mancosu,18,Italy,AM,Other,Cagliari Primavera,Other,2007
+Cagliari Calcio,In,Rafael Acosta,18,"Venezuela, Italy",CM,Other,Cagliari Primavera,Other,2007
+Cagliari Calcio,In,Enrico Cotza,19,Italy,CM,Other,Cagliari Primavera,Other,2007
+Cagliari Calcio,In,Marco Sau,19,Italy,CF,Other,Cagliari Primavera,Other,2007
+Cagliari Calcio,In,Daniele Ragatzu,16,Italy,SS,Other,Cagliari Primavera,Other,2007
+Cagliari Calcio,Out,David Suazo,27,"Honduras, Italy",CF,Other,Inter Milan,13000000,2007
+Cagliari Calcio,Out,Mauro Esposito,28,Italy,RW,Other,AS Roma,4000000,2007
+Cagliari Calcio,Out,Antonio Chimenti,37,Italy,GK,Other,Udinese Calcio,0,2007
+Cagliari Calcio,Out,Leonardo Colucci,34,Italy,CM,Other,US Cremonese,0,2007
+Cagliari Calcio,Out,Semedo,22,Portugal,DM,Other,Charlton Athletic,0,2007
+Cagliari Calcio,Out,Antonio Langella,30,Italy,SS,Other,Atalanta BC,0,2007
+Cagliari Calcio,Out,Andrea Capone,26,Italy,AM,Other,Vicenza Calcio,0,2007
+Cagliari Calcio,Out,Alessandro Conticchio,33,Italy,CM,Other,US Avellino,Other,2007
+Cagliari Calcio,Out,Abdoulaye Diarra,20,Cote d'Ivoire,LM,Other,NK Maribor,Other,2007
+Cagliari Calcio,Out,Marco Fortin,33,Italy,GK,Other,Vicenza Calcio,Other,2007
+Cagliari Calcio,Out,Alessandro Budel,26,Italy,DM,Other,Without Club,Other,2007

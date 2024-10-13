@@ -1,0 +1,582 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+US Palermo,In,Mauricio Pinilla,26,"Chile, Italy",CF,2500000,US Grosseto FC,5100000,2010
+US Palermo,In,Ezequiel Muñoz,19,"Argentina, Italy",CB,1500000,CA Boca Juniors,5000000,2010
+US Palermo,In,Pablo González,25,"Argentina, Italy",CF,400000,Novara Calcio 1908,5000000,2010
+US Palermo,In,Massimo Maccarone,30,Italy,CF,4500000,AC Siena,4400000,2010
+US Palermo,In,João Pedro,18,"Italy, Brazil",CF,400000,Clube Atlético Mineiro,2500000,2010
+US Palermo,In,Josip Ilicic,22,"Slovenia, Croatia",AM,1000000,NK Maribor,2300000,2010
+US Palermo,In,Santiago García,22,"Argentina, Spain",CB,300000,CA Rosario Central,1600000,2010
+US Palermo,In,Matteo Darmian,20,Italy,RB,500000,AC Milan,1300000,2010
+US Palermo,In,Armin Bacinovic,20,Slovenia,DM,500000,NK Maribor,1200000,2010
+US Palermo,In,Sinisa Andjelkovic,24,Slovenia,CB,500000,NK Maribor,1200000,2010
+US Palermo,In,Kamil Glik,22,"Poland, Germany",CB,500000,Piast Gliwice,1000000,2010
+US Palermo,In,Nicola Rigoni,19,Italy,DM,600000,Vicenza Calcio,990000,2010
+US Palermo,In,Jasmin Kurtic,21,Slovenia,CM,400000,ND Gorica,800000,2010
+US Palermo,In,Gianni Munari,27,Italy,CM,2500000,US Lecce,391000,2010
+US Palermo,In,Pajtim Kasami,18,"Switzerland, North Macedonia",CM,500000,AC Bellinzona,300000,2010
+US Palermo,In,Giacomo Brichetto,27,Italy,GK,50000,Novara Calcio 1908,130000,2010
+US Palermo,In,Francesco Benussi,28,Italy,GK,800000,US Lecce,Other,2010
+US Palermo,In,Afriyie Acquah,19,Ghana,CM,100000,Palermo Primavera,Other,2010
+US Palermo,Out,Simon Kjær,21,Denmark,CB,1500000,VfL Wolfsburg,12500000,2010
+US Palermo,Out,Massimo Maccarone,31,Italy,CF,Other,UC Sampdoria,2700000,2010
+US Palermo,Out,Samir Ujkani,22,"Kosovo, Albania",GK,Other,Novara Calcio 1908,1500000,2010
+US Palermo,Out,Michel Morganella,21,"Switzerland, Italy",RB,Other,Novara Calcio 1908,1500000,2010
+US Palermo,Out,Paolo Dellafiore,25,"Italy, Argentina",CB,Other,Parma FC,400000,2010
+US Palermo,Out,Maurizio Ciaramitaro,28,Italy,CM,Other,Modena FC,0,2010
+US Palermo,Out,Fábio Simplício,30,Brazil,CM,Other,AS Roma,0,2010
+US Palermo,Out,Mark Bresciano,30,"Australia, Italy",CM,Other,SS Lazio,0,2010
+US Palermo,Out,Daniele Conti,21,Italy,LM,Other,Cavese 1919,Other,2010
+US Palermo,Out,Alberto Cossentino,21,Italy,CB,Other,Novara Calcio 1908,Other,2010
+US Palermo,Out,Antonio Tranchina,21,Italy,CM,Other,ASD Liberty Monopoli,Other,2010
+US Palermo,Out,Davide Lanzafame,23,Italy,CF,Other,Juventus FC,Other,2010
+US Palermo,Out,Giuseppe Polito,22,Italy,SS,Other,Pomezia Calcio,Other,2010
+US Palermo,Out,Giovanni Tedesco,38,Italy,CM,Other,Retired,Other,2010
+SSC Napoli,In,Víctor Ruiz,21,Spain,CB,4000000,RCD Espanyol Barcelona,8500000,2010
+SSC Napoli,In,José Sosa,25,Argentina,AM,3000000,Bayern Munich,3000000,2010
+SSC Napoli,In,Nicolao Cardoso,18,"Italy, Romania",LW,50000,FC Empoli,1500000,2010
+SSC Napoli,In,Giuseppe Mascara,31,Italy,SS,5000000,Calcio Catania,1300000,2010
+SSC Napoli,In,Cribari,30,"Brazil, Italy",CB,1200000,SS Lazio,500000,2010
+SSC Napoli,In,Umberto Varriale,19,Italy,SS,75000,AS Avellino 1912,Other,2010
+SSC Napoli,In,Alessandro Diana,19,Italy,RB,Other,Cavese 1919,Other,2010
+SSC Napoli,In,Kevin Koffi,24,"Cote d'Ivoire, Italy",CF,150000,Sanremese Calcio,Other,2010
+SSC Napoli,In,Raffaele Maiello,18,Italy,DM,50000,Napoli Primavera,Other,2010
+SSC Napoli,Out,Jesús Dátolo,26,"Argentina, Italy",AM,Other,RCD Espanyol Barcelona,2500000,2010
+SSC Napoli,Out,Matteo Contini,30,Italy,CB,Other,Real Zaragoza,2300000,2010
+SSC Napoli,Out,Germán Denis,28,"Argentina, Italy",CF,Other,Udinese Calcio,2000000,2010
+SSC Napoli,Out,Nicolás Navarro,25,Argentina,GK,Other,AA Argentinos Juniors,0,2010
+SSC Napoli,Out,Marcelo Zalayeta,31,"Uruguay, Spain",CF,Other,Kayserispor,0,2010
+SSC Napoli,Out,Roberto De Zerbi,31,Italy,AM,Other,CFR Cluj,0,2010
+SSC Napoli,Out,Erminio Rullo,26,Italy,LB,Other,Modena FC,0,2010
+SSC Napoli,Out,Carmine Biagio Gatti,22,Italy,GK,Other,VF Colligiana,Other,2010
+SSC Napoli,Out,Piá,28,"Brazil, Italy",LW,Other,Calcio Portogruaro-Summaga,Other,2010
+Calcio Catania,In,Papu Gómez,22,"Argentina, Italy",LW,2500000,CA San Lorenzo de Almagro,2500000,2010
+Calcio Catania,In,Francesco Lodi,26,Italy,DM,3000000,Frosinone Calcio,1000000,2010
+Calcio Catania,In,Maikol Negro,22,Italy,LW,150000,Celano FC Olimpia,300000,2010
+Calcio Catania,In,Raphael Martinho,22,"Brazil, Italy",LM,Other,Monte Alegre Futebol Clube (SP),200000,2010
+Calcio Catania,In,Federico Moretti,22,Italy,CM,300000,Ascoli Calcio 1898,200000,2010
+Calcio Catania,In,Nicola Lanzolla,21,Italy,CB,Other,ASD Liberty Monopoli,0,2010
+Calcio Catania,In,Antonio Carrozza,20,Italy,CB,Other,Rossanese ASD,0,2010
+Calcio Catania,In,Cristian Suarino,21,Italy,DM,100000,SS Milazzo,Other,2010
+Calcio Catania,In,Raffaele Imparato,23,Italy,RB,150000,Taranto FC 1927,Other,2010
+Calcio Catania,In,Rocco Benci,20,Italy,CB,Other,ASD HinterReggio Calcio (- 2015),Other,2010
+Calcio Catania,Out,Jorge Martínez,27,"Uruguay, Spain",RW,Other,Juventus FC,12000000,2010
+Calcio Catania,Out,Mirco Antenucci,26,Italy,CF,100000,Torino FC,2800000,2010
+Calcio Catania,Out,Federico Moretti,21,Italy,CM,Other,Ascoli Calcio 1898,2000000,2010
+Calcio Catania,Out,Giuseppe Mascara,31,Italy,SS,Other,SSC Napoli,1300000,2010
+Calcio Catania,Out,Gennaro Sardo,31,Italy,RB,Other,Chievo Verona,500000,2010
+Calcio Catania,Out,Simone Pesce,28,Italy,DM,Other,Ascoli Calcio 1898,Other,2010
+Calcio Catania,Out,Giovanni Ricciardo,23,Italy,CF,Other,SS Milazzo,0,2010
+Calcio Catania,Out,Antonio Carrozza,20,Italy,CB,Other,SS Milazzo,0,2010
+Calcio Catania,Out,Raffaele Ioime,22,Italy,GK,Other,UTA Arad,0,2010
+Calcio Catania,Out,Christian Iannelli,24,Italy,CF,Other,SS Milazzo,Other,2010
+Calcio Catania,Out,Antonino Profeta,22,Italy,Midfielder,Other,US Pergocrema 1932,Other,2010
+Calcio Catania,Out,Cristian Suarino,20,Italy,DM,Other,SS Milazzo,Other,2010
+Calcio Catania,Out,Thiam Silmon Gueye,20,Senegal,Striker,Other,AC Lumezzane,Other,2010
+Calcio Catania,Out,Giuseppe Di Pasquale,21,Italy,RB,Other,Paganese Calcio 1926,Other,2010
+Calcio Catania,Out,Rosario Bucolo,21,Italy,CM,50000,SS Milazzo,Other,2010
+Calcio Catania,Out,Maikol Negro,22,Italy,LW,Other,ASG Nocerina,Other,2010
+Calcio Catania,Out,Marco Di Fatta,22,Italy,CB,Other,SS Milazzo,Other,2010
+Calcio Catania,Out,Orazio Russo,36,Italy,RW,Other,Retired,Other,2010
+AC Cesena,In,Yuto Nagatomo,24,Japan,LB,2800000,FC Tokyo,1600000,2010
+AC Cesena,In,Giacomo Tulli,22,Italy,LW,350000,Vicenza Calcio,1300000,2010
+AC Cesena,In,Yohan Benalouane,23,"Tunisia, France",CB,2200000,AS Saint-Étienne,1100000,2010
+AC Cesena,In,Roope Riski,19,Finland,CF,150000,Turun Palloseura,750000,2010
+AC Cesena,In,David Meza Colli,21,"Paraguay, Italy",DM,350000,Atromitos Athens,85000,2010
+AC Cesena,In,Diego Cavalieri,27,"Brazil, Italy",GK,2000000,Liverpool FC,0,2010
+AC Cesena,In,Caio De Cenco,21,"Brazil, Italy",CF,Other,ASD Boca Pietri Carpi,0,2010
+AC Cesena,In,Stephen Appiah,29,Ghana,DM,2000000,Bologna FC 1909,0,2010
+AC Cesena,In,Steve von Bergen,27,Switzerland,CB,3000000,Hertha BSC,0,2010
+AC Cesena,In,Sacha Cori,21,Italy,CF,Other,Ternana Calcio,0,2010
+AC Cesena,In,Erjon Bogdani,33,Albania,CF,1000000,Chievo Verona,Other,2010
+AC Cesena,In,Aldo Simoncini,24,San Marino,GK,Other,AC Bellaria Igea Marina,Other,2010
+AC Cesena,In,Alberto Galuppo,24,Italy,CB,200000,Parma FC,Other,2010
+AC Cesena,In,Christian Vavalà,17,Italy,Defender,Other,AC Cesena Youth,Other,2010
+AC Cesena,Out,Ezequiel Schelotto,21,"Italy, Argentina",RM,50000,Atalanta BC,2750000,2010
+AC Cesena,Out,Guly,29,"Brazil, Italy",AM,Other,Southampton FC,600000,2010
+AC Cesena,Out,Milan Djuric,20,"Bosnia-Herzegovina, Italy",CF,1500000,Parma FC,300000,2010
+AC Cesena,Out,Alberto Galuppo,25,Italy,CB,Other,Parma FC,200000,2010
+AC Cesena,Out,Davide Sinigaglia,29,Italy,CF,Other,Ternana Calcio,100000,2010
+AC Cesena,Out,Caio De Cenco,21,"Brazil, Italy",CF,75000,AC Bellaria Igea Marina,Other,2010
+AC Cesena,Out,Diego Cavalieri,28,"Brazil, Italy",GK,Other,Fluminense Football Club,0,2010
+AC Cesena,Out,José Espinal,27,"Dominican Republic, Italy",LW,Other,KAS Eupen,0,2010
+AC Cesena,Out,Dario Biasi,30,Italy,CB,Other,Cagliari Calcio,0,2010
+AC Cesena,Out,Gianluca Segarelli,32,Italy,RM,Other,Forza e Coraggio Alessandria,Other,2010
+AC Cesena,Out,Federico Maria Erba,21,Italy,CB,Other,AS Roma,Other,2010
+AC Cesena,Out,Andrea Savelli,19,Italy,RB,Other,AC Bellaria Igea Marina,Other,2010
+AC Cesena,Out,Martin Petras,31,Slovakia,RB,Other,US Grosseto FC,Other,2010
+AC Cesena,Out,Alessio Ambrogetti,21,Italy,SS,Other,Calcio Como,Other,2010
+AC Cesena,Out,Giovanni Rossi,21,Italy,LB,Other,SPAL 1907,Other,2010
+AC Cesena,Out,Marco Bonura,30,Italy,CM,Other,Without Club,Other,2010
+AC Cesena,Out,Michele Tardioli,39,Italy,GK,Other,Retired,Other,2010
+AC Cesena,Out,Ivan Franceschini,33,Italy,CB,Other,Without Club,Other,2010
+Cagliari Calcio,In,Lorenzo Ariaudo,21,Italy,CB,1300000,Juventus FC,3800000,2010
+Cagliari Calcio,In,Pablo Ceppelini,19,"Uruguay, Italy",AM,750000,CA Peñarol,2350000,2010
+Cagliari Calcio,In,Andrea Cocco,25,Italy,CF,600000,UC AlbinoLeffe,150000,2010
+Cagliari Calcio,In,Alex Pinardi,29,Italy,DM,400000,Modena FC,0,2010
+Cagliari Calcio,In,Dario Biasi,30,Italy,CB,650000,AC Cesena,0,2010
+Cagliari Calcio,In,Ivan Pelizzoli,29,Italy,GK,1500000,Lokomotiv Moskau,0,2010
+Cagliari Calcio,In,Gabriele Perico,26,Italy,RB,600000,UC AlbinoLeffe,Other,2010
+Cagliari Calcio,Out,Daniele Dessena,23,Italy,CM,Other,UC Sampdoria,4000000,2010
+Cagliari Calcio,Out,Jeda,31,"Brazil, Italy",SS,Other,US Lecce,1000000,2010
+Cagliari Calcio,Out,Alex Pinardi,30,Italy,DM,Other,Novara Calcio 1908,500000,2010
+Cagliari Calcio,Out,Lino Marzorati,23,Italy,CB,Other,FC Empoli,300000,2010
+Cagliari Calcio,Out,Salvatore Burrai,23,Italy,DM,400000,US Foggia,207000,2010
+Cagliari Calcio,Out,Andrea Cocco,24,Italy,CF,150000,UC AlbinoLeffe,50000,2010
+Cagliari Calcio,Out,Enrico Cotza,22,Italy,CM,Other,SS Villacidrese,0,2010
+Cagliari Calcio,Out,Marco Mancosu,21,Italy,AM,Other,Unione Sportiva Siracusa,Other,2010
+Cagliari Calcio,Out,Mauro Vigorito,20,Italy,GK,150000,Carrarese Calcio 1908,Other,2010
+Cagliari Calcio,Out,Marco Sau,22,Italy,CF,100000,US Foggia,Other,2010
+Cagliari Calcio,Out,Dario Biasi,31,Italy,CB,Other,Frosinone Calcio,Other,2010
+Cagliari Calcio,Out,Cristiano Lupatelli,32,Italy,GK,Other,Bologna FC 1909,Other,2010
+Cagliari Calcio,Out,Rafael Acosta,21,"Venezuela, Italy",CM,Other,Without Club,Other,2010
+Cagliari Calcio,Out,Diego López,35,"Uruguay, Spain",CB,Other,Retired,Other,2010
+Cagliari Calcio,Out,Simone Barone,32,Italy,CM,Other,Without Club,Other,2010
+Cagliari Calcio,Out,Andrea Parola,31,Italy,DM,Other,Without Club,Other,2010
+UC Sampdoria,In,Jonathan Biabiany,22,"France, Guadeloupe",RW,8500000,Inter Milan,7000000,2010
+UC Sampdoria,In,Nicola Pozzi,24,Italy,CF,3000000,FC Empoli,5200000,2010
+UC Sampdoria,In,Daniele Dessena,23,Italy,CM,3750000,Cagliari Calcio,4000000,2010
+UC Sampdoria,In,Massimo Maccarone,31,Italy,CF,4500000,US Palermo,2700000,2010
+UC Sampdoria,In,Gianluca Curci,24,Italy,GK,5000000,AC Siena,2500000,2010
+UC Sampdoria,In,Stefano Guberti,25,Italy,LW,3800000,AS Roma,1500000,2010
+UC Sampdoria,In,Zsolt Laczkó,24,Hungary,LB,500000,Debreceni VSC,830000,2010
+UC Sampdoria,In,Vedran Celjak,19,Croatia,RB,300000,NK Zagreb,500000,2010
+UC Sampdoria,In,Alessandro Romeo,24,Italy,CF,300000,Ascoli Calcio 1898,60000,2010
+UC Sampdoria,In,Angelo da Costa,26,"Brazil, Italy",GK,1000000,US Ancona,0,2010
+UC Sampdoria,In,Pedro Obiang,18,"Equatorial Guinea, Spain",CM,100000,Sampdoria Primavera,Other,2010
+UC Sampdoria,Out,Giampaolo Pazzini,26,Italy,CF,Other,Inter Milan,18000000,2010
+UC Sampdoria,Out,Guido Marilungo,21,Italy,CF,Other,Atalanta BC,4700000,2010
+UC Sampdoria,Out,Antonio Cassano,28,Italy,SS,Other,AC Milan,3300000,2010
+UC Sampdoria,Out,Stefano Guberti,26,Italy,LW,Other,AS Roma,Other,2010
+UC Sampdoria,Out,Luca Castellazzi,34,Italy,GK,Other,Inter Milan,0,2010
+UC Sampdoria,Out,Francesco Virdis,25,Italy,CF,Other,Pomezia Calcio,0,2010
+UC Sampdoria,Out,Gabriel Ferrari,22,"United States, Italy",CF,Other,FC Wohlen,0,2010
+UC Sampdoria,Out,Daniele Franceschini,34,Italy,LM,Other,Atletico Roma,0,2010
+UC Sampdoria,Out,Matteo Guardalben,36,Italy,GK,Other,Modena FC,0,2010
+UC Sampdoria,Out,Carmine Cucciniello,21,Italy,CM,Other,FC Fondi 1922,Other,2010
+UC Sampdoria,Out,Morris Donati,20,Italy,CM,Other,Carrarese Calcio 1908,Other,2010
+UC Sampdoria,Out,Pietro Arnulfo,21,Italy,CF,Other,SC Ligorna 1922,Other,2010
+UC Sampdoria,Out,Alessandro Bastrini,23,Italy,CB,Other,Vicenza Calcio,Other,2010
+Bologna FC 1909,In,Gastón Ramírez,19,Uruguay,CM,700000,CA Peñarol,3360000,2010
+Bologna FC 1909,In,György Garics,26,"Austria, Hungary",RB,2700000,Atalanta BC,3000000,2010
+Bologna FC 1909,In,Riccardo Meggiorini,24,Italy,CF,3500000,Genoa CFC,3000000,2010
+Bologna FC 1909,In,Rene Krhin,20,Slovenia,DM,1500000,Inter Milan,2500000,2010
+Bologna FC 1909,In,Albin Ekdal,21,Sweden,DM,3000000,Juventus FC,2400000,2010
+Bologna FC 1909,In,Diego Pérez,30,"Uruguay, Italy",DM,4500000,AS Monaco,2000000,2010
+Bologna FC 1909,In,Henry Giménez,24,"Uruguay, Italy",CF,1800000,CA River Plate Montevideo,1850000,2010
+Bologna FC 1909,In,Nicolò Cherubin,23,Italy,CB,1000000,AS Cittadella,1500000,2010
+Bologna FC 1909,In,Archimede Morleo,26,Italy,LB,500000,FC Crotone,950000,2010
+Bologna FC 1909,In,Daniele Paponi,22,Italy,CF,450000,Parma FC,500000,2010
+Bologna FC 1909,In,Manuel Gavilán,19,Spain,CF,Other,Real Betis B,350000,2010
+Bologna FC 1909,In,Filippo Lombardi,20,Italy,GK,50000,US Ancona,0,2010
+Bologna FC 1909,In,Cristiano Lupatelli,32,Italy,GK,300000,Cagliari Calcio,Other,2010
+Bologna FC 1909,Out,Daniel Osvaldo,24,"Italy, Argentina",CF,Other,RCD Espanyol Barcelona,4600000,2010
+Bologna FC 1909,Out,Riccardo Meggiorini,25,Italy,CF,Other,Genoa CFC,3000000,2010
+Bologna FC 1909,Out,Gabriele Paonessa,23,Italy,AM,Other,Parma FC,600000,2010
+Bologna FC 1909,Out,Leonardo Cisterni,19,Italy,CF,Other,Spezia Calcio,Other,2010
+Bologna FC 1909,Out,Stephen Appiah,29,Ghana,DM,Other,AC Cesena,0,2010
+Bologna FC 1909,Out,Adaílton,33,"Brazil, Italy",SS,Other,FC Vaslui,0,2010
+Bologna FC 1909,Out,Roberto Colombo,34,Italy,GK,Other,US Triestina,0,2010
+Bologna FC 1909,Out,Filippo Spitoni,26,Italy,GK,Other,Without Club,Other,2010
+Bologna FC 1909,Out,Massimo Marazzina,35,Italy,CF,Other,Retired,Other,2010
+Bologna FC 1909,Out,Salvatore Lanna,33,Italy,LB,Other,Without Club,Other,2010
+Bologna FC 1909,Out,Nicola Mingazzini,29,Italy,CM,Other,Without Club,Other,2010
+Bologna FC 1909,Out,Luigi Lavecchia,28,Italy,RM,Other,Without Club,Other,2010
+Bologna FC 1909,Out,Cristian Zenoni,33,Italy,RB,Other,Without Club,Other,2010
+US Lecce,In,Ignacio Piatti,25,"Argentina, Italy",LW,2000000,Unión San Felipe,2500000,2010
+US Lecce,In,Jeda,31,"Brazil, Italy",SS,3300000,Cagliari Calcio,1000000,2010
+US Lecce,In,Davide Brivio,22,Italy,LB,1500000,Vicenza Calcio,750000,2010
+US Lecce,In,David Di Michele,34,Italy,CF,600000,Torino FC,0,2010
+US Lecce,In,Javier Chevantón,30,"Uruguay, Spain",CF,2400000,Sevilla FC,0,2010
+US Lecce,In,Massimiliano Benassi,28,Italy,GK,200000,ASD Perugia Calcio,0,2010
+US Lecce,In,Rubén Olivera,27,Uruguay,CM,1500000,Juventus FC,0,2010
+US Lecce,In,Carlos Grossmüller,27,"Uruguay, Germany",CM,500000,FC Schalke 04,0,2010
+US Lecce,In,Edward Ofere,24,"Nigeria, Sweden",CF,900000,Malmö FF,Other,2010
+US Lecce,Out,Raffaele Schiavi,24,Italy,CB,Other,Vicenza Calcio,750000,2010
+US Lecce,Out,Allan Baclet,24,"France, Ghana",CF,Other,Vicenza Calcio,400000,2010
+US Lecce,Out,Gianni Munari,27,Italy,CM,Other,US Palermo,391000,2010
+US Lecce,Out,Balázs Balogh,20,Hungary,CM,300000,Újpest FC,0,2010
+US Lecce,Out,Angelo,29,Brazil,RB,Other,Parma FC,0,2010
+US Lecce,Out,Carlo Vicedomini,24,Italy,CM,Other,Paganese Calcio 1926,0,2010
+US Lecce,Out,Francesco Giorgetti,24,Italy,LM,Other,Without Club,0,2010
+US Lecce,Out,Jefferson Leonardo Trazzi,19,"Italy, Brazil",GK,Other,Chievo Verona,0,2010
+US Lecce,Out,Matteo Legittimo,21,Italy,CB,50000,Salernitana Calcio 1919,Other,2010
+US Lecce,Out,Mattia Montefusco,22,Italy,LB,Other,AS Gubbio 1910,Other,2010
+US Lecce,Out,Francesco Benussi,28,Italy,GK,Other,US Palermo,Other,2010
+US Lecce,Out,Antonio Tundo,21,Italy,LB,Other,SSD Città di Brindisi,Other,2010
+US Lecce,Out,Stefano Mandorino,23,"Italy, Germany",CM,Other,Civitanovese,Other,2010
+US Lecce,Out,Daniele Cacia,26,Italy,CF,Other,Piacenza FC,Other,2010
+US Lecce,Out,Manuel Belleri,32,Italy,RB,Other,Without Club,Other,2010
+Chievo Verona,In,Mattia Minesso,20,Italy,AM,50000,Vicenza Calcio,2000000,2010
+Chievo Verona,In,Bojan Jokic,24,Slovenia,LB,1000000,FC Sochaux-Montbéliard,1000000,2010
+Chievo Verona,In,Cyril Théréau,27,France,CF,1200000,R Charleroi SC,900000,2010
+Chievo Verona,In,Marco Andreolli,24,Italy,CB,2500000,AS Roma,800000,2010
+Chievo Verona,In,Fernando Uribe,23,Colombia,CF,850000,Once Caldas,750000,2010
+Chievo Verona,In,Gennaro Sardo,31,Italy,RB,700000,Calcio Catania,500000,2010
+Chievo Verona,In,Amadou Samb,22,"Senegal, Malta",CF,275000,AC Monza Brianza,100000,2010
+Chievo Verona,In,Francesco Dettori,27,Italy,CM,400000,Delfino Pescara 1936,50000,2010
+Chievo Verona,In,Filippo Fondi,20,Italy,CM,50000,Foligno Calcio,0,2010
+Chievo Verona,In,Matteo Di Piazza,22,Italy,CF,175000,Rimini FC,0,2010
+Chievo Verona,In,Bostjan Cesar,27,Slovenia,CB,1600000,Grenoble Foot 38,0,2010
+Chievo Verona,In,Michele Sansotta,18,Italy,CM,Other,Perugia Primavera,0,2010
+Chievo Verona,In,Jefferson Leonardo Trazzi,19,"Italy, Brazil",GK,50000,US Lecce,0,2010
+Chievo Verona,In,Ledian Memushaj,23,"Albania, Italy",CM,200000,Paganese Calcio 1926,0,2010
+Chievo Verona,In,Rincón,23,Brazil,CB,1000000,Inter Milan,Other,2010
+Chievo Verona,In,Roberto Cortese,25,Italy,CF,200000,Taranto FC 1927,Other,2010
+Chievo Verona,In,Roberto Inglese,18,Italy,CF,Other,Delfino Pescara 1936,Other,2010
+Chievo Verona,In,Davide Moscardelli,30,"Italy, Belgium",CF,1400000,Piacenza FC,Other,2010
+Chievo Verona,In,Piero Robertiello,21,Italy,GK,50000,Salernitana Calcio 1919,Other,2010
+Chievo Verona,In,Mattia Marchi,21,Italy,CF,50000,Rimini FC,Other,2010
+Chievo Verona,In,Francesco Checcucci,22,Italy,CB,300000,AC Lumezzane,Other,2010
+Chievo Verona,Out,Andrea Mengoni,26,Italy,CB,Other,Delfino Pescara 1936,100000,2010
+Chievo Verona,Out,Mattia Marchi,21,Italy,CF,Other,FC Südtirol-Alto Adige,Other,2010
+Chievo Verona,Out,Matteo Di Piazza,22,Italy,CF,100000,FC Pro Vercelli 1892,0,2010
+Chievo Verona,Out,Leonardo Moracci,22,Italy,CB,Other,Calcio Lecco 1912,0,2010
+Chievo Verona,Out,Rinaldo Lispi,23,Italy,CB,Other,SSD Città di Brindisi,0,2010
+Chievo Verona,Out,Mario Yepes,34,"Colombia, France",CB,Other,AC Milan,0,2010
+Chievo Verona,Out,Francesco Scardina,28,Italy,CB,Other,AS Cittadella,Other,2010
+Chievo Verona,Out,Jefferson Leonardo Trazzi,19,"Italy, Brazil",GK,Other,US Triestina,Other,2010
+Chievo Verona,Out,Erjon Bogdani,33,Albania,CF,Other,AC Cesena,Other,2010
+Chievo Verona,Out,Luca Ariatti,31,Italy,CM,Other,Delfino Pescara 1936,Other,2010
+Chievo Verona,Out,Michele Sansotta,18,Italy,CM,Other,Sangiovannese 1927,Other,2010
+Chievo Verona,Out,Tommaso Chiecchi,30,Italy,CB,Other,Calcio Lecco 1912,Other,2010
+Chievo Verona,Out,Philippe Montandon,27,Switzerland,CB,Other,FC Lugano,Other,2010
+Chievo Verona,Out,Daniele Piro,21,Italy,RW,Other,SSD Città di Brindisi,Other,2010
+Chievo Verona,Out,Antimo Iunco,26,Italy,SS,Other,Torino FC,Other,2010
+Chievo Verona,Out,Angelo Antonazzo,28,Italy,RB,Other,Taranto FC 1927,Other,2010
+Chievo Verona,Out,Dimas,25,Brazil,LW,Other,AC Montichiari,Other,2010
+Chievo Verona,Out,Fabio Moro,34,Italy,RB,Other,Retired,Other,2010
+Juventus FC,In,Leonardo Bonucci,23,Italy,CB,8000000,AS Bari,15500000,2010
+Juventus FC,In,Milos Krasic,25,Serbia,RW,15000000,CSKA Moscow,15000000,2010
+Juventus FC,In,Jorge Martínez,27,"Uruguay, Spain",RW,8000000,Calcio Catania,12000000,2010
+Juventus FC,In,Marco Storari,33,Italy,GK,1500000,AC Milan,4500000,2010
+Juventus FC,In,Andrea Barzagli,29,Italy,CB,8500000,VfL Wolfsburg,300000,2010
+Juventus FC,In,Luca Toni,33,Italy,CF,6000000,Genoa CFC,0,2010
+Juventus FC,In,André Cuneaz,23,Italy,RW,200000,Mantova 1911,0,2010
+Juventus FC,In,Davide Lanzafame,23,Italy,CF,4500000,US Palermo,Other,2010
+Juventus FC,In,Sergio Almirón,29,"Argentina, Italy",CM,4000000,AS Bari,Other,2010
+Juventus FC,In,Jesus Garcia Tena,20,Spain,CB,Other,Terrassa FC,Other,2010
+Juventus FC,In,Marco Costantino,19,Italy,GK,100000,SPAL 1907,Other,2010
+Juventus FC,In,Andrea De Paola,20,Italy,CB,100000,Juventus Primavera,Other,2010
+Juventus FC,Out,Diego,25,"Brazil, Italy",AM,Other,VfL Wolfsburg,15500000,2010
+Juventus FC,Out,Christian Poulsen,30,Denmark,DM,Other,Liverpool FC,5480000,2010
+Juventus FC,Out,Cristian Molinaro,26,Italy,LB,Other,VfB Stuttgart,3900000,2010
+Juventus FC,Out,Lorenzo Ariaudo,21,Italy,CB,Other,Cagliari Calcio,3800000,2010
+Juventus FC,Out,Sergio Almirón,29,"Argentina, Italy",CM,Other,AS Bari,2500000,2010
+Juventus FC,Out,Albin Ekdal,21,Sweden,DM,300000,Bologna FC 1909,2400000,2010
+Juventus FC,Out,Mauro Camoranesi,33,"Italy, Argentina",RM,Other,VfB Stuttgart,2000000,2010
+Juventus FC,Out,David Trezeguet,32,"France, Argentina",CF,Other,Hércules CF,0,2010
+Juventus FC,Out,Alessandro D'Antoni,21,Italy,SS,Other,FC Esperia Viareggio,0,2010
+Juventus FC,Out,Nicola Cosentini,22,Italy,DM,Other,FC Esperia Viareggio,0,2010
+Juventus FC,Out,Donato Bottone,22,Italy,CF,Other,Clermont Foot Auvergne 63,0,2010
+Juventus FC,Out,Jonathan Zebina,32,"France, Martinique",CB,Other,Brescia Calcio,0,2010
+Juventus FC,Out,Rubén Olivera,27,Uruguay,CM,Other,US Lecce,0,2010
+Juventus FC,Out,Nicola Legrottaglie,34,Italy,CB,Other,AC Milan,0,2010
+Juventus FC,Out,Fabio Cannavaro,36,Italy,CB,Other,Al-Ahli Dubai Club (- 2017),0,2010
+Juventus FC,Out,Riccardo Maniero,22,Italy,CF,150000,Delfino Pescara 1936,Other,2010
+Juventus FC,Out,Carlo Vecchione,22,Italy,AM,Other,SF Aversa Normanna,Other,2010
+Juventus FC,Out,Giorgio Merlano,21,Italy,GK,Other,FC Esperia Viareggio,Other,2010
+Juventus FC,Out,Dario Venitucci,23,Italy,AM,Other,Bassano Virtus 55 ST,Other,2010
+Juventus FC,Out,Andrea Pisani,23,Italy,CB,Other,Calcio Portogruaro-Summaga,Other,2010
+Juventus FC,Out,André Cuneaz,23,Italy,RW,Other,Forza e Coraggio Alessandria,Other,2010
+Juventus FC,Out,Marco Duravia,20,Italy,RM,Other,FC Canavese,Other,2010
+Juventus FC,Out,Antonio Chimenti,40,Italy,GK,Other,Retired,Other,2010
+AC Milan,In,Robinho,26,"Brazil, Spain",LW,28000000,Manchester City,21000000,2010
+AC Milan,In,Alberto Paloschi,20,Italy,CF,5000000,Genoa CFC,5000000,2010
+AC Milan,In,Sokratis Papastathopoulos,22,Greece,CB,5000000,Genoa CFC,4500000,2010
+AC Milan,In,Dídac Vilà,21,Spain,LB,800000,RCD Espanyol Barcelona,4000000,2010
+AC Milan,In,Antonio Cassano,28,Italy,SS,18500000,UC Sampdoria,3300000,2010
+AC Milan,In,Urby Emanuelson,24,"Netherlands, Suriname",CM,8000000,Ajax Amsterdam,2500000,2010
+AC Milan,In,Attila Filkor,22,Hungary,CM,500000,Inter Milan,1000000,2010
+AC Milan,In,Cristian Daminuta,20,Romania,DM,200000,Inter Milan,1000000,2010
+AC Milan,In,Bruno Montelongo,22,"Uruguay, Italy",RM,600000,CA River Plate Montevideo,398000,2010
+AC Milan,In,Ferdinando Coppola,32,Italy,GK,1000000,Atalanta BC,200000,2010
+AC Milan,In,Mark van Bommel,33,Netherlands,CM,6500000,Bayern Munich,0,2010
+AC Milan,In,Nicola Legrottaglie,34,Italy,CB,1200000,Juventus FC,0,2010
+AC Milan,In,Mario Yepes,34,"Colombia, France",CB,2000000,Chievo Verona,0,2010
+AC Milan,In,Nnamdi Oduamadi,19,Nigeria,LW,50000,Milan Primavera,Other,2010
+AC Milan,In,Alexander Merkel,18,"Kazakhstan, Germany",CM,100000,Milan Primavera,Other,2010
+AC Milan,Out,Klaas-Jan Huntelaar,27,Netherlands,CF,Other,FC Schalke 04,14000000,2010
+AC Milan,Out,Marco Storari,33,Italy,GK,Other,Juventus FC,4500000,2010
+AC Milan,Out,Ronaldinho,30,"Brazil, Spain",LW,Other,CR Flamengo,3000000,2010
+AC Milan,Out,Rodney Strasser,20,Sierra Leone,DM,Other,Genoa CFC,2250000,2010
+AC Milan,Out,Matteo Darmian,20,Italy,RB,4000000,US Palermo,1300000,2010
+AC Milan,Out,Elia Legati,24,Italy,CB,Other,Calcio Padova,660000,2010
+AC Milan,Out,Federico Furlan,19,Italy,LW,75000,Varese 1910,10000,2010
+AC Milan,Out,Wilfred Osuji,19,Nigeria,DM,50000,Varese 1910,10000,2010
+AC Milan,Out,Matteo Bruscagin,20,Italy,RB,150000,US Grosseto FC,1000,2010
+AC Milan,Out,Kakhaber Kaladze,32,Georgia,CB,Other,Genoa CFC,0,2010
+AC Milan,Out,William-Fils Aubameyang,23,"Gabon, France",CB,Other,Kilmarnock FC,0,2010
+AC Milan,Out,Marco Bergamini,22,Italy,CB,Other,AC Renate,0,2010
+AC Milan,Out,Patrick Kalambay,26,"Italy, DR Congo",RM,Other,US Ancona,Other,2010
+AC Milan,Out,Emanuele Orlandi,22,Italy,RM,Other,Carrarese Calcio 1908,Other,2010
+AC Milan,Out,Giuseppe Favalli,38,Italy,LB,Other,Retired,Other,2010
+AC Milan,Out,Dida,36,Brazil,GK,Other,Career break,Other,2010
+ACF Fiorentina,In,Felipe,25,"Brazil, Italy",CB,6500000,Udinese Calcio,6300000,2010
+ACF Fiorentina,In,Gaetano D'Agostino,28,Italy,CM,10000000,Udinese Calcio,4500000,2010
+ACF Fiorentina,In,Alessio Cerci,23,Italy,RW,3500000,AS Roma,4000000,2010
+ACF Fiorentina,In,Neto,21,"Brazil, Italy",GK,1800000,Atlético Paranaense,3500000,2010
+ACF Fiorentina,In,Artur Boruc,30,Poland,GK,9500000,Celtic FC,2500000,2010
+ACF Fiorentina,In,Valon Behrami,25,"Switzerland, Kosovo",DM,8000000,West Ham United,2000000,2010
+ACF Fiorentina,In,Lorenzo Tafi,20,Italy,RB,Other,AC Prato,Other,2010
+ACF Fiorentina,In,Andrea Seculin,19,Italy,GK,400000,Fiorentina Primavera,Other,2010
+ACF Fiorentina,In,Michele Camporese,18,Italy,CB,600000,Fiorentina Primavera,Other,2010
+ACF Fiorentina,Out,Mario Bolatti,25,"Argentina, Italy",DM,Other,Sport Club Internacional,4000000,2010
+ACF Fiorentina,Out,Ondrej Mazuch,21,Czech Republic,CB,Other,RSC Anderlecht,1300000,2010
+ACF Fiorentina,Out,Andrea Paolucci,23,Italy,DM,Other,AS Andria BAT,Other,2010
+ACF Fiorentina,Out,Massimiliano Tagliani,21,Italy,CB,50000,Ravenna Calcio,Other,2010
+ACF Fiorentina,Out,Manuel Nocciolini,21,Italy,CF,Other,US Gavorrano,0,2010
+ACF Fiorentina,Out,Massimo Gobbi,29,Italy,LB,Other,Parma FC,0,2010
+ACF Fiorentina,Out,Samuel Di Carmine,21,Italy,CF,300000,Frosinone Calcio,Other,2010
+ACF Fiorentina,Out,Lorenzo Morelli,22,Italy,CF,Other,AC Prato,Other,2010
+ACF Fiorentina,Out,Giacomo Casoli,21,Italy,CM,150000,Spezia Calcio,Other,2010
+ACF Fiorentina,Out,Piergiuseppe Maritato,21,Italy,CF,Other,AC Reggiana 1919,Other,2010
+ACF Fiorentina,Out,Samuele Bettoni,20,Italy,CB,Other,AC Reggiana 1919,Other,2010
+ACF Fiorentina,Out,Lorenzo Tafi,19,Italy,RB,Other,Prato Youth,Other,2010
+ACF Fiorentina,Out,Cristiano Zanetti,33,Italy,DM,Other,Brescia Calcio,Other,2010
+Udinese Calcio,In,Matej Vydra,18,Czech Republic,CF,50000,FC Banik Ostrava,3000000,2010
+Udinese Calcio,In,Gabriele Angella,21,Italy,CB,800000,FC Empoli,2000000,2010
+Udinese Calcio,In,Germán Denis,28,"Argentina, Italy",CF,4000000,SSC Napoli,2000000,2010
+Udinese Calcio,In,Joel Ekstrand,21,Sweden,CB,1500000,Helsingborgs IF,1800000,2010
+Udinese Calcio,In,Luis Muriel,19,Colombia,CF,1500000,Deportivo Cali,1500000,2010
+Udinese Calcio,In,Marco Motta,24,Italy,RB,6000000,AS Roma,1450000,2010
+Udinese Calcio,In,Pablo Armero,23,Colombia,LM,3000000,Sociedade Esportiva Palmeiras,1200000,2010
+Udinese Calcio,In,Steve Beleck,17,"Cameroon, France",CF,600000,Panthrakikos Komotini,600000,2010
+Udinese Calcio,In,Medhi Benatia,23,"Morocco, France",CB,1200000,Clermont Foot Auvergne 63,0,2010
+Udinese Calcio,In,Carlos Calvo,24,Spain,RW,1600000,Xerez CD,0,2010
+Udinese Calcio,In,Almen Abdi,23,"Switzerland, Kosovo",CM,1600000,Le Mans FC,0,2010
+Udinese Calcio,In,Jacob Akrong,17,Ghana,CB,Other,Liberty Professionals FC U19,0,2010
+Udinese Calcio,In,Mohammed Rabiu,20,Ghana,DM,100000,Liberty Professionals FC,Other,2010
+Udinese Calcio,In,Fernando Forestieri,20,"Italy, Argentina",SS,1600000,Genoa CFC,Other,2010
+Udinese Calcio,In,Fabinho,19,Brazil,Striker,50000,Udinese Primavera,Other,2010
+Udinese Calcio,Out,Aleksandar Luković,27,Serbia,CB,Other,Zenit St. Petersburg,7000000,2010
+Udinese Calcio,Out,Felipe,25,"Brazil, Italy",CB,Other,ACF Fiorentina,6300000,2010
+Udinese Calcio,Out,Gaetano D'Agostino,28,Italy,CM,Other,ACF Fiorentina,4500000,2010
+Udinese Calcio,Out,Barreto,24,"Brazil, Italy",SS,Other,AS Bari,4500000,2010
+Udinese Calcio,Out,Abel Aguilar,25,Colombia,DM,Other,Hércules CF,1500000,2010
+Udinese Calcio,Out,Ritchie Kitoko,22,"Belgium, DR Congo",CM,Other,CD Tenerife,0,2010
+Udinese Calcio,Out,Flavio Lazzari,23,Italy,AM,Other,FC Empoli,0,2010
+Udinese Calcio,Out,Jacob Akrong,18,Ghana,CB,100000,Granada CF B,0,2010
+Udinese Calcio,Out,Andrea Peron,23,Italy,CF,Other,AC Giacomense,Other,2010
+Udinese Calcio,Out,Alain Nef,28,Switzerland,CB,Other,BSC Young Boys,Other,2010
+Udinese Calcio,Out,Federico De Zordo,16,Italy,GK,Other,Sacilese Calcio,Other,2010
+Udinese Calcio,Out,Schumacher,23,"Brazil, Italy",CF,Other,Austria Vienna,Other,2010
+Udinese Calcio,Out,Alemão,21,"Brazil, Italy",CF,Other,Vicenza Calcio,Other,2010
+Udinese Calcio,Out,Ricardo Chará,20,Colombia,CB,Other,FC Empoli,Other,2010
+Udinese Calcio,Out,Fabián Orellana,24,"Chile, Spain",RW,Other,Granada CF,Other,2010
+Udinese Calcio,Out,Ricardo Villar,21,"Argentina, Spain",AM,Other,US Triestina,Other,2010
+Udinese Calcio,Out,Kelvin Matute,22,Cameroon,DM,Other,FC Crotone,Other,2010
+SS Lazio,In,Hernanes,25,Brazil,AM,9000000,São Paulo Futebol Clube,13500000,2010
+SS Lazio,In,Sergio Floccari,28,Italy,CF,10000000,Genoa CFC,8500000,2010
+SS Lazio,In,Giuseppe Sculli,29,Italy,LW,5000000,Genoa CFC,3000000,2010
+SS Lazio,In,Javier Garrido,25,Spain,LB,2500000,Manchester City,2500000,2010
+SS Lazio,In,Álvaro González,25,"Uruguay, Italy",CM,800000,Club Nacional,2000000,2010
+SS Lazio,In,Mark Bresciano,30,"Australia, Italy",CM,4000000,US Palermo,0,2010
+SS Lazio,In,Luis Pedro Cavanda,19,"Belgium, DR Congo",RB,50000,Lazio U19,Other,2010
+SS Lazio,Out,Aleksandar Kolarov,24,Serbia,LB,Other,Manchester City,23860000,2010
+SS Lazio,Out,Eliseu,26,"Portugal, Cape Verde",LB,Other,Málaga CF,2000000,2010
+SS Lazio,Out,Cribari,30,"Brazil, Italy",CB,Other,SSC Napoli,500000,2010
+SS Lazio,Out,Antonio Cinelli,20,Italy,CM,75000,US Sassuolo,200000,2010
+SS Lazio,Out,Alberto Quadri,28,Italy,DM,Other,Chernomorets 1919 Burgas,0,2010
+SS Lazio,Out,Lucas Correa,26,"Argentina, Spain",DM,Other,Varese 1910,0,2010
+SS Lazio,Out,Thomas Hitzlsperger,28,Germany,CM,Other,West Ham United,0,2010
+SS Lazio,Out,Fabio Firmani,32,Italy,CM,Other,Shaanxi Chanba,0,2010
+SS Lazio,Out,Simone Santarelli,21,Italy,GK,Other,US Foggia,0,2010
+SS Lazio,Out,Julio Cruz,35,"Argentina, Spain",CF,Other,Retired,Other,2010
+SS Lazio,Out,Simone Inzaghi,34,Italy,CF,Other,Retired,Other,2010
+SS Lazio,Out,Ousmane Dabo,33,"France, Senegal",DM,Other,Without Club,Other,2010
+SS Lazio,Out,Roberto Baronio,32,Italy,DM,Other,Without Club,Other,2010
+SS Lazio,Out,Sebastiano Siviglia,37,Italy,CB,Other,Retired,Other,2010
+AS Bari,In,Barreto,24,"Brazil, Italy",SS,8000000,Udinese Calcio,4500000,2010
+AS Bari,In,Sergio Almirón,29,"Argentina, Italy",CM,4000000,Juventus FC,2500000,2010
+AS Bari,In,Erik Huseklepp,26,Norway,LW,2500000,SK Brann,1700000,2010
+AS Bari,In,Michele Rinaldi,23,Italy,CB,200000,Rimini FC,0,2010
+AS Bari,In,Kamil Kopunek,26,Slovakia,DM,300000,Spartak Trnava,Other,2010
+AS Bari,In,Abdelkader Ghezzal,25,"Algeria, France",CF,2500000,AC Siena,Other,2010
+AS Bari,In,Marco Crimi,20,Italy,CM,Other,Bari Primavera,Other,2010
+AS Bari,Out,Leonardo Bonucci,23,Italy,CB,Other,Juventus FC,15500000,2010
+AS Bari,Out,Leonardo Pérez,20,"Italy, Argentina",CF,75000,AC Pisa 1909,Other,2010
+AS Bari,Out,Mariano Donda,28,"Argentina, Spain",AM,Other,CD Godoy Cruz Antonio Tomba,0,2010
+AS Bari,Out,Simone Cavalli,31,Italy,CF,Other,AS Andria BAT,0,2010
+AS Bari,Out,Daniele De Vezze,30,Italy,CM,Other,Torino FC,0,2010
+AS Bari,Out,Pedro Kamatà,28,"DR Congo, France",LW,Other,AC Siena,Other,2010
+AS Bari,Out,Filippo Carobbio,30,Italy,CM,Other,AC Siena,Other,2010
+AS Bari,Out,Sergio Almirón,29,"Argentina, Italy",CM,Other,Juventus FC,Other,2010
+AS Bari,Out,Ivan Loseto,22,Italy,LB,Other,US Gavorrano,Other,2010
+AS Bari,Out,Luca Piano,21,Italy,AM,Other,Gela Calcio,Other,2010
+AS Bari,Out,Rey Volpato,23,Italy,CF,Other,AS Livorno,Other,2010
+AS Bari,Out,Riccardo Allegretti,32,Italy,CM,Other,US Grosseto FC,Other,2010
+AS Bari,Out,Filippo Antonelli Agomeri,31,Italy,RW,Other,US Triestina,Other,2010
+AS Bari,Out,Giacinto Allegrini,20,Italy,CB,75000,Without Club,Other,2010
+AS Bari,Out,Cristian Stellini,36,Italy,CB,Other,Retired,Other,2010
+Genoa CFC,In,Miguel Veloso,24,Portugal,DM,11500000,Sporting CP,9000000,2010
+Genoa CFC,In,Rafinha,24,"Brazil, Germany",RB,12000000,FC Schalke 04,8000000,2010
+Genoa CFC,In,Luca Antonelli,23,Italy,LB,3500000,Parma FC,7000000,2010
+Genoa CFC,In,Mattia Destro,19,Italy,CF,1000000,Inter Milan,6500000,2010
+Genoa CFC,In,Abdoulay Konko,26,"France, Morocco",RB,6000000,Sevilla FC,6000000,2010
+Genoa CFC,In,Kevin-Prince Boateng,23,"Ghana, Germany",AM,4000000,Portsmouth FC,5700000,2010
+Genoa CFC,In,Chico Flores,23,Spain,CB,3000000,UD Almería,5000000,2010
+Genoa CFC,In,Eduardo,27,Portugal,GK,7800000,SC Braga,4500000,2010
+Genoa CFC,In,Alberto Paloschi,20,Italy,CF,5000000,Parma FC,4350000,2010
+Genoa CFC,In,Federico Rodríguez,19,"Uruguay, Spain",CF,300000,CA Peñarol,4200000,2010
+Genoa CFC,In,Juraj Kucka,23,Slovakia,CM,2300000,AC Sparta Prague,4000000,2010
+Genoa CFC,In,Riccardo Meggiorini,25,Italy,CF,3200000,Bologna FC 1909,3000000,2010
+Genoa CFC,In,Rodney Strasser,20,Sierra Leone,DM,150000,AC Milan,2250000,2010
+Genoa CFC,In,Linus Hallenius,21,Sweden,CF,400000,Hammarby IF,1800000,2010
+Genoa CFC,In,Diego Ângelo,24,Brazil,CB,1400000,Naval 1º de Maio,1500000,2010
+Genoa CFC,In,Enej Jelenic,18,Slovenia,LM,350000,FC Koper,650000,2010
+Genoa CFC,In,Panagiotis Tachtsidis,19,Greece,DM,1000000,AEK Athens,200000,2010
+Genoa CFC,In,Danilo Russo,23,Italy,GK,250000,Vicenza Calcio,Other,2010
+Genoa CFC,In,Kakhaber Kaladze,32,Georgia,CB,1500000,AC Milan,0,2010
+Genoa CFC,In,Luca Toni,33,Italy,CF,8000000,Bayern Munich,0,2010
+Genoa CFC,In,Gergely Rudolf,25,Hungary,CF,1000000,Debreceni VSC,0,2010
+Genoa CFC,In,Antonio Caracciolo,20,Italy,CB,Other,Pavia Juniores,Other,2010
+Genoa CFC,In,Francesco Acerbi,23,Italy,CB,3000000,Reggina Calcio,Other,2010
+Genoa CFC,In,Emmanuel Ledesma,22,"Argentina, Italy",RW,250000,FC Crotone,Other,2010
+Genoa CFC,In,Mattia Ferraro,20,Italy,RM,50000,Genoa U19,Other,2010
+Genoa CFC,In,Richmond Boakye,17,Ghana,CF,100000,Genoa U19,Other,2010
+Genoa CFC,Out,Andrea Ranocchia,22,Italy,CB,Other,Inter Milan,13000000,2010
+Genoa CFC,Out,Salvatore Bocchetti,23,"Italy, Russia",CB,Other,Rubin Kazan,9500000,2010
+Genoa CFC,Out,Sergio Floccari,28,Italy,CF,Other,SS Lazio,8500000,2010
+Genoa CFC,Out,Raffaele Palladino,26,Italy,LW,Other,Parma FC,6000000,2010
+Genoa CFC,Out,Alberto Paloschi,20,Italy,CF,125000,AC Milan,5000000,2010
+Genoa CFC,Out,Sokratis Papastathopoulos,22,Greece,CB,Other,AC Milan,4500000,2010
+Genoa CFC,Out,Giuseppe Sculli,29,Italy,LW,Other,SS Lazio,3000000,2010
+Genoa CFC,Out,Riccardo Meggiorini,24,Italy,CF,Other,Bologna FC 1909,3000000,2010
+Genoa CFC,Out,Francesco Modesto,28,Italy,LB,Other,Parma FC,2500000,2010
+Genoa CFC,Out,Alberto Zapater,25,Spain,DM,50000,Sporting CP,2000000,2010
+Genoa CFC,Out,Anthony Vanden Borre,23,"Belgium, DR Congo",RB,Other,KRC Genk,0,2010
+Genoa CFC,Out,Stefano Raggio Garibaldi,21,Italy,GK,Other,Chiavari Calcio Caperana,0,2010
+Genoa CFC,Out,Emmanuel Ledesma,22,"Argentina, Italy",RW,Other,Walsall FC,0,2010
+Genoa CFC,Out,Nicholas Costantini,20,Italy,CM,Other,AS Lucchese Libertas,0,2010
+Genoa CFC,Out,Luca Toni,33,Italy,CF,Other,Juventus FC,0,2010
+Genoa CFC,Out,Fabrizio Rondinara,20,Italy,LB,Other,Calcio Lecco 1912,0,2010
+Genoa CFC,Out,Diego Ângelo,24,Brazil,CB,Other,Eskisehirspor,0,2010
+Genoa CFC,Out,Paolo Facchinetti,26,Italy,DM,Other,Savona FBC,Other,2010
+Genoa CFC,Out,Nicolò Antonelli,20,Italy,CB,250000,Savona FBC,Other,2010
+Genoa CFC,Out,Umberto Eusepi,21,Italy,CF,100000,Varese 1910,Other,2010
+Genoa CFC,Out,Andrea Signorini,20,Italy,CB,250000,Benevento Calcio,Other,2010
+Genoa CFC,Out,Emmanuel Ledesma,22,"Argentina, Italy",RW,Other,FC Crotone,Other,2010
+Genoa CFC,Out,Loris Damonte,19,Italy,DM,Other,Forza e Coraggio Alessandria,Other,2010
+Genoa CFC,Out,Diego Rossi,19,Italy,Defender,Other,Sanremese Calcio,Other,2010
+Genoa CFC,Out,Giorgio Parodi,20,Italy,CF,Other,Savona FBC,Other,2010
+Genoa CFC,Out,Fernando Forestieri,20,"Italy, Argentina",SS,700000,Udinese Calcio,Other,2010
+Genoa CFC,Out,Robert Gucher,19,Austria,DM,200000,Frosinone Calcio,Other,2010
+Genoa CFC,Out,Michele Tarallo,29,Italy,CF,Other,Savona FBC,Other,2010
+Genoa CFC,Out,Ivan Juric,34,Croatia,CM,Other,Retired,Other,2010
+Parma FC,In,Andrea Rispoli,21,Italy,RB,1500000,Brescia Calcio,7000000,2010
+Parma FC,In,Blerim Dzemaili,24,"Switzerland, Albania",CM,5000000,Torino FC,7000000,2010
+Parma FC,In,Raffaele Palladino,26,Italy,LW,7000000,Genoa CFC,6000000,2010
+Parma FC,In,Francesco Modesto,28,Italy,LB,2800000,Genoa CFC,2500000,2010
+Parma FC,In,Gabriel Paletta,24,"Italy, Argentina",CB,2500000,CA Boca Juniors,2500000,2010
+Parma FC,In,Valeri Bozhinov,24,"Bulgaria, Italy",CF,6200000,Manchester City,2000000,2010
+Parma FC,In,Gabriele Paonessa,23,Italy,AM,500000,Bologna FC 1909,600000,2010
+Parma FC,In,Paolo Dellafiore,25,"Italy, Argentina",CB,2000000,US Palermo,400000,2010
+Parma FC,In,Milan Djuric,20,"Bosnia-Herzegovina, Italy",CF,1500000,AC Cesena,300000,2010
+Parma FC,In,Alberto Galuppo,25,Italy,CB,100000,AC Cesena,200000,2010
+Parma FC,In,Danilo Pereira,18,"Portugal, Guinea-Bissau",DM,Other,SL Benfica U19,0,2010
+Parma FC,In,Angelo,29,Brazil,RB,1000000,US Lecce,0,2010
+Parma FC,In,Mario Merlonghi,22,Italy,LW,Other,Eretum Monterotondo,0,2010
+Parma FC,In,Filipe Oliveira,26,Portugal,RW,1300000,SC Braga,0,2010
+Parma FC,In,Rolf Feltscher,19,"Venezuela, Switzerland",RB,700000,Grasshopper Club Zurich,0,2010
+Parma FC,In,Massimo Gobbi,29,Italy,LB,2200000,ACF Fiorentina,0,2010
+Parma FC,In,Alain Mendy,20,Senegal,CM,200000,Mantova 1911,0,2010
+Parma FC,In,Marco Pisano,28,Italy,LB,1000000,Torino FC,Other,2010
+Parma FC,In,Fabio Lebran,23,Italy,CB,300000,Rimini FC,Other,2010
+Parma FC,In,Abderrazzak Jadid,27,"Morocco, Italy",CM,400000,Salernitana Calcio 1919,Other,2010
+Parma FC,In,Valerio Mastrelli,22,Italy,Striker,50000,Polisportiva Nuova Campobasso Calcio,Other,2010
+Parma FC,In,Gianluca Lapadula,20,"Peru, Italy",CF,50000,Atletico Roma,Other,2010
+Parma FC,In,Niccolò Galli,22,Italy,CM,200000,US Pergocrema 1932,Other,2010
+Parma FC,In,Amara Konate,20,Cote d'Ivoire,CF,50000,Parma Primavera,Other,2010
+Parma FC,Out,Luca Antonelli,23,Italy,LB,Other,Genoa CFC,7000000,2010
+Parma FC,Out,Alberto Paloschi,20,Italy,CF,125000,Genoa CFC,4350000,2010
+Parma FC,Out,Jonathan Biabiany,22,"France, Guadeloupe",RW,200000,Inter Milan,4200000,2010
+Parma FC,Out,Julio de León,30,Honduras,AM,Other,Shandong Luneng Taishan,775000,2010
+Parma FC,Out,Daniele Paponi,22,Italy,CF,50000,Bologna FC 1909,500000,2010
+Parma FC,Out,Fabio Lebran,23,Italy,CB,Other,UC AlbinoLeffe,150000,2010
+Parma FC,Out,Alessio Tombesi,28,Italy,LB,Other,Atletico Roma,100000,2010
+Parma FC,Out,Mario Merlonghi,22,Italy,LW,100000,FC Fondi 1922,0,2010
+Parma FC,Out,Radek Petr,23,Czech Republic,GK,Other,KAS Eupen,0,2010
+Parma FC,Out,Leandro Martínez,20,"Italy, Argentina",LW,Other,UC AlbinoLeffe,0,2010
+Parma FC,Out,Giacomo Chiazzolino,24,Italy,CM,Other,Polisportiva Nuova Campobasso Calcio,Other,2010
+Parma FC,Out,Alberto Galuppo,24,Italy,CB,Other,AC Cesena,Other,2010
+Parma FC,Out,Stefano Crisci,20,Italy,RW,Other,FC Fondi 1922,Other,2010
+Parma FC,Out,Mattia Ferrato,20,Italy,CB,Other,AC Carpenedolo,Other,2010
+Parma FC,Out,Mattia Pin,22,Italy,Striker,Other,Colorno Calcio,Other,2010
+Parma FC,Out,Valerio Mastrelli,22,Italy,Striker,Other,GC Biaschesi,Other,2010
+Parma FC,Out,Damiano Zenoni,33,Italy,RB,Other,Without Club,Other,2010
+Inter Milan,In,Giampaolo Pazzini,26,Italy,CF,19000000,UC Sampdoria,18000000,2010
+Inter Milan,In,Andrea Ranocchia,22,Italy,CB,10000000,Genoa CFC,13000000,2010
+Inter Milan,In,Jonathan Biabiany,22,"France, Guadeloupe",RW,7500000,Parma FC,4200000,2010
+Inter Milan,In,Luca Tremolada,19,Italy,AM,250000,Piacenza FC,750000,2010
+Inter Milan,In,Marko Livaja,16,Croatia,CF,50000,HNK Hajduk Split,185000,2010
+Inter Milan,In,Luca Castellazzi,34,Italy,GK,3000000,UC Sampdoria,0,2010
+Inter Milan,In,Dennis Esposito,23,Italy,CB,150000,AC Monza Brianza,Other,2010
+Inter Milan,In,Andrea Mei,22,Italy,CB,300000,Piacenza FC,Other,2010
+Inter Milan,In,Luca Caldirola,19,Italy,CB,150000,Inter Milan Primavera,Other,2010
+Inter Milan,In,Joel Obi,19,"Nigeria, Italy",CM,500000,Inter Milan Primavera,Other,2010
+Inter Milan,In,Nwankwo Obiora,18,Nigeria,DM,200000,Inter Milan Primavera,Other,2010
+Inter Milan,Out,Mario Balotelli,20,"Italy, Ghana",CF,650000,Manchester City,29500000,2010
+Inter Milan,Out,Nicolás Burdisso,29,"Argentina, Italy",CB,Other,AS Roma,8000000,2010
+Inter Milan,Out,Ricardo Quaresma,26,Portugal,RW,Other,Besiktas JK,7300000,2010
+Inter Milan,Out,Jonathan Biabiany,22,"France, Guadeloupe",RW,200000,UC Sampdoria,7000000,2010
+Inter Milan,Out,Mattia Destro,19,Italy,CF,500000,Genoa CFC,6500000,2010
+Inter Milan,Out,Luis Jiménez,26,"Chile, Italy",AM,Other,Ternana Calcio,3180000,2010
+Inter Milan,Out,Rene Krhin,20,Slovenia,DM,Other,Bologna FC 1909,2500000,2010
+Inter Milan,Out,Attila Filkor,22,Hungary,CM,Other,AC Milan,1000000,2010
+Inter Milan,Out,Cristian Daminuta,20,Romania,DM,Other,AC Milan,1000000,2010
+Inter Milan,Out,Giacomo Bindi,23,Italy,GK,Other,FC Crotone,0,2010
+Inter Milan,Out,Daniele Pedrelli,22,Italy,LB,Other,Spezia Calcio,0,2010
+Inter Milan,Out,Simone Fautario,23,Italy,LB,Other,Calcio Como,0,2010
+Inter Milan,Out,Mancini,30,"Brazil, Italy",LW,Other,Clube Atlético Mineiro,0,2010
+Inter Milan,Out,Rincón,23,Brazil,CB,Other,Chievo Verona,Other,2010
+Inter Milan,Out,Andrea Mei,21,Italy,CB,Other,Piacenza FC,Other,2010
+Inter Milan,Out,Juri Toppan,20,Italy,CB,Other,Spezia Calcio,Other,2010
+Inter Milan,Out,Dennis Esposito,22,Italy,CB,Other,AC Monza Brianza,Other,2010
+Inter Milan,Out,Francesco Toldo,38,Italy,GK,Other,Retired,Other,2010
+Brescia Calcio,In,Éder,23,"Italy, Brazil",CF,3000000,FC Empoli,4200000,2010
+Brescia Calcio,In,Alessandro Diamanti,27,Italy,AM,5000000,West Ham United,2200000,2010
+Brescia Calcio,In,Panagiotis Kone,22,"Greece, Albania",CM,800000,Iraklis Thessaloniki,800000,2010
+Brescia Calcio,In,Fabio Daprelà,19,"Switzerland, Italy",CB,500000,West Ham United,750000,2010
+Brescia Calcio,In,Jonathas,21,Brazil,CF,800000,AZ Alkmaar,300000,2010
+Brescia Calcio,In,Antonio Filippini,37,Italy,RM,Other,AS Livorno,0,2010
+Brescia Calcio,In,Jonathan Zebina,32,"France, Martinique",CB,1300000,Juventus FC,0,2010
+Brescia Calcio,In,Matteo Sereni,35,Italy,GK,1500000,Torino FC,Other,2010
+Brescia Calcio,In,Cristiano Zanetti,33,Italy,DM,1500000,ACF Fiorentina,Other,2010
+Brescia Calcio,In,Nicola Leali,17,Italy,GK,50000,Brescia Primavera,Other,2010
+Brescia Calcio,In,Frank Kamalu,19,Ghana,CB,Other,Brescia Primavera,Other,2010
+Brescia Calcio,In,Juan Antonio,22,"Argentina, Italy",SS,100000,Without Club,Other,2010
+Brescia Calcio,Out,Andrea Rispoli,21,Italy,RB,150000,Parma FC,7000000,2010
+Brescia Calcio,Out,Riccardo Taddei,30,Italy,LW,Other,US Triestina,Other,2010
+Brescia Calcio,Out,Andrea Caroppo,19,Italy,GK,Other,Hellas Verona,Other,2010
+Brescia Calcio,Out,Sergio Viotti,20,Italy,GK,Other,US Triestina,Other,2010
+Brescia Calcio,Out,Andrea Mantovani,20,Italy,Midfielder,Other,Feralpisalò,Other,2010
+Brescia Calcio,Out,Federico Caon,20,Italy,Midfielder,Other,Solbiatese Arno Calcio,Other,2010
+Brescia Calcio,Out,Matteo Sereni,36,Italy,GK,Other,Retired,Other,2010
+Brescia Calcio,Out,Benjamin Owusu,21,Ghana,LB,Other,Without Club,Other,2010
+AS Roma,In,Nicolás Burdisso,29,"Argentina, Italy",CB,7500000,Inter Milan,8000000,2010
+AS Roma,In,Aleandro Rosi,23,Italy,RB,2500000,AC Siena,1900000,2010
+AS Roma,In,Bogdan Lobonț,32,Romania,GK,2000000,FC Dinamo 1948,800000,2010
+AS Roma,In,Stefano Guberti,26,Italy,LW,3500000,UC Sampdoria,Other,2010
+AS Roma,In,Fábio Simplício,30,Brazil,CM,9500000,US Palermo,0,2010
+AS Roma,In,Adriano,28,Brazil,CF,8000000,CR Flamengo,0,2010
+AS Roma,In,Federico Maria Erba,21,Italy,CB,150000,AC Cesena,Other,2010
+AS Roma,In,Alexandru Pena,20,Romania,GK,50000,Roma U19,Other,2010
+AS Roma,Out,Alessio Cerci,23,Italy,RW,Other,ACF Fiorentina,4000000,2010
+AS Roma,Out,Júlio Baptista,29,"Brazil, Spain",AM,Other,Málaga CF,2500000,2010
+AS Roma,Out,Stefano Guberti,25,Italy,LW,Other,UC Sampdoria,1500000,2010
+AS Roma,Out,Marco Motta,24,Italy,RB,Other,Udinese Calcio,1450000,2010
+AS Roma,Out,Marco Andreolli,24,Italy,CB,Other,Chievo Verona,800000,2010
+AS Roma,Out,Riccardo Brosco,19,Italy,CB,200000,US Triestina,101000,2010
+AS Roma,Out,Adriano,29,Brazil,CF,Other,Sport Club Corinthians Paulista,0,2010
+AS Roma,Out,Mauro Esposito,31,Italy,RW,Other,Atletico Roma,0,2010
+AS Roma,Out,Adrian Piț,27,Romania,LM,Other,Universitatea Cluj,0,2010
+AS Roma,Out,Emiliano Tortolano,20,Italy,LW,Other,US Latina Calcio,0,2010
+AS Roma,Out,Ricardo Faty,24,"Senegal, France",DM,Other,Aris Thessaloniki,0,2010
+AS Roma,Out,Artur Moraes,29,"Brazil, Italy",GK,Other,SC Braga,0,2010
+AS Roma,Out,Keivan Zarineh,25,"Iran, Italy",CF,Other,US Latina Calcio,Other,2010
+AS Roma,Out,Federico Maria Erba,21,Italy,CB,Other,US Latina Calcio,Other,2010
+AS Roma,Out,Claudio Della Penna,21,Italy,CM,Other,Ternana Calcio,Other,2010
+AS Roma,Out,Alessandro Malomo,19,Italy,CB,200000,AC Prato,Other,2010
+AS Roma,Out,Daniele Sciarra,18,Italy,SS,Other,SF Aversa Normanna,Other,2010
+AS Roma,Out,Max Tonetto,35,Italy,LB,Other,Retired,Other,2010
+AS Roma,Out,João Paulo,21,"Brazil, Italy",RM,Other,Without Club,Other,2010

@@ -1,0 +1,487 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+AC Fiorentina,In,Ezequiel González,20,"Argentina, Italy",AM,Other,CA Rosario Central,5340000,2001
+AC Fiorentina,In,Mirko Benin,23,Italy,AM,Other,Ternana Calcio,Other,2001
+AC Fiorentina,In,Marco Franceschetti,34,Italy,Midfielder,Other,Hellas Verona,Other,2001
+AC Fiorentina,In,Mario Cassano,17,Italy,GK,Other,AC Voghera,Other,2001
+AC Fiorentina,In,Angelo Palombo,19,Italy,DM,Other,Fiorentina Primavera,Other,2001
+AC Fiorentina,In,Luca Ceccarelli,18,Italy,CB,Other,Fiorentina Primavera,Other,2001
+AC Fiorentina,In,Maurizio Ganz,33,Italy,CF,Other,Without Club,Other,2001
+AC Fiorentina,Out,Rui Costa,29,Portugal,AM,Other,AC Milan,41320000,2001
+AC Fiorentina,Out,Francesco Toldo,29,Italy,GK,Other,Inter Milan,26500000,2001
+AC Fiorentina,Out,Tomas Repka,27,Czech Republic,CB,Other,West Ham United,8250000,2001
+AC Fiorentina,Out,Leandro Amaral,23,"Brazil, Italy",CF,Other,Grêmio Foot-Ball Porto Alegrense,0,2001
+AC Fiorentina,Out,Mauro Bressan,30,Italy,DM,Other,AC Venezia 1907,Other,2001
+AC Fiorentina,Out,Giacomo Bonora,21,Italy,LB,Other,Unknown,Other,2001
+AC Fiorentina,Out,Mattia Passarini,20,Italy,GK,Other,US Sassuolo,Other,2001
+Piacenza FC,In,Matuzalém,21,"Brazil, Italy",DM,Other,SSC Napoli,3100000,2001
+Piacenza FC,In,Dario Hübner,34,Italy,CF,Other,Brescia Calcio,3000000,2001
+Piacenza FC,In,Bogdan Patrascu,22,Romania,DM,Other,Litex Lovech,1550000,2001
+Piacenza FC,In,Eusebio Di Francesco,31,Italy,CM,Other,AS Roma,1030000,2001
+Piacenza FC,In,Matteo Guardalben,27,Italy,GK,Other,AC Parma,780000,2001
+Piacenza FC,In,Amauri,21,"Italy, Brazil",CF,Other,AC Parma,200000,2001
+Piacenza FC,In,Filippo Cristante,24,Italy,CB,Other,US Ravenna,Other,2001
+Piacenza FC,In,Paolo Orlandoni,28,Italy,GK,Other,Reggina Calcio,Other,2001
+Piacenza FC,In,Giuseppe Cardone,27,Italy,RB,Other,Vicenza Calcio,Other,2001
+Piacenza FC,In,Nicola Mora,21,Italy,LB,Other,Torino Calcio,Other,2001
+Piacenza FC,Out,Flavio Roma,27,Italy,GK,Other,AS Monaco,8500000,2001
+Piacenza FC,Out,Adolfo Daniele Speranza,21,Italy,CM,Other,US Salernitana,0,2001
+Piacenza FC,Out,Paolo Cristallini,29,Italy,AM,Other,Vicenza Calcio,Other,2001
+Piacenza FC,Out,Massimo Rastelli,32,Italy,RW,Other,SSC Napoli,Other,2001
+Piacenza FC,Out,Matteo Savioni,18,Italy,Midfielder,Other,US Pro Vercelli,Other,2001
+Piacenza FC,Out,Gianpietro Piovani,33,Italy,AM,Other,AS Livorno,Other,2001
+Piacenza FC,Out,Francesco Zitolo,19,Italy,AM,Other,AC Pisa 1909,Other,2001
+Piacenza FC,Out,Alessandro Colombo,18,Italy,Midfielder,Other,AS Biellese,Other,2001
+Piacenza FC,Out,Stefano Sacchetti,28,Italy,CB,Other,UC Sampdoria,Other,2001
+Piacenza FC,Out,Andrea Tagliaferri,22,Italy,Midfielder,Other,Spezia Calcio 1906,Other,2001
+Piacenza FC,Out,Francesco Palmieri,33,Italy,CF,Other,AS Bari,Other,2001
+Piacenza FC,Out,Matteo Giovagnoli,18,Italy,GK,Other,Retired,Other,2001
+US Lecce,In,Javier Chevantón,20,"Uruguay, Spain",CF,Other,Danubio FC,7000000,2001
+US Lecce,In,Bruno Cirillo,24,Italy,CB,Other,Inter Milan,3400000,2001
+US Lecce,In,Djuric Winklaar,19,"Curacao, Netherlands",LM,Other,SC Heerenveen U19,1550000,2001
+US Lecce,In,Gheorghe Popescu,33,Romania,CB,Other,Galatasaray,1030000,2001
+US Lecce,In,Sebastjan Cimirotic,26,Slovenia,CF,Other,NK Olimpija Ljubljana,700000,2001
+US Lecce,In,Philippe Billy,19,France,RB,Other,Stade Lavallois,0,2001
+US Lecce,In,Cristian Silvestri,26,Italy,CB,Other,Cosenza Calcio 1914,Other,2001
+US Lecce,In,Lorenzo Stovini,24,Italy,CB,Other,Reggina Calcio,Other,2001
+US Lecce,In,Klas Ingesson,32,Sweden,DM,Other,Olympique Marseille,Other,2001
+US Lecce,In,Marco De Braco,22,Italy,Defender,Other,Unknown,Other,2001
+US Lecce,In,Guillermo Giacomazzi,23,"Uruguay, Italy",CM,Other,CA Peñarol,Other,2001
+US Lecce,In,Matteo Superbi,32,Italy,Midfielder,Other,FC Crotone,Other,2001
+US Lecce,In,Giorgio Frezzolini,25,Italy,GK,Other,Chievo Verona,Other,2001
+US Lecce,In,Marco Testa,18,Italy,CM,Other,Lecce Primavera,Other,2001
+US Lecce,Out,Cristiano Lucarelli,25,Italy,CF,Other,Torino Calcio,10000000,2001
+US Lecce,Out,Dario Dainelli,22,Italy,CB,Other,FC Empoli,2320000,2001
+US Lecce,Out,Stéphane Coqu,19,France,GK,Other,Sora Calcio 1907,0,2001
+US Lecce,Out,Mark Edusei,24,"Ghana, Italy",DM,Other,Cosenza Calcio 1914,Other,2001
+US Lecce,Out,William Viali,26,Italy,CB,Other,AC Venezia 1907,Other,2001
+US Lecce,Out,Matteo Superbi,32,Italy,Midfielder,Other,US Salernitana,Other,2001
+US Lecce,Out,Diego Mateo,22,"Argentina, Spain",DM,Other,Racing Santander,Other,2001
+US Lecce,Out,Massimo Lotti,32,Italy,GK,Other,AC Arezzo,Other,2001
+Atalanta BC,In,Gianni Comandini,24,Italy,CF,Other,AC Milan,15500000,2001
+Atalanta BC,In,Luca Saudati,23,Italy,CF,Other,AC Milan,9300000,2001
+Atalanta BC,In,Luigi Sala,27,Italy,CB,Other,AC Milan,3500000,2001
+Atalanta BC,In,Massimo Taibi,31,Italy,GK,Other,Reggina Calcio,0,2001
+Atalanta BC,In,Alex Calderoni,25,Italy,GK,Other,Calcio Monza,Other,2001
+Atalanta BC,In,Paolo Foglio,26,Italy,RB,Other,Chievo Verona,Other,2001
+Atalanta BC,In,Pierluigi Orlandini,28,Italy,RM,Other,Brescia Calcio,Other,2001
+Atalanta BC,In,Alessandro Rinaldi,26,Italy,RB,Other,AS Roma,Other,2001
+Atalanta BC,In,Ousmane Dabo,24,"France, Senegal",DM,Other,AC Parma,Other,2001
+Atalanta BC,In,Corrado Colombo,21,Italy,CF,Other,Torino Calcio,Other,2001
+Atalanta BC,In,Fabiano Medina,19,Brazil,CB,Other,Esporte Clube Vitória,Other,2001
+Atalanta BC,In,Luca Cavalli,23,Italy,CM,Other,AC Pro Sesto,Other,2001
+Atalanta BC,In,Yuri Breviario,18,Italy,CM,Other,Atalanta Primavera,Other,2001
+Atalanta BC,In,Nicholas Caglioni,18,Italy,GK,Other,Atalanta Primavera,Other,2001
+Atalanta BC,In,Piá,19,"Brazil, Italy",LW,Other,Atalanta Primavera,Other,2001
+Atalanta BC,In,Riccardo Montolivo,16,"Italy, Germany",DM,Other,Atalanta Primavera,Other,2001
+Atalanta BC,In,Vinicio Espinal,18,"Dominican Republic, Italy",RM,Other,Atalanta Primavera,Other,2001
+Atalanta BC,In,Simone Padoin,17,Italy,CM,Other,Atalanta Primavera,Other,2001
+Atalanta BC,In,Joelson,17,"Brazil, Italy",RW,Other,Atalanta Primavera,Other,2001
+Atalanta BC,Out,Massimo Donati,20,Italy,DM,Other,AC Milan,15000000,2001
+Atalanta BC,Out,Ivan Pelizzoli,20,Italy,GK,Other,AS Roma,14000000,2001
+Atalanta BC,Out,José Espinal,18,"Dominican Republic, Italy",LW,Other,Alzano Virescit,0,2001
+Atalanta BC,Out,Cristian Zenoni,24,Italy,RB,Other,AC Milan,Other,2001
+Atalanta BC,Out,Luca Tomasig,18,Italy,GK,Other,AS Pozzuolo Calcio,Other,2001
+Atalanta BC,Out,Stefano Lorenzi,24,Italy,CB,Other,Chievo Verona,Other,2001
+Atalanta BC,Out,Fabio Gallo,30,Italy,DM,Other,Ternana Calcio,Other,2001
+Atalanta BC,Out,Adrian Madaschi,18,Australia,CB,Other,Calcio Monza,Other,2001
+Atalanta BC,Out,Walter Bressan,20,Italy,GK,Other,Spezia Calcio 1906,Other,2001
+Atalanta BC,Out,Matteo Gritti,21,Italy,GK,Other,Galbiatese Oggiono,Other,2001
+Atalanta BC,Out,Sebastiano Siviglia,28,Italy,CB,Other,AS Roma,Other,2001
+Atalanta BC,Out,Marco Nappi,35,Italy,SS,Other,Ternana Calcio,Other,2001
+Atalanta BC,Out,Pierre Regonesi,22,Italy,LB,Other,UC AlbinoLeffe,Other,2001
+Atalanta BC,Out,Maurizio Ganz,32,Italy,CF,Other,Without Club,Other,2001
+AC Venezia 1907,In,Joachim Björklund,30,Sweden,CB,Other,Valencia CF,4000000,2001
+AC Venezia 1907,In,Daniel Andersson,23,Sweden,DM,Other,AS Bari,2500000,2001
+AC Venezia 1907,In,Federico Magallanes,25,"Uruguay, Italy",CF,Other,Defensor Sporting Club,0,2001
+AC Venezia 1907,In,Mario Cvitanovic,26,Croatia,CB,Other,Hellas Verona,0,2001
+AC Venezia 1907,In,Jimmy Algérino,29,France,RB,Other,Paris Saint-Germain,0,2001
+AC Venezia 1907,In,Stefano Bellè,24,Italy,LW,Other,L'Aquila 1927,Other,2001
+AC Venezia 1907,In,Valentino Lai,17,"Sweden, Italy",CM,Other,Malmö FF U19,Other,2001
+AC Venezia 1907,In,Francesco Bison,20,Italy,GK,Other,US Città di Jesolo,Other,2001
+AC Venezia 1907,In,Mauro Bressan,30,Italy,DM,Other,AC Fiorentina,Other,2001
+AC Venezia 1907,In,Marcone,23,"Qatar, Brazil",CB,Other,Esporte Clube Vitória,Other,2001
+AC Venezia 1907,In,Roberto Merenda,17,Italy,CB,Other,US Fiorenzuola 1922,Other,2001
+AC Venezia 1907,In,William Viali,26,Italy,CB,Other,US Lecce,Other,2001
+AC Venezia 1907,In,Franck Ongfiang,16,Cameroon,LM,Other,FC Girondins Bordeaux B,Other,2001
+AC Venezia 1907,Out,Joachim Björklund,30,Sweden,CB,Other,Sunderland AFC,2230000,2001
+AC Venezia 1907,Out,Daniel Niccolini,18,Italy,CB,Other,US Catanzaro,0,2001
+AC Venezia 1907,Out,Michael Scheuber,19,Italy,Midfielder,Other,ASDC Verbania,0,2001
+AC Venezia 1907,Out,Gianluca Luppi,34,Italy,CB,Other,SSC Napoli,0,2001
+AC Venezia 1907,Out,Paulo da Silva,21,Paraguay,CB,Other,Cosenza Calcio 1914,0,2001
+AC Venezia 1907,Out,Jimmy Algérino,30,France,RB,Other,FC Sochaux-Montbéliard,0,2001
+AC Venezia 1907,Out,Salvatore Masiello,19,Italy,LB,Other,AC Lumezzane,Other,2001
+AC Venezia 1907,Out,Paolo Foglio,25,Italy,RB,Other,Chievo Verona,Other,2001
+AC Venezia 1907,Out,Tommaso Toffanin,18,Italy,Midfielder,Other,Calcio Padova,Other,2001
+AC Venezia 1907,Out,Marco Cento,25,Italy,Midfielder,Other,Unknown,Other,2001
+AC Venezia 1907,Out,Mariano Sotgia,32,Italy,RW,Other,Calcio Padova,Other,2001
+AC Venezia 1907,Out,Alessio Bandieri,27,Italy,GK,Other,Calcio Padova,Other,2001
+AC Venezia 1907,Out,Giampiero Maini,29,Italy,CM,Other,AC Parma,Other,2001
+AC Venezia 1907,Out,Pablo Pinones-Arce,19,"Sweden, Chile",CF,Other,Hammarby IF,Other,2001
+AC Venezia 1907,Out,Runar Berg,31,Norway,CM,Other,FK Bodø/Glimt,Other,2001
+AC Venezia 1907,Out,Francesco Pedone,33,Italy,RM,Other,Como Calcio,Other,2001
+AC Venezia 1907,Out,Michael Konsel,39,Austria,GK,Other,Retired,Other,2001
+Juventus FC,In,Gianluigi Buffon,23,Italy,GK,Other,AC Parma,52880000,2001
+Juventus FC,In,Pavel Nedved,28,"Czech Republic, Italy",LM,Other,SS Lazio,45000000,2001
+Juventus FC,In,Lilian Thuram,29,"France, Guadeloupe",CB,Other,AC Parma,36150000,2001
+Juventus FC,In,Marcelo Salas,26,Chile,CF,Other,SS Lazio,25000000,2001
+Juventus FC,In,Cristian Zenoni,24,Italy,RB,Other,AC Milan,15500000,2001
+Juventus FC,In,Nicola Amoruso,26,Italy,CF,Other,SSC Napoli,5500000,2001
+Juventus FC,In,Jaroslav Sedivec,20,Czech Republic,LW,Other,FC Viktoria Plzen,2100000,2001
+Juventus FC,In,Landry Bonnefoi,18,France,GK,Other,AS Cannes,Other,2001
+Juventus FC,In,Alessandro Frara,18,Italy,DM,Other,Juventus Primavera,Other,2001
+Juventus FC,In,Felice Piccolo,17,Italy,CB,Other,Juventus Primavera,Other,2001
+Juventus FC,In,Tomás Guzmán,19,Paraguay,AM,Other,Juventus Primavera,Other,2001
+Juventus FC,Out,Zinédine Zidane,29,"France, Algeria",AM,Other,Real Madrid,77500000,2001
+Juventus FC,Out,Filippo Inzaghi,27,Italy,CF,Other,AC Milan,36150000,2001
+Juventus FC,Out,Jonathan Bachini,26,Italy,LM,Other,AC Parma,15000000,2001
+Juventus FC,Out,Darko Kovačević,27,Serbia,CF,Other,SS Lazio,15000000,2001
+Juventus FC,Out,Edwin van der Sar,30,Netherlands,GK,Other,Fulham FC,10300000,2001
+Juventus FC,Out,Giorgio Perelli,17,Italy,Midfielder,Other,Valenzana Calcio,Other,2001
+Juventus FC,Out,Piero Spina,20,Italy,GK,Other,Valenzana Calcio,Other,2001
+Juventus FC,Out,Fabián O'Neill,28,Uruguay,AM,Other,AC Perugia,Other,2001
+Juventus FC,Out,Juan Esnáider,28,"Argentina, Spain",CF,Other,CA River Plate,Other,2001
+Juventus FC,Out,Daniel Fonseca,32,"Uruguay, Italy",CF,Other,Club Nacional,Other,2001
+Juventus FC,Out,Riccardo Bonetto,22,Italy,LB,Other,FC Empoli,Other,2001
+Juventus FC,Out,Marco Gorzegno,20,Italy,Defender,Other,SEF Torres 1903,Other,2001
+Torino Calcio,In,Cristiano Lucarelli,25,Italy,CF,Other,US Lecce,10000000,2001
+Torino Calcio,In,José María Franco,22,"Uruguay, Italy",CF,Other,CA Peñarol,7200000,2001
+Torino Calcio,In,Simone Vergassola,25,Italy,DM,Other,UC Sampdoria,3700000,2001
+Torino Calcio,In,Yksel Osmanovski,24,"Sweden, North Macedonia",LM,Other,AS Bari,3500000,2001
+Torino Calcio,In,Riccardo Fissore,21,Italy,CB,Other,Inter Milan,1030000,2001
+Torino Calcio,In,Vítor Silva,19,Portugal,RW,Other,Boavista FC Y19,0,2001
+Torino Calcio,In,Alessandro Cibocchi,19,Italy,LB,Other,Ternana Calcio,Other,2001
+Torino Calcio,In,Gianluca Comotto,22,Italy,RB,Other,Vicenza Calcio,Other,2001
+Torino Calcio,In,Benoît Cauet,32,France,CM,Other,Inter Milan,Other,2001
+Torino Calcio,In,Tiziano Turchetti,21,Italy,Striker,Other,Ancona Calcio,Other,2001
+Torino Calcio,In,Gabriele Paoletti,23,Italy,GK,Other,L'Aquila 1927,Other,2001
+Torino Calcio,In,Giovanni Marchese,16,Italy,LB,Other,Torino Primavera,Other,2001
+Torino Calcio,Out,Davide Mandelli,24,Italy,CB,Other,AC Siena,Other,2001
+Torino Calcio,Out,Krunoslav Jurcic,31,Croatia,DM,Other,UC Sampdoria,Other,2001
+Torino Calcio,Out,Stefan Schwoch,31,Italy,CF,Other,Vicenza Calcio,Other,2001
+Torino Calcio,Out,Jacopo Mariani,18,Italy,Midfielder,Other,Pro Patria Gallaratese GB,Other,2001
+Torino Calcio,Out,Gustavo Méndez,30,Uruguay,RB,Other,Club Nacional,Other,2001
+Torino Calcio,Out,Corrado Colombo,21,Italy,CF,Other,Atalanta BC,Other,2001
+Torino Calcio,Out,Edoardo Artistico,32,Italy,CF,Other,FC Crotone,Other,2001
+Torino Calcio,Out,Luigi Panarelli,25,Italy,RB,Other,FC Crotone,Other,2001
+Torino Calcio,Out,Mirko Cudini,27,Italy,CB,Other,Cagliari Calcio,Other,2001
+Torino Calcio,Out,Fabio Tricarico,31,Italy,CM,Other,UC Sampdoria,Other,2001
+Torino Calcio,Out,Nicola Mora,21,Italy,LB,Other,Piacenza FC,Other,2001
+Torino Calcio,Out,Gennaro Scarlato,24,Italy,CB,Other,Udinese Calcio,Other,2001
+Torino Calcio,Out,Luca Pastine,30,Italy,GK,Other,Without Club,Other,2001
+Torino Calcio,Out,Alessandro Nista,35,Italy,GK,Other,Retired,Other,2001
+Hellas Verona,In,Mario Frick,26,"Liechtenstein, Switzerland",CF,Other,FC Zürich,1500000,2001
+Hellas Verona,In,Ruslan Nigmatullin,27,Russia,GK,Other,Lokomotiv Moskau,0,2001
+Hellas Verona,In,Nicola Di Liso,26,Italy,CB,Other,Cagliari Calcio,Other,2001
+Hellas Verona,In,Nicola Diliso,26,Italy,RB,Other,Cagliari Calcio,Other,2001
+Hellas Verona,In,Davide Mandorlini,17,Italy,CB,Other,US Ravenna,Other,2001
+Hellas Verona,In,Luca Matteassi,22,Italy,RW,Other,US Brescello,Other,2001
+Hellas Verona,In,Fabio Alterio,18,Italy,CF,Other,Hellas Verona Primavera,Other,2001
+Hellas Verona,Out,Martin Laursen,23,Denmark,CB,Other,AC Parma,9300000,2001
+Hellas Verona,Out,Alberto Pomini,20,Italy,GK,Other,San Marino,0,2001
+Hellas Verona,Out,Mario Cvitanovic,26,Croatia,CB,Other,AC Venezia 1907,0,2001
+Hellas Verona,Out,Dario Biasi,21,Italy,CB,Other,FC Pavia 1911,Other,2001
+Hellas Verona,Out,Marco Fummo,20,Italy,SS,Other,US Poggibonsi,Other,2001
+Hellas Verona,Out,Ivan Rajcic,20,Croatia,CM,Other,Chieti Calcio,Other,2001
+Hellas Verona,Out,Marco Franceschetti,34,Italy,Midfielder,Other,AC Fiorentina,Other,2001
+Hellas Verona,Out,Andrea Corrent,19,Italy,Midfielder,Other,Legnano AC,Other,2001
+Hellas Verona,Out,Luigi Apolloni,34,Italy,CB,Other,Retired,Other,2001
+Inter Milan,In,Francesco Toldo,29,Italy,GK,Other,AC Fiorentina,26500000,2001
+Inter Milan,In,Sérgio Conceição,26,Portugal,RW,Other,AC Parma,18000000,2001
+Inter Milan,In,Adriano,19,Brazil,CF,Other,CR Flamengo,13190000,2001
+Inter Milan,In,Mohamed Kallon,21,Sierra Leone,CF,Other,Vicenza Calcio,13000000,2001
+Inter Milan,In,Cristiano Zanetti,24,Italy,DM,Other,AS Roma,11000000,2001
+Inter Milan,In,Marco Materazzi,27,Italy,CB,Other,AC Perugia,10500000,2001
+Inter Milan,In,Nelson Vivas,31,Argentina,RB,Other,Arsenal FC,7000000,2001
+Inter Milan,In,Jonatan Binotto,26,Italy,RW,Other,Bologna FC 1909,6200000,2001
+Inter Milan,In,Gonzalo Sorondo,21,"Uruguay, Brazil",CB,Other,Defensor Sporting Club,6000000,2001
+Inter Milan,In,Paolo Ginestra,22,Italy,GK,Other,AC Milan,3500000,2001
+Inter Milan,In,Alberto Fontana,34,Italy,GK,Other,SSC Napoli,3000000,2001
+Inter Milan,In,Stefano Lombardi,24,Italy,CB,Other,AC Perugia,500000,2001
+Inter Milan,In,Emre Belözoğlu,20,Türkiye,CM,Other,Galatasaray,0,2001
+Inter Milan,In,Okan Buruk,27,Türkiye,RM,Other,Galatasaray,0,2001
+Inter Milan,In,Alessandro Frau,24,Italy,AM,Other,AS Roma,Other,2001
+Inter Milan,In,Pasquale Padalino,28,Italy,CB,Other,Bologna FC 1909,Other,2001
+Inter Milan,In,Drazen Brncic,29,"Croatia, Belgium",CM,Other,AC Milan,Other,2001
+Inter Milan,In,Andrés Guglielminpietro,27,"Argentina, Italy",LM,Other,AC Milan,Other,2001
+Inter Milan,Out,Robbie Keane,20,Ireland,CF,Other,Leeds United,18000000,2001
+Inter Milan,Out,Andrea Pirlo,22,Italy,DM,Other,AC Milan,17040000,2001
+Inter Milan,Out,Christian Panucci,28,Italy,RB,Other,AS Monaco,6710000,2001
+Inter Milan,Out,Fabio Macellari,26,Italy,LB,Other,Bologna FC 1909,6200000,2001
+Inter Milan,Out,Matteo Ferrari,21,"Italy, Guinea",CB,Other,AC Parma,5160000,2001
+Inter Milan,Out,Bruno Cirillo,24,Italy,CB,Other,US Lecce,3400000,2001
+Inter Milan,Out,Paulo Costa,21,Portugal,RW,Other,FC Porto,3000000,2001
+Inter Milan,Out,Riccardo Fissore,21,Italy,CB,Other,Torino Calcio,1030000,2001
+Inter Milan,Out,Giuseppe Ticli,22,Italy,LM,Other,AC Reggiana,516000,2001
+Inter Milan,Out,Marco Ballotta,37,Italy,GK,Other,Modena FC,0,2001
+Inter Milan,Out,Tiago Henrique,19,Brazil,RW,Other,Sport Club Corinthians Paulista,0,2001
+Inter Milan,Out,Hakan Şükür,30,Türkiye,CF,Other,AC Parma,0,2001
+Inter Milan,Out,Vladimir Jugovic,31,"Serbia, Austria",CM,Other,AS Monaco,0,2001
+Inter Milan,Out,Laurent Blanc,35,France,CB,Other,Manchester United,0,2001
+Inter Milan,Out,Luca Masaracchio,18,Italy,Defender,Other,Valenzana Calcio,Other,2001
+Inter Milan,Out,Cyril Domoraud,29,"Cote d'Ivoire, France",CB,Other,AC Milan,Other,2001
+Inter Milan,Out,Riccardo Ramazzotti,21,Italy,Defender,Other,AS Gubbio 1910,Other,2001
+Inter Milan,Out,Alessandro Frau,24,Italy,AM,Other,US Viterbese,Other,2001
+Inter Milan,Out,Benoît Cauet,32,France,CM,Other,Torino Calcio,Other,2001
+Inter Milan,Out,Salvatore Fresi,28,Italy,CB,Other,Bologna FC 1909,Other,2001
+Inter Milan,Out,Cristian Brocchi,25,Italy,CM,Other,AC Milan,Other,2001
+Inter Milan,Out,Alonso Piola,21,"Italy, Brazil",CF,Other,AC Pro Sesto,Other,2001
+AC Milan,In,Rui Costa,29,Portugal,AM,Other,AC Fiorentina,41320000,2001
+AC Milan,In,Filippo Inzaghi,27,Italy,CF,Other,Juventus FC,36150000,2001
+AC Milan,In,Andrea Pirlo,22,Italy,DM,Other,Inter Milan,17040000,2001
+AC Milan,In,Javi Moreno,26,Spain,CF,Other,Deportivo Alavés,16000000,2001
+AC Milan,In,Massimo Donati,20,Italy,DM,Other,Atalanta BC,15000000,2001
+AC Milan,In,Cosmin Contra,25,"Romania, Spain",RB,Other,Deportivo Alavés,7000000,2001
+AC Milan,In,Ümit Davala,28,Türkiye,RM,Other,Galatasaray,5000000,2001
+AC Milan,In,Nicola Corrent,21,Italy,CM,Other,US Salernitana,3620000,2001
+AC Milan,In,Vitaliy Kutuzov,21,Belarus,CF,Other,BATE Borisov,3500000,2001
+AC Milan,In,Cristian Zenoni,24,Italy,RB,Other,Atalanta BC,Other,2001
+AC Milan,In,Luca Saudati,23,Italy,CF,Other,AC Perugia,Other,2001
+AC Milan,In,Cyril Domoraud,29,"Cote d'Ivoire, France",CB,Other,Inter Milan,Other,2001
+AC Milan,In,Maurizio Domizzi,21,Italy,CB,Other,SS Lazio,Other,2001
+AC Milan,In,Cristian Brocchi,25,Italy,CM,Other,Inter Milan,Other,2001
+AC Milan,In,Mohamed Sarr,17,"Senegal, Belgium",CB,Other,Milan Primavera,Other,2001
+AC Milan,Out,Gianni Comandini,24,Italy,CF,Other,Atalanta BC,15500000,2001
+AC Milan,Out,Cristian Zenoni,24,Italy,RB,Other,Juventus FC,15500000,2001
+AC Milan,Out,Luca Saudati,23,Italy,CF,Other,Atalanta BC,9300000,2001
+AC Milan,Out,Paolo Ginestra,22,Italy,GK,Other,Inter Milan,3500000,2001
+AC Milan,Out,Luigi Sala,27,Italy,CB,Other,Atalanta BC,3500000,2001
+AC Milan,Out,Federico Giunti,29,Italy,DM,Other,Brescia Calcio,950000,2001
+AC Milan,Out,Zvonimir Boban,32,Croatia,AM,Other,Celta de Vigo,0,2001
+AC Milan,Out,Taribo West,27,Nigeria,CB,Other,1.FC Kaiserslautern,0,2001
+AC Milan,Out,Oliver Bierhoff,33,Germany,CF,Other,AS Monaco,0,2001
+AC Milan,Out,Michele Ferri,20,Italy,CB,Other,AC Cesena,Other,2001
+AC Milan,Out,Marco Ciasullo,18,Italy,GK,Other,AC Mestre,Other,2001
+AC Milan,Out,Drazen Brncic,29,"Croatia, Belgium",CM,Other,Inter Milan,Other,2001
+AC Milan,Out,Andrés Guglielminpietro,27,"Argentina, Italy",LM,Other,Inter Milan,Other,2001
+AC Milan,Out,Matteo Contini,21,Italy,CB,Other,Calcio Monza,Other,2001
+SS Lazio,In,Gaizka Mendieta,27,Spain,RM,Other,Valencia CF,48000000,2001
+SS Lazio,In,Jaap Stam,29,Netherlands,CB,Other,Manchester United,25750000,2001
+SS Lazio,In,Stefano Fiore,26,Italy,AM,Other,Udinese Calcio,25000000,2001
+SS Lazio,In,Darko Kovačević,27,Serbia,CF,Other,Juventus FC,15000000,2001
+SS Lazio,In,Fabio Liverani,25,"Italy, Somalia",DM,Other,AC Perugia,13000000,2001
+SS Lazio,In,Giuliano Giannichedda,26,Italy,DM,Other,Udinese Calcio,7500000,2001
+SS Lazio,In,César,26,"Brazil, Italy",LM,Other,AD São Caetano (SP),5000000,2001
+SS Lazio,In,Felice Evacuo,18,Italy,CF,Other,Football Club Turris 1944,Other,2001
+SS Lazio,In,Emanuele Matzuzzi,25,Italy,Midfielder,Other,UC Sampdoria,Other,2001
+SS Lazio,In,Alberto Comazzi,22,Italy,CB,Other,Calcio Monza,Other,2001
+SS Lazio,Out,Pavel Nedved,28,"Czech Republic, Italy",LM,Other,Juventus FC,45000000,2001
+SS Lazio,Out,Juan Sebastián Verón,26,"Argentina, Italy",CM,Other,Manchester United,42600000,2001
+SS Lazio,Out,Marcelo Salas,26,Chile,CF,Other,Juventus FC,25000000,2001
+SS Lazio,Out,Darko Kovačević,28,Serbia,CF,Other,Real Sociedad,6600000,2001
+SS Lazio,Out,Fabrizio Ravanelli,32,Italy,CF,Other,Derby County,0,2001
+SS Lazio,Out,Marcello Fiorentini,20,Italy,CM,Other,AC Montichiari,0,2001
+SS Lazio,Out,Emanuele Verdesca,18,Italy,Striker,Other,ASD Castel di Sangro,Other,2001
+SS Lazio,Out,Andrea Luciani,19,Italy,Midfielder,Other,US Salernitana,Other,2001
+SS Lazio,Out,Giorgio Santarelli,20,Italy,RB,Other,US Avellino,Other,2001
+SS Lazio,Out,Giampaolo Iacobellis,18,Italy,Defender,Other,US Città di Fasano,Other,2001
+SS Lazio,Out,Maurizio Domizzi,21,Italy,CB,Other,AC Milan,Other,2001
+AC Parma,In,Hidetoshi Nakata,24,Japan,AM,Other,AS Roma,28400000,2001
+AC Parma,In,Jonathan Bachini,26,Italy,LM,Other,Juventus FC,15000000,2001
+AC Parma,In,Evanilson,25,Brazil,RB,Other,Borussia Dortmund,15000000,2001
+AC Parma,In,Martin Djetou,26,"France, Cote d'Ivoire",CB,Other,AS Monaco,9750000,2001
+AC Parma,In,Martin Laursen,23,Denmark,CB,Other,Hellas Verona,9300000,2001
+AC Parma,In,Alex,23,Brazil,AM,Other,Cruzeiro Esporte Clube,8000000,2001
+AC Parma,In,Marco Marchionni,20,Italy,RM,Other,FC Empoli,6200000,2001
+AC Parma,In,Matteo Ferrari,21,"Italy, Guinea",CB,Other,Inter Milan,5160000,2001
+AC Parma,In,Claudio Taffarel,35,"Brazil, Italy",GK,Other,Galatasaray,2000000,2001
+AC Parma,In,Andrea Staffolani,18,Italy,CF,Other,Ancona Calcio,775000,2001
+AC Parma,In,Zlatko Dedic,16,Slovenia,CF,Other,FC Koper,250000,2001
+AC Parma,In,Hakan Şükür,30,Türkiye,CF,Other,Inter Milan,0,2001
+AC Parma,In,Mohamed Kader,22,Togo,CF,Other,Al-Ahli SC (Tripoli),0,2001
+AC Parma,In,Paolo Poggi,30,Italy,CF,Other,AS Roma,Other,2001
+AC Parma,In,Massimiliano Iezzi,20,Italy,RM,Other,West Bromwich Albion,Other,2001
+AC Parma,In,Sergey Gurenko,28,Belarus,RB,Other,AS Roma,Other,2001
+AC Parma,In,Giampiero Maini,29,Italy,CM,Other,AC Venezia 1907,Other,2001
+AC Parma,In,Gabriele Giaroli,20,Italy,GK,Other,AC Prato,Other,2001
+AC Parma,In,Amedeo Mangone,32,Italy,CB,Other,AS Roma,Other,2001
+AC Parma,In,Gaetano Grieco,18,Italy,CF,Other,Genoa CFC,Other,2001
+AC Parma,In,Alfonso De Lucia,17,Italy,GK,Other,Parma Primavera,Other,2001
+AC Parma,Out,Gianluigi Buffon,23,Italy,GK,Other,Juventus FC,52880000,2001
+AC Parma,Out,Lilian Thuram,29,"France, Guadeloupe",CB,Other,Juventus FC,36150000,2001
+AC Parma,Out,Márcio Amoroso,26,"Brazil, Italy",CF,Other,Borussia Dortmund,25500000,2001
+AC Parma,Out,Sérgio Conceição,26,Portugal,RW,Other,Inter Milan,18000000,2001
+AC Parma,Out,Alex,24,Brazil,AM,Other,Cruzeiro Esporte Clube,6000000,2001
+AC Parma,Out,Patrick Mboma,31,"Cameroon, France",CF,Other,Sunderland AFC,4500000,2001
+AC Parma,Out,Matteo Guardalben,27,Italy,GK,Other,Piacenza FC,780000,2001
+AC Parma,Out,Amauri,21,"Italy, Brazil",CF,Other,Piacenza FC,200000,2001
+AC Parma,Out,Mohamed Kader,22,Togo,CF,Other,Vicenza Calcio,0,2001
+AC Parma,Out,Diego Fuser,32,Italy,RM,Other,AS Roma,0,2001
+AC Parma,Out,Massimiliano Iezzi,20,Italy,RM,Other,FC Sporting Benevento,Other,2001
+AC Parma,Out,Manuel Saccani,19,Italy,Midfielder,Other,Calcio Monza,Other,2001
+AC Parma,Out,Saliou Lassissi,22,"Cote d'Ivoire, France",CB,Other,AS Roma,Other,2001
+AC Parma,Out,Ousmane Dabo,24,"France, Senegal",DM,Other,Atalanta BC,Other,2001
+AC Parma,Out,Davide Micillo,30,Italy,GK,Other,Cosenza Calcio 1914,Other,2001
+AC Parma,Out,Alejandro Lembo,23,"Uruguay, Italy",CB,Other,Club Nacional,Other,2001
+AC Parma,Out,Amedeo Mangone,33,Italy,CB,Other,Brescia Calcio,Other,2001
+AC Parma,Out,Davide Stirpe,19,Italy,Defender,Other,AC Prato,Other,2001
+Udinese Calcio,In,Mirko Pieri,22,Italy,LB,Other,AC Perugia,9800000,2001
+Udinese Calcio,In,Winston Parks,19,Costa Rica,CF,Other,AD Limonense,2000000,2001
+Udinese Calcio,In,Dimitrios Nalitzis,25,Greece,CF,Other,PAOK Thessaloniki,1200000,2001
+Udinese Calcio,In,Carlos Pavón,27,Honduras,CF,Other,Monarcas Morelia,500000,2001
+Udinese Calcio,In,Jorge Cordero,24,Spain,Midfielder,Other,RCD Mallorca,300000,2001
+Udinese Calcio,In,Per Kröldrup,21,Denmark,CB,Other,Boldklubben af 1893,0,2001
+Udinese Calcio,In,Fábio César Montezine,22,"Qatar, Brazil",LW,Other,FC Viktoria Plzen,Other,2001
+Udinese Calcio,In,Fabio Pittilino,24,"Switzerland, Italy",Defender,Other,ASD Castel di Sangro,Other,2001
+Udinese Calcio,In,José Devaca,18,Paraguay,CB,Other,Club Cerro Porteño,Other,2001
+Udinese Calcio,In,Gonzalo Martínez,25,Colombia,RB,Other,Deportes Tolima,Other,2001
+Udinese Calcio,In,Esteban Lopez,24,"Spain, Argentina",RB,Other,Real Murcia CF,Other,2001
+Udinese Calcio,In,Sergio Almirón,20,"Argentina, Italy",CM,Other,CA Newell's Old Boys,Other,2001
+Udinese Calcio,In,Samuel Caballero,26,Honduras,CB,Other,CD Olimpia,Other,2001
+Udinese Calcio,In,David Di Michele,25,Italy,CF,Other,US Salernitana,Other,2001
+Udinese Calcio,In,Gennaro Scarlato,24,Italy,CB,Other,Torino Calcio,Other,2001
+Udinese Calcio,In,Siyabonga Nomvethe,23,South Africa,CF,Other,Kaizer Chiefs,Other,2001
+Udinese Calcio,In,Abdul Rahman Issah,21,Ghana,CB,Other,AC Bellinzona,Other,2001
+Udinese Calcio,In,Terrence Genaux,17,Belgium,CB,Other,Udinese Primavera,Other,2001
+Udinese Calcio,Out,Stefano Fiore,26,Italy,AM,Other,SS Lazio,25000000,2001
+Udinese Calcio,Out,Giuliano Giannichedda,26,Italy,DM,Other,SS Lazio,7500000,2001
+Udinese Calcio,Out,Massimo Margiotta,24,"Venezuela, Italy",SS,Other,Vicenza Calcio,3600000,2001
+Udinese Calcio,Out,Cristian Díaz,25,"Argentina, Italy",LB,Other,RCD Mallorca,2320000,2001
+Udinese Calcio,Out,Johan Walem,29,Belgium,LM,Other,Standard Liège,1550000,2001
+Udinese Calcio,Out,Morten Bisgaard,27,Denmark,CM,Other,FC Copenhagen,250000,2001
+Udinese Calcio,Out,Allan Gaarde,27,Denmark,AM,Other,Aalborg BK,0,2001
+Udinese Calcio,Out,Fabio Pittilino,24,"Switzerland, Italy",Defender,Other,FC Sporting Benevento,Other,2001
+Udinese Calcio,Out,Lorenzo Nonis,19,Italy,Midfielder,Other,Faenza Calcio,Other,2001
+Udinese Calcio,Out,José Devaca,19,Paraguay,CB,Other,Club Cerro Porteño,Other,2001
+Udinese Calcio,Out,Vittorio Micolucci,17,Italy,CB,Other,Pescara Calcio,Other,2001
+Udinese Calcio,Out,Marijan Budimir,20,Croatia,CB,Other,NK Trnje Zagreb,Other,2001
+Udinese Calcio,Out,Giancarlo Conchione,18,Italy,GK,Other,Retired,Other,2001
+Udinese Calcio,Out,Abdul Rahman Issah,21,Ghana,CB,Other,Goldfields Sporting Club,Other,2001
+Udinese Calcio,Out,Raffaele Merzek,20,Italy,Midfielder,Other,FC Südtirol-Alto Adige,Other,2001
+Udinese Calcio,Out,Henry van der Vegt,29,Netherlands,Midfielder,Other,Retired,Other,2001
+Chievo Verona,In,Simone Perrotta,23,Italy,AM,Other,AS Bari,1500000,2001
+Chievo Verona,In,Cristiano Lupatelli,23,Italy,GK,Other,AS Roma,1450000,2001
+Chievo Verona,In,Diomansy Kamara,20,"Senegal, France",RW,Other,US Catanzaro,516000,2001
+Chievo Verona,In,Luigi Beghetto,28,Italy,CF,Other,Cagliari Calcio,0,2001
+Chievo Verona,In,Gioacchino Cavaliere,20,Italy,GK,Other,Ascoli Calcio 1898,Other,2001
+Chievo Verona,In,Fabio Firmani,23,Italy,CM,Other,Vicenza Calcio,Other,2001
+Chievo Verona,In,Stefano Lorenzi,24,Italy,CB,Other,Atalanta BC,Other,2001
+Chievo Verona,In,Patrice Grillon,22,France,Defender,Other,LB Châteauroux,Other,2001
+Chievo Verona,In,Paolo Foglio,25,Italy,RB,Other,AC Venezia 1907,Other,2001
+Chievo Verona,In,Vojislav Dragovic,19,Serbia,GK,Other,FK Zemun,Other,2001
+Chievo Verona,In,Marco Ambrosio,28,Italy,GK,Other,AS Lucchese Libertas,Other,2001
+Chievo Verona,In,Francesco Quintavalla,19,Italy,RB,Other,Bologna FC 1909,Other,2001
+Chievo Verona,In,Cleiton Da Silva Lima,18,Brazil,Midfielder,Other,Fiorentina Primavera,Other,2001
+Chievo Verona,In,Jason Mayélé,26,DR Congo,Striker,Other,Without Club,Other,2001
+Chievo Verona,Out,Gioacchino Cavaliere,20,Italy,GK,Other,AS Lucchese Libertas,Other,2001
+Chievo Verona,Out,Luca Corradi,20,Italy,Striker,Other,Poggese Calcio,Other,2001
+Chievo Verona,Out,Paolo Foglio,26,Italy,RB,Other,Atalanta BC,Other,2001
+Chievo Verona,Out,Davide Caurla,19,Italy,Defender,Other,AC Montichiari,Other,2001
+Chievo Verona,Out,Fabio Ferraresi,22,Italy,CM,Other,ASD Castel di Sangro,Other,2001
+Chievo Verona,Out,Salvatore Bruno,21,Italy,CF,Other,Ascoli Calcio 1898,Other,2001
+Chievo Verona,Out,Luigi Martinelli,30,Italy,RB,Other,AC Siena,Other,2001
+Chievo Verona,Out,Enrico Franchi,28,Italy,Defender,Other,Calcio Catania,Other,2001
+Chievo Verona,Out,Sergio Marcon,30,Italy,GK,Other,Ternana Calcio,Other,2001
+Chievo Verona,Out,Maurizio De Pascale,23,Italy,Defender,Other,AS Gubbio 1910,Other,2001
+Chievo Verona,Out,Michele Baldi,29,Italy,Midfielder,Other,Pescara Calcio,Other,2001
+Chievo Verona,Out,Mauro Zironelli,31,Italy,Midfielder,Other,Modena FC,Other,2001
+Chievo Verona,Out,Andrea Guerra,28,Italy,DM,Other,US Palermo,Other,2001
+Chievo Verona,Out,Giorgio Gorgone,25,Italy,RM,Other,Cagliari Calcio,Other,2001
+Chievo Verona,Out,Giorgio Frezzolini,25,Italy,GK,Other,US Lecce,Other,2001
+AS Roma,In,Antonio Cassano,18,Italy,SS,Other,AS Bari,31000000,2001
+AS Roma,In,Ivan Pelizzoli,20,Italy,GK,Other,Atalanta BC,14000000,2001
+AS Roma,In,Leandro Cufré,23,Argentina,LB,Other,Club de Gimnasia y Esgrima La Plata,3100000,2001
+AS Roma,In,Sebastián Cejas,26,Argentina,GK,Other,CA Newell's Old Boys,830000,2001
+AS Roma,In,Gustavo Vassallo,22,"Peru, Italy",CF,Other,OGC Nice,450000,2001
+AS Roma,In,Diego Fuser,32,Italy,RM,Other,AC Parma,0,2001
+AS Roma,In,Francisco Lima,30,Brazil,CM,Other,Bologna FC 1909,0,2001
+AS Roma,In,Luigi Malafronte,22,Italy,CB,Other,SSC Napoli,Other,2001
+AS Roma,In,Saliou Lassissi,22,"Cote d'Ivoire, France",CB,Other,AC Parma,Other,2001
+AS Roma,In,Adewale Dauda Wahab,16,Nigeria,CM,Other,AC Reggiana,Other,2001
+AS Roma,In,Sebastiano Siviglia,28,Italy,CB,Other,Atalanta BC,Other,2001
+AS Roma,In,Massimo Bonanni,19,Italy,LM,Other,Roma U19,Other,2001
+AS Roma,In,Alessandro Tulli,19,Italy,CF,Other,Roma U19,Other,2001
+AS Roma,In,Carlo Zotti,18,Italy,GK,Other,Roma U19,Other,2001
+AS Roma,In,Daniele Martinetti,20,Italy,CF,Other,Roma U19,Other,2001
+AS Roma,Out,Hidetoshi Nakata,24,Japan,AM,Other,AC Parma,28400000,2001
+AS Roma,Out,Cristiano Zanetti,24,Italy,DM,Other,Inter Milan,11000000,2001
+AS Roma,Out,Manuele Blasi,20,Italy,CM,Other,AC Perugia,9810000,2001
+AS Roma,Out,Cristiano Lupatelli,23,Italy,GK,Other,Chievo Verona,1450000,2001
+AS Roma,Out,Eusebio Di Francesco,31,Italy,CM,Other,Piacenza FC,1030000,2001
+AS Roma,Out,Abel Balbo,35,"Argentina, Italy",CF,Other,CA Boca Juniors,0,2001
+AS Roma,Out,Daniele Martinetti,20,Italy,CF,Other,Sora Calcio 1907,Other,2001
+AS Roma,Out,Paolo Poggi,30,Italy,CF,Other,AC Parma,Other,2001
+AS Roma,Out,Sergey Gurenko,28,Belarus,RB,Other,AC Parma,Other,2001
+AS Roma,Out,Alessandro Rinaldi,26,Italy,RB,Other,Atalanta BC,Other,2001
+AS Roma,Out,Maurizio Lanzaro,19,Italy,CB,Other,US Palermo,Other,2001
+AS Roma,Out,Alessandro Frau,24,Italy,AM,Other,Inter Milan,Other,2001
+AS Roma,Out,Marco Quadrini,22,Italy,RB,Other,SSC Napoli,Other,2001
+AS Roma,Out,Amedeo Mangone,32,Italy,CB,Other,AC Parma,Other,2001
+AS Roma,Out,Simone Farina,19,Italy,LB,Other,Calcio Catania,Other,2001
+AS Roma,Out,César Gómez,33,Spain,CB,Other,Retired,Other,2001
+Brescia Calcio,In,Luca Toni,24,Italy,CF,Other,Vicenza Calcio,15000000,2001
+Brescia Calcio,In,Dario Dainelli,22,Italy,CB,Other,FC Empoli,4650000,2001
+Brescia Calcio,In,Federico Giunti,29,Italy,DM,Other,AC Milan,950000,2001
+Brescia Calcio,In,Markus Schopp,27,Austria,RM,Other,SK Sturm Graz,581000,2001
+Brescia Calcio,In,Igli Tare,28,"Albania, Italy",CF,Other,1.FC Kaiserslautern,550000,2001
+Brescia Calcio,In,Andrea Caracciolo,19,Italy,CF,Other,Como Calcio,243000,2001
+Brescia Calcio,In,Pep Guardiola,30,Spain,DM,Other,FC Barcelona,0,2001
+Brescia Calcio,In,Angelo Danotti,21,Italy,LB,Other,AC Cesena,Other,2001
+Brescia Calcio,In,Mauro Bacchin,31,Italy,GK,Other,Calcio Padova,Other,2001
+Brescia Calcio,In,Andrea Sussi,27,Italy,LB,Other,Genoa CFC,Other,2001
+Brescia Calcio,In,Amedeo Mangone,33,Italy,CB,Other,AC Parma,Other,2001
+Brescia Calcio,In,Mario Salgado,20,Chile,CF,Other,Huachipato FC,Other,2001
+Brescia Calcio,In,Matteo Tacchini,20,Italy,Midfielder,Other,Varese FC,Other,2001
+Brescia Calcio,In,Stefano Tignonsini,19,Italy,CB,Other,Frassati,Other,2001
+Brescia Calcio,In,Ermanno Leoni,20,Italy,Midfielder,Other,Brescia Primavera,Other,2001
+Brescia Calcio,In,Simone Dallamano,17,Italy,LB,Other,Brescia Primavera,Other,2001
+Brescia Calcio,Out,Dario Hübner,34,Italy,CF,Other,Piacenza FC,3000000,2001
+Brescia Calcio,Out,Francesco Marino,30,Italy,SS,Other,Pescara Calcio,0,2001
+Brescia Calcio,Out,Pierpaolo Bisoli,34,Italy,RM,Other,AC Pistoiese,0,2001
+Brescia Calcio,Out,Marek Koźmiński,31,Poland,LB,Other,Ancona Calcio,0,2001
+Brescia Calcio,Out,Pierluigi Orlandini,28,Italy,RM,Other,Atalanta BC,Other,2001
+Brescia Calcio,Out,Carlos Darío Aurellio,25,"Argentina, Italy",LM,Other,Livingston FC,Other,2001
+Brescia Calcio,Out,Alessio Baresi,21,Italy,CB,Other,AC Mestre,Other,2001
+Brescia Calcio,Out,Nicola Pavarini,27,Italy,GK,Other,ASD Acireale Calcio,Other,2001
+Brescia Calcio,Out,Filippo Galli,38,Italy,CB,Other,Watford FC,Other,2001
+AC Perugia,In,Manuele Blasi,20,Italy,CM,Other,AS Roma,9810000,2001
+AC Perugia,In,Rahman Rezaei,26,"Iran, Italy",CB,Other,Zob Ahan Esfahan,150000,2001
+AC Perugia,In,Traianos Dellas,25,Greece,CB,Other,AEK Athens,0,2001
+AC Perugia,In,Christian Obodo,17,Nigeria,CM,Other,Plateau United FC,0,2001
+AC Perugia,In,Donovan Maury,20,Belgium,RB,Other,Standard Liège,0,2001
+AC Perugia,In,Silvio Spann,19,Trinidad and Tobago,DM,Other,W Connection,0,2001
+AC Perugia,In,Samuel,26,Brazil,CB,Other,SER Caxias do Sul (RS),Other,2001
+AC Perugia,In,Júnior Baiano,31,Brazil,CB,Other,Clube de Regatas Vasco da Gama,Other,2001
+AC Perugia,In,Fabian Jacquemin,20,Belgium,Midfielder,Other,Standard de Liège U21,Other,2001
+AC Perugia,In,Fabián O'Neill,28,Uruguay,AM,Other,Juventus FC,Other,2001
+AC Perugia,In,Fabio Grosso,23,Italy,LB,Other,Chieti Calcio,Other,2001
+AC Perugia,In,Nicolás Córdova,22,Chile,CM,Other,Unión Española,Other,2001
+AC Perugia,In,Andrea Soncin,18,Italy,CB,Other,Novara Calcio 1908,Other,2001
+AC Perugia,In,Massimiliano Fusani,21,Italy,CM,Other,US Brescello,Other,2001
+AC Perugia,In,Alessio Tombesi,19,Italy,LB,Other,Frosinone Calcio,Other,2001
+AC Perugia,In,Nicolás Cinalli,21,"Argentina, Italy",GK,Other,Virtus Entella,Other,2001
+AC Perugia,In,Denis André Dasoul,17,Belgium,RB,Other,Standard Liège Youth,Other,2001
+AC Perugia,In,Andrea Soncin,22,Italy,CF,Other,Vigevano Calcio,Other,2001
+AC Perugia,Out,Fabio Liverani,25,"Italy, Somalia",DM,Other,SS Lazio,13000000,2001
+AC Perugia,Out,Marco Materazzi,27,Italy,CB,Other,Inter Milan,10500000,2001
+AC Perugia,Out,Mirko Pieri,22,Italy,LB,Other,Udinese Calcio,9800000,2001
+AC Perugia,Out,Cristian Bucchi,24,Italy,CF,Other,Ternana Calcio,2500000,2001
+AC Perugia,Out,Stefano Lombardi,24,Italy,CB,Other,Inter Milan,500000,2001
+AC Perugia,Out,Luca Saudati,23,Italy,CF,Other,AC Milan,Other,2001
+AC Perugia,Out,Júnior Baiano,31,Brazil,CB,Other,Sport Club Internacional,Other,2001
+AC Perugia,Out,Emiliano Testini,24,Italy,LW,Other,AC Arezzo,Other,2001
+AC Perugia,Out,Emiliano Tarana,22,Italy,RW,Other,Modena FC,Other,2001
+AC Perugia,Out,Claudio Rivalta,23,Italy,CB,Other,Vicenza Calcio,Other,2001
+AC Perugia,Out,Dani,22,Spain,Striker,Other,Unknown,Other,2001
+AC Perugia,Out,Tomaso Tatti,28,Italy,Striker,Other,Cosenza Calcio 1914,Other,2001
+AC Perugia,Out,Andrea Soncin,23,Italy,CF,Other,US Sambenedettese,Other,2001
+Bologna FC 1909,In,Fabio Macellari,26,Italy,LB,Other,Inter Milan,6200000,2001
+Bologna FC 1909,In,Lamberto Zauli,30,Italy,AM,Other,Vicenza Calcio,6000000,2001
+Bologna FC 1909,In,Marco Negri,31,Italy,CF,Other,Rangers FC,0,2001
+Bologna FC 1909,In,Fabio Pecchia,27,Italy,RM,Other,SSC Napoli,Other,2001
+Bologna FC 1909,In,Ferdinando Coppola,23,Italy,GK,Other,SSC Napoli,Other,2001
+Bologna FC 1909,In,Vlado Smit,21,Serbia,LB,Other,Zeleznik Belgrad,Other,2001
+Bologna FC 1909,In,Salvatore Fresi,28,Italy,CB,Other,Inter Milan,Other,2001
+Bologna FC 1909,In,Nicolò Consolini,16,Italy,RB,Other,Bologna Primavera,Other,2001
+Bologna FC 1909,In,Luigi Della Rocca,16,Italy,CF,Other,Bologna Primavera,Other,2001
+Bologna FC 1909,In,Gennaro Fragiello,17,Italy,CF,Other,Bologna Primavera,Other,2001
+Bologna FC 1909,Out,Jonatan Binotto,26,Italy,RW,Other,Inter Milan,6200000,2001
+Bologna FC 1909,Out,Luis Oliveira,32,"Belgium, Brazil",CF,Other,Como Calcio,0,2001
+Bologna FC 1909,Out,Francisco Lima,30,Brazil,CM,Other,AS Roma,0,2001
+Bologna FC 1909,Out,Giovanni Bia,32,Italy,CB,Other,AS Saint-Étienne,Other,2001
+Bologna FC 1909,Out,Pasquale Padalino,28,Italy,CB,Other,Inter Milan,Other,2001
+Bologna FC 1909,Out,Andrea Ferrari,24,Italy,GK,Other,US Fiorenzuola 1922,Other,2001
+Bologna FC 1909,Out,Francesco Quintavalla,19,Italy,RB,Other,Chievo Verona,Other,2001
+Bologna FC 1909,Out,Marco Negri,31,Italy,CF,Other,Cagliari Calcio,Other,2001
+Bologna FC 1909,Out,Igor Kolyvanov,33,Russia,LW,Other,Retired,Other,2001
+Bologna FC 1909,Out,Giovanni Piacentini,33,Italy,DM,Other,Retired,Other,2001
+Bologna FC 1909,Out,Federico Gmeiner,19,Italy,Defender,Other,Retired,Other,2001

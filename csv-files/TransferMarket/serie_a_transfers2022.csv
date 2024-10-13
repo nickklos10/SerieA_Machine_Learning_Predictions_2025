@@ -1,0 +1,562 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+AC Milan,In,Charles De Ketelaere,21,Belgium,AM,30000000,Club Brugge KV,36500000,2022
+AC Milan,In,Malick Thiaw,21,"Germany, Finland",CB,6000000,FC Schalke 04,8800000,2022
+AC Milan,In,Junior Messias,31,"Brazil, Italy",RW,6000000,FC Crotone,6200000,2022
+AC Milan,In,Alessandro Florenzi,31,Italy,RB,5500000,AS Roma,2650000,2022
+AC Milan,In,Devis Vásquez,24,Colombia,GK,350000,Club Guaraní,810000,2022
+AC Milan,In,Divock Origi,27,"Belgium, Kenya",CF,12000000,Liverpool FC,0,2022
+AC Milan,In,Marco Nasti,18,Italy,CF,800000,Milan Primavera,Other,2022
+AC Milan,In,Emil Roback,19,"Sweden, The Gambia",CF,100000,Milan Primavera,Other,2022
+AC Milan,In,Andreas Jungdal,20,Denmark,GK,150000,Milan Primavera,Other,2022
+AC Milan,Out,Jens Petter Hauge,22,Norway,LW,3000000,Eintracht Frankfurt,8200000,2022
+AC Milan,Out,Léo Duarte,25,Brazil,CB,3000000,Basaksehir FK,2000000,2022
+AC Milan,Out,Frank Tsadjout,22,"Italy, Cameroon",CF,850000,US Cremonese,400000,2022
+AC Milan,Out,Alessandro Plizzari,22,Italy,GK,400000,Delfino Pescara 1936,200000,2022
+AC Milan,Out,Gabriele Capanni,21,Italy,LW,150000,Ternana Calcio,0,2022
+AC Milan,Out,Franck Kessié,25,"Cote d'Ivoire, Italy",CM,18000000,FC Barcelona,0,2022
+AC Milan,Out,Sabino Signorile,20,Italy,RW,25000,Audace Cerignola,0,2022
+AC Milan,Out,Luan Capanni,22,"Brazil, Italy",AM,100000,Arka Gdynia,0,2022
+AC Milan,Out,Leroy Abanda,22,"France, Cameroon",LB,700000,RFC Seraing,0,2022
+AC Milan,Out,Samu Castillejo,27,Spain,RW,600000,Valencia CF,0,2022
+AC Milan,Out,Alessio Romagnoli,27,Italy,CB,15000000,SS Lazio,0,2022
+AC Milan,Out,Marco Frigerio,21,Italy,CM,200000,Calcio Foggia 1920,0,2022
+AC Milan,Out,Riccardo Tonin,21,Italy,CF,175000,Calcio Foggia 1920,Other,2022
+AC Milan,Out,Emir Murati,22,"Italy, Croatia",CM,Other,Without Club,Other,2022
+Inter Milan,In,Robin Gosens,27,"Germany, Netherlands",LM,28000000,Atalanta BC,27400000,2022
+Inter Milan,In,Joaquín Correa,27,"Argentina, Italy",SS,23000000,SS Lazio,27300000,2022
+Inter Milan,In,André Onana,26,Cameroon,GK,12000000,Ajax Amsterdam,0,2022
+Inter Milan,In,Henrikh Mkhitaryan,33,Armenia,CM,8000000,AS Roma,0,2022
+Inter Milan,In,Valentín Carboni,17,"Argentina, Italy",AM,Other,Inter Milan Primavera,Other,2022
+Inter Milan,In,Cesare Casadei,19,Italy,CM,1000000,Inter Milan Primavera,Other,2022
+Inter Milan,In,Tibo Persyn,20,Belgium,RB,700000,Inter Milan Primavera,Other,2022
+Inter Milan,In,Franco Carboni,19,"Argentina, Italy",LB,1000000,Inter Milan Primavera,Other,2022
+Inter Milan,In,Mattia Zanotti,19,Italy,RB,350000,Inter Milan Primavera,Other,2022
+Inter Milan,In,Giovanni Fabbian,19,Italy,AM,500000,Inter Milan Primavera,Other,2022
+Inter Milan,In,Alessandro Fontanarosa,19,Italy,CB,200000,Inter Milan Primavera,Other,2022
+Inter Milan,Out,Cesare Casadei,19,Italy,CM,10000000,Chelsea FC,14860000,2022
+Inter Milan,Out,Michele Di Gregorio,24,Italy,GK,18000000,AC Monza,6000000,2022
+Inter Milan,Out,Andreaw Gravillon,24,"Guadeloupe, France",CB,3700000,Stade Reims,3000000,2022
+Inter Milan,Out,Niccolò Corrado,22,Italy,LB,1100000,Ternana Calcio,90000,2022
+Inter Milan,Out,Lorenzo Gavioli,22,Italy,CM,100000,Reggina 1914,0,2022
+Inter Milan,Out,Christopher Attys,21,"Haiti, France",CM,100000,Imolese Calcio 1919,0,2022
+Inter Milan,Out,Matías Fonseca,21,"Uruguay, Italy",CF,500000,Montevideo Wanderers,0,2022
+Inter Milan,Out,Matías Vecino,30,"Uruguay, Italy",CM,2500000,SS Lazio,0,2022
+Inter Milan,Out,Andrea Ranocchia,34,Italy,CB,Other,AC Monza,0,2022
+Inter Milan,Out,Arturo Vidal,35,Chile,CM,300000,CR Flamengo,0,2022
+Inter Milan,Out,Alexis Sánchez,33,Chile,CF,2500000,Olympique Marseille,0,2022
+Inter Milan,Out,Ivan Perisic,33,Croatia,LW,2000000,Tottenham Hotspur,0,2022
+Inter Milan,Out,Christian Dimarco,19,Italy,LB,100000,Feralpisalò,Other,2022
+Inter Milan,Out,Lorenzo Moretti,20,Italy,CB,300000,US Avellino 1912,Other,2022
+Inter Milan,Out,Aleksandar Kolarov,36,Serbia,LB,Other,Retired,Other,2022
+SSC Napoli,In,Min-jae Kim,25,"Korea, South",CB,14000000,Fenerbahce,19000000,2022
+SSC Napoli,In,Mathías Olivera,24,"Uruguay, Spain",LB,15000000,Getafe CF,16500000,2022
+SSC Napoli,In,Frank Anguissa,26,Cameroon,CM,30000000,Fulham FC,16000000,2022
+SSC Napoli,In,Khvicha Kvaratskhelia,21,Georgia,LW,15000000,Dinamo Batumi,13300000,2022
+SSC Napoli,In,Leo Østigård,22,Norway,CB,5000000,Brighton & Hove Albion,5500000,2022
+SSC Napoli,In,Salvatore Sirigu,35,Italy,GK,1500000,Genoa CFC,0,2022
+SSC Napoli,In,Hubert Idasiak,20,Poland,GK,150000,Napoli Primavera,Other,2022
+SSC Napoli,In,Giuseppe Ambrosino,18,Italy,CF,500000,Napoli Primavera,Other,2022
+SSC Napoli,Out,Kalidou Koulibaly,31,"Senegal, France",CB,9000000,Chelsea FC,41900000,2022
+SSC Napoli,Out,Fabián Ruiz,26,Spain,CM,35000000,Paris Saint-Germain,22500000,2022
+SSC Napoli,Out,Arkadiusz Milik,28,Poland,CF,6000000,Olympique Marseille,9700000,2022
+SSC Napoli,Out,Gennaro Tutino,25,Italy,CF,3500000,Parma Calcio 1913,6000000,2022
+SSC Napoli,Out,Adam Ounas,25,"Algeria, France",RW,4000000,LOSC Lille,2500000,2022
+SSC Napoli,Out,Franco Ferrari,26,"Italy, Argentina",CF,600000,LR Vicenza,350000,2022
+SSC Napoli,Out,Eugenio D'Ursi,27,Italy,LW,225000,FC Crotone,183000,2022
+SSC Napoli,Out,Luca Palmiero,26,Italy,DM,400000,Delfino Pescara 1936,125000,2022
+SSC Napoli,Out,Salvatore Sirigu,36,Italy,GK,275000,ACF Fiorentina,0,2022
+SSC Napoli,Out,David Ospina,33,"Colombia, France",GK,800000,Al-Nassr FC,0,2022
+SSC Napoli,Out,Lorenzo Insigne,31,Italy,LW,3500000,Toronto FC,0,2022
+SSC Napoli,Out,Dries Mertens,35,Belgium,SS,1800000,Galatasaray,0,2022
+SSC Napoli,Out,Kévin Malcuit,31,"France, Morocco",RB,300000,MKE Ankaragücü,0,2022
+SSC Napoli,Out,Zinédine Machach,26,"France, Morocco",AM,600000,Ionikos Nikeas,0,2022
+SSC Napoli,Out,Faouzi Ghoulam,31,"Algeria, France",LB,300000,Without Club,Other,2022
+Juventus FC,In,Bremer,25,Brazil,CB,35000000,Torino FC,46900000,2022
+Juventus FC,In,Federico Chiesa,24,Italy,LW,65000000,ACF Fiorentina,44600000,2022
+Juventus FC,In,Filip Kostić,29,Serbia,LM,24000000,Eintracht Frankfurt,14700000,2022
+Juventus FC,In,Andrea Cambiaso,22,Italy,LB,5000000,Genoa CFC,13300000,2022
+Juventus FC,In,Ángel Di María,34,"Argentina, Italy",RW,12000000,Paris Saint-Germain,0,2022
+Juventus FC,In,Paul Pogba,29,"France, Guinea",CM,48000000,Manchester United,0,2022
+Juventus FC,In,Samuel Iling-Junior,19,"England, DR Congo",LW,3500000,Juventus Next Gen,Other,2022
+Juventus FC,In,Enzo Barrenechea,21,Argentina,DM,900000,Juventus Next Gen,Other,2022
+Juventus FC,In,Fabio Miretti,18,Italy,CM,5000000,Juventus Next Gen,Other,2022
+Juventus FC,In,Matías Soulé,19,"Argentina, Italy",RW,2500000,Juventus Next Gen,Other,2022
+Juventus FC,Out,Matthijs de Ligt,22,Netherlands,CB,55000000,Bayern Munich,67000000,2022
+Juventus FC,Out,Merih Demiral,24,Türkiye,CB,16000000,Atalanta BC,21000000,2022
+Juventus FC,Out,Rolando Mandragora,25,Italy,DM,8500000,ACF Fiorentina,8200000,2022
+Juventus FC,Out,Giacomo Vrioni,23,"Albania, Italy",CF,2000000,New England Revolution,3660000,2022
+Juventus FC,Out,Aaron Ramsey,31,Wales,CM,1000000,OGC Nice,0,2022
+Juventus FC,Out,Federico Bernardeschi,28,Italy,RW,4500000,Toronto FC,0,2022
+Juventus FC,Out,Douglas Costa,32,Brazil,RW,800000,Los Angeles Galaxy,0,2022
+Juventus FC,Out,Giorgio Chiellini,37,Italy,CB,Other,Los Angeles FC,0,2022
+Juventus FC,Out,Paulo Dybala,28,"Argentina, Italy",SS,20000000,AS Roma,0,2022
+SS Lazio,In,Luís Maximiano,23,Portugal,GK,12000000,Granada CF,10500000,2022
+SS Lazio,In,Nicolò Casale,24,Italy,CB,7500000,Hellas Verona,8000000,2022
+SS Lazio,In,Marcos Antônio,22,Brazil,CM,8000000,Shakhtar Donetsk,7500000,2022
+SS Lazio,In,Mattia Zaccagni,27,Italy,LW,18000000,Hellas Verona,7100000,2022
+SS Lazio,In,Mario Gila,21,Spain,CB,500000,Real Madrid Castilla,6000000,2022
+SS Lazio,In,Ivan Provedel,28,Italy,GK,3500000,Spezia Calcio,2550000,2022
+SS Lazio,In,Matías Vecino,30,"Uruguay, Italy",CM,3500000,Inter Milan,0,2022
+SS Lazio,In,Alessio Romagnoli,27,Italy,CB,17000000,AC Milan,0,2022
+SS Lazio,In,Marco Bertini,19,Italy,DM,100000,Lazio U19,Other,2022
+SS Lazio,Out,Joaquín Correa,27,"Argentina, Italy",SS,6000000,Inter Milan,27300000,2022
+SS Lazio,Out,Vedat Muriqi,28,"Kosovo, Albania",CF,12000000,RCD Mallorca,8020000,2022
+SS Lazio,Out,Denis Vavro,26,Slovakia,CB,5000000,FC Copenhagen,4500000,2022
+SS Lazio,Out,Sofian Kiyine,24,"Morocco, Belgium",CM,450000,Oud-Heverlee Leuven,1700000,2022
+SS Lazio,Out,Fabio Maistro,24,Italy,CM,500000,SPAL,500000,2022
+SS Lazio,Out,Angelo Ndrecka,20,"Albania, Italy",LB,275000,Aurora Pro Patria,0,2022
+SS Lazio,Out,Luiz Felipe,25,"Italy, Brazil",CB,13000000,Real Betis Balompié,0,2022
+SS Lazio,Out,Lucas Leiva,35,"Brazil, Italy",DM,Other,Grêmio Foot-Ball Porto Alegrense,0,2022
+SS Lazio,Out,Pepe Reina,39,Spain,GK,600000,Villarreal CF,0,2022
+SS Lazio,Out,Patryk Dziczek,24,Poland,DM,800000,Piast Gliwice,0,2022
+SS Lazio,Out,Bobby Adekanye,23,"Netherlands, Nigeria",RW,900000,Go Ahead Eagles,0,2022
+SS Lazio,Out,Thomas Strakosha,27,"Albania, Greece",GK,2500000,Brentford FC,0,2022
+SS Lazio,Out,Djavan Anderson,27,"Suriname, Netherlands",RB,200000,Oxford United,0,2022
+SS Lazio,Out,Jordan Lukaku,28,"Belgium, DR Congo",LB,175000,SD Ponferradina,0,2022
+SS Lazio,Out,Biagio Morrone,22,Italy,DM,200000,US Recanatese,0,2022
+SS Lazio,Out,Tiago Casasola,26,"Argentina, Italy",RB,800000,AC Perugia Calcio,0,2022
+SS Lazio,Out,Marco Alia,22,"Albania, Italy",GK,250000,Monterosi Tuscia FC,0,2022
+SS Lazio,Out,Luca Falbo,22,Italy,LB,150000,SS Monopoli 1966,Other,2022
+SS Lazio,Out,Jorge Silva,23,Portugal,CB,Other,Without Club,Other,2022
+AS Roma,In,Zeki Çelik,25,Türkiye,RB,18000000,LOSC Lille,7400000,2022
+AS Roma,In,Andrea Belotti,28,Italy,CF,20000000,Torino FC,0,2022
+AS Roma,In,Nemanja Matic,33,"Serbia, Slovakia",DM,5000000,Manchester United,0,2022
+AS Roma,In,Mile Svilar,22,"Serbia, Belgium",GK,2000000,SL Benfica,0,2022
+AS Roma,In,Ola Solbakken,24,Norway,RW,3500000,FK Bodø/Glimt,0,2022
+AS Roma,In,Paulo Dybala,28,"Argentina, Italy",SS,35000000,Juventus FC,0,2022
+AS Roma,In,Cristian Volpato,18,"Italy, Australia",AM,900000,Roma U19,Other,2022
+AS Roma,In,Benjamin Tahirovic,19,"Bosnia-Herzegovina, Sweden",DM,250000,Roma U19,Other,2022
+AS Roma,Out,Nicolò Zaniolo,23,Italy,AM,20000000,Galatasaray,15000000,2022
+AS Roma,Out,Jordan Veretout,29,France,CM,15000000,Olympique Marseille,12450000,2022
+AS Roma,Out,Pau López,27,Spain,GK,10000000,Olympique Marseille,12000000,2022
+AS Roma,Out,Cengiz Ünder,24,Türkiye,RW,14000000,Olympique Marseille,11400000,2022
+AS Roma,Out,Riccardo Calafiori,20,Italy,CB,45000000,FC Basel 1893,10200000,2022
+AS Roma,Out,Felix Afena-Gyan,19,Ghana,CF,2500000,US Cremonese,6000000,2022
+AS Roma,Out,Robin Olsen,32,"Sweden, Denmark",GK,1500000,Aston Villa,3500000,2022
+AS Roma,Out,Alessandro Florenzi,31,Italy,RB,2000000,AC Milan,2650000,2022
+AS Roma,Out,Riccardo Ciervo,20,Italy,LW,1300000,US Sassuolo,2000000,2022
+AS Roma,Out,Amadou Diawara,25,Guinea,DM,1000000,RSC Anderlecht,1890000,2022
+AS Roma,Out,Tommaso Milanese,19,Italy,CM,900000,US Cremonese,750000,2022
+AS Roma,Out,Alessio Riccardi,21,Italy,AM,375000,Latina Calcio 1932,0,2022
+AS Roma,Out,Filippo Tripi,20,Italy,DM,300000,NS Mura,0,2022
+AS Roma,Out,Salvatore Pezzella,22,Italy,DM,100000,US Triestina,0,2022
+AS Roma,Out,Stefano Greco,23,Italy,GK,150000,Potenza Calcio,0,2022
+AS Roma,Out,Henrikh Mkhitaryan,33,Armenia,CM,6000000,Inter Milan,0,2022
+AS Roma,Out,Daniel Fuzato,24,"Brazil, Italy",GK,900000,UD Ibiza,0,2022
+AS Roma,Out,Devid Eugene Bouah,21,"Italy, Cote d'Ivoire",RM,350000,Reggina 1914,0,2022
+AS Roma,Out,Davide Santon,31,Italy,LB,Other,Without Club,Other,2022
+ACF Fiorentina,In,Dodô,23,Brazil,RB,20000000,Shakhtar Donetsk,15400000,2022
+ACF Fiorentina,In,Rolando Mandragora,25,Italy,DM,10000000,Juventus FC,8200000,2022
+ACF Fiorentina,In,Antonín Barák,28,Czech Republic,AM,12000000,Hellas Verona,7860000,2022
+ACF Fiorentina,In,Abdelhamid Sabiri,26,"Morocco, Germany",AM,4000000,UC Sampdoria,2500000,2022
+ACF Fiorentina,In,Josip Brekalo,24,Croatia,LW,7500000,VfL Wolfsburg,1700000,2022
+ACF Fiorentina,In,Salvatore Sirigu,36,Italy,GK,800000,SSC Napoli,0,2022
+ACF Fiorentina,In,Luka Jović,24,"Serbia, Bosnia-Herzegovina",CF,16000000,Real Madrid,0,2022
+ACF Fiorentina,In,Alessandro Bianco,19,Italy,CM,350000,Fiorentina Primavera,Other,2022
+ACF Fiorentina,Out,Federico Chiesa,24,Italy,LW,30000000,Juventus FC,44600000,2022
+ACF Fiorentina,Out,Erick Pulgar,28,Chile,DM,5000000,CR Flamengo,2800000,2022
+ACF Fiorentina,Out,Bartlomiej Dragowski,24,Poland,GK,3000000,Spezia Calcio,2450000,2022
+ACF Fiorentina,Out,Daniele Ghilardi,19,Italy,CB,1600000,Hellas Verona,380000,2022
+ACF Fiorentina,Out,Tòfol Montiel,22,Spain,RW,100000,RCD Mallorca B,0,2022
+ACF Fiorentina,Out,Federico Brancolini,20,Italy,GK,200000,US Lecce,0,2022
+ACF Fiorentina,Out,Christian Koffi,21,"France, Cote d'Ivoire",LW,Other,CF Intercity,0,2022
+ACF Fiorentina,Out,Andrea Poggesi,20,Italy,RB,75000,SS Arezzo,0,2022
+ACF Fiorentina,Out,José Callejón,35,Spain,RW,800000,Granada CF,0,2022
+ACF Fiorentina,Out,Simone Ghidotti,22,Italy,GK,375000,Como 1907,0,2022
+ACF Fiorentina,Out,Matija Nastasic,29,Serbia,CB,1500000,RCD Mallorca,0,2022
+ACF Fiorentina,Out,Alessandro Lovisa,20,Italy,CM,Other,US Triestina,0,2022
+ACF Fiorentina,Out,Antonio Rosati,39,Italy,GK,Other,Retired,Other,2022
+ACF Fiorentina,Out,Andrea Milani,20,Italy,LW,Other,Without Club,Other,2022
+Atalanta BC,In,Éderson,22,Brazil,CM,13000000,US Salernitana 1919,22900000,2022
+Atalanta BC,In,Jérémie Boga,25,"Cote d'Ivoire, France",LW,19000000,US Sassuolo,22000000,2022
+Atalanta BC,In,Merih Demiral,24,Türkiye,CB,25000000,Juventus FC,21000000,2022
+Atalanta BC,In,Rasmus Højlund,19,Denmark,CF,4500000,SK Sturm Graz,20000000,2022
+Atalanta BC,In,Brandon Soppy,20,"France, Cameroon",RB,5000000,Udinese Calcio,9900000,2022
+Atalanta BC,In,Ademola Lookman,24,"Nigeria, England",SS,10000000,RB Leipzig,9350000,2022
+Atalanta BC,In,Alassane Sidibe,20,Cote d'Ivoire,CM,1000000,Atalanta Primavera,Other,2022
+Atalanta BC,In,Giorgio Cittadini,20,Italy,CB,300000,Atalanta Primavera,Other,2022
+Atalanta BC,In,Moustapha Cissé,18,Guinea,CF,1000000,Atalanta Primavera,Other,2022
+Atalanta BC,In,Giovanni Bonfanti,19,Italy,CB,100000,Atalanta Under 18,Other,2022
+Atalanta BC,In,Lukas Vorlicky,20,Czech Republic,AM,50000,Atalanta Primavera,Other,2022
+Atalanta BC,Out,Cristian Romero,24,Argentina,CB,65000000,Tottenham Hotspur,52000000,2022
+Atalanta BC,Out,Robin Gosens,27,"Germany, Netherlands",LM,12000000,Inter Milan,27400000,2022
+Atalanta BC,Out,Andrea Colpani,23,Italy,AM,18000000,AC Monza,9000000,2022
+Atalanta BC,Out,Remo Freuler,30,Switzerland,CM,6500000,Nottingham Forest,8300000,2022
+Atalanta BC,Out,Matteo Lovato,22,Italy,CB,4000000,US Salernitana 1919,7000000,2022
+Atalanta BC,Out,Davide Bettella,22,Italy,CB,1000000,AC Monza,5000000,2022
+Atalanta BC,Out,Bosko Sutalo,22,Croatia,CB,2500000,GNK Dinamo Zagreb,4050000,2022
+Atalanta BC,Out,Filippo Melegoni,23,Italy,CM,1200000,Genoa CFC,4000000,2022
+Atalanta BC,Out,Arkadiusz Reca,27,Poland,LB,1300000,Spezia Calcio,3900000,2022
+Atalanta BC,Out,Luca Valzania,26,Italy,CM,300000,US Cremonese,3000000,2022
+Atalanta BC,Out,Enrico Delprato,22,Italy,RB,4500000,Parma Calcio 1913,2750000,2022
+Atalanta BC,Out,Rodrigo Guth,21,"Brazil, Germany",CB,2500000,Fortuna Sittard,1100000,2022
+Atalanta BC,Out,Olaf Kobacki,20,Poland,LW,550000,Arka Gdynia,180000,2022
+Atalanta BC,Out,Anton Kresic,26,Croatia,CB,1200000,HNK Rijeka,150000,2022
+Atalanta BC,Out,Alberto Alari,23,Italy,CB,75000,Dolomiti Bellunesi,0,2022
+Atalanta BC,Out,Eyob Zambataro,23,"Italy, Ethiopia",LM,200000,Calcio Lecco 1912,0,2022
+Atalanta BC,Out,Riccardo Burgio,21,Italy,LM,100000,Monterosi Tuscia FC,0,2022
+Atalanta BC,Out,Enrico Zanoni,22,Italy,LB,50000,Costa Orientale Sarda,0,2022
+Atalanta BC,Out,Edoardo Scanagatta,20,Italy,CB,125000,Giugliano Calcio 1928,0,2022
+Atalanta BC,Out,Matteo Pedrini,22,Italy,CM,Other,Mantova 1911,0,2022
+Atalanta BC,Out,Niccolò Ghisleni,21,Italy,AM,Other,Acireale Calcio,0,2022
+Atalanta BC,Out,Antonio Reda,19,Italy,CF,Other,Fossano Calcio,0,2022
+Atalanta BC,Out,Gabriel Lunetta,26,"Italy, France",LM,250000,HNK Rijeka,Other,2022
+Atalanta BC,Out,Marco Tumminello,23,Italy,CF,300000,FC Crotone,Other,2022
+Atalanta BC,Out,Alessio Girgi,22,Italy,LB,100000,SEF Torres 1903,Other,2022
+Atalanta BC,Out,Josip Ilicic,34,"Slovenia, Croatia",AM,300000,Without Club,Other,2022
+Atalanta BC,Out,Matteo Salvi,23,Italy,CB,75000,Without Club,Other,2022
+Atalanta BC,Out,Federico Mattiello,26,Italy,RB,Other,Without Club,Other,2022
+Atalanta BC,Out,Bryan Cabezas,25,Ecuador,LW,25000,Without Club,Other,2022
+Hellas Verona,In,Giovanni Simeone,26,"Argentina, Spain",CF,17000000,Cagliari Calcio,10500000,2022
+Hellas Verona,In,Thomas Henry,27,France,CF,5000000,Venezia FC,5230000,2022
+Hellas Verona,In,Gianluca Caprari,28,Italy,SS,10000000,UC Sampdoria,5000000,2022
+Hellas Verona,In,Isak Hien,23,"Sweden, Burkina Faso",CB,1000000,Djurgårdens IF,4600000,2022
+Hellas Verona,In,Martin Hongla,24,Cameroon,DM,4000000,Royal Antwerp FC,3700000,2022
+Hellas Verona,In,Juan Cabal,21,Colombia,LB,800000,Atlético Nacional,3500000,2022
+Hellas Verona,In,Josh Doig,20,Scotland,LB,3000000,Hibernian FC,3400000,2022
+Hellas Verona,In,Mateusz Praszelik,22,Poland,AM,1200000,Slask Wroclaw,2000000,2022
+Hellas Verona,In,Lorenzo Montipò,26,Italy,GK,4500000,Benevento Calcio,1100000,2022
+Hellas Verona,In,Cyril Ngonge,22,"Belgium, DR Congo",RW,1300000,FC Groningen,550000,2022
+Hellas Verona,In,Ajdin Hrustić,26,"Australia, Bosnia-Herzegovina",AM,3000000,Eintracht Frankfurt,500000,2022
+Hellas Verona,In,Daniele Ghilardi,19,Italy,CB,250000,ACF Fiorentina,380000,2022
+Hellas Verona,In,Bruno Conti,20,Italy,CM,150000,Cagliari Primavera,100000,2022
+Hellas Verona,In,Milan Djuric,32,"Bosnia-Herzegovina, Italy",CF,1500000,US Salernitana 1919,0,2022
+Hellas Verona,In,Simone Perilli,27,Italy,GK,200000,Brescia Calcio,0,2022
+Hellas Verona,In,Dramane Konaté,28,Cote d'Ivoire,CB,25000,Paganese Calcio 1926,0,2022
+Hellas Verona,In,Ibrahim Sulemana,19,Ghana,DM,100000,Hellas Verona Primavera,Other,2022
+Hellas Verona,In,Filippo Terracciano,19,Italy,RB,250000,Hellas Verona Primavera,Other,2022
+Hellas Verona,Out,Nicolò Casale,24,Italy,CB,14000000,SS Lazio,8000000,2022
+Hellas Verona,Out,Antonín Barák,28,Czech Republic,AM,4500000,ACF Fiorentina,7860000,2022
+Hellas Verona,Out,Mattia Zaccagni,27,Italy,LW,20000000,SS Lazio,7100000,2022
+Hellas Verona,Out,Destiny Udogie,19,"Italy, Nigeria",LB,45000000,Udinese Calcio,5200000,2022
+Hellas Verona,Out,Mariusz Stepinski,27,Poland,CF,1400000,Aris Limassol,150000,2022
+Hellas Verona,Out,Nicola Borghetto,22,Italy,GK,Other,Fermana FC,0,2022
+Hellas Verona,Out,Lubomir Tupta,24,Slovakia,CF,800000,Delfino Pescara 1936,0,2022
+Hellas Verona,Out,Dramane Konaté,28,Cote d'Ivoire,CB,75000,Aglianese Calcio 1923,0,2022
+Hellas Verona,Out,Bogdan Jocic,21,Serbia,CM,700000,FK Vozdovac,0,2022
+Hellas Verona,Out,Daniel Bessa,29,"Italy, Brazil",CM,2500000,Ittihad Kalba FC,0,2022
+Hellas Verona,Out,Nunzio Brandi,21,Italy,CM,50000,Taranto FC 1927,0,2022
+Torino FC,In,Perr Schuurs,22,Netherlands,CB,7000000,Ajax Amsterdam,9400000,2022
+Torino FC,In,Samuele Ricci,20,Italy,DM,12000000,FC Empoli,8500000,2022
+Torino FC,In,Emirhan İlkhan,18,Türkiye,CM,3000000,Besiktas JK,4900000,2022
+Torino FC,In,Pietro Pellegri,21,Italy,CF,4500000,AS Monaco,4200000,2022
+Torino FC,In,Yann Karamoh,24,"France, Cote d'Ivoire",LW,4000000,Parma Calcio 1913,1000000,2022
+Torino FC,In,Brian Bayeye,22,"DR Congo, France",RB,100000,US Catanzaro,700000,2022
+Torino FC,In,Etrit Berisha,33,"Albania, Sweden",GK,800000,SPAL,300000,2022
+Torino FC,In,Matteo Fiorenza,19,Italy,GK,10000,Torino Primavera,Other,2022
+Torino FC,In,Matthew Garbett,20,"New Zealand, France",CM,150000,Torino Primavera,Other,2022
+Torino FC,In,Gvidas Gineitis,18,Lithuania,CM,Other,Torino Primavera,Other,2022
+Torino FC,Out,Bremer,25,Brazil,CB,60000000,Juventus FC,46900000,2022
+Torino FC,Out,Saša Lukić,26,Serbia,CM,10000000,Fulham FC,9800000,2022
+Torino FC,Out,Jacopo Segre,25,Italy,CM,2700000,Palermo FC,500000,2022
+Torino FC,Out,Vincenzo Millico,22,Italy,LW,600000,Cagliari Calcio,18000,2022
+Torino FC,Out,Cristian Ansaldi,35,"Argentina, Italy",LB,250000,Parma Calcio 1913,0,2022
+Torino FC,Out,Thomas Fimognari,20,Italy,DM,Other,ASD Stresa Vergante,0,2022
+Torino FC,Out,Samuele Lovaglio,19,Italy,RW,50000,AC Crema 1908,0,2022
+Torino FC,Out,Andrea Belotti,28,Italy,CF,5000000,AS Roma,0,2022
+Torino FC,Out,Tomás Rincón,34,Venezuela,DM,300000,UC Sampdoria,0,2022
+Torino FC,Out,Altin Kryeziu,20,"Kosovo, Slovenia",DM,250000,NK Maribor,0,2022
+Torino FC,Out,Simone Edera,26,Italy,RW,100000,Pordenone Calcio,Other,2022
+Torino FC,Out,Ibrahim Karamoko,20,"France, Cote d'Ivoire",CB,250000,EA Guingamp B,Other,2022
+Torino FC,Out,Simone Zaza,31,Italy,CF,Other,Without Club,Other,2022
+US Sassuolo,In,Agustín Álvarez,21,Uruguay,CF,4000000,CA Peñarol,12000000,2022
+US Sassuolo,In,Kristian Thorstvedt,23,Norway,AM,5000000,KRC Genk,10150000,2022
+US Sassuolo,In,Armand Laurienté,23,"France, Guadeloupe",LW,7000000,FC Lorient,10100000,2022
+US Sassuolo,In,Matheus Henrique,24,Brazil,CM,11000000,Grêmio Foot-Ball Porto Alegrense,7000000,2022
+US Sassuolo,In,Janis Antiste,20,"France, Martinique",CF,4000000,Spezia Calcio,5680000,2022
+US Sassuolo,In,Emil Konradsen Ceide,20,Norway,LW,2000000,Rosenborg BK,2850000,2022
+US Sassuolo,In,Riccardo Ciervo,20,Italy,LW,1500000,AS Roma,2000000,2022
+US Sassuolo,In,Abdou Harroui,24,"Morocco, Netherlands",CM,3000000,Sparta Rotterdam,1000000,2022
+US Sassuolo,In,Yeferson Paz,20,Colombia,RB,200000,Sassuolo Primavera,Other,2022
+US Sassuolo,In,Ryan Flamingo,19,Netherlands,CB,1000000,Sassuolo Primavera,Other,2022
+US Sassuolo,In,Luca D'Andrea,17,Italy,RW,Other,Sassuolo Primavera,Other,2022
+US Sassuolo,Out,Gianluca Scamacca,23,Italy,CF,35000000,West Ham United,38600000,2022
+US Sassuolo,Out,Jérémie Boga,25,"Cote d'Ivoire, France",LW,15000000,Atalanta BC,22000000,2022
+US Sassuolo,Out,Francesco Caputo,34,Italy,CF,1000000,UC Sampdoria,4000000,2022
+US Sassuolo,Out,Jens Odgaard,23,Denmark,CF,4500000,AZ Alkmaar,3590000,2022
+US Sassuolo,Out,Vlad Chiricheș,32,Romania,CB,350000,US Cremonese,2000000,2022
+US Sassuolo,Out,Mehdi Bourabia,30,"Morocco, France",CM,1000000,Spezia Calcio,1650000,2022
+US Sassuolo,Out,Lukas Haraslin,26,Slovakia,LW,6000000,AC Sparta Prague,1500000,2022
+US Sassuolo,Out,Enrico Brignola,22,Italy,RW,350000,Benevento Calcio,Other,2022
+US Sassuolo,Out,Marco Pinato,27,Italy,CM,350000,Pordenone Calcio,0,2022
+US Sassuolo,Out,Leonardo Sernicola,24,Italy,RB,2000000,US Cremonese,0,2022
+US Sassuolo,Out,Andrea Meroni,25,Italy,CB,600000,Cosenza Calcio,0,2022
+US Sassuolo,Out,Filip Djuricic,30,Serbia,AM,1500000,UC Sampdoria,0,2022
+US Sassuolo,Out,Nicolás Schiappacasse,23,"Uruguay, Italy",LW,250000,Miramar Misiones,0,2022
+US Sassuolo,Out,Mattia Poligani,20,Italy,CM,Other,Castelvetro Calcio,0,2022
+US Sassuolo,Out,Davide Manarelli,20,Italy,LB,Other,US Viterbese 1908,0,2022
+US Sassuolo,Out,Edoardo Operato,20,Italy,CB,Other,Castelvetro Calcio,0,2022
+US Sassuolo,Out,Claud Adjapong,24,"Italy, Ghana",RB,400000,Ascoli Calcio,Other,2022
+US Sassuolo,Out,Giuseppe Aurelio,22,Italy,LB,700000,US Città di Pontedera,Other,2022
+US Sassuolo,Out,Alessandro Pilati,22,Italy,CB,300000,Feralpisalò,Other,2022
+US Sassuolo,Out,Federico Peluso,38,Italy,LB,Other,Without Club,Other,2022
+US Sassuolo,Out,Leonardo Fontanesi,26,Italy,CB,Other,Retired,Other,2022
+US Sassuolo,Out,Francesco Magnanelli,37,Italy,DM,Other,Retired,Other,2022
+Udinese Calcio,In,Hassane Kamara,28,"Cote d'Ivoire, France",LB,4000000,Watford FC,19000000,2022
+Udinese Calcio,In,Beto,24,"Portugal, Guinea-Bissau",CF,10000000,Portimonense SC,15000000,2022
+Udinese Calcio,In,Nehuén Pérez,22,Argentina,CB,6000000,Atlético de Madrid,8000000,2022
+Udinese Calcio,In,Matheus Martins,19,Brazil,LW,7000000,Fluminense Football Club,6000000,2022
+Udinese Calcio,In,Destiny Udogie,19,"Italy, Nigeria",LB,17000000,Hellas Verona,5200000,2022
+Udinese Calcio,In,Adam Masina,28,"Morocco, Italy",CB,3000000,Watford FC,5000000,2022
+Udinese Calcio,In,Enzo Ebosse,23,"Cameroon, France",CB,2000000,Angers SCO,4000000,2022
+Udinese Calcio,In,Jaka Bijol,23,Slovenia,CB,3500000,CSKA Moscow,4000000,2022
+Udinese Calcio,In,Leonardo Buta,20,"Portugal, Angola",LB,450000,SC Braga B,2000000,2022
+Udinese Calcio,In,Kingsley Ehizibue,27,"Netherlands, Nigeria",RB,1300000,1.FC Köln,1500000,2022
+Udinese Calcio,In,Sandi Lovrić,24,"Slovenia, Austria",CM,2500000,FC Lugano,0,2022
+Udinese Calcio,In,Axel Guessand,17,"France, Cote d'Ivoire",CB,300000,AS Nancy-Lorraine B,0,2022
+Udinese Calcio,In,Florian Thauvin,30,France,RW,10000000,Tigres UANL,0,2022
+Udinese Calcio,In,Festy Ebosele,19,"Ireland, Nigeria",RB,3500000,Derby County,0,2022
+Udinese Calcio,In,Edoardo Piana,18,Italy,GK,50000,Udinese Primavera,Other,2022
+Udinese Calcio,In,Simone Pafundi,16,Italy,AM,Other,Udinese Primavera,Other,2022
+Udinese Calcio,In,Vivaldo Semedo,18,"Portugal, Angola",CF,400000,Udinese Primavera,Other,2022
+Udinese Calcio,In,Marvin Zeegelaar,32,"Netherlands, Suriname",LB,500000,Without Club,Other,2022
+Udinese Calcio,Out,Nahuel Molina,24,Argentina,RB,28000000,Atlético de Madrid,20000000,2022
+Udinese Calcio,Out,Destiny Udogie,19,"Italy, Nigeria",LB,45000000,Tottenham Hotspur,18000000,2022
+Udinese Calcio,Out,Jean-Victor Makengo,24,"France, DR Congo",CM,6000000,FC Lorient,11000000,2022
+Udinese Calcio,Out,Brandon Soppy,20,"France, Cameroon",RB,2000000,Atalanta BC,9900000,2022
+Udinese Calcio,Out,Mamadou Coulibaly,23,Senegal,CM,1300000,US Salernitana 1919,3000000,2022
+Udinese Calcio,Out,Thomas Battistella,20,Italy,CM,500000,Modena FC,700000,2022
+Udinese Calcio,Out,Giacomo Fedel,20,Italy,CM,175000,AC Nardò,0,2022
+Udinese Calcio,Out,Jens Stryger Larsen,31,Denmark,RB,900000,Trabzonspor,0,2022
+Udinese Calcio,Out,Manuel Gasparini,20,Italy,GK,200000,Potenza Calcio,0,2022
+Udinese Calcio,Out,Riad Bajic,28,Bosnia-Herzegovina,CF,800000,Giresunspor,0,2022
+Udinese Calcio,Out,Mato Jajalo,34,"Bosnia-Herzegovina, Croatia",DM,200000,Venezia FC,Other,2022
+Udinese Calcio,Out,Felipe Vizeu,25,Brazil,CF,500000,FC Sheriff Tiraspol,Other,2022
+Udinese Calcio,Out,Petar Micin,23,Serbia,AM,500000,FK Napredak Krusevac,Other,2022
+Udinese Calcio,Out,Bram Nuytinck,32,Netherlands,CB,600000,UC Sampdoria,Other,2022
+Udinese Calcio,Out,Antonio Santurro,30,"Dominican Republic, Italy",GK,Other,Without Club,Other,2022
+Udinese Calcio,Out,Marvin Zeegelaar,31,"Netherlands, Suriname",LB,200000,Without Club,Other,2022
+Bologna FC 1909,In,Joshua Zirkzee,21,"Netherlands, Nigeria",CF,11000000,Bayern Munich,27500000,2022
+Bologna FC 1909,In,Jhon Lucumí,24,Colombia,CB,9000000,KRC Genk,8000000,2022
+Bologna FC 1909,In,Arthur Theate,22,Belgium,CB,15000000,KV Oostende (-2024),6750000,2022
+Bologna FC 1909,In,Michel Aebischer,25,Switzerland,CM,3500000,BSC Young Boys,3000000,2022
+Bologna FC 1909,In,Lewis Ferguson,22,Scotland,AM,2000000,Aberdeen FC,2000000,2022
+Bologna FC 1909,In,Joaquín Sosa,20,"Uruguay, Italy",CB,500000,Club Nacional,950000,2022
+Bologna FC 1909,In,Matteo Angeli,19,Italy,CB,500000,Imolese Calcio 1919,50000,2022
+Bologna FC 1909,In,Charalampos Lykogiannis,28,Greece,LB,2200000,Cagliari Calcio,0,2022
+Bologna FC 1909,In,Wisdom Amey,16,"Italy, Togo",CB,Other,Bologna Primavera,Other,2022
+Bologna FC 1909,In,Antonio Raimondo,18,Italy,CF,Other,Bologna Primavera,Other,2022
+Bologna FC 1909,In,Nicola Bagnolini,18,Italy,GK,Other,Bologna Primavera,Other,2022
+Bologna FC 1909,In,Kacper Urbanski,17,Poland,CM,200000,Bologna Primavera,Other,2022
+Bologna FC 1909,In,Niklas Pyyhtiä,19,Finland,CM,400000,Bologna Primavera,Other,2022
+Bologna FC 1909,Out,Arthur Theate,22,Belgium,CB,20000000,Stade Rennais FC,19000000,2022
+Bologna FC 1909,Out,Aaron Hickey,20,Scotland,RB,25000000,Brentford FC,14250000,2022
+Bologna FC 1909,Out,Mattias Svanberg,23,Sweden,CM,12000000,VfL Wolfsburg,9500000,2022
+Bologna FC 1909,Out,César Falletti,29,"Uruguay, Italy",AM,800000,Ternana Calcio,1000,2022
+Bologna FC 1909,Out,Stefano Denswil,29,"Suriname, Netherlands",CB,2800000,Trabzonspor,0,2022
+Bologna FC 1909,Out,Federico Santander,31,Paraguay,CF,400000,Reggina 1914,0,2022
+Bologna FC 1909,Out,Ibrahima Mbaye,27,Senegal,RB,Other,CFR Cluj,0,2022
+Bologna FC 1909,Out,Gabriele Corbo,23,Italy,CB,800000,CF Montréal,0,2022
+Bologna FC 1909,Out,Diego Falcinelli,31,Italy,CF,500000,Modena FC,0,2022
+Bologna FC 1909,Out,Nicolas Viola,32,Italy,CM,800000,Cagliari Calcio,0,2022
+Bologna FC 1909,Out,Simone Rabbi,20,Italy,CF,100000,SPAL,0,2022
+Bologna FC 1909,Out,Emanuele Acampora,21,Italy,LB,Other,Sant'Antonio Abate,0,2022
+Bologna FC 1909,Out,Flavio Di Dio,20,Italy,LW,125000,Giugliano Calcio 1928,0,2022
+Bologna FC 1909,Out,Omar Khailoti,20,"Morocco, Italy",CB,100000,Novara FC,Other,2022
+Bologna FC 1909,Out,Mitchell Dijks,29,Netherlands,LB,850000,Without Club,Other,2022
+FC Empoli,In,Guglielmo Vicario,25,Italy,GK,10000000,Cagliari Calcio,8500000,2022
+FC Empoli,In,Liberato Cacace,21,"New Zealand, Italy",LB,2500000,Sint-Truidense VV,3000000,2022
+FC Empoli,In,Petar Stojanović,26,Slovenia,RB,3000000,GNK Dinamo Zagreb,1200000,2022
+FC Empoli,In,Samuele Perisan,24,Italy,GK,700000,Pordenone Calcio,650000,2022
+FC Empoli,In,Tyronne Ebuehi,26,"Nigeria, Netherlands",RB,1400000,SL Benfica B,0,2022
+FC Empoli,In,Mattia Destro,31,Italy,CF,3000000,Genoa CFC,0,2022
+FC Empoli,In,Lovro Stubljar,17,Slovenia,GK,Other,NK Domzale U19,Other,2022
+FC Empoli,In,Jacopo Fazzini,19,Italy,CM,250000,Empoli Primavera,Other,2022
+FC Empoli,In,Duccio Degli Innocenti,19,Italy,DM,500000,Empoli Primavera,Other,2022
+FC Empoli,In,Gabriele Guarino,18,Italy,CB,Other,Empoli Primavera,Other,2022
+FC Empoli,Out,Mattia Viti,20,Italy,CB,5000000,OGC Nice,13000000,2022
+FC Empoli,Out,Samuele Ricci,20,Italy,DM,22000000,Torino FC,8500000,2022
+FC Empoli,Out,Leonardo Mancuso,30,Italy,CF,1000000,AC Monza,2790000,2022
+FC Empoli,Out,Simone Canestrelli,22,Italy,CB,1800000,Pisa Sporting Club,2600000,2022
+FC Empoli,Out,Stefano Moreo,29,Italy,CF,800000,Brescia Calcio,800000,2022
+FC Empoli,Out,Jacopo Furlan,29,Italy,GK,150000,AC Perugia Calcio,300000,2022
+FC Empoli,Out,Samuele Damiani,24,Italy,DM,200000,Palermo FC,300000,2022
+FC Empoli,Out,Davide Zappella,24,Italy,RB,200000,Virtus Entella,20000,2022
+FC Empoli,Out,Roberto Pirrello,26,Italy,CB,200000,Pordenone Calcio,0,2022
+FC Empoli,Out,Giuseppe Montaperto,22,Italy,AM,50000,Audace Cerignola,0,2022
+FC Empoli,Out,Luca Lombardi,20,Italy,RW,100000,Ancona Calcio,0,2022
+FC Empoli,Out,Andrea Adamoli,21,Italy,LB,Other,USD Brianza Olginatese,0,2022
+FC Empoli,Out,Emanuele Matteucci,22,Italy,CB,75000,Mantova 1911,0,2022
+FC Empoli,Out,Simone Romagnoli,32,Italy,CB,800000,Parma Calcio 1913,0,2022
+FC Empoli,Out,Antonino Fradella,21,Italy,CB,50000,San Donato Tavarnelle,0,2022
+FC Empoli,Out,Kevin Piscopo,24,Italy,SS,225000,Pordenone Calcio,Other,2022
+FC Empoli,Out,Alex Sposito,21,Italy,GK,150000,Sangiuliano City,Other,2022
+FC Empoli,Out,Leandro Pratelli,19,Italy,GK,100000,UC AlbinoLeffe,Other,2022
+FC Empoli,Out,Riccardo Fiamozzi,29,Italy,RB,300000,Without Club,Other,2022
+UC Sampdoria,In,Francesco Caputo,34,Italy,CF,2500000,US Sassuolo,4000000,2022
+UC Sampdoria,In,Marco Delle Monache,17,Italy,SS,100000,Delfino Pescara 1936,1500000,2022
+UC Sampdoria,In,Abdelhamid Sabiri,25,"Morocco, Germany",AM,3000000,Ascoli Calcio,1000000,2022
+UC Sampdoria,In,Filip Djuricic,30,Serbia,AM,4000000,US Sassuolo,0,2022
+UC Sampdoria,In,Tomás Rincón,34,Venezuela,DM,1000000,Torino FC,0,2022
+UC Sampdoria,In,Antonio Metlika,20,Italy,DM,225000,Virtus Verona,0,2022
+UC Sampdoria,In,Ertijon Gega,21,"Albania, Italy",CB,25000,Cavese 1919,0,2022
+UC Sampdoria,In,Bram Nuytinck,32,Netherlands,CB,2000000,Udinese Calcio,Other,2022
+UC Sampdoria,In,Daniele Montevago,19,Italy,CF,150000,Sampdoria Primavera,Other,2022
+UC Sampdoria,In,Flavio Paoletti,19,Italy,CM,100000,Sampdoria Primavera,Other,2022
+UC Sampdoria,In,Lorenzo Malagrida,18,Italy,LM,250000,Sampdoria Primavera,Other,2022
+UC Sampdoria,In,Marco Somma,20,Italy,RM,175000,Sampdoria Primavera,Other,2022
+UC Sampdoria,In,Marios Ikonomou,30,Greece,CB,300000,Without Club,Other,2022
+UC Sampdoria,In,Gerard Yepes,19,Spain,DM,500000,Sampdoria Primavera,Other,2022
+UC Sampdoria,In,Jesé,29,Spain,LW,2700000,Without Club,Other,2022
+UC Sampdoria,Out,Mikkel Damsgaard,22,Denmark,LW,10000000,Brentford FC,15000000,2022
+UC Sampdoria,Out,Federico Bonazzoli,25,Italy,CF,2500000,US Salernitana 1919,5000000,2022
+UC Sampdoria,Out,Gianluca Caprari,28,Italy,SS,4000000,Hellas Verona,5000000,2022
+UC Sampdoria,Out,Morten Thorsby,26,Norway,CM,3000000,1.FC Union Berlin,3000000,2022
+UC Sampdoria,Out,Abdelhamid Sabiri,26,"Morocco, Germany",AM,2200000,ACF Fiorentina,2500000,2022
+UC Sampdoria,Out,Omar Colley,30,The Gambia,CB,3000000,Besiktas JK,2300000,2022
+UC Sampdoria,Out,Ernesto Torregrossa,30,"Venezuela, Italy",CF,500000,Pisa Sporting Club,1800000,2022
+UC Sampdoria,Out,Kaique Rocha,21,Brazil,CB,3000000,Club Athletico Paranaense,0,2022
+UC Sampdoria,Out,Nicolò Francofonte,21,Italy,CM,Other,AS Gubbio 1910,0,2022
+UC Sampdoria,Out,Nik Prelec,21,Slovenia,CF,800000,WSG Tirol,0,2022
+UC Sampdoria,Out,Lorenzo Sabattini,20,Italy,CM,50000,Flaminia Civita Castellana,0,2022
+UC Sampdoria,Out,Maya Yoshida,33,Japan,CB,350000,FC Schalke 04,0,2022
+UC Sampdoria,Out,Albin Ekdal,32,Sweden,DM,300000,Spezia Calcio,0,2022
+UC Sampdoria,Out,Tommaso Farabegoli,23,Italy,CB,100000,Sangiuliano City,Other,2022
+UC Sampdoria,Out,Michael Brentan,20,Italy,CM,225000,UC AlbinoLeffe,Other,2022
+UC Sampdoria,Out,Sebastian Giovinco,35,Italy,SS,Other,Without Club,Other,2022
+Spezia Calcio,In,Arkadiusz Reca,27,Poland,LB,3000000,Atalanta BC,3900000,2022
+Spezia Calcio,In,Przemysław Wiśniewski,24,Poland,CB,1500000,Venezia FC,3810000,2022
+Spezia Calcio,In,Kevin Agudelo,23,Colombia,AM,3500000,Genoa CFC,2500000,2022
+Spezia Calcio,In,Bartlomiej Dragowski,24,Poland,GK,6000000,ACF Fiorentina,2450000,2022
+Spezia Calcio,In,Mehdi Bourabia,30,"Morocco, France",CM,900000,US Sassuolo,1650000,2022
+Spezia Calcio,In,Raimonds Krollis,21,Latvia,CF,2500000,Valmiera FC,1520000,2022
+Spezia Calcio,In,Tio Cipot,19,Slovenia,CM,500000,NS Mura,1060000,2022
+Spezia Calcio,In,Albin Ekdal,32,Sweden,DM,1000000,UC Sampdoria,0,2022
+Spezia Calcio,In,João Moutinho,24,Portugal,LB,1500000,Orlando City SC,0,2022
+Spezia Calcio,In,Laurens Serpe,21,"Italy, Netherlands",CB,175000,Genoa CFC,Other,2022
+Spezia Calcio,In,Federico Marchetti,39,Italy,GK,100000,Without Club,Other,2022
+Spezia Calcio,In,Julius Beck,17,Denmark,CM,Other,Spezia Primavera,Other,2022
+Spezia Calcio,Out,Jakub Kiwior,22,Poland,CB,30000000,Arsenal FC,19500000,2022
+Spezia Calcio,Out,Janis Antiste,20,"France, Martinique",CF,1900000,US Sassuolo,5680000,2022
+Spezia Calcio,Out,Giulio Maggiore,24,Italy,CM,3500000,US Salernitana 1919,3500000,2022
+Spezia Calcio,Out,Ivan Provedel,28,Italy,GK,14000000,SS Lazio,2550000,2022
+Spezia Calcio,Out,Mikael Egill Ellertsson,20,Iceland,CM,2000000,Venezia FC,1500000,2022
+Spezia Calcio,Out,Elio Capradossi,26,"Uganda, Italy",CB,300000,Cagliari Calcio,200000,2022
+Spezia Calcio,Out,Kleis Bozhanaj,21,Albania,AM,450000,Carrarese Calcio 1908,40000,2022
+Spezia Calcio,Out,Léo Sena,26,Brazil,DM,500000,Goiás EC,0,2022
+Spezia Calcio,Out,Matteo Figoli,21,Italy,CM,175000,US Pergolettese 1932,0,2022
+Spezia Calcio,Out,Ognjen Stijepovic,23,Montenegro,SS,75000,NS Mura,0,2022
+Spezia Calcio,Out,Luca Vignali,26,Italy,RB,650000,Como 1907,Other,2022
+US Salernitana 1919,In,Matteo Lovato,22,Italy,CB,7000000,Atalanta BC,7000000,2022
+US Salernitana 1919,In,Flavius Daniliuc,21,Austria,CB,8000000,OGC Nice,5800000,2022
+US Salernitana 1919,In,Federico Bonazzoli,25,Italy,CF,5000000,UC Sampdoria,5000000,2022
+US Salernitana 1919,In,Domagoj Bradarić,22,Croatia,LB,3500000,LOSC Lille,5000000,2022
+US Salernitana 1919,In,Emil Bohinen,23,Norway,DM,4000000,CSKA Moscow,3850000,2022
+US Salernitana 1919,In,Giulio Maggiore,24,Italy,CM,8500000,Spezia Calcio,3500000,2022
+US Salernitana 1919,In,Mikael,23,Brazil,CF,2000000,Sport Club do Recife,3280000,2022
+US Salernitana 1919,In,Mamadou Coulibaly,23,Senegal,CM,2500000,Udinese Calcio,3000000,2022
+US Salernitana 1919,In,Diego Valencia,22,Chile,CF,900000,CD Universidad Católica,2500000,2022
+US Salernitana 1919,In,Dylan Bronn,27,"Tunisia, France",CB,4000000,FC Metz,1560000,2022
+US Salernitana 1919,In,Pawel Jaroszynski,27,Poland,LM,600000,Genoa CFC,1450000,2022
+US Salernitana 1919,In,Pasquale Mazzocchi,26,Italy,RB,1500000,Venezia FC,1000000,2022
+US Salernitana 1919,In,Grigoris Kastanos,24,Cyprus,AM,1500000,Juventus Next Gen,300000,2022
+US Salernitana 1919,In,Junior Sambia,25,"France, Central African Republic",RB,4500000,Montpellier HSC,0,2022
+US Salernitana 1919,In,Erik Botheim,22,Norway,CF,4000000,FC Krasnodar,0,2022
+US Salernitana 1919,In,Guillermo Ochoa,37,"Mexico, Spain",GK,1200000,CF América,0,2022
+US Salernitana 1919,In,Luigi Sepe,31,Italy,GK,1400000,Parma Calcio 1913,0,2022
+US Salernitana 1919,In,Andres Sfait,17,Romania,LW,Other,SV Grödig,Other,2022
+US Salernitana 1919,In,Jacopo De Matteis,19,Italy,GK,50000,Salernitana Primavera,Other,2022
+US Salernitana 1919,In,Andrei Motoc,19,"Moldova, Italy",CB,100000,Salernitana Primavera,Other,2022
+US Salernitana 1919,In,Antonio Pio Iervolino,19,Italy,CM,50000,Salernitana Primavera,Other,2022
+US Salernitana 1919,Out,Éderson,22,Brazil,CM,40000000,Atalanta BC,22900000,2022
+US Salernitana 1919,Out,Giuseppe Fella,28,Italy,SS,225000,Palermo FC,320000,2022
+US Salernitana 1919,Out,Alessandro Micai,29,Italy,GK,500000,Cosenza Calcio,0,2022
+US Salernitana 1919,Out,Andrea Schiavone,29,Italy,DM,100000,FC Südtirol,0,2022
+US Salernitana 1919,Out,Milan Djuric,32,"Bosnia-Herzegovina, Italy",CF,1500000,Hellas Verona,0,2022
+US Salernitana 1919,Out,Gaetano Vitale,20,Italy,CM,200000,SS Monopoli 1966,0,2022
+US Salernitana 1919,Out,Edoardo Vergani,21,Italy,CF,200000,Delfino Pescara 1936,0,2022
+US Salernitana 1919,Out,Clemente Crisci,20,Italy,CM,Other,Taranto FC 1927,0,2022
+US Salernitana 1919,Out,Filippo D'Andrea,23,Italy,CF,350000,Audace Cerignola,0,2022
+US Salernitana 1919,Out,Joel Obi,31,"Nigeria, Italy",CM,25000,Reggina 1914,0,2022
+US Salernitana 1919,Out,Stefan Strandberg,32,Norway,CB,Other,Vålerenga Fotball Elite,0,2022
+US Salernitana 1919,Out,Wajdi Kechrida,26,"Tunisia, France",RB,700000,Atromitos Athens,0,2022
+US Salernitana 1919,Out,Francesco Di Tacchio,32,Italy,DM,250000,Ternana Calcio,Other,2022
+US Salernitana 1919,Out,Sanasi Sy,23,"France, Senegal",LB,200000,Nîmes Olympique,Other,2022
+US Salernitana 1919,Out,Michele Cavion,27,Italy,CM,300000,LR Vicenza,Other,2022
+US Salernitana 1919,Out,Antonio Russo,22,Italy,GK,Other,Taranto FC 1927,Other,2022
+US Salernitana 1919,Out,Riccardo Gagliolo,32,"Sweden, Italy",CB,200000,Reggina 1914,Other,2022
+US Salernitana 1919,Out,Vid Belec,32,Slovenia,GK,400000,APOEL Nicosia,Other,2022
+US Salernitana 1919,Out,Leonardo Capezzi,27,Italy,CM,200000,AC Perugia Calcio,Other,2022
+US Salernitana 1919,Out,Carmine Iannone,21,Italy,CF,100000,ACR Messina,Other,2022
+US Salernitana 1919,Out,Frédéric Veseli,29,"Albania, Switzerland",CB,250000,Benevento Calcio,Other,2022
+US Salernitana 1919,Out,Diego Perotti,33,"Argentina, Spain",LW,Other,Without Club,Other,2022
+US Salernitana 1919,Out,Ivan Radovanovic,34,Serbia,DM,Other,Without Club,Other,2022
+US Salernitana 1919,Out,Franck Ribéry,39,France,LW,Other,Retired,Other,2022
+US Salernitana 1919,Out,Mirko Esposito,26,Italy,RB,Other,Without Club,Other,2022
+US Lecce,In,Lameck Banda,21,Zambia,LW,300000,Maccabi Petah Tikva,2000000,2022
+US Lecce,In,Federico Di Francesco,28,Italy,LW,2000000,SPAL,800000,2022
+US Lecce,In,Federico Baschirotto,25,Italy,CB,450000,Ascoli Calcio,280000,2022
+US Lecce,In,Tommaso Cassandro,23,Italy,RB,900000,AS Cittadella,250000,2022
+US Lecce,In,Joel Voelkerling Persson,19,Sweden,CF,600000,Roma U19,0,2022
+US Lecce,In,Federico Brancolini,20,Italy,GK,200000,ACF Fiorentina,0,2022
+US Lecce,In,Assan Ceesay,28,The Gambia,CF,2700000,FC Zürich,0,2022
+US Lecce,In,Jasper Samooja,18,Finland,GK,75000,FC Honka II,Other,2022
+US Lecce,In,Simone Romagnoli,32,Italy,CB,750000,Parma Calcio 1913,Other,2022
+US Lecce,In,Eetu Mömmö,20,Finland,LW,200000,Lecce Primavera,Other,2022
+US Lecce,In,Mats Lemmens,20,Belgium,RB,100000,Lecce Primavera,Other,2022
+US Lecce,In,Joan González,20,Spain,CM,250000,Lecce Primavera,Other,2022
+US Lecce,In,Medon Berisha,18,"Albania, Kosovo",CM,75000,Lecce Primavera,Other,2022
+US Lecce,In,Alexandru Borbei,19,Romania,GK,150000,Lecce Primavera,Other,2022
+US Lecce,Out,Massimo Coda,33,Italy,CF,1000000,Genoa CFC,1500000,2022
+US Lecce,Out,Francesco Di Mariano,26,Italy,LW,1200000,Palermo FC,1000000,2022
+US Lecce,Out,Mario Gargiulo,26,Italy,CM,550000,Modena FC,800000,2022
+US Lecce,Out,Brayan Vera,23,Colombia,CB,1500000,CD América de Cali,300000,2022
+US Lecce,Out,Silvio Colella,20,Italy,RB,Other,ASD Team Altamura,0,2022
+US Lecce,Out,Zan Majer,30,Slovenia,CM,800000,Reggina 1914,0,2022
+US Lecce,Out,Gabriel,29,Brazil,GK,1000000,Coritiba Foot Ball Club,0,2022
+US Lecce,Out,Raúl Asencio,24,"Spain, Brazil",CF,175000,AS Cittadella,0,2022
+US Lecce,Out,Mattia Felici,21,Italy,LW,500000,US Triestina,0,2022
+US Lecce,Out,Gianmarco Mancarella,20,Italy,LM,Other,Audace Cerignola,0,2022
+US Lecce,Out,Sergio Maselli,21,Italy,DM,225000,SS Juve Stabia,0,2022
+US Lecce,Out,Romario Benzar,30,Romania,RB,250000,FCV Farul Constanta,0,2022
+US Lecce,Out,Lorenco Simic,26,Croatia,CB,800000,Ascoli Calcio,Other,2022
+US Lecce,Out,Arturo Calabresi,26,Italy,RB,900000,Pisa Sporting Club,Other,2022
+US Lecce,Out,Antonino Ragusa,32,Italy,LW,200000,Without Club,Other,2022
+US Cremonese,In,Cyriel Dessers,27,"Nigeria, Belgium",CF,6000000,KRC Genk,6500000,2022
+US Cremonese,In,Felix Afena-Gyan,19,Ghana,CF,6000000,AS Roma,6000000,2022
+US Cremonese,In,Charles Pickel,25,"DR Congo, Switzerland",DM,2500000,FC Famalicão,3800000,2022
+US Cremonese,In,Emanuel Aiwu,21,Austria,CB,3000000,Rapid Vienna,3500000,2022
+US Cremonese,In,Luca Valzania,26,Italy,CM,1200000,Atalanta BC,3000000,2022
+US Cremonese,In,Luca Zanimacchia,23,Italy,RW,2000000,Juventus Next Gen,3000000,2022
+US Cremonese,In,David Okereke,24,Nigeria,CF,4500000,Club Brugge KV,2500000,2022
+US Cremonese,In,Vlad Chiricheș,32,Romania,CB,1800000,US Sassuolo,2000000,2022
+US Cremonese,In,Giacomo Quagliata,22,Italy,LB,800000,Heracles Almelo,2000000,2022
+US Cremonese,In,Luka Lochoshvili,24,Georgia,CB,1500000,Wolfsberger AC,1600000,2022
+US Cremonese,In,Tommaso Milanese,19,Italy,CM,2000000,AS Roma,750000,2022
+US Cremonese,In,Frank Tsadjout,22,"Italy, Cameroon",CF,900000,AC Milan,400000,2022
+US Cremonese,In,Paolo Ghiglione,25,Italy,RB,2000000,Genoa CFC,300000,2022
+US Cremonese,In,Joshua Tenkorang,22,"Italy, Ghana",CM,150000,US Campobasso 1919,200000,2022
+US Cremonese,In,Leonardo Sernicola,24,Italy,RB,1500000,US Sassuolo,0,2022
+US Cremonese,In,Gianluca Saro,22,Italy,GK,200000,FC Crotone,Other,2022
+US Cremonese,In,Maissa Ndiaye,20,Senegal,CB,400000,Roma U19,Other,2022
+US Cremonese,Out,Paolo Bartolomei,33,Italy,DM,200000,AC Perugia Calcio,0,2022
+US Cremonese,Out,Riccardo Collodel,23,Italy,CM,150000,ACR Siena 1904,0,2022
+US Cremonese,Out,Samuel Di Carmine,33,Italy,CF,300000,AC Perugia Calcio,0,2022
+US Cremonese,Out,Francesco Deli,27,Italy,CM,150000,Pordenone Calcio,0,2022
+US Cremonese,Out,Alessandro Fiordaliso,23,Italy,RB,200000,SPAL,Other,2022
+US Cremonese,Out,Jaime Báez,27,"Uruguay, Italy",LW,900000,Frosinone Calcio,Other,2022
+US Cremonese,Out,Emanuele Terranova,35,Italy,CB,125000,SSC Bari,Other,2022
+US Cremonese,Out,Alessandro Crescenzi,30,Italy,LB,100000,Without Club,Other,2022
+AC Monza,In,Andrea Colpani,23,Italy,AM,2400000,Atalanta BC,9000000,2022
+AC Monza,In,Michele Di Gregorio,24,Italy,GK,3800000,Inter Milan,6000000,2022
+AC Monza,In,Davide Bettella,22,Italy,CB,2000000,Atalanta BC,5000000,2022
+AC Monza,In,Andrea Carboni,21,Italy,CB,5000000,Cagliari Calcio,4000000,2022
+AC Monza,In,Valentin Antov,21,Bulgaria,CB,800000,CSKA-Sofia,3900000,2022
+AC Monza,In,Pedro Pereira,24,Portugal,RB,2300000,SL Benfica,2870000,2022
+AC Monza,In,Leonardo Mancuso,30,Italy,CF,2700000,FC Empoli,2790000,2022
+AC Monza,In,Mattia Valoti,28,Italy,CM,2000000,SPAL,2750000,2022
+AC Monza,In,Samuele Birindelli,22,Italy,RB,2500000,Pisa Sporting Club,1600000,2022
+AC Monza,In,Alessandro Sorrentino,20,Italy,GK,500000,Delfino Pescara 1936,800000,2022
+AC Monza,In,Warren Bondo,18,"France, DR Congo",CM,700000,AS Nancy-Lorraine,0,2022
+AC Monza,In,Andrea Ranocchia,34,Italy,CB,800000,Inter Milan,0,2022
+AC Monza,Out,Antonis Siatounis,20,Greece,DM,50000,Virtus Entella,0,2022
+AC Monza,Out,Giuseppe Bellusci,32,Italy,CB,200000,Ascoli Calcio,0,2022
+AC Monza,Out,Daniele Sommariva,24,Italy,GK,100000,Delfino Pescara 1936,0,2022
+AC Monza,Out,Nicola Mosti,24,Italy,AM,250000,Modena FC,Other,2022
+AC Monza,Out,Salvatore Molina,31,Italy,RM,400000,SSC Bari,Other,2022
+AC Monza,Out,Luca Lombardi,19,Italy,DM,100000,Delfino Pescara 1936,Other,2022
+AC Monza,Out,Gabriel Paletta,37,"Italy, Argentina",CB,Other,Retired,Other,2022
+AC Monza,Out,Nicola Rigoni,32,Italy,DM,Other,Without Club,Other,2022
+AC Monza,Out,Matteo Scozzarella,34,Italy,DM,Other,Without Club,Other,2022
+AC Monza,Out,Gastón Ramírez,31,Uruguay,CM,175000,Without Club,Other,2022
+AC Monza,Out,Andrea Ranocchia,34,Italy,CB,Other,Retired,Other,2022

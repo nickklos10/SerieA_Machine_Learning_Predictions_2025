@@ -1,0 +1,546 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+Inter Milan,In,Walter Samuel,27,"Argentina, Spain",CB,18000000,Real Madrid,16000000,2005
+Inter Milan,In,David Pizarro,25,Chile,CM,12000000,Udinese Calcio,12000000,2005
+Inter Milan,In,Santiago Solari,28,"Argentina, Spain",LM,7000000,Real Madrid,2000000,2005
+Inter Milan,In,Marco Andreolli,19,Italy,CB,Other,Padova Berretti,400000,2005
+Inter Milan,In,Robert Acquafresca,17,"Italy, Poland",CF,Other,Torino Primavera,0,2005
+Inter Milan,In,Maxwell,24,Brazil,LB,9000000,Ajax Amsterdam,0,2005
+Inter Milan,In,Paolo Orlandoni,32,Italy,GK,150000,Piacenza FC,0,2005
+Inter Milan,In,Luís Figo,32,Portugal,RW,20000000,Real Madrid,0,2005
+Inter Milan,In,Pierre Womé,26,Cameroon,LB,3000000,Brescia Calcio,0,2005
+Inter Milan,In,Daniel Maa Boumsong,18,"Cameroon, France",DM,Other,Inter Milan Primavera,Other,2005
+Inter Milan,In,Matteo Momentè,18,Italy,CF,Other,Inter Milan Primavera,Other,2005
+Inter Milan,In,Matteo Lombardo,20,Italy,LM,Other,Inter Milan Primavera,Other,2005
+Inter Milan,In,Giacomo Bindi,18,Italy,GK,Other,Inter Milan Primavera,Other,2005
+Inter Milan,Out,Andy van der Meyde,25,Netherlands,RW,Other,Everton FC,9000000,2005
+Inter Milan,Out,Domenico Morfeo,29,Italy,AM,Other,Parma FC,7500000,2005
+Inter Milan,Out,Emre Belözoğlu,24,Türkiye,CM,Other,Newcastle United,5000000,2005
+Inter Milan,Out,Mario Rebecchi,22,Italy,CM,Other,AC Lumezzane,255000,2005
+Inter Milan,Out,Gonzalo Sorondo,25,"Uruguay, Brazil",CB,Other,Charlton Athletic,0,2005
+Inter Milan,Out,Nicola Ventola,27,Italy,CF,Other,Atalanta BC,0,2005
+Inter Milan,Out,Alberto Fontana,38,Italy,GK,Other,Chievo Verona,0,2005
+Inter Milan,Out,Edgar Davids,32,"Netherlands, Suriname",CM,Other,Tottenham Hotspur,0,2005
+Inter Milan,Out,Christian Vieri,31,"Italy, Australia",CF,Other,AC Milan,0,2005
+Inter Milan,Out,Georgios Karagounis,28,Greece,CM,Other,SL Benfica,0,2005
+Inter Milan,Out,Stéphane Dalmat,26,"France, Martinique",CM,Other,Racing Santander,0,2005
+Inter Milan,Out,Horacio Peralta,23,Uruguay,CF,Other,CR Flamengo,0,2005
+Inter Milan,Out,Sabri Lamouchi,33,"France, Tunisia",CM,Other,Olympique Marseille,0,2005
+Inter Milan,Out,Carlos Gamarra,34,Paraguay,CB,Other,Sociedade Esportiva Palmeiras,0,2005
+Inter Milan,Out,Javier Farinós,27,Spain,DM,Other,RCD Mallorca,0,2005
+Inter Milan,Out,Dimitar Makriev,21,Bulgaria,CF,Other,Dijon FCO,0,2005
+Inter Milan,Out,Riccardo Meggiorini,19,Italy,CF,Other,FC Pavia 1911,Other,2005
+Inter Milan,Out,Carl Valeri,20,"Australia, Italy",CM,Other,US Grosseto FC,Other,2005
+Inter Milan,Out,Fabrizio Biava,21,Italy,CB,Other,ASD Acireale Calcio,Other,2005
+Inter Milan,Out,Isah Eliakwu,19,"Nigeria, Italy",CF,Other,US Triestina,Other,2005
+Inter Milan,Out,Robert Acquafresca,17,"Italy, Poland",CF,Other,Treviso FBC 1993,Other,2005
+Inter Milan,Out,Alex Cordaz,22,Italy,GK,Other,ASD Acireale Calcio,Other,2005
+Juventus FC,In,Patrick Vieira,29,"France, Senegal",DM,35000000,Arsenal FC,20000000,2005
+Juventus FC,In,Giorgio Chiellini,20,Italy,CB,9000000,ACF Fiorentina,7700000,2005
+Juventus FC,In,Fabrizio Miccoli,26,Italy,CF,15000000,ACF Fiorentina,2390000,2005
+Juventus FC,In,Douglas Packer,18,"Brazil, Italy",AM,Other,Ipatinga Futebol Clube (MG),150000,2005
+Juventus FC,In,Giuliano Giannichedda,30,Italy,DM,4000000,SS Lazio,0,2005
+Juventus FC,In,Federico Balzaretti,23,Italy,LB,Other,Torino FC,0,2005
+Juventus FC,In,Robert Kovac,31,Croatia,CB,4500000,Bayern Munich,0,2005
+Juventus FC,In,Andrea Rossi,18,Italy,LB,Other,Juventus Primavera,Other,2005
+Juventus FC,In,Alessandro La Vecchia,20,Italy,Midfielder,Other,Juventus Primavera,Other,2005
+Juventus FC,In,Claudio Marchisio,19,Italy,CM,Other,Juventus Primavera,Other,2005
+Juventus FC,Out,Stephen Appiah,24,Ghana,DM,Other,Fenerbahce,8000000,2005
+Juventus FC,Out,Enzo Maresca,25,Italy,CM,Other,Sevilla FC,2500000,2005
+Juventus FC,Out,Mattia Cassani,21,Italy,RB,Other,Hellas Verona,1830000,2005
+Juventus FC,Out,Daniele Gastaldello,22,Italy,CB,Other,AC Siena,450000,2005
+Juventus FC,Out,Benjamin Onwuachi,21,Nigeria,CF,Other,Standard Liège,0,2005
+Juventus FC,Out,Paolo Montero,33,"Uruguay, Spain",CB,Other,CA San Lorenzo de Almagro,0,2005
+Juventus FC,Out,Antonio Chimenti,35,Italy,GK,Other,Cagliari Calcio,0,2005
+Juventus FC,Out,Marcelo Salas,30,Chile,CF,Other,Club Universidad de Chile,0,2005
+Juventus FC,Out,Matteo Cavagna,19,Italy,CM,Other,Ravenna Calcio,Other,2005
+Juventus FC,Out,Massimiliano Vieri,26,"Australia, Italy",CF,Other,Without Club,Other,2005
+Juventus FC,Out,Ciro Ferrara,38,Italy,CB,Other,Retired,Other,2005
+AS Roma,In,Massimo Bonanni,23,Italy,LM,700000,Vicenza Calcio,500000,2005
+AS Roma,In,Doni,25,"Brazil, Italy",GK,Other,Esporte Clube Juventude,18000,2005
+AS Roma,In,Samuel Kuffour,28,"Ghana, Germany",CB,5500000,Bayern Munich,0,2005
+AS Roma,In,Rodrigo Taddei,25,"Brazil, Italy",RW,5500000,AC Siena,0,2005
+AS Roma,In,Shabani Nonda,28,"DR Congo, France",CF,6000000,AS Monaco,0,2005
+AS Roma,In,Gianluca Comotto,26,Italy,RB,500000,Torino FC,Other,2005
+AS Roma,In,Danilo Cassandra,,Italy,Striker,Other,Nettuno Calcio,Other,2005
+AS Roma,In,Stefano Okaka,15,"Italy, Nigeria",CF,Other,Roma U19,Other,2005
+AS Roma,In,Alessandro Simonetta,19,Italy,LW,Other,Roma U19,Other,2005
+AS Roma,In,Aleandro Rosi,18,Italy,RB,Other,Roma U19,Other,2005
+AS Roma,Out,Antonio Cassano,23,Italy,SS,Other,Real Madrid,5500000,2005
+AS Roma,Out,Massimo Bonanni,23,Italy,LM,Other,US Palermo,750000,2005
+AS Roma,Out,Christian Scarlato,21,Italy,Midfielder,Other,ASD Acireale Calcio,Other,2005
+AS Roma,Out,Traianos Dellas,29,Greece,CB,Other,AEK Athens,0,2005
+AS Roma,Out,Abel Xavier,32,"Portugal, Mozambique",RB,Other,Middlesbrough FC,0,2005
+AS Roma,Out,Vincent Candela,31,France,LB,Other,Udinese Calcio,0,2005
+AS Roma,Out,Saliou Lassissi,26,"Cote d'Ivoire, France",CB,Other,AS Nancy-Lorraine,0,2005
+AS Roma,Out,Valerio Virga,19,Italy,RB,Other,US Palermo,Other,2005
+AS Roma,Out,Andrea Briotti,19,Italy,LB,Other,Napoli Soccer,Other,2005
+AS Roma,Out,Simone Piva,21,Italy,LB,Other,Giulianova Calcio,Other,2005
+AS Roma,Out,Giuseppe Scurto,21,Italy,CB,Other,Chievo Verona,Other,2005
+AS Roma,Out,Alessandro Simonetta,19,Italy,LW,Other,AC Arezzo,Other,2005
+AS Roma,Out,Luigi Sartor,30,Italy,RB,Other,FC Sopron,Other,2005
+AS Roma,Out,Olasunkanmi Akande Ajide,19,Nigeria,CF,Other,AC Bellinzona,Other,2005
+AS Roma,Out,Raffaele Coscia,22,Italy,GK,Other,AS Melfi,Other,2005
+AC Milan,In,Alberto Gilardino,23,Italy,CF,20000000,Parma FC,25000000,2005
+AC Milan,In,Marek Jankulovski,28,"Czech Republic, North Macedonia",LB,20000000,Udinese Calcio,8500000,2005
+AC Milan,In,Christian Vieri,31,"Italy, Australia",CF,8000000,Inter Milan,0,2005
+AC Milan,In,Johann Vogel,28,Switzerland,DM,5000000,PSV Eindhoven,0,2005
+AC Milan,In,Dimitrios Eleftheropoulos,28,Greece,GK,600000,FC Messina Peloro,0,2005
+AC Milan,In,Márcio Amoroso,31,"Brazil, Italy",CF,3000000,São Paulo Futebol Clube,0,2005
+AC Milan,In,Zeljko Kalac,32,"Australia, Croatia",GK,400000,Perugia Calcio,0,2005
+AC Milan,In,Lino Marzorati,18,Italy,CB,Other,Milan Primavera,Other,2005
+AC Milan,In,Davide Astori,18,Italy,CB,Other,Milan Primavera,Other,2005
+AC Milan,Out,Jon Dahl Tomasson,28,Denmark,CF,Other,VfB Stuttgart,7500000,2005
+AC Milan,Out,Vikash Dhorasoo,31,"France, Mauritius",CM,Other,Paris Saint-Germain,3200000,2005
+AC Milan,Out,Marco Donadel,22,Italy,DM,Other,ACF Fiorentina,1300000,2005
+AC Milan,Out,Harvey Esajas,31,"Netherlands, Suriname",CB,Other,Legnano AC,0,2005
+AC Milan,Out,Christian Vieri,32,"Italy, Australia",CF,Other,AS Monaco,0,2005
+AC Milan,Out,Mohamed Sarr,21,"Senegal, Belgium",CB,Other,Standard Liège,0,2005
+AC Milan,Out,Giuseppe Pancaro,33,Italy,RB,Other,ACF Fiorentina,Other,2005
+AC Milan,Out,Alessandro Budel,24,Italy,DM,Other,Cagliari Calcio,Other,2005
+UC Sampdoria,In,Luigi Sala,31,Italy,CB,1400000,Atalanta BC,500000,2005
+UC Sampdoria,In,Lamberto Zauli,33,Italy,AM,500000,US Palermo,0,2005
+UC Sampdoria,In,Mark Iuliano,32,Italy,CB,2000000,RCD Mallorca,0,2005
+UC Sampdoria,In,Salvatore Foti,16,Italy,CF,Other,Venezia Primavera,0,2005
+UC Sampdoria,In,Gionata Mingozzi,20,Italy,CM,50000,Perugia Calcio,0,2005
+UC Sampdoria,In,Corrado Colombo,26,Italy,CF,1000000,Ascoli Calcio 1898,Other,2005
+UC Sampdoria,In,Alessandro Bastrini,18,Italy,CB,Other,Como Berretti,Other,2005
+UC Sampdoria,In,Luca Castellazzi,29,Italy,GK,2000000,Brescia Calcio,Other,2005
+UC Sampdoria,In,Giovanni Taormina,17,Italy,LM,Other,Sampdoria Primavera,Other,2005
+UC Sampdoria,In,Danilo Soddimo,18,Italy,LM,Other,Sampdoria Primavera,Other,2005
+UC Sampdoria,Out,Mattia Roselli,18,Italy,Striker,Other,FC Chiasso,0,2005
+UC Sampdoria,Out,Cristiano Doni,32,Italy,AM,Other,RCD Mallorca,0,2005
+UC Sampdoria,Out,Fausto Rossini,27,Italy,CF,Other,Udinese Calcio,0,2005
+UC Sampdoria,Out,Lamberto Zauli,34,Italy,AM,Other,Bologna FC 1909,Other,2005
+UC Sampdoria,Out,Stefano Sacchetti,32,Italy,CB,Other,AC Mantova 1911,Other,2005
+UC Sampdoria,Out,Atsushi Yanagisawa,28,Japan,CF,Other,FC Messina Peloro,Other,2005
+UC Sampdoria,Out,Luigi Turci,35,Italy,GK,Other,AC Cesena,Other,2005
+UC Sampdoria,Out,Emanuele Bianchi,20,Italy,GK,Other,Perugia Calcio,Other,2005
+UC Sampdoria,Out,Andrea Cittadino,17,Italy,Midfielder,Other,Without Club,Other,2005
+UC Sampdoria,Out,Vincenzo Iacopino,28,Italy,AM,Other,Without Club,Other,2005
+UC Sampdoria,Out,Stefano Bettarini,33,Italy,LB,Other,Retired,Other,2005
+Udinese Calcio,In,Barreto,19,"Brazil, Italy",SS,1000000,Treviso FBC 1993,5000000,2005
+Udinese Calcio,In,Marco Motta,19,Italy,RB,3000000,Atalanta BC,2850000,2005
+Udinese Calcio,In,Cristian Zapata,18,Colombia,CB,Other,Deportivo Cali,500000,2005
+Udinese Calcio,In,Roman Eremenko,18,"Finland, Russia",AM,Other,FF Jaro,300000,2005
+Udinese Calcio,In,Abel Aguilar,20,Colombia,DM,Other,Deportivo Cali,0,2005
+Udinese Calcio,In,Juarez,31,Brazil,RB,300000,Bologna FC 1909,0,2005
+Udinese Calcio,In,Raffaele De Martino,19,Italy,DM,100000,AC Bellinzona,0,2005
+Udinese Calcio,In,José Luís Vidigal,32,"Portugal, Angola",DM,300000,AS Livorno,0,2005
+Udinese Calcio,In,Christian Obodo,21,Nigeria,CM,4000000,ACF Fiorentina,0,2005
+Udinese Calcio,In,Vincent Candela,31,France,LB,4000000,AS Roma,0,2005
+Udinese Calcio,In,Jarkko Hurme,19,Finland,RB,Other,Rovaniemen Palloseura,0,2005
+Udinese Calcio,In,Al-Saadi Al Gaddafi,32,Libya,AM,300000,Perugia Calcio,0,2005
+Udinese Calcio,In,Fausto Rossini,27,Italy,CF,1200000,UC Sampdoria,0,2005
+Udinese Calcio,In,Ferdinando Sforzini,20,Italy,CF,Other,US Sassuolo,Other,2005
+Udinese Calcio,In,Fabio Quagliarella,22,Italy,CF,1000000,Torino FC,Other,2005
+Udinese Calcio,In,Daniele Fornaio,17,Italy,CM,Other,US Palermo,Other,2005
+Udinese Calcio,In,Salvatore Masiello,23,Italy,LB,50000,US Palermo,Other,2005
+Udinese Calcio,In,Simone Pepe,22,Italy,RW,2500000,US Palermo,Other,2005
+Udinese Calcio,In,Massimo Gotti,19,Italy,LB,Other,Atalanta BC,Other,2005
+Udinese Calcio,In,Marco Murriero,22,Italy,GK,75000,AC Bellinzona,Other,2005
+Udinese Calcio,In,Cesare Natali,26,Italy,CB,2000000,Atalanta BC,Other,2005
+Udinese Calcio,In,Fernando Tissone,18,"Argentina, Italy",DM,Other,CA Lanús,Other,2005
+Udinese Calcio,In,Gabriele Paoletti,27,Italy,GK,Other,AC Reggiana 1919,Other,2005
+Udinese Calcio,In,Carlo Sciarrone,21,Italy,GK,Other,ASD Chieti,Other,2005
+Udinese Calcio,In,Piermario Morosini,19,Italy,CM,Other,Udinese Primavera,Other,2005
+Udinese Calcio,Out,David Pizarro,25,Chile,CM,Other,Inter Milan,12000000,2005
+Udinese Calcio,Out,Marek Jankulovski,28,"Czech Republic, North Macedonia",LB,Other,AC Milan,8500000,2005
+Udinese Calcio,Out,Per Kröldrup,25,Denmark,CB,Other,Everton FC,6800000,2005
+Udinese Calcio,Out,Siyabonga Nomvethe,28,South Africa,CF,Other,Orlando Pirates,0,2005
+Udinese Calcio,Out,Henok Goitom,20,"Eritrea, Sweden",CF,Other,Ciudad de Murcia,Other,2005
+Udinese Calcio,Out,Luis Helguera,29,Spain,DM,Other,Vicenza Calcio,Other,2005
+Udinese Calcio,Out,Dino Fava,28,Italy,CF,Other,Treviso FBC 1993,Other,2005
+Udinese Calcio,Out,David Di Michele,30,Italy,CF,Other,US Palermo,Other,2005
+Udinese Calcio,Out,Michele Lestani,19,Italy,CM,Other,Ascoli Calcio 1898,Other,2005
+Udinese Calcio,Out,Thomas Manfredini,25,Italy,CB,Other,Atalanta BC,Other,2005
+Udinese Calcio,Out,Giuseppe Gemiti,24,"Germany, Italy",LB,Other,Modena FC,Other,2005
+Udinese Calcio,Out,Manuel Belleri,27,Italy,RB,Other,SS Lazio,Other,2005
+Udinese Calcio,Out,Alberto Valentim,30,Brazil,RM,Other,AC Siena,Other,2005
+Udinese Calcio,Out,Adriano Bonaiuti,38,Italy,GK,Other,Retired,Other,2005
+Udinese Calcio,Out,Néstor Sensini,39,"Argentina, Italy",CB,Other,Retired,Other,2005
+US Palermo,In,Andrea Caracciolo,23,Italy,CF,8000000,Brescia Calcio,9000000,2005
+US Palermo,In,Stephen Makinwa,22,"Nigeria, Italy",CF,5000000,Atalanta BC,7500000,2005
+US Palermo,In,Federico Agliardi,22,Italy,GK,300000,Brescia Calcio,4000000,2005
+US Palermo,In,Denis Godeas,30,Italy,CF,700000,US Triestina,1100000,2005
+US Palermo,In,Massimo Bonanni,23,Italy,LM,700000,AS Roma,750000,2005
+US Palermo,In,Andrea Bovo,19,Italy,CM,400000,SSC Venezia,0,2005
+US Palermo,In,Valerio Virga,19,Italy,RB,50000,AS Roma,Other,2005
+US Palermo,In,David Di Michele,30,Italy,CF,7500000,Udinese Calcio,Other,2005
+US Palermo,In,Paul Codrea,24,Romania,CM,600000,Perugia Calcio,Other,2005
+US Palermo,In,Giovanni Tedesco,33,Italy,CM,250000,Genoa CFC,Other,2005
+US Palermo,Out,Luca Toni,28,Italy,CF,Other,ACF Fiorentina,10000000,2005
+US Palermo,Out,Lamberto Zauli,33,Italy,AM,Other,UC Sampdoria,0,2005
+US Palermo,Out,Antonino Di Franco,18,Italy,Midfielder,Other,ASG Nocerina,0,2005
+US Palermo,Out,Valentino Lai,21,"Sweden, Italy",CM,Other,Landskrona BoIS,0,2005
+US Palermo,Out,Paolo Comi,21,Italy,GK,Other,UC AlbinoLeffe,Other,2005
+US Palermo,Out,Daniele Fornaio,17,Italy,CM,Other,Udinese Calcio,Other,2005
+US Palermo,Out,Davide Possanzini,29,Italy,CF,Other,Brescia Calcio,Other,2005
+US Palermo,Out,Salvatore Masiello,23,Italy,LB,Other,Udinese Calcio,Other,2005
+US Palermo,Out,Simone Pepe,22,Italy,RW,Other,Udinese Calcio,Other,2005
+US Palermo,Out,Emanuele Filippini,31,Italy,CM,Other,Treviso FBC 1993,Other,2005
+US Palermo,Out,Antonio Filippini,31,Italy,RM,Other,Treviso FBC 1993,Other,2005
+US Palermo,Out,Francesco Modesto,23,Italy,LB,Other,Reggina Calcio,Other,2005
+US Palermo,Out,Cristian Raimondi,24,Italy,RM,Other,AC Arezzo,Other,2005
+US Palermo,Out,Michele Ferri,24,Italy,CB,Other,Cagliari Calcio,Other,2005
+US Palermo,Out,Nicola Santoni,26,Italy,GK,Other,Brescia Calcio,Other,2005
+US Palermo,Out,Franck Ongfiang,20,Cameroon,LM,Other,Esperance Tunis,Other,2005
+US Palermo,Out,Stefano Morrone,26,Italy,CM,Other,AS Livorno,Other,2005
+US Palermo,Out,Adriano,23,Brazil,RB,Other,Atalanta BC,Other,2005
+US Palermo,Out,Daniele Di Donato,28,Italy,CM,Other,AC Arezzo,Other,2005
+US Palermo,Out,Francesco Milano,21,Italy,Striker,Other,FC Vittoria,Other,2005
+FC Empoli,In,Gianluca Berti,38,Italy,GK,50000,Torino FC,0,2005
+FC Empoli,In,Daniele Buzzegoli,22,Italy,DM,Other,US Massese 1919,0,2005
+FC Empoli,In,Sebastián Cejas,30,Argentina,GK,200000,ACF Fiorentina,0,2005
+FC Empoli,In,Matteo Serafini,27,Italy,CF,350000,Calcio Catania,Other,2005
+FC Empoli,In,Giorgio Noviello,21,Italy,LW,Other,AS Lucchese Libertas,Other,2005
+FC Empoli,In,Sandro Scardigli,20,Italy,Striker,Other,US Poggibonsi,Other,2005
+FC Empoli,In,Vittorio Tosto,31,Italy,LB,200000,Ascoli Calcio 1898,Other,2005
+FC Empoli,In,Nicola Ascoli,25,Italy,LB,100000,US Catanzaro,Other,2005
+FC Empoli,In,Claudio Sciannamè,18,Italy,LB,Other,Empoli Primavera,Other,2005
+FC Empoli,Out,Niky Agnorelli,19,Italy,DM,Other,US Massese 1919,0,2005
+FC Empoli,Out,Christian Paoletti,20,Italy,GK,Other,Unione Sportiva Sansovino,Other,2005
+FC Empoli,Out,Dezmon Giraldi,19,Australia,CF,Other,Cuoiopelli Cappiano Romaiano,Other,2005
+FC Empoli,Out,Sandro Scardigli,20,Italy,Striker,Other,ASD Rondinella Marzocco,Other,2005
+FC Empoli,Out,Giorgio Noviello,21,Italy,LW,Other,San Marino,Other,2005
+FC Empoli,Out,Gianluca Berti,38,Italy,GK,Other,ACF Fiorentina,Other,2005
+FC Empoli,Out,Manuel Caponi,18,Italy,AM,Other,SS Lanciano,Other,2005
+FC Empoli,Out,Antonio Brizzi,19,Italy,CM,Other,USD Castelnuovo Garfagnana,Other,2005
+FC Empoli,Out,Emanuel Michelotti,20,Italy,LB,Other,Cuoiopelli Cappiano Romaiano,Other,2005
+FC Empoli,Out,Mario Cassano,21,Italy,GK,Other,Piacenza FC,Other,2005
+FC Empoli,Out,Massimiliano Cappellini,34,Italy,CF,Other,Retired,Other,2005
+FC Empoli,Out,Andrea Cupi,29,Italy,CB,Other,Without Club,Other,2005
+FC Messina Peloro,In,Andrea Tummiolo,21,Italy,CM,Other,ASD Acireale Calcio,0,2005
+FC Messina Peloro,In,Nicholas Caglioni,22,Italy,GK,50000,Atalanta BC,0,2005
+FC Messina Peloro,In,Andrea Pansera,25,Italy,GK,50000,Bologna FC 1909,Other,2005
+FC Messina Peloro,In,Atsushi Yanagisawa,28,Japan,CF,1800000,UC Sampdoria,Other,2005
+FC Messina Peloro,In,Sergio Floccari,24,Italy,CF,200000,Rimini FC,Other,2005
+FC Messina Peloro,In,Domenico Bombara,18,Italy,CB,Other,ACR Messina Youth,Other,2005
+FC Messina Peloro,In,Rok Straus,18,Slovenia,Midfielder,Other,ACR Messina Youth,Other,2005
+FC Messina Peloro,In,Francesco Girillo,18,Italy,CM,Other,ACR Messina Youth,Other,2005
+FC Messina Peloro,In,Gabriele Ferla,17,Italy,GK,Other,ACR Messina Youth,Other,2005
+FC Messina Peloro,In,Francesco Morga,19,Italy,CF,Other,ACR Messina Youth,Other,2005
+FC Messina Peloro,Out,Alessandro Cucciari,35,Italy,DM,Other,AS Lucchese Libertas,0,2005
+FC Messina Peloro,Out,Salvatore D'Alterio,25,Italy,RB,Other,US Foggia,0,2005
+FC Messina Peloro,Out,Mamede,31,Portugal,CM,Other,Genoa CFC,0,2005
+FC Messina Peloro,Out,Nicola Amoruso,30,Italy,CF,Other,Reggina Calcio,0,2005
+FC Messina Peloro,Out,Dimitrios Eleftheropoulos,28,Greece,GK,Other,AC Milan,0,2005
+FC Messina Peloro,Out,Igor Zaniolo,32,Italy,CF,Other,Genoa CFC,0,2005
+FC Messina Peloro,Out,Alessandro Greco,25,Italy,GK,Other,SC YF Juventus Zürich,Other,2005
+FC Messina Peloro,Out,Domenico Giampà,28,Italy,RM,Other,Ascoli Calcio 1898,Other,2005
+FC Messina Peloro,Out,Luca Fusco,28,Italy,CB,Other,Genoa CFC,Other,2005
+FC Messina Peloro,Out,Riccardo Zampagna,31,Italy,CF,Other,Atalanta BC,Other,2005
+FC Messina Peloro,Out,Federico Dionisi,18,Italy,CF,100000,Eretum Monterotondo,Other,2005
+FC Messina Peloro,Out,Raffaele Sorriso,17,Italy,GK,Other,Scafatese Calcio 1922,Other,2005
+FC Messina Peloro,Out,Vincenzo Silvestri,29,Italy,Midfielder,Other,AC Martina 1947,Other,2005
+FC Messina Peloro,Out,Atsushi Yanagisawa,28,Japan,CF,Other,Kashima Antlers,Other,2005
+SS Lazio,In,Valon Behrami,20,"Switzerland, Kosovo",DM,500000,Genoa CFC,6000000,2005
+SS Lazio,In,Igli Tare,31,"Albania, Italy",CF,800000,Bologna FC 1909,600000,2005
+SS Lazio,In,Fabio Firmani,27,Italy,CM,250000,Calcio Catania,0,2005
+SS Lazio,In,Marco Ballotta,41,Italy,GK,80000,Treviso FBC 1993,0,2005
+SS Lazio,In,Gaby Mudingayi,23,"Belgium, DR Congo",DM,600000,Torino FC,0,2005
+SS Lazio,In,Guglielmo Stendardo,24,Italy,CB,1200000,Perugia Calcio,0,2005
+SS Lazio,In,Christian Keller,24,Denmark,DM,Other,Viborg FF,0,2005
+SS Lazio,In,Manuel Belleri,27,Italy,RB,800000,Udinese Calcio,Other,2005
+SS Lazio,In,Daniele Greco,17,Italy,CM,Other,Lazio U19,Other,2005
+SS Lazio,In,Alessio De Angelis,20,Italy,GK,Other,Lazio U19,Other,2005
+SS Lazio,In,Fabio Zaccardi,18,Italy,Defender,50000,Lazio U19,Other,2005
+SS Lazio,Out,Anthony Seric,26,"Croatia, Australia",LB,Other,Panathinaikos FC,2000000,2005
+SS Lazio,Out,Miguel Mea Vitali,24,"Venezuela, Italy",DM,Other,APO Levadiakos,0,2005
+SS Lazio,Out,Paolo Negro,33,Italy,RB,Other,AC Siena,0,2005
+SS Lazio,Out,Giuliano Giannichedda,30,Italy,DM,Other,Juventus FC,0,2005
+SS Lazio,Out,Roberto Muzzi,33,Italy,CF,Other,Torino FC,0,2005
+SS Lazio,Out,Fabrizio Casazza,34,Italy,GK,Other,FC Pavia 1911,0,2005
+SS Lazio,Out,Dino Baggio,33,Italy,DM,Other,US Triestina,0,2005
+SS Lazio,Out,Fernando Couto,35,Portugal,CB,Other,Parma FC,0,2005
+SS Lazio,Out,Claudio De Sousa,19,"Italy, Angola",CF,Other,Torino FC,Other,2005
+SS Lazio,Out,Andrea Ciani,20,Italy,CM,Other,US Pergocrema 1932,Other,2005
+SS Lazio,Out,Matteo Morici,20,Italy,CM,Other,AS Viterbo Calcio,Other,2005
+SS Lazio,Out,Esteban González,26,"Argentina, Italy",DM,Other,Club de Gimnasia y Esgrima La Plata,Other,2005
+ACF Fiorentina,In,Luca Toni,28,Italy,CF,15000000,US Palermo,10000000,2005
+ACF Fiorentina,In,Manuel Pasqual,23,Italy,LB,1700000,AC Arezzo,6000000,2005
+ACF Fiorentina,In,Riccardo Montolivo,20,"Italy, Germany",DM,5000000,Atalanta BC,5500000,2005
+ACF Fiorentina,In,Per Kröldrup,26,Denmark,CB,7250000,Everton FC,4000000,2005
+ACF Fiorentina,In,Alessandro Gamberini,23,Italy,CB,300000,Bologna FC 1909,3000000,2005
+ACF Fiorentina,In,Bogdan Lobonț,28,Romania,GK,1200000,Ajax Amsterdam,1500000,2005
+ACF Fiorentina,In,Marco Donadel,22,Italy,DM,4000000,AC Milan,1300000,2005
+ACF Fiorentina,In,Guly,23,"Brazil, Italy",AM,400000,Perugia Calcio,0,2005
+ACF Fiorentina,In,Gianluca Berti,38,Italy,GK,50000,FC Empoli,Other,2005
+ACF Fiorentina,In,Marco Di Loreto,30,Italy,CB,400000,Perugia Calcio,Other,2005
+ACF Fiorentina,In,Giuseppe Pancaro,33,Italy,RB,2500000,AC Milan,Other,2005
+ACF Fiorentina,Out,Giorgio Chiellini,20,Italy,CB,Other,Juventus FC,7700000,2005
+ACF Fiorentina,Out,Fabrizio Miccoli,26,Italy,CF,Other,Juventus FC,2390000,2005
+ACF Fiorentina,Out,Daniele De Vezze,25,Italy,CM,Other,Genoa CFC,100000,2005
+ACF Fiorentina,Out,Luigi Piangerelli,31,Italy,DM,Other,Brescia Calcio,0,2005
+ACF Fiorentina,Out,Daniele Delli Carri,33,Italy,CB,Other,Pescara Calcio,0,2005
+ACF Fiorentina,Out,Matthieu Bochu,26,France,AM,Other,FC Istres Ouest Provence,0,2005
+ACF Fiorentina,Out,Sebastián Cejas,30,Argentina,GK,Other,FC Empoli,0,2005
+ACF Fiorentina,Out,Zisis Vryzas,32,Greece,CF,Other,Torino FC,0,2005
+ACF Fiorentina,Out,Christian Obodo,21,Nigeria,CM,Other,Udinese Calcio,0,2005
+ACF Fiorentina,Out,Sascha Pichler,19,Austria,AM,Other,LASK,0,2005
+ACF Fiorentina,Out,Mirko Savini,26,Italy,LB,Other,Napoli Soccer,Other,2005
+ACF Fiorentina,Out,Davide Cascione,18,Italy,Midfielder,Other,AC Pistoiese,Other,2005
+ACF Fiorentina,Out,Michele Arrigoni,19,Italy,Midfielder,Other,US Pergocrema 1932,Other,2005
+ACF Fiorentina,Out,Luca Ariatti,26,Italy,CM,Other,Atalanta BC,Other,2005
+ACF Fiorentina,Out,Matteo Sala,20,Italy,Striker,Other,Cremapergo Calcio,Other,2005
+ACF Fiorentina,Out,Antonio Rizzo,24,Italy,RB,Other,Perugia Calcio,Other,2005
+ACF Fiorentina,Out,William Viali,30,Italy,CB,Other,Treviso FBC 1993,Other,2005
+ACF Fiorentina,Out,Francesco Palmieri,29,Italy,GK,Other,Without Club,Other,2005
+ACF Fiorentina,Out,Angelo Di Livio,38,Italy,RM,Other,Retired,Other,2005
+US Lecce,In,Raffaele Schiavi,19,Italy,CB,Other,Salernitana Calcio 1919,0,2005
+US Lecce,In,Francesco Benussi,23,Italy,GK,300000,SSC Venezia,0,2005
+US Lecce,In,Philippe Billy,23,France,RB,300000,RAEC Mons (-2015),0,2005
+US Lecce,In,Tiziano Polenghi,26,Italy,CB,150000,Salernitana Calcio 1919,Other,2005
+US Lecce,In,Marco Pecorari,27,Italy,CB,500000,US Triestina,Other,2005
+US Lecce,In,Alfonso Camorani,27,Italy,CM,500000,AC Siena,Other,2005
+US Lecce,In,Giuseppe Cozzolino,19,Italy,CF,Other,Giulianova Calcio,Other,2005
+US Lecce,In,Angelo,24,Brazil,RB,Other,Criciúma Esporte Clube,Other,2005
+US Lecce,In,Gabriel Cichero,21,"Venezuela, Italy",CB,Other,Montevideo Wanderers,Other,2005
+US Lecce,In,Alessio Carteni,20,Italy,RB,Other,Potenza Sport Club,Other,2005
+US Lecce,In,Italo Mattioli,20,Italy,CF,Other,Lecce Primavera,Other,2005
+US Lecce,In,Andrea Esposito,19,Italy,CB,Other,Lecce Primavera,Other,2005
+US Lecce,In,Davide Giorgino,20,Italy,CM,Other,Lecce Primavera,Other,2005
+US Lecce,In,Davide Petrachi,18,Italy,GK,Other,Lecce Primavera,Other,2005
+US Lecce,Out,Aleksey Eremenko Jr.,22,Finland,AM,Other,Saturn Ramenskoe,1500000,2005
+US Lecce,Out,Azdren Krasniqi,18,Albania,Midfielder,Other,VfV Borussia 06 Hildesheim,0,2005
+US Lecce,Out,Vukasin Poleksic,22,"Montenegro, Hungary",GK,Other,FK Sutjeska Niksic,0,2005
+US Lecce,Out,Bruno Cirillo,28,Italy,CB,Other,AEK Athens,0,2005
+US Lecce,Out,Arnaud Kouyo,21,Cote d'Ivoire,CB,Other,FK SIAD Most,0,2005
+US Lecce,Out,Massimo Paci,27,Italy,CB,Other,Ascoli Calcio 1898,Other,2005
+US Lecce,Out,Sasa Bjelanovic,26,"Croatia, Italy",CF,Other,Ascoli Calcio 1898,Other,2005
+US Lecce,Out,Luca Anania,25,Italy,GK,Other,US Catanzaro,Other,2005
+AS Livorno,In,Nikola Lazetic,27,Serbia,RM,900000,Genoa CFC,0,2005
+AS Livorno,In,Ibrahima Bakayoko,28,"Cote d'Ivoire, France",CF,2750000,FC Istres Ouest Provence,0,2005
+AS Livorno,In,Edoardo Grosso,18,Italy,Striker,Other,Sampdoria Primavera,0,2005
+AS Livorno,In,Gabriele Falchini,18,Italy,CF,Other,Aglianese Calcio 1923,0,2005
+AS Livorno,In,César Prates,30,"Brazil, Italy",RB,3000000,Botafogo de Futebol e Regatas,0,2005
+AS Livorno,In,Paolo Ginestra,26,Italy,GK,80000,Vis Pesaro 1898,Other,2005
+AS Livorno,In,Leonardo Da Silva,18,Brazil,Striker,Other,Londrina Esporte Clube (PR),Other,2005
+AS Livorno,In,Stefano Morrone,26,Italy,CM,1500000,US Palermo,Other,2005
+AS Livorno,In,Luis Fernando Centi,28,"Italy, Colombia",CM,Other,Treviso FBC 1993,Other,2005
+AS Livorno,In,Stefano Argilli,33,Italy,CB,300000,Modena FC,Other,2005
+AS Livorno,Out,Matteo Melara,26,Italy,RB,Other,Torino FC,220000,2005
+AS Livorno,Out,José Luís Vidigal,32,"Portugal, Angola",DM,Other,Udinese Calcio,0,2005
+AS Livorno,Out,Alessandro Doga,29,Italy,LM,Other,AC Mantova 1911,0,2005
+AS Livorno,Out,Corrado Colombo,25,Italy,CF,Other,Ascoli Calcio 1898,Other,2005
+AS Livorno,Out,Alessandro Gambadori,24,Italy,DM,Other,AC Pisa 1909,Other,2005
+AS Livorno,Out,Simone Marianelli,18,Italy,GK,Other,Cuoiopelli Cappiano Romaiano,Other,2005
+AS Livorno,Out,Gianmatteo Mareggini,38,Italy,GK,Other,AC Pistoiese,Other,2005
+AS Livorno,Out,Alessandro Lucarelli,28,Italy,CB,Other,Reggina Calcio,Other,2005
+AS Livorno,Out,Luis Fernando Centi,29,"Italy, Colombia",CM,Other,Atalanta BC,Other,2005
+AS Livorno,Out,Claudio Grauso,26,Italy,DM,Other,AC Mantova 1911,Other,2005
+AS Livorno,Out,Igor Protti,37,Italy,CF,Other,Retired,Other,2005
+Cagliari Calcio,In,Michele Canini,20,Italy,CB,250000,Atalanta BC,5000000,2005
+Cagliari Calcio,In,Luca Tomasig,22,Italy,GK,Other,AC Belluno 1905,0,2005
+Cagliari Calcio,In,Antonio Chimenti,35,Italy,GK,200000,Juventus FC,0,2005
+Cagliari Calcio,In,Alessandro Conticchio,31,Italy,CM,Other,Torino FC,Other,2005
+Cagliari Calcio,In,Claudio Ferrarese,26,Italy,RW,400000,Salernitana Calcio 1919,Other,2005
+Cagliari Calcio,In,Joe Bizera,25,Uruguay,CB,Other,CA Peñarol,Other,2005
+Cagliari Calcio,In,Alessandro Budel,24,Italy,DM,850000,AC Milan,Other,2005
+Cagliari Calcio,In,Michele Ferri,24,Italy,CB,400000,US Palermo,Other,2005
+Cagliari Calcio,In,Andrea Campagnolo,27,Italy,GK,400000,US Triestina,Other,2005
+Cagliari Calcio,In,Jaime Penedo,24,"Panama, Spain",GK,Other,CD Árabe Unido,Other,2005
+Cagliari Calcio,In,Andrea Cossu,25,Italy,AM,2000000,Hellas Verona,Other,2005
+Cagliari Calcio,In,Claudio Pani,19,Italy,DM,Other,Cagliari Primavera,Other,2005
+Cagliari Calcio,In,Andrea Cocco,19,Italy,CF,Other,Cagliari Primavera,Other,2005
+Cagliari Calcio,In,Nicola Lai,19,Italy,Midfielder,Other,Cagliari Primavera,Other,2005
+Cagliari Calcio,Out,Massimo Gobbi,25,Italy,LB,Other,Treviso FBC 1993,2000000,2005
+Cagliari Calcio,Out,Simone Loria,28,Italy,CB,Other,Atalanta BC,Other,2005
+Cagliari Calcio,Out,Massimo Brambilla,32,Italy,CM,Other,AC Mantova 1911,Other,2005
+Cagliari Calcio,Out,Roberto Maltagliati,36,Italy,CB,Other,Spezia Calcio 1906,Other,2005
+Cagliari Calcio,Out,Gennaro Iezzo,32,Italy,GK,Other,Napoli Soccer,Other,2005
+Cagliari Calcio,Out,Alex Brunner,31,Italy,GK,Other,AS Lucchese Libertas,Other,2005
+Cagliari Calcio,Out,Simone Farci,20,Italy,CM,Other,FC Rieti,Other,2005
+Cagliari Calcio,Out,Davide Capello,20,Italy,GK,Other,Olbia Calcio,Other,2005
+Cagliari Calcio,Out,Sebastiano Pinna,34,Italy,Midfielder,Other,SEF Torres 1903,Other,2005
+Cagliari Calcio,Out,Rolando Bianchi,22,Italy,CF,Other,Reggina Calcio,Other,2005
+Cagliari Calcio,Out,Rocco Sabato,23,Italy,LB,Other,Calcio Catania,Other,2005
+Cagliari Calcio,Out,Claudio Ferrarese,27,Italy,RW,Other,Torino FC,Other,2005
+Cagliari Calcio,Out,Loris Del Nevo,30,Italy,CM,Other,US Triestina,Other,2005
+Cagliari Calcio,Out,Marcello Albino,33,Italy,CM,Other,US Triestina,Other,2005
+Reggina Calcio,In,Luca Rigoni,20,Italy,CM,500000,Vicenza Calcio,1600000,2005
+Reggina Calcio,In,Davide Biondini,22,Italy,CM,100000,Vicenza Calcio,1200000,2005
+Reggina Calcio,In,Salvatore Vicari,24,Italy,RM,400000,US Catanzaro,0,2005
+Reggina Calcio,In,Alessandro Zoppetti,26,Italy,CB,250000,Treviso FBC 1993,0,2005
+Reggina Calcio,In,Nicola Amoruso,30,Italy,CF,2000000,FC Messina Peloro,0,2005
+Reggina Calcio,In,Maurizio Lanzaro,23,Italy,CB,400000,Salernitana Calcio 1919,Other,2005
+Reggina Calcio,In,Antonio Giosa,21,Italy,CB,50000,Modena FC,Other,2005
+Reggina Calcio,In,Francesco Modesto,23,Italy,LB,500000,US Palermo,Other,2005
+Reggina Calcio,In,Bruno Lança,22,Brazil,Midfielder,Other,Esporte Clube Juventude,Other,2005
+Reggina Calcio,In,Antonio Saviano,21,Italy,GK,Other,Napoli Soccer,Other,2005
+Reggina Calcio,In,Gianluca Macrì,22,Italy,RW,Other,AS Cisco Lodigiani,Other,2005
+Reggina Calcio,In,Simone Cavalli,26,Italy,CF,1300000,AC Cesena,Other,2005
+Reggina Calcio,In,Rolando Bianchi,22,Italy,CF,1000000,Cagliari Calcio,Other,2005
+Reggina Calcio,In,Alessandro Lucarelli,28,Italy,CB,2500000,AS Livorno,Other,2005
+Reggina Calcio,In,Filippo Carobbio,25,Italy,CM,400000,UC AlbinoLeffe,Other,2005
+Reggina Calcio,In,Ivan Castiglia,17,Italy,CM,Other,Reggina Primavera,Other,2005
+Reggina Calcio,In,Fabio Ceravolo,18,Italy,CF,Other,Reggina Primavera,Other,2005
+Reggina Calcio,In,Simone Missiroli,19,Italy,CM,Other,Reggina Primavera,Other,2005
+Reggina Calcio,Out,Mozart,25,"Brazil, Italy",DM,Other,Spartak Moscow,4500000,2005
+Reggina Calcio,Out,Shunsuke Nakamura,27,Japan,AM,Other,Celtic FC,4200000,2005
+Reggina Calcio,Out,Emiliano Bonazzoli,26,Italy,CF,Other,Parma FC,4150000,2005
+Reggina Calcio,Out,Erjon Bogdani,28,Albania,CF,Other,AC Siena,1500000,2005
+Reggina Calcio,Out,Simone Cavalli,26,Italy,CF,Other,Vicenza Calcio,775000,2005
+Reggina Calcio,Out,Alessandro Zoppetti,26,Italy,CB,Other,Pescara Calcio,0,2005
+Reggina Calcio,Out,Salvatore Vicari,24,Italy,RM,Other,US Avellino,0,2005
+Reggina Calcio,Out,Nassim Mendil,26,"France, Algeria",CF,Other,AC Ancona,Other,2005
+Reggina Calcio,Out,Gianluca Macrì,22,Italy,RW,Other,AS Cittadella,Other,2005
+Reggina Calcio,Out,Gonzalo Martínez,29,Colombia,RB,Other,Deportes Tolima,Other,2005
+Reggina Calcio,Out,Jacopo Balestri,30,Italy,LB,Other,Torino FC,Other,2005
+Reggina Calcio,Out,Salvatore Soviero,32,Italy,GK,Other,FC Crotone,Other,2005
+Reggina Calcio,Out,Bartolomeo Versace,19,Italy,Midfielder,Other,Unknown,Other,2005
+Reggina Calcio,Out,Giovanni Morabito,26,Italy,LB,Other,AC Cesena,Other,2005
+Reggina Calcio,Out,Giacomo Mazzi,26,Italy,GK,Other,Without Club,Other,2005
+AC Siena,In,Erjon Bogdani,28,Albania,CF,1800000,Reggina Calcio,1500000,2005
+AC Siena,In,Daniele Gastaldello,22,Italy,CB,350000,Juventus FC,450000,2005
+AC Siena,In,Cristian Molinaro,21,Italy,LB,400000,Salernitana Calcio 1919,0,2005
+AC Siena,In,Federico Melchiorri,18,Italy,CF,Other,Tolentino Calcio,0,2005
+AC Siena,In,Paolo Negro,33,Italy,RB,500000,SS Lazio,0,2005
+AC Siena,In,Massimo Marazzina,30,Italy,CF,1200000,Torino FC,0,2005
+AC Siena,In,Davide Zomer,27,Italy,GK,100000,Treviso FBC 1993,Other,2005
+AC Siena,In,Tomás Guzmán,23,Paraguay,AM,500000,FC Crotone,Other,2005
+AC Siena,In,Tomas Locatelli,29,Italy,AM,2000000,Bologna FC 1909,Other,2005
+AC Siena,In,Alberto Valentim,30,Brazil,RM,800000,Udinese Calcio,Other,2005
+AC Siena,In,Jonathan Bachini,30,Italy,LM,1250000,Without Club,Other,2005
+AC Siena,In,Leonardo Blanchard,,Italy,CB,Other,Siena Primavera,Other,2005
+AC Siena,In,Pasquale Iadaresta,19,Italy,CF,Other,Siena Primavera,Other,2005
+AC Siena,Out,Adriano Zancopè,33,Italy,GK,Other,Treviso FBC 1993,0,2005
+AC Siena,Out,Rodrigo Taddei,25,"Brazil, Italy",RW,Other,AS Roma,0,2005
+AC Siena,Out,Tore André Flo,32,Norway,CF,Other,Vålerenga Fotball Elite,0,2005
+AC Siena,Out,Stefano Argilli,32,Italy,CB,Other,Modena FC,0,2005
+AC Siena,Out,Alfonso Camorani,27,Italy,CM,Other,US Lecce,Other,2005
+AC Siena,Out,Andrea Ardito,28,Italy,DM,Other,Torino FC,Other,2005
+AC Siena,Out,Massimo Marazzina,31,Italy,CF,Other,Bologna FC 1909,Other,2005
+AC Siena,Out,Matteo Innocenti,19,Italy,Midfielder,Other,AS Andria BAT,Other,2005
+AC Siena,Out,Simone Farelli,22,Italy,GK,Other,FC Vittoria,Other,2005
+AC Siena,Out,Michele Mignani,33,Italy,CB,Other,US Triestina,Other,2005
+AC Siena,Out,Simone Marini,23,Italy,CF,Other,Olbia Calcio,Other,2005
+AC Siena,Out,Jonathan Bachini,30,Italy,LM,Other,Retired,Other,2005
+Chievo Verona,In,Federico Giunti,33,Italy,DM,500000,Bologna FC 1909,250000,2005
+Chievo Verona,In,Andrea Mantovani,21,Italy,CB,1200000,Torino FC,0,2005
+Chievo Verona,In,Alberto Fontana,38,Italy,GK,50000,Inter Milan,0,2005
+Chievo Verona,In,Giovanni Marchese,20,Italy,LB,100000,Torino FC,0,2005
+Chievo Verona,In,Lorenzo Squizzi,31,Italy,GK,100000,Perugia Calcio,0,2005
+Chievo Verona,In,Antonis Natsouras,25,Greece,CB,150000,Ionikos Nikeas,0,2005
+Chievo Verona,In,Giuseppe Scurto,21,Italy,CB,1000000,AS Roma,Other,2005
+Chievo Verona,In,Victor Obinna,18,"Nigeria, Italy",SS,Other,Enyimba Aba,Other,2005
+Chievo Verona,In,Filippo Antonelli Agomeri,26,Italy,RW,350000,Ascoli Calcio 1898,Other,2005
+Chievo Verona,In,Yuri Breviario,22,Italy,CM,Other,FC Vittoria,Other,2005
+Chievo Verona,In,Riccardo Musetti,22,Italy,CF,Other,Imolese Calcio 1919,Other,2005
+Chievo Verona,In,Emiliano Landolina,18,Italy,Midfielder,Other,Roma U19,Other,2005
+Chievo Verona,In,Enrico Alfonso,17,Italy,GK,Other,Chievo Primavera,Other,2005
+Chievo Verona,In,Marcus N'Ze,19,"Italy, Ghana",CB,Other,Chievo Youth,Other,2005
+Chievo Verona,In,Cesare Rickler,18,Italy,CB,Other,Chievo Primavera,Other,2005
+Chievo Verona,Out,John Mensah,23,Ghana,CB,Other,Stade Rennais FC,1200000,2005
+Chievo Verona,Out,Antonis Natsouras,26,Greece,CB,Other,US Cremonese,0,2005
+Chievo Verona,Out,Paolo Codognola,24,Italy,GK,Other,ASD Modica Calcio,0,2005
+Chievo Verona,Out,Massimiliano Fusani,25,Italy,CM,Other,Modena FC,Other,2005
+Chievo Verona,Out,Emanuele Pesaresi,28,Italy,LB,Other,Pescara Calcio,Other,2005
+Chievo Verona,Out,César,26,"Brazil, Italy",CB,Other,Calcio Catania,Other,2005
+Chievo Verona,Out,Santos Oliveira,19,Brazil,LM,Other,AC Bellaria Igea Marina,Other,2005
+Chievo Verona,Out,Alfredo Cariello,25,Italy,LM,Other,Ascoli Calcio 1898,Other,2005
+Chievo Verona,Out,Marco Esposito,25,Italy,CB,Other,AS Bari,Other,2005
+Chievo Verona,Out,Riccardo Musetti,22,Italy,CF,Other,US Massese 1919,Other,2005
+Chievo Verona,Out,Giuseppe Aquaro,22,"Switzerland, Italy",CB,Other,AC Bellinzona,Other,2005
+Chievo Verona,Out,Sergio Marcon,34,Italy,GK,Other,Vicenza Calcio,Other,2005
+Chievo Verona,Out,Luca Marchegiani,39,Italy,GK,Other,Retired,Other,2005
+Parma FC,In,Domenico Morfeo,29,Italy,AM,6000000,Inter Milan,7500000,2005
+Parma FC,In,Emiliano Bonazzoli,26,Italy,CF,4000000,Reggina Calcio,4150000,2005
+Parma FC,In,Marco Delvecchio,32,Italy,CF,4000000,Brescia Calcio,0,2005
+Parma FC,In,Ferdinand Coly,31,"Senegal, France",RB,600000,Perugia Calcio,0,2005
+Parma FC,In,Fernando Couto,35,Portugal,CB,500000,SS Lazio,0,2005
+Parma FC,In,Daniele Paponi,17,Italy,CF,Other,Parma Primavera,Other,2005
+Parma FC,In,Filippo Mattiuzzo,18,Italy,RB,Other,Parma Primavera,Other,2005
+Parma FC,In,Filippo Savi,18,Italy,CM,50000,Parma Primavera,Other,2005
+Parma FC,In,Marco Rossi,17,Italy,CB,Other,Parma Primavera,Other,2005
+Parma FC,In,Fabio Virgili,19,Italy,GK,Other,Parma Primavera,Other,2005
+Parma FC,Out,Alberto Gilardino,23,Italy,CF,Other,AC Milan,25000000,2005
+Parma FC,Out,Alessandro Rosina,21,Italy,RW,Other,Torino FC,1250000,2005
+Parma FC,Out,Daniele Degano,23,Italy,SS,Other,Piacenza FC,Other,2005
+Parma FC,Out,Mirko Stefani,21,Italy,CB,Other,AC Reggiana 1919,Other,2005
+Parma FC,Out,Tonino Sorrentino,20,Italy,CF,Other,US Catanzaro,Other,2005
+Parma FC,Out,Alex Gibbs,21,"Italy, South Africa",CF,Other,Pro Patria Gallaratese GB,Other,2005
+Parma FC,Out,Federico Ranieri,18,Italy,Midfielder,Other,AC Forlì,Other,2005
+Parma FC,Out,Paolo Bonoli,18,Italy,GK,Other,AC Bellaria Igea Marina,Other,2005
+Parma FC,Out,Leonardo Bianchi,19,Italy,Striker,Other,Calcio Portogruaro-Summaga,Other,2005
+Parma FC,Out,Gaetano Grieco,22,Italy,CF,Other,Napoli Soccer,Other,2005
+Parma FC,Out,Davide Furlan,19,Italy,DM,Other,Carrarese Calcio 1908,Other,2005
+Parma FC,Out,Giordano Vanin,19,Italy,GK,Other,Olbia Calcio,Other,2005
+Parma FC,Out,Renato Olive,34,Italy,CM,Other,Without Club,Other,2005
+Treviso FBC 1993,In,Massimo Gobbi,25,Italy,LB,2200000,Cagliari Calcio,2000000,2005
+Treviso FBC 1993,In,Blazej Vascak,22,Slovakia,AM,400000,FC Artmedia Bratislava,0,2005
+Treviso FBC 1993,In,Adriano Zancopè,33,Italy,GK,700000,AC Siena,0,2005
+Treviso FBC 1993,In,Luigi Beghetto,31,Italy,CF,500000,Piacenza FC,0,2005
+Treviso FBC 1993,In,Jehad Muntasser,26,Libya,RM,200000,Perugia Calcio,0,2005
+Treviso FBC 1993,In,Dino Fava,28,Italy,CF,3000000,Udinese Calcio,Other,2005
+Treviso FBC 1993,In,Carlos Valdez,22,Uruguay,CB,Other,Club Nacional,Other,2005
+Treviso FBC 1993,In,Alberto Giuliatto,21,Italy,LB,Other,AC Belluno 1905,Other,2005
+Treviso FBC 1993,In,Marco Mallus,23,Italy,CB,Other,FC Südtirol-Alto Adige,Other,2005
+Treviso FBC 1993,In,Stefano Lorenzi,28,Italy,CB,100000,Atalanta BC,Other,2005
+Treviso FBC 1993,In,Andrea Dossena,23,Italy,LM,600000,Hellas Verona,Other,2005
+Treviso FBC 1993,In,Emanuele Filippini,31,Italy,CM,1500000,US Palermo,Other,2005
+Treviso FBC 1993,In,Antonio Filippini,31,Italy,RM,2000000,US Palermo,Other,2005
+Treviso FBC 1993,In,Anderson,22,"Brazil, Italy",LB,Other,US Pro Vercelli,Other,2005
+Treviso FBC 1993,In,Robert Acquafresca,17,"Italy, Poland",CF,Other,Inter Milan,Other,2005
+Treviso FBC 1993,In,William Viali,30,Italy,CB,250000,ACF Fiorentina,Other,2005
+Treviso FBC 1993,In,Wilker,18,Brazil,Striker,Other,Treviso Primavera,Other,2005
+Treviso FBC 1993,Out,Barreto,19,"Brazil, Italy",SS,Other,Udinese Calcio,5000000,2005
+Treviso FBC 1993,Out,Giovanni Fietta,20,Italy,DM,Other,AS Pizzighettone,0,2005
+Treviso FBC 1993,Out,Marco Ballotta,41,Italy,GK,Other,SS Lazio,0,2005
+Treviso FBC 1993,Out,Roberto Cortellini,23,Italy,LM,Other,Brescia Calcio,0,2005
+Treviso FBC 1993,Out,Mavillo Gheller,29,Italy,RB,Other,AC Pistoiese,0,2005
+Treviso FBC 1993,Out,Alessandro Zoppetti,26,Italy,CB,Other,Reggina Calcio,0,2005
+Treviso FBC 1993,Out,Patrick Roman Del Prete,19,Italy,Striker,Other,Pordenone Calcio,0,2005
+Treviso FBC 1993,Out,Riccardo Pagliuchi,23,Italy,Defender,Other,AS Casale Calcio,Other,2005
+Treviso FBC 1993,Out,Iacopo La Rocca,21,"Italy, Australia",CB,Other,Fermana Calcio 1920,Other,2005
+Treviso FBC 1993,Out,Fabio Di Venanzio,30,Italy,LB,Other,US Triestina,Other,2005
+Treviso FBC 1993,Out,Davide Zomer,27,Italy,GK,Other,AC Siena,Other,2005
+Treviso FBC 1993,Out,Antonino D'Agostino,26,Italy,RM,Other,Atalanta BC,Other,2005
+Treviso FBC 1993,Out,Daniele Bellotto,34,Italy,LM,Other,Calcio Portogruaro-Summaga,Other,2005
+Treviso FBC 1993,Out,Marco Zaninelli,28,Italy,CB,Other,AC Cesena,Other,2005
+Treviso FBC 1993,Out,Fabio Gallo,35,Italy,DM,Other,Torino FC,Other,2005
+Treviso FBC 1993,Out,Eros Bagnara,20,Italy,Striker,Other,Fermana Calcio 1920,Other,2005
+Treviso FBC 1993,Out,Luis Fernando Centi,28,"Italy, Colombia",CM,Other,AS Livorno,Other,2005
+Ascoli Calcio 1898,In,Marco Ferrante,34,"Italy, Australia",CF,250000,Bologna FC 1909,200000,2005
+Ascoli Calcio 1898,In,Andrade,26,"Portugal, Brazil",GK,Other,Clube de Regatas Vasco da Gama,0,2005
+Ascoli Calcio 1898,In,Nicola Zanini,31,Italy,AM,200000,Genoa CFC,Other,2005
+Ascoli Calcio 1898,In,Corrado Colombo,25,Italy,CF,1000000,AS Livorno,Other,2005
+Ascoli Calcio 1898,In,Massimo Paci,27,Italy,CB,200000,US Lecce,Other,2005
+Ascoli Calcio 1898,In,Federico Giampaolo,35,Italy,AM,Other,Pescara Calcio,Other,2005
+Ascoli Calcio 1898,In,Alessandro Boccolini,20,Italy,GK,Other,Forza e Coraggio Alessandria,Other,2005
+Ascoli Calcio 1898,In,Vittorio Tosto,31,Italy,LB,200000,Genoa CFC,Other,2005
+Ascoli Calcio 1898,In,Alessandro Moro,21,Italy,DM,Other,US Foggia,Other,2005
+Ascoli Calcio 1898,In,Domenico Giampà,28,Italy,RM,1300000,FC Messina Peloro,Other,2005
+Ascoli Calcio 1898,In,Alfredo Cariello,25,Italy,LM,300000,Chievo Verona,Other,2005
+Ascoli Calcio 1898,In,Michele Lestani,19,Italy,CM,Other,Udinese Calcio,Other,2005
+Ascoli Calcio 1898,In,Sasa Bjelanovic,26,"Croatia, Italy",CF,2000000,US Lecce,Other,2005
+Ascoli Calcio 1898,In,Ivano Della Morte,30,Italy,CM,200000,Genoa CFC,Other,2005
+Ascoli Calcio 1898,In,Cristiano Del Grosso,22,Italy,LB,Other,Giulianova Calcio,Other,2005
+Ascoli Calcio 1898,In,Andrea Parola,26,Italy,DM,200000,US Triestina,Other,2005
+Ascoli Calcio 1898,In,Vincenzo Patrick Guglielmelli,18,Italy,Striker,Other,AS Latina,Other,2005
+Ascoli Calcio 1898,In,Daniele Adani,30,Italy,CB,1500000,Without Club,Other,2005
+Ascoli Calcio 1898,In,Roberto Guana,24,Italy,CM,1200000,Without Club,Other,2005
+Ascoli Calcio 1898,Out,Toledo,23,Brazil,LW,Other,Cisco Roma,0,2005
+Ascoli Calcio 1898,Out,Adolfo Daniele Speranza,25,Italy,CM,Other,Pescara Calcio,0,2005
+Ascoli Calcio 1898,Out,Claudio Costanzo,19,Italy,DM,Other,ASD Chieti,0,2005
+Ascoli Calcio 1898,Out,Giuseppe Caraviello,19,Italy,Defender,Other,ASG Nocerina,0,2005
+Ascoli Calcio 1898,Out,Simone Gigli,18,Italy,Striker,Other,FC Montenero,0,2005
+Ascoli Calcio 1898,Out,Mattia Biso,28,Italy,CM,Other,Calcio Catania,Other,2005
+Ascoli Calcio 1898,Out,Roberto Maurantonio,24,Italy,GK,Other,SS Lanciano,Other,2005
+Ascoli Calcio 1898,Out,Massimo Demartis,30,Italy,CB,Other,SEF Torres 1903,Other,2005
+Ascoli Calcio 1898,Out,Oscar Brevi,37,Italy,CB,Other,Torino FC,Other,2005
+Ascoli Calcio 1898,Out,Luigi Martinelli,34,Italy,RB,Other,Torino FC,Other,2005
+Ascoli Calcio 1898,Out,Valerio Carboni,20,Italy,DM,Other,SS Lanciano,Other,2005
+Ascoli Calcio 1898,Out,Filippo Antonelli Agomeri,26,Italy,RW,Other,Chievo Verona,Other,2005
+Ascoli Calcio 1898,Out,Alessandro Monticciolo,28,Italy,CM,Other,AS Lucchese Libertas,Other,2005
+Ascoli Calcio 1898,Out,Federico Giampaolo,35,Italy,AM,Other,Modena FC,Other,2005
+Ascoli Calcio 1898,Out,Roberto Colacone,31,Italy,SS,Other,Modena FC,Other,2005
+Ascoli Calcio 1898,Out,Marco Ascenzi,23,Italy,CF,Other,ASD Manfredonia Calcio,Other,2005
+Ascoli Calcio 1898,Out,Cristian Bucchi,28,Italy,CF,Other,Modena FC,Other,2005
+Ascoli Calcio 1898,Out,Corrado Colombo,26,Italy,CF,Other,UC Sampdoria,Other,2005
+Ascoli Calcio 1898,Out,Mario Bonfiglio,31,Italy,CF,Other,AC Pisa 1909,Other,2005
+Ascoli Calcio 1898,Out,Nicola Zanini,31,Italy,AM,Other,Vicenza Calcio,Other,2005
+Ascoli Calcio 1898,Out,Carlo Sassarini,33,Italy,LB,Other,AS Andria BAT,Other,2005
+Ascoli Calcio 1898,Out,Vittorio Tosto,31,Italy,LB,Other,FC Empoli,Other,2005
+Ascoli Calcio 1898,Out,Daniele Coccia,18,Italy,Defender,Other,ASG Nocerina,Other,2005
+Ascoli Calcio 1898,Out,Andrea Ghidini,24,Italy,LM,Other,SEF Torres 1903,Other,2005
+Ascoli Calcio 1898,Out,Andrea Ciotti,20,Italy,Defender,Other,FC Pro Vasto,Other,2005

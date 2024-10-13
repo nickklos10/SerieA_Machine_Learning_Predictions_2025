@@ -1,0 +1,445 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+Inter Milan,In,Adriano,21,Brazil,CF,Other,AC Parma,23400000,2003
+Inter Milan,In,Julio Cruz,28,"Argentina, Spain",CF,Other,Bologna FC 1909,9500000,2003
+Inter Milan,In,Andy van der Meyde,23,Netherlands,RW,300000,Ajax Amsterdam,6000000,2003
+Inter Milan,In,Dejan Stankovic,25,"Serbia, Italy",CM,Other,SS Lazio,4000000,2003
+Inter Milan,In,Jérémie Bréchet,24,France,CB,Other,Olympique Lyon,3000000,2003
+Inter Milan,In,Mauricio Pinilla,19,"Chile, Italy",CF,Other,Club Universidad de Chile,2800000,2003
+Inter Milan,In,Kily González,29,"Argentina, Spain",LM,Other,Valencia CF,2500000,2003
+Inter Milan,In,Ianis Zicu,19,Romania,AM,Other,FC Dinamo 1948,2500000,2003
+Inter Milan,In,Franco Semioli,23,Italy,RW,Other,Torino Calcio,2000000,2003
+Inter Milan,In,Horacio Peralta,21,Uruguay,CF,Other,Club Nacional,1500000,2003
+Inter Milan,In,Khalilou Fadiga,28,"Senegal, Belgium",LW,Other,AJ Auxerre,300000,2003
+Inter Milan,In,Georgios Karagounis,26,Greece,CM,Other,Panathinaikos FC,0,2003
+Inter Milan,In,Matteo Giordano,18,Italy,CB,Other,Milan Primavera,Other,2003
+Inter Milan,In,Thomas Helveg,32,Denmark,RB,Other,AC Milan,Other,2003
+Inter Milan,In,Sabri Lamouchi,31,"France, Tunisia",CM,Other,AC Parma,Other,2003
+Inter Milan,In,Dimitar Makriev,19,Bulgaria,CF,Other,Inter Milan Primavera,Other,2003
+Inter Milan,In,Fabrizio Biava,19,Italy,CB,Other,Inter Milan Primavera,Other,2003
+Inter Milan,In,Mario Rebecchi,19,Italy,CM,Other,Inter Milan Primavera,Other,2003
+Inter Milan,In,Mathieu Moreau,20,France,GK,Other,Inter Milan Primavera,Other,2003
+Inter Milan,In,Alessandro Potenza,19,Italy,RB,Other,Inter Milan Primavera,Other,2003
+Inter Milan,In,Nicola Beati,20,Italy,DM,Other,Inter Milan Primavera,Other,2003
+Inter Milan,Out,Hernán Crespo,28,"Argentina, Italy",CF,Other,Chelsea FC,26000000,2003
+Inter Milan,Out,Sébastien Frey,23,France,GK,Other,AC Parma,21000000,2003
+Inter Milan,Out,Marco Caneira,24,Portugal,CB,Other,FC Girondins Bordeaux,1500000,2003
+Inter Milan,Out,Giuseppe Ticli,24,Italy,LM,Other,AC Milan,1500000,2003
+Inter Milan,Out,Stefano Lombardi,26,Italy,CB,Other,Ancona Calcio,115000,2003
+Inter Milan,Out,Drazen Brncic,32,"Croatia, Belgium",CM,Other,MVV Maastricht,0,2003
+Inter Milan,Out,Sérgio Conceição,28,Portugal,RW,Other,SS Lazio,0,2003
+Inter Milan,Out,Luigi Di Biagio,32,Italy,DM,Other,Brescia Calcio,0,2003
+Inter Milan,Out,Matteo Giordano,19,Italy,CB,Other,ASD Castel di Sangro,0,2003
+Inter Milan,Out,Alessio Scarpi,30,Italy,GK,Other,Ancona Calcio,Other,2003
+Inter Milan,Out,Nelson Vivas,33,Argentina,RB,Other,CA River Plate,Other,2003
+Inter Milan,Out,Anselmo Robbiati,33,Italy,LW,Other,US Grosseto FC,Other,2003
+Inter Milan,Out,Jonatan Binotto,28,Italy,RW,Other,Bologna FC 1909,Other,2003
+Inter Milan,Out,Michele Serena,33,Italy,LB,Other,Retired,Other,2003
+Juventus FC,In,Marco Di Vaio,26,Italy,CF,Other,AC Parma,14000000,2003
+Juventus FC,In,Stephen Appiah,22,Ghana,DM,Other,Brescia Calcio,8000000,2003
+Juventus FC,In,Nicola Legrottaglie,26,Italy,CB,Other,Chievo Verona,7550000,2003
+Juventus FC,In,Rubén Olivera,20,Uruguay,CM,Other,Danubio FC,6240000,2003
+Juventus FC,In,Roberto Merenda,19,Italy,CB,Other,AC Venezia 1907,Other,2003
+Juventus FC,In,Luigi Lavecchia,21,Italy,RM,Other,Ascoli Calcio 1898,Other,2003
+Juventus FC,In,Davide Chiumiento,18,"Switzerland, Italy",AM,Other,Juventus Primavera,Other,2003
+Juventus FC,In,Orlando Urbano,19,Italy,CB,Other,Juventus Primavera,Other,2003
+Juventus FC,In,Antonio Mirante,19,Italy,GK,Other,Juventus Primavera,Other,2003
+Juventus FC,Out,Andrea Gasbarroni,21,Italy,SS,Other,US Palermo,2700000,2003
+Juventus FC,Out,Emiliano Moretti,22,Italy,CB,Other,AC Parma,1800000,2003
+Juventus FC,Out,Aboubacar Fofana,20,"France, Cote d'Ivoire",LM,Other,Millwall FC,0,2003
+Juventus FC,Out,Athirson,26,"Brazil, Italy",LB,Other,CR Flamengo,0,2003
+Juventus FC,Out,Andrea Gentile,23,Italy,CM,Other,FC Messina Peloro,Other,2003
+Juventus FC,Out,Roberto Merenda,19,Italy,CB,Other,Cosenza FC,Other,2003
+Juventus FC,Out,Francesco Scardina,21,Italy,CB,Other,FC Crotone,Other,2003
+AS Roma,In,Cristian Chivu,22,Romania,CB,Other,Ajax Amsterdam,18000000,2003
+AS Roma,In,Olivier Dacourt,28,"France, Guadeloupe",DM,Other,Leeds United,6000000,2003
+AS Roma,In,Denis Boshnjaku,19,"Albania, Italy",CF,Other,SS Lazio,200000,2003
+AS Roma,In,Raffaele Coscia,20,Italy,GK,Other,Tivoli Calcio 1919,Other,2003
+AS Roma,In,Cristiano Lupatelli,25,Italy,GK,Other,Chievo Verona,Other,2003
+AS Roma,In,Alessio Cerci,15,Italy,RW,Other,Roma U19,Other,2003
+AS Roma,In,Olasunkanmi Akande Ajide,17,Nigeria,CF,Other,Roma U19,Other,2003
+AS Roma,In,Daniele Galloppa,18,Italy,CM,Other,Roma U19,Other,2003
+AS Roma,In,Daniele Corvia,19,Italy,CF,Other,Roma U19,Other,2003
+AS Roma,In,Alessandro Cremaschini,20,Italy,Defender,Other,Roma U19,Other,2003
+AS Roma,Out,Diego Fuser,34,Italy,RM,Other,Torino Calcio,0,2003
+AS Roma,Out,Francesco Antonioli,33,Italy,GK,Other,UC Sampdoria,0,2003
+AS Roma,Out,Gabriel Batistuta,34,"Argentina, Italy",CF,Other,Al-Arabi SC,0,2003
+AS Roma,Out,Ivan Tomic,27,Serbia,DM,Other,Rayo Vallecano,Other,2003
+AS Roma,Out,Davide Bombardini,29,Italy,LM,Other,US Salernitana,Other,2003
+AS Roma,Out,Daniele De Vezze,23,Italy,CM,Other,ACF Fiorentina,Other,2003
+AS Roma,Out,Aldair,37,Brazil,CB,Other,Without Club,Other,2003
+AS Roma,Out,Denis Boshnjaku,20,"Albania, Italy",CF,Other,Roma U19,Other,2003
+AC Milan,In,Kaká,21,"Brazil, Italy",AM,Other,São Paulo Futebol Clube,8500000,2003
+AC Milan,In,Patrick Kalambay,19,"Italy, DR Congo",RM,Other,Ancona Calcio,2120000,2003
+AC Milan,In,Nicola Pozzi,17,Italy,CF,Other,AC Cesena,2000000,2003
+AC Milan,In,Alessandro Budel,22,Italy,DM,Other,US Triestina,2000000,2003
+AC Milan,In,Giuseppe Ticli,24,Italy,LM,Other,Inter Milan,1500000,2003
+AC Milan,In,Filippo Porcari,19,Italy,DM,Other,Parma Primavera,1000000,2003
+AC Milan,Out,José Mari,24,Spain,CF,Other,Villarreal CF,9000000,2003
+AC Milan,Out,Luca Antonini,20,Italy,LB,Other,UC Sampdoria,2000000,2003
+AC Milan,Out,Cyril Domoraud,31,"Cote d'Ivoire, France",CB,Other,RCD Espanyol Barcelona,1500000,2003
+AC Milan,Out,Rivaldo,31,"Brazil, Spain",AM,Other,Cruzeiro Esporte Clube,0,2003
+AC Milan,Out,Ibrahim Bá,29,"France, Senegal",RM,Other,Bolton Wanderers,0,2003
+AC Milan,Out,Demetrio Albertini,31,Italy,DM,Other,SS Lazio,0,2003
+AC Milan,Out,José Chamot,34,"Argentina, Italy",CB,Other,CD Leganés,0,2003
+AC Milan,Out,Simone Giovanni Brunelli,20,Italy,GK,Other,AC Pro Sesto,Other,2003
+AC Milan,Out,Thomas Helveg,32,Denmark,RB,Other,Inter Milan,Other,2003
+AC Milan,Out,Emanuele D'Anna,21,Italy,RM,Other,Piacenza FC,Other,2003
+AC Milan,Out,William Nava,18,Italy,Midfielder,Other,Without Club,Other,2003
+UC Sampdoria,In,Luca Antonini,20,Italy,LB,Other,AC Milan,2000000,2003
+UC Sampdoria,In,Francesco Antonioli,33,Italy,GK,Other,AS Roma,0,2003
+UC Sampdoria,In,Giacomo Cipriani,23,Italy,CF,Other,Piacenza FC,0,2003
+UC Sampdoria,In,Giulio Falcone,29,Italy,CB,Other,Bologna FC 1909,0,2003
+UC Sampdoria,In,Francis Zé,21,Cameroon,RW,Other,US Cremonese,0,2003
+UC Sampdoria,In,Atsushi Yanagisawa,26,Japan,CF,Other,Kashima Antlers,0,2003
+UC Sampdoria,In,Emanuele Bianchi,18,Italy,GK,Other,AS Lucchese Libertas,Other,2003
+UC Sampdoria,In,Giampaolo Calzi,17,Italy,DM,Other,Castellettese Calcio,Other,2003
+UC Sampdoria,In,Cristiano Doni,30,Italy,AM,Other,Atalanta BC,Other,2003
+UC Sampdoria,In,Aimo Diana,25,Italy,RM,Other,AC Parma,Other,2003
+UC Sampdoria,In,Moris Carrozzieri,22,Italy,CB,Other,Teramo Calcio,Other,2003
+UC Sampdoria,Out,Massimo Paganin,32,Italy,CB,Other,Vicenza Calcio,0,2003
+UC Sampdoria,Out,Fabrizio Casazza,32,Italy,GK,Other,SS Lazio,Other,2003
+UC Sampdoria,Out,Olmo Pozzo,19,Italy,GK,Other,Unknown,Other,2003
+UC Sampdoria,Out,Johan Michel Romeo,18,France,Midfielder,Other,SSC Giugliano,Other,2003
+UC Sampdoria,Out,Fabio Tricarico,33,Italy,CM,Other,Spezia Calcio 1906,Other,2003
+UC Sampdoria,Out,Andrea Bernini,30,Italy,RM,Other,SSC Napoli,Other,2003
+UC Sampdoria,Out,Davide Pinato,39,Italy,GK,Other,Retired,Other,2003
+UC Sampdoria,Out,Sandro Cois,30,Italy,DM,Other,Retired,Other,2003
+Udinese Calcio,In,Henok Goitom,18,"Eritrea, Sweden",CF,Other,Vasalund/Essinge IF,0,2003
+Udinese Calcio,In,Asamoah Gyan,17,Ghana,CF,Other,Liberty Professionals FC,Other,2003
+Udinese Calcio,In,Toni Bernal,26,Spain,GK,Other,Ciudad de Murcia,Other,2003
+Udinese Calcio,In,Michele Pazienza,20,Italy,DM,Other,Foggia Calcio,Other,2003
+Udinese Calcio,In,Dino Fava,26,Italy,CF,Other,US Triestina,Other,2003
+Udinese Calcio,In,Alessandro Pierini,30,Italy,CB,Other,AC Parma,Other,2003
+Udinese Calcio,Out,Roberto Muzzi,31,Italy,CF,Other,SS Lazio,3200000,2003
+Udinese Calcio,Out,Dimitrios Nalitzis,27,Greece,CF,Other,AEK Athens,200000,2003
+Udinese Calcio,Out,Warley,25,Brazil,CF,Other,AD São Caetano (SP),0,2003
+Udinese Calcio,Out,Pavel Grznar,24,Czech Republic,LB,Other,SK Ceske Budejovice,Other,2003
+Udinese Calcio,Out,Mauricio Pineda,27,Argentina,LB,Other,CA Lanús,Other,2003
+Udinese Calcio,Out,Andrea Sottil,29,Italy,CB,Other,Reggina Calcio,Other,2003
+Udinese Calcio,Out,Thomas Thorninger,30,Denmark,CF,Other,Aarhus GF,Other,2003
+Udinese Calcio,Out,Gonzalo Martínez,27,Colombia,RB,Other,Reggina Calcio,Other,2003
+Udinese Calcio,Out,Samuel Caballero,28,Honduras,CB,Other,US Salernitana,Other,2003
+Udinese Calcio,Out,Terrence Genaux,20,Belgium,CB,Other,CS Visé (-2015),Other,2003
+Udinese Calcio,Out,Mohammed Gargo,28,Ghana,CB,Other,Genoa CFC,Other,2003
+Udinese Calcio,Out,Feliciano Magro,24,"Switzerland, Italy",AM,Other,Grasshopper Club Zurich,Other,2003
+Udinese Calcio,Out,Giorgio Podimani,20,Italy,Defender,Other,Retired,Other,2003
+AC Perugia,In,Jay Bothroyd,21,"England, Guyana",CF,Other,Coventry City,0,2003
+AC Perugia,In,Ferdinand Coly,30,"Senegal, France",RB,Other,RC Lens,0,2003
+AC Perugia,In,Gaël Genevier,21,France,DM,Other,Olympique Lyon B,0,2003
+AC Perugia,In,Vangelis Nastos,23,Greece,RB,Other,PAOK Thessaloniki,0,2003
+AC Perugia,In,Fabrizio Ravanelli,35,Italy,CF,Other,Dundee FC,0,2003
+AC Perugia,In,Dario Hübner,36,Italy,CF,Other,Ancona Calcio,0,2003
+AC Perugia,In,Jamal Alioui,21,"Morocco, France",RB,900000,Olympique Lyon B,0,2003
+AC Perugia,In,Al-Saadi Al Gaddafi,30,Libya,AM,Other,Al-Ittihad SCS (Tripoli),0,2003
+AC Perugia,In,Souleymane Diamoutene,20,"Mali, Italy",CB,Other,AS Lucchese Libertas,Other,2003
+AC Perugia,In,Domenico Di Dio,21,Italy,GK,Other,Calcio Catania,Other,2003
+AC Perugia,In,Giovanni Ignoffo,26,Italy,CB,Other,US Avellino,Other,2003
+AC Perugia,In,Eusebio Di Francesco,34,Italy,CM,Other,Ancona Calcio,Other,2003
+AC Perugia,In,Roberto Cardinale,22,Italy,CB,Other,US Salernitana,Other,2003
+AC Perugia,In,Gabriele Scandurra,25,Italy,CF,Other,US Sambenedettese,Other,2003
+AC Perugia,In,Paul Codrea,22,Romania,CM,Other,US Palermo,Other,2003
+AC Perugia,In,Maurizio Baciocchi,26,Italy,Striker,Other,Todi Calcio,Other,2003
+AC Perugia,In,Domenico Maietta,21,Italy,CB,Other,US Avellino,Other,2003
+AC Perugia,In,Félix Benito,25,Argentina,RB,Other,CA San Lorenzo de Almagro,Other,2003
+AC Perugia,In,Hany Said,23,Egypt,SW,Other,ACF Fiorentina,Other,2003
+AC Perugia,In,Alessandro Iannuzzi,27,Italy,CF,Other,FC Messina Peloro,Other,2003
+AC Perugia,In,Fabio Filippi,30,Italy,Midfielder,Other,US Sambenedettese,Other,2003
+AC Perugia,In,Sasa Bjelanovic,24,"Croatia, Italy",CF,Other,Como Calcio,Other,2003
+AC Perugia,In,Stefano Pardini,27,Italy,GK,Other,US Sambenedettese,Other,2003
+AC Perugia,In,Guglielmo Stendardo,22,Italy,CB,Other,US Salernitana,Other,2003
+AC Perugia,In,Al-Saadi Al Gaddafi,30,Libya,AM,Other,Disqualification,Other,2003
+AC Perugia,In,Massimo Ciarlora,19,Italy,Defender,Other,Perugia Primavera,Other,2003
+AC Perugia,In,Fabio Pessia,19,Italy,Defender,Other,Perugia Primavera,Other,2003
+AC Perugia,Out,Zisis Vryzas,30,Greece,CF,Other,ACF Fiorentina,2500000,2003
+AC Perugia,Out,Rahman Rezaei,28,"Iran, Italy",CB,Other,FC Messina Peloro,0,2003
+AC Perugia,Out,Giovanni Tedesco,31,Italy,CM,Other,Genoa CFC,0,2003
+AC Perugia,Out,Domenico Di Dio,21,Italy,GK,Other,US Sambenedettese,Other,2003
+AC Perugia,Out,Lorenzo Crocetti,19,Italy,CF,Other,Vis Pesaro 1898,Other,2003
+AC Perugia,Out,Giuseppe Aprea,26,Italy,GK,Other,US Sambenedettese,Other,2003
+AC Perugia,Out,Fabio Grosso,26,Italy,LB,Other,US Palermo,Other,2003
+AC Perugia,Out,Emanuele Berrettoni,22,Italy,SS,Other,Calcio Catania,Other,2003
+AC Perugia,Out,Hany Said,23,Egypt,SW,Other,AC Pistoiese,Other,2003
+AC Perugia,Out,Héctor Tapia,25,"Chile, Italy",CF,Other,LOSC Lille,Other,2003
+AC Perugia,Out,Maurizio Baciocchi,26,Italy,Striker,Other,Orvietana Calcio,Other,2003
+AC Perugia,Out,Sean Sogliano,32,Italy,CB,Other,SSC Napoli,Other,2003
+AC Perugia,Out,Tiago Calvano,22,"Brazil, Italy",CB,Other,FC Barcelona B,Other,2003
+AC Perugia,Out,Hilário Leal,29,"Portugal, France",RB,Other,US Sambenedettese,Other,2003
+AC Perugia,Out,Alessandro Iannuzzi,28,Italy,CF,Other,Pescara Calcio,Other,2003
+AC Perugia,Out,Mauro Milanese,31,Italy,LB,Other,Ancona Calcio,Other,2003
+AC Perugia,Out,Fabio Filippi,31,Italy,Midfielder,Other,US Sambenedettese,Other,2003
+AC Perugia,Out,Nicola Amoruso,28,Italy,CF,Other,Modena FC,Other,2003
+AC Perugia,Out,Sasa Bjelanovic,24,"Croatia, Italy",CF,Other,Genoa CFC,Other,2003
+AC Perugia,Out,Sebastiano Rossi,38,Italy,GK,Other,Retired,Other,2003
+AC Perugia,Out,Al-Saadi Al Gaddafi,30,Libya,AM,Other,Disqualification,Other,2003
+SS Lazio,In,Ousmane Dabo,26,"France, Senegal",DM,Other,Atalanta BC,8880000,2003
+SS Lazio,In,Luciano Zauri,25,Italy,RB,75000,Atalanta BC,5950000,2003
+SS Lazio,In,Roberto Muzzi,31,Italy,CF,Other,Udinese Calcio,3200000,2003
+SS Lazio,In,Sérgio Conceição,28,Portugal,RW,Other,Inter Milan,0,2003
+SS Lazio,In,Demetrio Albertini,31,Italy,DM,Other,AC Milan,0,2003
+SS Lazio,In,Duccio Innocenti,27,Italy,CB,Other,AS Bari,0,2003
+SS Lazio,In,Fabrizio Casazza,32,Italy,GK,Other,UC Sampdoria,Other,2003
+SS Lazio,In,Matteo Sereni,28,Italy,GK,Other,Ipswich Town,Other,2003
+SS Lazio,In,Alessandro Volpe,20,Italy,CM,Other,Lazio Youth,Other,2003
+SS Lazio,Out,Dejan Stankovic,25,"Serbia, Italy",CM,Other,Inter Milan,4000000,2003
+SS Lazio,Out,Duccio Innocenti,27,Italy,CB,Other,Atalanta BC,1150000,2003
+SS Lazio,Out,Denis Boshnjaku,19,"Albania, Italy",CF,Other,AS Roma,200000,2003
+SS Lazio,Out,Enrico Chiesa,32,Italy,CF,Other,AC Siena,0,2003
+SS Lazio,Out,Diego Simeone,33,"Argentina, Italy",CM,Other,Atlético de Madrid,0,2003
+SS Lazio,Out,Patrizio Pascucci,17,Italy,CF,Other,Everton FC Reserves,0,2003
+SS Lazio,Out,Luca Marchegiani,37,Italy,GK,Other,Chievo Verona,0,2003
+SS Lazio,Out,Sérgio Conceição,29,Portugal,RW,Other,FC Porto,0,2003
+SS Lazio,Out,Alessandro Gazzi,20,Italy,DM,Other,US Viterbese,Other,2003
+SS Lazio,Out,Daniel Ola,20,"Nigeria, Ghana",CB,Other,Teramo Calcio,Other,2003
+SS Lazio,Out,Emanuele Concetti,25,Italy,GK,Other,Calcio Catania,Other,2003
+SS Lazio,Out,Lucas Castromán,22,"Argentina, Italy",RM,Other,CA Vélez Sarsfield,Other,2003
+SS Lazio,Out,Felice Evacuo,20,Italy,CF,Other,US Viterbese,Other,2003
+US Lecce,In,Marco Cassetti,26,Italy,RB,Other,Hellas Verona,Other,2003
+US Lecce,In,Vincenzo Sicignano,29,Italy,GK,Other,AC Parma,Other,2003
+US Lecce,In,Graziano Pellè,17,Italy,CF,Other,Lecce Primavera,Other,2003
+US Lecce,In,Arnaud Kouyo,19,Cote d'Ivoire,CB,Other,Lecce Primavera,Other,2003
+US Lecce,In,Erminio Rullo,19,Italy,LB,Other,Lecce Primavera,Other,2003
+US Lecce,Out,Sebastjan Cimirotic,28,Slovenia,CF,Other,NK Olimpija Ljubljana,0,2003
+US Lecce,Out,Alberto Savino,30,Italy,CB,Other,Ternana Calcio,Other,2003
+US Lecce,Out,Marco Testa,20,Italy,CM,Other,SP Ars et Labor,Other,2003
+US Lecce,Out,Gianluca Colonnello,30,Italy,LB,Other,Pescara Calcio,Other,2003
+US Lecce,Out,Luigi Piangerelli,30,Italy,DM,Other,ACF Fiorentina,Other,2003
+US Lecce,Out,Giorgio Frezzolini,27,Italy,GK,Other,Chievo Verona,Other,2003
+Brescia Calcio,In,Luigi Di Biagio,32,Italy,DM,550000,Inter Milan,0,2003
+Brescia Calcio,In,Rambo,17,Brazil,CB,Other,Grêmio Foot-Ball Porto Alegrense,0,2003
+Brescia Calcio,In,Marc Nygaard,26,"Denmark, Guyana",CF,Other,Roda JC Kerkrade,Other,2003
+Brescia Calcio,In,Sebastián Saja,24,"Argentina, Italy",GK,Other,CA San Lorenzo de Almagro,Other,2003
+Brescia Calcio,In,Tiziano Ramon,32,Italy,GK,Other,US Triestina,Other,2003
+Brescia Calcio,In,Mattia Turetta,19,Italy,LW,Other,Brescia Primavera,Other,2003
+Brescia Calcio,Out,Stephen Appiah,22,Ghana,DM,Other,Juventus FC,8000000,2003
+Brescia Calcio,Out,Luca Toni,26,Italy,CF,Other,US Palermo,6000000,2003
+Brescia Calcio,Out,Rambo,17,Brazil,CB,Other,Górnik Zabrze,0,2003
+Brescia Calcio,Out,Igli Tare,30,"Albania, Italy",CF,Other,Bologna FC 1909,0,2003
+Brescia Calcio,Out,Pavel Srnicek,35,"Czech Republic, France",GK,Other,Portsmouth FC,0,2003
+Brescia Calcio,Out,Pep Guardiola,32,Spain,DM,Other,Al-Ahli SC,0,2003
+Brescia Calcio,Out,Sebastián Saja,24,"Argentina, Italy",GK,Other,Rayo Vallecano,Other,2003
+Brescia Calcio,Out,Andrés Yllana,28,"Argentina, Italy",CM,Other,Club de Gimnasia y Esgrima La Plata,Other,2003
+Brescia Calcio,Out,Raúl González,27,Argentina,Striker,Other,Cosenza FC,Other,2003
+Brescia Calcio,Out,Vladimir Sladojevic,19,"Bosnia-Herzegovina, Serbia",CF,Other,Górnik Zabrze,Other,2003
+Brescia Calcio,Out,Fábio Bilica,24,Brazil,CB,Other,Ancona Calcio,Other,2003
+Brescia Calcio,Out,Mitchel Brown,21,Honduras,CF,Other,CD Suchitepéquez,Other,2003
+Brescia Calcio,Out,Antonio Filippini,30,Italy,RM,Other,US Palermo,Other,2003
+Brescia Calcio,Out,Davide Micillo,32,Italy,GK,Other,Ascoli Calcio 1898,Other,2003
+Brescia Calcio,Out,Michel Zanfretta,19,Italy,GK,Other,Without Club,Other,2003
+Brescia Calcio,Out,Roberto Baggio,37,Italy,SS,Other,Retired,Other,2003
+FC Empoli,In,Jorge Vargas,27,Chile,CB,Other,Reggina Calcio,0,2003
+FC Empoli,In,Paolo Zanetti,20,Italy,DM,Other,Vicenza Calcio,Other,2003
+FC Empoli,In,Maurizio Lanzaro,21,Italy,CB,Other,Cosenza FC,Other,2003
+FC Empoli,In,Pasquale Foggia,20,Italy,AM,Other,Treviso FBC 1993,Other,2003
+FC Empoli,In,Mirco Gasparetto,23,Italy,CF,Other,AC Prato,Other,2003
+FC Empoli,In,Riccardo Bonetto,24,Italy,LB,Other,Ascoli Calcio 1898,Other,2003
+FC Empoli,In,Daniele Balli,36,Italy,GK,Other,Without Club,Other,2003
+FC Empoli,In,Andrea Raggi,18,Italy,CB,Other,Empoli Primavera,Other,2003
+FC Empoli,Out,Amauri,23,"Italy, Brazil",CF,Other,Chievo Verona,4500000,2003
+FC Empoli,Out,Alessandro Agostini,24,Italy,LB,Other,Cagliari Calcio,490000,2003
+FC Empoli,Out,Gianluca Berti,36,Italy,GK,Other,US Palermo,0,2003
+FC Empoli,Out,Marco Carparelli,27,Italy,SS,Other,Como Calcio,Other,2003
+FC Empoli,Out,Roberto Mirri,25,Italy,CB,Other,RAEC Mons (-2015),Other,2003
+FC Empoli,Out,Gianluca Atzori,32,Italy,CB,Other,US Palermo,Other,2003
+FC Empoli,Out,Ighli Vannucchi,25,Italy,AM,Other,US Palermo,Other,2003
+FC Empoli,Out,Marco Barollo,30,Italy,Midfielder,Other,Retired,Other,2003
+Bologna FC 1909,In,Igli Tare,30,"Albania, Italy",CF,Other,Brescia Calcio,0,2003
+Bologna FC 1909,In,Alexander Manninger,26,Austria,GK,Other,Torino Calcio,0,2003
+Bologna FC 1909,In,Andrea Sussi,29,Italy,LB,Other,Ancona Calcio,Other,2003
+Bologna FC 1909,In,Fulvio Fedi,18,Italy,Midfielder,Other,Torino Primavera,Other,2003
+Bologna FC 1909,In,Juarez,29,Brazil,RB,Other,Como Calcio,Other,2003
+Bologna FC 1909,In,Jonatan Binotto,28,Italy,RW,Other,Inter Milan,Other,2003
+Bologna FC 1909,In,Massimo Loviso,19,Italy,DM,Other,Bologna Primavera,Other,2003
+Bologna FC 1909,Out,Julio Cruz,28,"Argentina, Spain",CF,Other,Inter Milan,9500000,2003
+Bologna FC 1909,Out,Andrea Ardito,26,Italy,DM,Other,AC Siena,200000,2003
+Bologna FC 1909,Out,Pierre Womé,24,Cameroon,LB,Other,RCD Espanyol Barcelona,0,2003
+Bologna FC 1909,Out,Ferdinando Coppola,25,Italy,GK,Other,Ascoli Calcio 1898,0,2003
+Bologna FC 1909,Out,Giacomo Cipriani,22,Italy,CF,Other,Piacenza FC,0,2003
+Bologna FC 1909,Out,Paolo Vanoli,30,Italy,LB,Other,Rangers FC,0,2003
+Bologna FC 1909,Out,Giulio Falcone,29,Italy,CB,Other,UC Sampdoria,0,2003
+Bologna FC 1909,Out,Michele Paramatti,35,Italy,LB,Other,AC Reggiana 1919,0,2003
+Bologna FC 1909,Out,Marcello Castellini,30,Italy,CB,Other,AC Parma,Other,2003
+Bologna FC 1909,Out,Renato Olive,32,Italy,CM,Other,SSC Napoli,Other,2003
+Modena FC,In,Vedin Music,30,Bosnia-Herzegovina,LB,Other,Como Calcio,3000000,2003
+Modena FC,In,Matteo Pivotto,28,Italy,RB,Other,US Palermo,0,2003
+Modena FC,In,Paul Dalglish,26,Scotland,CF,Other,Linfield FC,0,2003
+Modena FC,In,Riccardo Allegretti,25,Italy,CM,Other,Como Calcio,Other,2003
+Modena FC,In,Antonio Marasco,33,Italy,DM,Other,US Palermo,Other,2003
+Modena FC,In,Nicola Amoruso,28,Italy,CF,Other,AC Perugia,Other,2003
+Modena FC,In,Lorenzo Del Sole,18,Italy,Midfielder,Other,Carpi FC 1909,Other,2003
+Modena FC,In,Cristian Stellini,29,Italy,CB,Other,Como Calcio,Other,2003
+Modena FC,In,Mathias Altamirano,18,"Italy, Germany",GK,Other,Modena Primavera,Other,2003
+Modena FC,In,Vincenzo Vado,19,Italy,LB,Other,Modena Primavera,Other,2003
+Modena FC,In,Andrea Camatti,18,Italy,Defender,Other,Modena Primavera,Other,2003
+Modena FC,Out,Rune Pedersen,23,Denmark,GK,Other,Aarhus GF,0,2003
+Modena FC,Out,Enrico Po,18,Italy,Midfielder,Other,Carpi FC 1909,Other,2003
+Modena FC,Out,Marco Zamboni,25,Italy,CB,Other,SSC Napoli,Other,2003
+Modena FC,Out,Alessandro Zamperini,20,Italy,CB,Other,Ascoli Calcio 1898,Other,2003
+Modena FC,Out,Andrea Quaglia,31,Italy,CB,Other,SEF Torres 1903,Other,2003
+Modena FC,Out,Marcello Albino,31,Italy,CM,Other,Cagliari Calcio,Other,2003
+Modena FC,Out,Giacomo Ferrari,35,Italy,CF,Other,UC AlbinoLeffe,Other,2003
+Modena FC,Out,Cristian Stellini,29,Italy,CB,Other,Genoa CFC,Other,2003
+Reggina Calcio,In,Emiliano Bonazzoli,24,Italy,CF,Other,AC Parma,4500000,2003
+Reggina Calcio,In,Christophe Meoli,18,"Switzerland, Italy",DM,Other,FC Lausanne-Sport,0,2003
+Reggina Calcio,In,Juan Sara,27,"Argentina, Italy",CF,Other,Dundee FC,0,2003
+Reggina Calcio,In,Andrea Sottil,29,Italy,CB,Other,Udinese Calcio,Other,2003
+Reggina Calcio,In,Simone Giacchetta,33,Italy,CB,Other,Genoa CFC,Other,2003
+Reggina Calcio,In,Gonzalo Martínez,27,Colombia,RB,Other,Udinese Calcio,Other,2003
+Reggina Calcio,In,Stefano Torrisi,32,Italy,CB,Other,AC Parma,Other,2003
+Reggina Calcio,In,Gianluca Falsini,27,Italy,LB,Other,AC Parma,Other,2003
+Reggina Calcio,In,Giacomo Tedesco,27,Italy,CM,Other,Cosenza FC,Other,2003
+Reggina Calcio,In,Graziano Tilaro,18,Italy,GK,Other,Reggina Primavera,Other,2003
+Reggina Calcio,Out,Jorge Vargas,27,Chile,CB,Other,FC Empoli,0,2003
+Reggina Calcio,Out,Mamede,29,Portugal,CM,Other,FC Messina Peloro,0,2003
+Reggina Calcio,Out,Massimo Rastelli,34,Italy,RW,Other,Como Calcio,Other,2003
+Reggina Calcio,Out,Julio de León,24,Honduras,AM,Other,ACF Fiorentina,Other,2003
+Reggina Calcio,Out,Salvatore Vicari,22,Italy,RM,Other,Ascoli Calcio 1898,Other,2003
+Reggina Calcio,Out,Riccardo Alderuccio,19,Italy,CB,Other,Gela Calcio,Other,2003
+Reggina Calcio,Out,Gianluca Savoldi,27,Italy,CF,Other,SSC Napoli,Other,2003
+Reggina Calcio,Out,Nicola Carlo Pagani,25,Italy,CB,Other,Pescara Calcio,Other,2003
+Reggina Calcio,Out,Roberto Mafucci,18,Italy,Striker,Other,Retired,Other,2003
+AC Siena,In,Tore André Flo,30,Norway,CF,Other,Sunderland AFC,1500000,2003
+AC Siena,In,Generoso Rossi,24,Italy,GK,Other,AC Venezia 1907,800000,2003
+AC Siena,In,Carlos Arano,23,"Argentina, Spain",LB,Other,Racing Club,400000,2003
+AC Siena,In,Andrea Ardito,26,Italy,DM,Other,Bologna FC 1909,200000,2003
+AC Siena,In,Enrico Chiesa,32,Italy,CF,Other,SS Lazio,0,2003
+AC Siena,In,Daniele Delli Carri,31,Italy,CB,Other,Torino Calcio,0,2003
+AC Siena,In,Roberto D'Aversa,27,Italy,CM,Other,Ternana Calcio,Other,2003
+AC Siena,In,Paolo Foglio,27,Italy,RB,Other,Atalanta BC,Other,2003
+AC Siena,In,Fernando,22,"Brazil, Italy",DM,Other,Esporte Clube Juventude,Other,2003
+AC Siena,In,Simone Vergassola,27,Italy,DM,Other,Torino Calcio,Other,2003
+AC Siena,Out,André Leone,24,"Brazil, Italy",CB,Other,Ituano Futebol Clube (SP),0,2003
+AC Siena,Out,Lampros Vangelis,21,Greece,CM,Other,PAOK Thessaloniki,0,2003
+AC Siena,Out,Luigi Martinelli,32,Italy,RB,Other,Ascoli Calcio 1898,0,2003
+AC Siena,Out,Vincenzo Riccio,29,Italy,CM,Other,FC Sporting Benevento,Other,2003
+AC Siena,Out,Aliyu Datti,21,"Nigeria, Italy",CF,Other,Standard Liège,Other,2003
+AC Siena,Out,Reinaldo,19,Brazil,AM,Other,Quilmes AC,Other,2003
+AC Siena,Out,Luca Cavallo,30,Italy,RM,Other,Genoa CFC,Other,2003
+AC Siena,Out,Ruggero Radice,31,Italy,LB,Other,Piacenza FC,Other,2003
+AC Siena,Out,Stefano Ghirardello,30,Italy,CF,Other,Genoa CFC,Other,2003
+AC Siena,Out,Davide Mandelli,26,Italy,CB,Other,Torino Calcio,Other,2003
+AC Siena,Out,Pierpaolo Bresciani,32,Italy,RW,Other,Unione Sportiva Sansovino,Other,2003
+AC Siena,Out,Antonio Morello,26,Italy,RW,Other,US Catanzaro,Other,2003
+AC Siena,Out,Christian Scalzo,31,Italy,Striker,Other,Spezia Calcio 1906,Other,2003
+AC Siena,Out,Massimo Brambilla,30,Italy,CM,Other,Cagliari Calcio,Other,2003
+AC Siena,Out,Giuseppe Taglialatela,34,Italy,GK,Other,Without Club,Other,2003
+AC Siena,Out,Andrea Mazzantini,34,Italy,GK,Other,Retired,Other,2003
+Chievo Verona,In,Amauri,23,"Italy, Brazil",CF,Other,FC Empoli,4500000,2003
+Chievo Verona,In,Maurizio D'Angelo,34,Italy,CB,Other,SSC Napoli,0,2003
+Chievo Verona,In,Luca Marchegiani,37,Italy,GK,Other,SS Lazio,0,2003
+Chievo Verona,In,Guido Lippi,21,Italy,GK,Other,Aglianese Calcio 1923,0,2003
+Chievo Verona,In,Andrea Barzagli,22,Italy,CB,Other,Ascoli Calcio 1898,0,2003
+Chievo Verona,In,Daniel Chafer,21,Argentina,Striker,Other,Club Atlético Colón U20,Other,2003
+Chievo Verona,In,Salvatore Bruno,23,Italy,CF,Other,Ascoli Calcio 1898,Other,2003
+Chievo Verona,In,César,24,"Brazil, Italy",CB,Other,Fluminense Football Club,Other,2003
+Chievo Verona,In,Marco Malagò,24,Italy,CB,Other,Genoa CFC,Other,2003
+Chievo Verona,In,Mounir Ahandour,20,"Morocco, France",CF,Other,LB Châteauroux B,Other,2003
+Chievo Verona,In,Francesco Carbone,24,Italy,RB,Other,US Triestina,Other,2003
+Chievo Verona,In,Andrea Mengoni,19,Italy,CB,Other,ASD Castel di Sangro,Other,2003
+Chievo Verona,In,Giorgio Frezzolini,27,Italy,GK,Other,US Lecce,Other,2003
+Chievo Verona,In,Santos Oliveira,17,Brazil,LM,Other,Chievo Primavera,Other,2003
+Chievo Verona,Out,Nicola Legrottaglie,26,Italy,CB,Other,Juventus FC,7550000,2003
+Chievo Verona,Out,Björn Runström,19,Sweden,CF,Other,Hammarby IF,0,2003
+Chievo Verona,Out,Vojislav Dragovic,20,Serbia,GK,Other,FK Obilic,0,2003
+Chievo Verona,Out,Marco Ambrosio,30,Italy,GK,Other,Chelsea FC,0,2003
+Chievo Verona,Out,Luigi Beghetto,29,Italy,CF,Other,Piacenza FC,0,2003
+Chievo Verona,Out,Gianluca Grassadonia,31,Italy,CB,Other,AC Venezia 1907,0,2003
+Chievo Verona,Out,Lilian Nalis,31,France,CM,Other,Leicester City,0,2003
+Chievo Verona,Out,Fabio Firmani,25,Italy,CM,Other,Calcio Catania,Other,2003
+Chievo Verona,Out,Daniel Chafer,21,Argentina,Striker,Other,SS Lanciano,Other,2003
+Chievo Verona,Out,Francesco Magnanelli,18,Italy,DM,Other,ACF Fiorentina,Other,2003
+Chievo Verona,Out,Marco Veronese,27,Italy,CF,Other,Spezia Calcio 1906,Other,2003
+Chievo Verona,Out,Michael Zago,22,Italy,CM,Other,AS Melfi,Other,2003
+Chievo Verona,Out,Eugenio Corini,32,Italy,DM,Other,US Palermo,Other,2003
+Chievo Verona,Out,Andrea Mengoni,19,Italy,CB,Other,Chieti Calcio,Other,2003
+Chievo Verona,Out,Stefano Lorenzi,26,Italy,CB,Other,Atalanta BC,Other,2003
+Chievo Verona,Out,Mounir Ahandour,20,"Morocco, France",CF,Other,SS Jeanne d'Arc,Other,2003
+Chievo Verona,Out,Mattia Passarini,22,Italy,GK,Other,Paternò Calcio,Other,2003
+Chievo Verona,Out,Cristiano Lupatelli,25,Italy,GK,Other,AS Roma,Other,2003
+Chievo Verona,Out,Moreno Longo,27,Italy,RB,Other,Teramo Calcio,Other,2003
+Chievo Verona,Out,Oliver Bierhoff,35,Germany,CF,Other,Retired,Other,2003
+AC Parma,In,Sébastien Frey,23,France,GK,Other,Inter Milan,21000000,2003
+AC Parma,In,Emiliano Moretti,22,Italy,CB,Other,Juventus FC,1800000,2003
+AC Parma,In,Vincenzo Sicignano,28,Italy,GK,Other,US Palermo,Other,2003
+AC Parma,In,Marcello Castellini,30,Italy,CB,Other,Bologna FC 1909,Other,2003
+AC Parma,In,Mirko Stefani,19,Italy,CB,Other,AC Prato,Other,2003
+AC Parma,In,Benny Carbone,31,Italy,SS,Other,Como Calcio,Other,2003
+AC Parma,In,Ibrahima Camara,18,"Guinea, Sierra Leone",LB,Other,Parma Primavera,Other,2003
+AC Parma,In,Paolo Ruffini,19,Italy,CM,Other,Parma Primavera,Other,2003
+AC Parma,In,Tonino Sorrentino,18,Italy,CF,Other,Parma Primavera,Other,2003
+AC Parma,In,Giordano Vanin,17,Italy,GK,Other,Parma Primavera,Other,2003
+AC Parma,Out,Adriano,21,Brazil,CF,Other,Inter Milan,23400000,2003
+AC Parma,Out,Adrian Mutu,24,Romania,LW,Other,Chelsea FC,22700000,2003
+AC Parma,Out,Evanilson,27,Brazil,RB,Other,Borussia Dortmund,15000000,2003
+AC Parma,Out,Marco Di Vaio,26,Italy,CF,Other,Juventus FC,14000000,2003
+AC Parma,Out,Emiliano Bonazzoli,24,Italy,CF,Other,Reggina Calcio,4500000,2003
+AC Parma,Out,Vratislav Gresko,25,Slovakia,LB,Other,Blackburn Rovers,1800000,2003
+AC Parma,Out,Emanuele Filippini,30,Italy,CM,Other,US Palermo,0,2003
+AC Parma,Out,Roberto Massaro,19,Italy,LW,Other,Como Calcio,Other,2003
+AC Parma,Out,Paolo Poggi,32,Italy,CF,Other,Ancona Calcio,Other,2003
+AC Parma,Out,Sergey Gurenko,30,Belarus,RB,Other,Lokomotiv Moskau,Other,2003
+AC Parma,Out,Johnnier Montaño,20,Colombia,AM,Other,Independiente Santa Fe,Other,2003
+AC Parma,Out,Vincenzo Sicignano,29,Italy,GK,Other,US Lecce,Other,2003
+AC Parma,Out,Stefano Torrisi,32,Italy,CB,Other,Reggina Calcio,Other,2003
+AC Parma,Out,Gianluca Falsini,27,Italy,LB,Other,Reggina Calcio,Other,2003
+AC Parma,Out,Alain Roger Bangoura,20,Guinea,Defender,Other,FC Molenbeek Brüssel Strombeek,Other,2003
+AC Parma,Out,Giampiero Maini,31,Italy,CM,Other,Ancona Calcio,Other,2003
+AC Parma,Out,Sabri Lamouchi,31,"France, Tunisia",CM,Other,Inter Milan,Other,2003
+AC Parma,Out,Aimo Diana,25,Italy,RM,Other,UC Sampdoria,Other,2003
+AC Parma,Out,Alessandro Pierini,30,Italy,CB,Other,Udinese Calcio,Other,2003
+AC Parma,Out,Claudio Taffarel,37,"Brazil, Italy",GK,Other,Retired,Other,2003
+Ancona Calcio,In,Stefano Lombardi,26,Italy,CB,Other,Inter Milan,115000,2003
+Ancona Calcio,In,Dario Hübner,36,Italy,CF,Other,Piacenza FC,0,2003
+Ancona Calcio,In,Sergio Marcon,32,Italy,GK,Other,Ternana Calcio,0,2003
+Ancona Calcio,In,Mads Jørgensen,24,Denmark,RM,Other,Bröndby IF,0,2003
+Ancona Calcio,In,Milan Rapaic,29,Croatia,LM,Other,HNK Hajduk Split,0,2003
+Ancona Calcio,In,Emanuele Pesoli,23,Italy,CB,Other,Lupa Frascati,Other,2003
+Ancona Calcio,In,Davide Carrus,24,Italy,DM,Other,Cagliari Calcio,Other,2003
+Ancona Calcio,In,Paolo Poggi,32,Italy,CF,Other,AC Parma,Other,2003
+Ancona Calcio,In,Roberto Goretti,27,Italy,DM,Other,AC Reggiana 1919,Other,2003
+Ancona Calcio,In,Alessio Scarpi,30,Italy,GK,Other,Inter Milan,Other,2003
+Ancona Calcio,In,Eusebio Di Francesco,33,Italy,CM,Other,Piacenza FC,Other,2003
+Ancona Calcio,In,Andrea Sussi,29,Italy,LB,Other,Ternana Calcio,Other,2003
+Ancona Calcio,In,Daniele Berretta,31,Italy,DM,Other,Atalanta BC,Other,2003
+Ancona Calcio,In,Fábio Bilica,24,Brazil,CB,Other,Brescia Calcio,Other,2003
+Ancona Calcio,In,Giampiero Maini,31,Italy,CM,Other,AC Parma,Other,2003
+Ancona Calcio,In,Marco Esposito,23,Italy,CB,Other,AS Cittadella Padova,Other,2003
+Ancona Calcio,In,Giovanni Goracci,18,Italy,Midfielder,Other,Unknown,Other,2003
+Ancona Calcio,In,Vincenzo Sommese,27,Italy,RW,Other,Torino Calcio,Other,2003
+Ancona Calcio,In,Luciano Zavagno,26,"Argentina, Italy",LB,Other,Derby County,Other,2003
+Ancona Calcio,In,Sean Sogliano,32,Italy,CB,Other,SSC Napoli,Other,2003
+Ancona Calcio,In,Bruce Dombolo,18,"France, DR Congo",DM,Other,AJ Auxerre B,Other,2003
+Ancona Calcio,In,Ivano Cortelli,23,Italy,GK,Other,Unknown,Other,2003
+Ancona Calcio,In,Mauro Milanese,31,Italy,LB,Other,AC Perugia,Other,2003
+Ancona Calcio,In,Corrado Grabbi,28,Italy,CF,Other,Blackburn Rovers,Other,2003
+Ancona Calcio,In,Cristian Bucchi,26,Italy,CF,Other,Cagliari Calcio,Other,2003
+Ancona Calcio,Out,Patrick Kalambay,19,"Italy, DR Congo",RM,Other,AC Milan,2120000,2003
+Ancona Calcio,Out,Mads Jørgensen,25,Denmark,RM,Other,Stabæk Fotball,0,2003
+Ancona Calcio,Out,Marco Schenardi,35,Italy,RM,Other,Narnese Calcio,0,2003
+Ancona Calcio,Out,Dario Hübner,36,Italy,CF,Other,AC Perugia,0,2003
+Ancona Calcio,Out,Liborio Zuppardo,18,Italy,CF,Other,Morro d'Oro Calcio,0,2003
+Ancona Calcio,Out,Dmytro Koltsov,21,"Ukraine, Italy",Midfielder,Other,Ferentino Calcio,0,2003
+Ancona Calcio,Out,Pier Graziano Gori,23,Italy,GK,Other,Fermana Calcio 1920,Other,2003
+Ancona Calcio,Out,Salvatore Russo,32,Italy,LB,Other,US Salernitana,Other,2003
+Ancona Calcio,Out,Alessio D'Imporzano,20,Italy,Midfielder,Other,ASD Castel di Sangro,Other,2003
+Ancona Calcio,Out,Pasquale Luiso,34,Italy,CF,Other,US Catanzaro,Other,2003
+Ancona Calcio,Out,Giuseppe Vives,22,Italy,DM,Other,SSC Giugliano,Other,2003
+Ancona Calcio,Out,Andrea Sussi,29,Italy,LB,Other,Bologna FC 1909,Other,2003
+Ancona Calcio,Out,Emiliano Tarana,24,Italy,RW,Other,Piacenza FC,Other,2003
+Ancona Calcio,Out,Paolo Poggi,32,Italy,CF,Other,AC Venezia 1907,Other,2003
+Ancona Calcio,Out,Marco Roccati,28,Italy,GK,Other,ACF Fiorentina,Other,2003
+Ancona Calcio,Out,Oscar Magoni,35,Italy,DM,Other,US Triestina,Other,2003
+Ancona Calcio,Out,Eusebio Di Francesco,34,Italy,CM,Other,AC Perugia,Other,2003
+Ancona Calcio,Out,Alessio Scarpi,30,Italy,GK,Other,Genoa CFC,Other,2003
+Ancona Calcio,Out,Roberto Maltagliati,34,Italy,CB,Other,Cagliari Calcio,Other,2003
+Ancona Calcio,Out,Francesco Montervino,25,Italy,CM,Other,SSC Napoli,Other,2003
+Ancona Calcio,Out,Mattia Graffiedi,23,Italy,CF,Other,ACF Fiorentina,Other,2003
+Ancona Calcio,Out,Marko Perovic,31,Serbia,AM,Other,SSC Napoli,Other,2003
+Ancona Calcio,Out,Giacomo Dicara,33,Italy,CB,Other,Pescara Calcio,Other,2003
+Ancona Calcio,Out,Fábio Bilica,24,Brazil,CB,Other,Goiás EC,Other,2003
+Ancona Calcio,Out,Pietro Parente,32,Italy,Midfielder,Other,AC Venezia 1907,Other,2003
+Ancona Calcio,Out,Francesco Mignogna,19,Italy,LW,Other,Taranto FC 1927,Other,2003
+Ancona Calcio,Out,Davide Carrus,24,Italy,DM,Other,ACF Fiorentina,Other,2003
+Ancona Calcio,Out,Massimiliano Scaglia,26,Italy,LB,Other,ACF Fiorentina,Other,2003
+Ancona Calcio,Out,Stefano Mundula,27,Italy,Midfielder,Other,AC Cesena,Other,2003
+Ancona Calcio,Out,Tiziano De Patre,34,Italy,LM,Other,Giulianova Calcio,Other,2003
+Ancona Calcio,Out,Raffaele Costantino,27,Italy,Striker,Other,Retired,Other,2003

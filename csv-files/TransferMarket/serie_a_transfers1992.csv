@@ -1,0 +1,400 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+AC Fiorentina,In,Brian Laudrup,23,Denmark,RW,Other,Bayern Munich,5000000,1992
+AC Fiorentina,In,Francesco Baiano,24,Italy,SS,Other,Foggia Calcio,5000000,1992
+AC Fiorentina,In,Stefan Effenberg,23,Germany,CM,Other,Bayern Munich,3750000,1992
+AC Fiorentina,In,Fabrizio Di Mauro,27,Italy,DM,Other,AS Roma,3500000,1992
+AC Fiorentina,In,Gianluca Luppi,25,Italy,CB,Other,Juventus FC,2840000,1992
+AC Fiorentina,In,Diego Latorre,22,"Argentina, Italy",SS,Other,CA Boca Juniors,1800000,1992
+AC Fiorentina,In,Andrea Vascotto,20,Italy,Midfielder,Other,Barletta Calcio Sport,Other,1992
+AC Fiorentina,In,Lorenzo D'Anna,20,Italy,CB,Other,Como Calcio,Other,1992
+AC Fiorentina,In,Daniele Carnasciali,25,Italy,RB,Other,Brescia Calcio,Other,1992
+AC Fiorentina,In,Francesco Flachi,17,Italy,CF,Other,Fiorentina Youth,Other,1992
+AC Fiorentina,Out,Diego Latorre,23,"Argentina, Italy",SS,Other,CD Tenerife,1000000,1992
+AC Fiorentina,Out,Vincenzo Matrone,20,Italy,Defender,Other,Barletta Calcio Sport,Other,1992
+AC Fiorentina,Out,Pietro Maiellaro,28,Italy,Midfielder,Other,AC Venezia 1907,Other,1992
+AC Fiorentina,Out,Emiliano Biliotti,17,Italy,AM,Other,AC Siena,Other,1992
+AC Fiorentina,Out,Ramon Aiana,19,Italy,Striker,Other,Unknown,Other,1992
+AC Fiorentina,Out,Dunga,28,"Brazil, Italy",DM,Other,Pescara Calcio,Other,1992
+AC Fiorentina,Out,Stefano Salvatori,24,Italy,DM,Other,SP Ars et Labor,Other,1992
+AC Fiorentina,Out,Stefano Carobbi,28,Italy,RB,Other,US Lecce,Other,1992
+AC Fiorentina,Out,Massimiliano Fiondella,23,Italy,Defender,Other,SP Ars et Labor,Other,1992
+AC Fiorentina,Out,Stefano Borgonovo,28,Italy,CF,Other,Pescara Calcio,Other,1992
+AC Fiorentina,Out,Mazinho,26,Brazil,DM,Other,Sociedade Esportiva Palmeiras,Other,1992
+AC Fiorentina,Out,Marco Branca,27,Italy,CF,Other,Udinese Calcio,Other,1992
+AC Fiorentina,Out,Rufo Emiliano Verga,22,Italy,CB,Other,AC Venezia 1907,Other,1992
+SSC Napoli,In,Daniel Fonseca,22,"Uruguay, Italy",CF,Other,Cagliari Calcio,7750000,1992
+SSC Napoli,In,Roberto Policano,28,Italy,LB,Other,Torino Calcio,3500000,1992
+SSC Napoli,In,Jonas Thern,25,Sweden,CM,Other,SL Benfica,2400000,1992
+SSC Napoli,In,Fausto Pari,29,Italy,DM,Other,UC Sampdoria,Other,1992
+SSC Napoli,In,Sebastiano Nela,31,Italy,LB,Other,AS Roma,Other,1992
+SSC Napoli,In,Giorgio Bresciani,23,Italy,CF,Other,Cagliari Calcio,Other,1992
+SSC Napoli,In,Paolo Ziliani,21,Italy,SW,Other,Brescia Calcio,Other,1992
+SSC Napoli,In,Carlo Cornacchia,27,Italy,RB,Other,Atalanta BC,Other,1992
+SSC Napoli,In,Luca Altomare,20,Italy,CM,Other,AC Reggiana,Other,1992
+SSC Napoli,In,Fabrizio Carli,17,Italy,Striker,Other,AS Roma,Other,1992
+SSC Napoli,In,Fabio Cannavaro,18,Italy,CB,Other,Napoli Primavera,Other,1992
+SSC Napoli,Out,Diego Maradona,31,Argentina,AM,Other,Sevilla FC,5700000,1992
+SSC Napoli,Out,Fernando De Napoli,28,Italy,CM,Other,AC Milan,3350000,1992
+SSC Napoli,Out,Michele Padovano,25,Italy,CF,Other,Genoa 1893,Other,1992
+SSC Napoli,Out,Laurent Blanc,26,France,CB,Other,Nîmes Olympique,Other,1992
+SSC Napoli,Out,Claudio Bonomi,19,Italy,LM,Other,ASD Castel di Sangro,Other,1992
+SSC Napoli,Out,Vittorio Pusceddu,28,Italy,LB,Other,Cagliari Calcio,Other,1992
+SSC Napoli,Out,Gianfranco Germoni,19,Italy,Defender,Other,Barletta Calcio Sport,Other,1992
+SSC Napoli,Out,Andrea Silenzi,26,Italy,CF,Other,Torino Calcio,Other,1992
+SSC Napoli,Out,Paolo Ziliani,21,Italy,SW,Other,Brescia Calcio,Other,1992
+SSC Napoli,Out,Ernesto Gallo,19,Italy,Midfielder,Other,Retired,Other,1992
+SSC Napoli,Out,Marco Ferrante,21,"Italy, Australia",CF,Other,AC Parma,Other,1992
+SSC Napoli,Out,Domenico Cecere,19,Italy,GK,Other,US Palermo,Other,1992
+SSC Napoli,Out,Stefano De Agostini,27,Italy,DM,Other,Atalanta BC,Other,1992
+SSC Napoli,Out,Alemão,30,Brazil,DM,Other,Atalanta BC,Other,1992
+SSC Napoli,Out,Massimo Filardi,25,Italy,LB,Other,Unknown,Other,1992
+Pescara Calcio,In,Roger Mendy,32,Senegal,SW,Other,AS Monaco,930000,1992
+Pescara Calcio,In,Ottavio Palladini,20,Italy,CM,Other,US Sambenedettese,0,1992
+Pescara Calcio,In,Giuseppe Compagno,24,Italy,RW,Other,AS Cosenza Calcio,Other,1992
+Pescara Calcio,In,Roberto Gnoli,21,Italy,GK,Other,SS Lanciano,Other,1992
+Pescara Calcio,In,John Sivebaek,30,Denmark,RB,Other,AS Monaco,Other,1992
+Pescara Calcio,In,Blaz Sliskovic,33,"Bosnia-Herzegovina, Croatia",CM,Other,Stade Rennais FC,Other,1992
+Pescara Calcio,In,Dunga,28,"Brazil, Italy",DM,Other,AC Fiorentina,Other,1992
+Pescara Calcio,In,Vittorio Pinciarelli,20,Italy,Midfielder,Other,Giulianova Calcio,Other,1992
+Pescara Calcio,In,Vincenzo Aureli,19,Italy,Striker,Other,Fucense Trasacco,Other,1992
+Pescara Calcio,In,Mauro Zironelli,22,Italy,Midfielder,Other,Vicenza Calcio,Other,1992
+Pescara Calcio,In,Stefano Borgonovo,28,Italy,CF,Other,AC Fiorentina,Other,1992
+Pescara Calcio,Out,Massimo Nunziato,18,Italy,Midfielder,Other,ASD Ovidiana Sulmona Calcio,Other,1992
+Pescara Calcio,Out,Andrea Camplone,25,Italy,Defender,Other,AC Perugia,Other,1992
+Pescara Calcio,Out,Alberto Torresin,32,Italy,GK,Other,AS Fidelis Andria,Other,1992
+Pescara Calcio,Out,Nicolino Rosati,29,Italy,Midfielder,Other,US Sambenedettese,Other,1992
+Pescara Calcio,Out,Orazio Sorbello,32,Italy,RW,Other,ASD Acireale Calcio,Other,1992
+Pescara Calcio,Out,Stefano Impallomeni,24,Italy,Midfielder,Other,US Casertana,Other,1992
+Pescara Calcio,Out,Fabrizio Fioretti,26,Italy,DM,Other,Piacenza FC,Other,1992
+Pescara Calcio,Out,Rocco Pagano,28,Italy,RM,Other,AC Perugia,Other,1992
+Pescara Calcio,Out,Paolo Monelli,29,Italy,CF,Other,Vicenza Calcio,Other,1992
+Pescara Calcio,Out,Michele Gelsi,23,Italy,CM,Other,AC Perugia,Other,1992
+Pescara Calcio,Out,Fausto Chiacchiaretta,19,Italy,Defender,Other,Retired,Other,1992
+Pescara Calcio,Out,Augusto Mantini,19,Italy,Midfielder,Other,Retired,Other,1992
+Cagliari Calcio,In,Luis Oliveira,23,"Belgium, Brazil",CF,Other,RSC Anderlecht,3000000,1992
+Cagliari Calcio,In,Vittorio Pusceddu,28,Italy,LB,Other,SSC Napoli,Other,1992
+Cagliari Calcio,In,Giorgio Bresciani,23,Italy,CF,Other,Torino Calcio,Other,1992
+Cagliari Calcio,In,Giuseppe Pancaro,20,Italy,RB,Other,Avezzano Calcio,Other,1992
+Cagliari Calcio,In,Francesco Bellucci,19,Italy,CB,Other,AS Bari,Other,1992
+Cagliari Calcio,In,Marco Sanna,22,Italy,CM,Other,US Tempio,Other,1992
+Cagliari Calcio,In,Guido Nanni,24,Italy,GK,Other,AS Ischia Isolaverde,Other,1992
+Cagliari Calcio,In,Francesco Moriero,23,Italy,RW,Other,US Lecce,Other,1992
+Cagliari Calcio,In,Marcelo Tejera,18,"Uruguay, Italy",CM,Other,Defensor Sporting Club,Other,1992
+Cagliari Calcio,Out,Daniel Fonseca,22,"Uruguay, Italy",CF,Other,SSC Napoli,7750000,1992
+Cagliari Calcio,Out,James Walter Wilson,20,Italy,DM,Other,Avezzano Calcio,Other,1992
+Cagliari Calcio,Out,Giorgio Bresciani,23,Italy,CF,Other,SSC Napoli,Other,1992
+Cagliari Calcio,Out,Andrea Pistella,26,Italy,CF,Other,AS Lucchese Libertas,Other,1992
+Cagliari Calcio,Out,Pierluigi Corellas,20,Italy,Striker,Other,Centese Calcio 1913,Other,1992
+Cagliari Calcio,Out,Emilio Budruni,22,Italy,Striker,Other,AS Ischia Isolaverde,Other,1992
+Cagliari Calcio,Out,Alfonso Greco,23,Italy,CM,Other,Calcio Catania,Other,1992
+Cagliari Calcio,Out,Flavio Chiti,22,Italy,RB,Other,AC Venezia 1907,Other,1992
+Cagliari Calcio,Out,Stefano Mobili,23,Italy,AM,Other,Modena FC,Other,1992
+Cagliari Calcio,Out,Mauro Nardini,28,Italy,RW,Other,AS Fidelis Andria,Other,1992
+Cagliari Calcio,Out,Luigi Pili,20,Italy,Midfielder,Other,Unknown,Other,1992
+Ancona Calcio,In,Nicola Caccia,22,Italy,CF,Other,Modena FC,0,1992
+Ancona Calcio,In,Massimo Agostini,28,Italy,CF,Other,AC Parma,Other,1992
+Ancona Calcio,In,Lajos Détári,29,Hungary,AM,Other,Bologna FC 1909,Other,1992
+Ancona Calcio,In,Paolo Cangini,24,Italy,Midfielder,Other,Rimini FC,Other,1992
+Ancona Calcio,In,Oscar Ruggeri,30,"Argentina, Italy",CB,Other,CA Vélez Sarsfield,Other,1992
+Ancona Calcio,In,Luca Bertarelli,18,Italy,Striker,Other,FC Riccione Vacanze,Other,1992
+Ancona Calcio,In,Felice Centofanti,23,Italy,LB,Other,US Palermo,Other,1992
+Ancona Calcio,In,Milos Glonek,24,Slovakia,CB,Other,Slovan Bratislava,Other,1992
+Ancona Calcio,Out,Gianluca De Angelis,24,Italy,Midfielder,Other,Barletta Calcio Sport,Other,1992
+Ancona Calcio,Out,Aureliano Modesti,18,Italy,Midfielder,Other,Fano Calcio,Other,1992
+Ancona Calcio,Out,Sandro Tovalieri,27,Italy,CF,Other,AS Bari,Other,1992
+Ancona Calcio,Out,Mauro Bertarelli,21,Italy,Striker,Other,UC Sampdoria,Other,1992
+Ancona Calcio,Out,Eupremio Carruezzo,22,Italy,CF,Other,Calcio Monza,Other,1992
+Ancona Calcio,Out,Paolo Siroti,22,Italy,Defender,Other,US Alessandria Calcio,Other,1992
+Ancona Calcio,Out,Giovanni Deogratias,32,Italy,CB,Other,AC Riunite Messina,Other,1992
+UC Sampdoria,In,Des Walker,26,"England, Jamaica",CB,Other,Nottingham Forest,1700000,1992
+UC Sampdoria,In,Stefano Sacchetti,19,Italy,CB,Other,Modena FC,1000000,1992
+UC Sampdoria,In,Enrico Chiesa,21,Italy,CF,Other,SS Chieti Calcio,0,1992
+UC Sampdoria,In,Eugenio Corini,21,Italy,DM,Other,Juventus FC,Other,1992
+UC Sampdoria,In,Michele Serena,22,Italy,LB,Other,Verona FC,Other,1992
+UC Sampdoria,In,Vladimir Jugovic,22,"Serbia, Austria",CM,Other,Red Star Belgrade,Other,1992
+UC Sampdoria,In,Mauro Bertarelli,21,Italy,Striker,Other,Ancona Calcio,Other,1992
+UC Sampdoria,In,Nicola Zanini,18,Italy,AM,Other,Juventus FC,Other,1992
+UC Sampdoria,In,Roberto Bucchioni,19,Italy,Defender,Other,Sampdoria Primavera,Other,1992
+UC Sampdoria,Out,Gianluca Vialli,27,Italy,CF,Other,Juventus FC,16500000,1992
+UC Sampdoria,Out,Toninho Cerezo,37,Brazil,DM,Other,São Paulo Futebol Clube,Other,1992
+UC Sampdoria,Out,Silas,26,Brazil,CM,Other,Sport Club Internacional,Other,1992
+UC Sampdoria,Out,Fausto Pari,29,Italy,DM,Other,SSC Napoli,Other,1992
+UC Sampdoria,Out,Dario Bonetti,30,Italy,CB,Other,SP Ars et Labor,Other,1992
+UC Sampdoria,Out,Alessandro Orlando,22,Italy,LB,Other,Udinese Calcio,Other,1992
+UC Sampdoria,Out,Giorgio Zanutta,18,Italy,Defender,Other,SP Ars et Labor,Other,1992
+UC Sampdoria,Out,Sergio Porcù,20,Italy,GK,Other,Retired,Other,1992
+Atalanta BC,In,Leonardo Rodríguez,25,Argentina,AM,Other,Olympique Marseille,4800000,1992
+Atalanta BC,In,Maurizio Ganz,23,Italy,CF,Other,Brescia Calcio,3000000,1992
+Atalanta BC,In,Iván Valenciano,20,Colombia,CF,Other,Junior FC,20000,1992
+Atalanta BC,In,Paolo Montero,20,"Uruguay, Spain",CB,Other,CA Peñarol,Other,1992
+Atalanta BC,In,Roberto Rambaudi,26,Italy,RW,Other,Foggia Calcio,Other,1992
+Atalanta BC,In,Maurizio Codispoti,28,Italy,LB,Other,Foggia Calcio,Other,1992
+Atalanta BC,In,Oscar Magoni,24,Italy,DM,Other,Società Calcio Leffe,Other,1992
+Atalanta BC,In,Davide Pinato,28,Italy,GK,Other,Piacenza FC,Other,1992
+Atalanta BC,In,Stefano De Agostini,27,Italy,DM,Other,SSC Napoli,Other,1992
+Atalanta BC,In,Alemão,30,Brazil,DM,Other,SSC Napoli,Other,1992
+Atalanta BC,In,Claudio Mascheretti,22,Italy,Defender,Other,AC Palazzolo,Other,1992
+Atalanta BC,In,Simone Pavan,18,Italy,CB,Other,Atalanta Primavera,Other,1992
+Atalanta BC,In,Alessio Tacchinardi,17,Italy,DM,Other,Atalanta Primavera,Other,1992
+Atalanta BC,Out,Claudio Caniggia,25,Argentina,RW,Other,AS Roma,6750000,1992
+Atalanta BC,Out,Eligio Nicolini,31,Italy,RW,Other,US Cremonese,Other,1992
+Atalanta BC,Out,Careca Bianchesi,27,Brazil,CF,Other,CF Monterrey,Other,1992
+Atalanta BC,Out,Pierluigi Orlandini,19,Italy,RM,Other,US Lecce,Other,1992
+Atalanta BC,Out,Tiziano Ramon,21,Italy,GK,Other,Casarano Calcio,Other,1992
+Atalanta BC,Out,Lamberto Piovanelli,28,Italy,CF,Other,Verona FC,Other,1992
+Atalanta BC,Out,Carlo Cornacchia,27,Italy,RB,Other,SSC Napoli,Other,1992
+Atalanta BC,Out,Riccardo Bracaloni,22,Italy,CM,Other,Chievo Verona,Other,1992
+Atalanta BC,Out,Stefano Sottili,22,Italy,CB,Other,Bologna FC 1909,Other,1992
+Atalanta BC,Out,Astutillo Malgioglio,34,Italy,GK,Other,Retired,Other,1992
+Atalanta BC,Out,Pier Angelo Brianza,18,Italy,GK,Other,Retired,Other,1992
+Atalanta BC,Out,Glenn Strömberg,32,Sweden,CM,Other,Retired,Other,1992
+Foggia Calcio,In,Bryan Roy,22,"Netherlands, Suriname",LW,Other,Ajax Amsterdam,1140000,1992
+Foggia Calcio,In,Luigi Di Biagio,21,Italy,DM,Other,Calcio Monza,0,1992
+Foggia Calcio,In,Gianluca Grassadonia,20,Italy,CB,Other,US Salernitana,0,1992
+Foggia Calcio,In,Mauro Bacchin,22,Italy,GK,Other,Barletta Calcio Sport,Other,1992
+Foggia Calcio,In,Oberdan Biagioni,22,Italy,AM,Other,AS Cosenza Calcio,Other,1992
+Foggia Calcio,In,Donatello Gasparini,20,Italy,CB,Other,AC Pro Sesto,Other,1992
+Foggia Calcio,In,Paolo Mandelli,24,Italy,LW,Other,Calcio Monza,Other,1992
+Foggia Calcio,In,Pasquale De Vincenzo,24,Italy,CM,Other,Reggina Calcio,Other,1992
+Foggia Calcio,In,Pierpaolo Bresciani,21,Italy,RW,Other,US Palermo,Other,1992
+Foggia Calcio,In,Giuseppe Fornaciari,24,Italy,CB,Other,Barletta Calcio Sport,Other,1992
+Foggia Calcio,In,Andrea Seno,26,Italy,CM,Other,Como Calcio,Other,1992
+Foggia Calcio,In,Giovanni Pisano,23,Italy,CF,Other,Leonzio Calcio,Other,1992
+Foggia Calcio,In,Hernán Medford,24,Costa Rica,CF,Other,AD Rayo Vallecano,Other,1992
+Foggia Calcio,In,Giuseppe Di Bari,22,Italy,CB,Other,AS Bisceglie 1913,Other,1992
+Foggia Calcio,In,Giordano Caini,23,Italy,LB,Other,Calcio Catania,Other,1992
+Foggia Calcio,In,Pier Luigi Nicoli,26,"Italy, Switzerland",RB,Other,Calcio Catania,Other,1992
+Foggia Calcio,In,Nicoló Sciacca,23,Italy,CM,Other,Trapani Calcio,Other,1992
+Foggia Calcio,In,David Bianchini,20,Italy,CB,Other,AS Lodigiani Calcio 1972,Other,1992
+Foggia Calcio,Out,Igor Shalimov,23,Russia,AM,Other,Inter Milan,6750000,1992
+Foggia Calcio,Out,Francesco Baiano,24,Italy,SS,Other,AC Fiorentina,5000000,1992
+Foggia Calcio,Out,Giuseppe Signori,24,Italy,CF,Other,SS Lazio,4000000,1992
+Foggia Calcio,Out,Alessandro Porro,25,Italy,CM,Other,Bologna FC 1909,Other,1992
+Foggia Calcio,Out,Roberto Rambaudi,26,Italy,RW,Other,Atalanta BC,Other,1992
+Foggia Calcio,Out,Maurizio Codispoti,28,Italy,LB,Other,Atalanta BC,Other,1992
+Foggia Calcio,Out,Salvatore Matrecano,21,Italy,CB,Other,AC Parma,Other,1992
+Foggia Calcio,Out,Mauro Picasso,26,Italy,DM,Other,AC Reggiana,Other,1992
+Foggia Calcio,Out,Pasquale Padalino,20,Italy,CB,Other,Bologna FC 1909,Other,1992
+Foggia Calcio,Out,Gianluca Musumeci,22,Italy,Midfielder,Other,AS Fidelis Andria,Other,1992
+Foggia Calcio,Out,Giovanni Pisano,24,Italy,CF,Other,US Salernitana,Other,1992
+Foggia Calcio,Out,Giuseppe Lopolito,19,Italy,Midfielder,Other,US Salernitana,Other,1992
+Foggia Calcio,Out,Onofrio Barone,27,Italy,CM,Other,AS Bari,Other,1992
+Foggia Calcio,Out,Matteo Sventurato,15,Italy,Striker,Other,Retired,Other,1992
+Foggia Calcio,Out,Mauro Rosin,27,Italy,GK,Other,PC Ternana,Other,1992
+Foggia Calcio,Out,Angelo Consagra,28,Italy,CB,Other,AS Bari,Other,1992
+Foggia Calcio,Out,Tommaso Napoli,24,Italy,CB,Other,AS Cosenza Calcio,Other,1992
+Foggia Calcio,Out,Mauro Biolghini,19,Italy,GK,Other,Retired,Other,1992
+Juventus FC,In,Gianluca Vialli,27,Italy,CF,Other,UC Sampdoria,16500000,1992
+Juventus FC,In,David Platt,26,England,AM,Other,AS Bari,9750000,1992
+Juventus FC,In,Fabrizio Ravanelli,23,Italy,CF,Other,AC Reggiana,1500000,1992
+Juventus FC,In,Moreno Torricelli,22,Italy,RB,Other,US Folgore Caratese,25000,1992
+Juventus FC,In,Andreas Möller,24,Germany,AM,Other,Eintracht Frankfurt,0,1992
+Juventus FC,In,Daniel Terrera,18,Italy,Defender,Other,ACD Sammargheritese,Other,1992
+Juventus FC,In,Luigi Sartor,17,Italy,RB,Other,Juventus Primavera,Other,1992
+Juventus FC,In,Massimiliano Giacobbo,17,Italy,CM,Other,Juventus Primavera,Other,1992
+Juventus FC,In,Lorenzo Squizzi,18,Italy,GK,Other,Juventus Primavera,Other,1992
+Juventus FC,In,Michelangelo Rampulla,30,Italy,GK,Other,US Cremonese,Other,1992
+Juventus FC,Out,Salvatore Schillaci,27,Italy,CF,Other,Inter Milan,4400000,1992
+Juventus FC,Out,Gianluca Luppi,25,Italy,CB,Other,AC Fiorentina,2840000,1992
+Juventus FC,Out,Stefan Reuter,25,Germany,RM,Other,Borussia Dortmund,2100000,1992
+Juventus FC,Out,Luigi De Agostini,31,Italy,LB,Other,Inter Milan,1030000,1992
+Juventus FC,Out,Roberto Ricca,19,Italy,Defender,Other,US Pro Vercelli,Other,1992
+Juventus FC,Out,Eugenio Corini,21,Italy,DM,Other,UC Sampdoria,Other,1992
+Juventus FC,Out,Rubens Pasino,20,Italy,AM,Other,Calcio Lecco 1912,Other,1992
+Juventus FC,Out,Angelo Alessio,27,Italy,RW,Other,AS Bari,Other,1992
+Juventus FC,Out,Gianni Alberto,15,Italy,Midfielder,Other,Retired,Other,1992
+Juventus FC,Out,Nicola Zanini,18,Italy,AM,Other,UC Sampdoria,Other,1992
+Juventus FC,Out,Stefano Tacconi,35,Italy,GK,Other,Genoa 1893,Other,1992
+AC Milan,In,Jean-Pierre Papin,28,France,CF,Other,Olympique Marseille,12000000,1992
+AC Milan,In,Gianluigi Lentini,23,Italy,RW,Other,Torino Calcio,9550000,1992
+AC Milan,In,Stefano Eranio,25,Italy,RM,Other,Genoa 1893,4650000,1992
+AC Milan,In,Dejan Savicevic,25,"Montenegro, Serbia",AM,Other,Red Star Belgrade,4600000,1992
+AC Milan,In,Fernando De Napoli,28,Italy,CM,Other,SSC Napoli,3350000,1992
+AC Milan,In,Davide Dionigi,18,Italy,CF,Other,Modena FC,775000,1992
+AC Milan,In,Martino Traversa,18,Italy,RB,Other,Bologna FC 1909,Other,1992
+AC Milan,In,Guido Bistazzoni,32,Italy,GK,Other,Taranto FC 1927,Other,1992
+AC Milan,In,Rufo Emiliano Verga,23,Italy,CB,Other,AC Venezia 1907,Other,1992
+AC Milan,In,Giuseppe Zappella,19,Italy,RB,Other,Milan Primavera,Other,1992
+AC Milan,In,Costantino Borneo,19,Italy,CF,Other,Milan Primavera,Other,1992
+AC Milan,In,Carlo Cudicini,18,Italy,GK,Other,Milan Primavera,Other,1992
+AC Milan,In,Giuseppe Cardone,18,Italy,RB,Other,Milan Primavera,Other,1992
+AC Milan,Out,Diego Fuser,23,Italy,RM,Other,SS Lazio,2000000,1992
+AC Milan,Out,Giovanni Cornacchini,26,Italy,CF,Other,AC Perugia,1500000,1992
+AC Milan,Out,Davide Corti,19,Italy,RB,Other,FC Empoli,Other,1992
+AC Milan,Out,Costantino Borneo,20,Italy,CF,Other,Olbia Calcio,Other,1992
+AC Milan,Out,Roberto Bandirali,20,Italy,CB,Other,Como Calcio,Other,1992
+AC Milan,Out,Carlo Ancelotti,33,Italy,CM,Other,Retired,Other,1992
+Torino Calcio,In,Marcelo Saralegui,21,Uruguay,AM,Other,Club Nacional,3800000,1992
+Torino Calcio,In,Andrea Silenzi,26,Italy,CF,Other,SSC Napoli,Other,1992
+Torino Calcio,In,Maurizio Ferrarese,25,Italy,LB,Other,Vicenza Calcio,Other,1992
+Torino Calcio,In,Mohammed Gargo,17,Ghana,CB,Other,Real Tamale United,Other,1992
+Torino Calcio,In,Antonio Aloisi,23,Italy,CB,Other,Ascoli Calcio 1898,Other,1992
+Torino Calcio,In,Raffaele Sergio,25,Italy,LB,Other,SS Lazio,Other,1992
+Torino Calcio,In,Carlos Aguilera,27,Uruguay,CF,Other,Genoa 1893,Other,1992
+Torino Calcio,In,Domenico Doardo,17,Italy,GK,Other,Vicenza Calcio,Other,1992
+Torino Calcio,In,Daniele Fortunato,29,Italy,DM,Other,AS Bari,Other,1992
+Torino Calcio,Out,Gianluigi Lentini,23,Italy,RW,Other,AC Milan,9550000,1992
+Torino Calcio,Out,Roberto Cravero,28,Italy,SW,Other,SS Lazio,3870000,1992
+Torino Calcio,Out,Roberto Policano,28,Italy,LB,Other,SSC Napoli,3500000,1992
+Torino Calcio,Out,Rafa Martín Vázquez,26,Spain,AM,Other,Olympique Marseille,2160000,1992
+Torino Calcio,Out,Luca Pastine,21,Italy,GK,Other,US Casertana,Other,1992
+Torino Calcio,Out,Carmelo Puglisi,20,Italy,Midfielder,Other,AC Riunite Messina,Other,1992
+Torino Calcio,Out,Ivanoe Lanzara,19,Italy,LB,Other,Società Calcio Leffe,Other,1992
+Torino Calcio,Out,Maurizio Ferrarese,25,Italy,LB,Other,Vicenza Calcio,Other,1992
+Torino Calcio,Out,Marco Bertelli,20,Italy,Striker,Other,US Massese 1919,Other,1992
+Torino Calcio,Out,Giorgio Bresciani,23,Italy,CF,Other,Cagliari Calcio,Other,1992
+Torino Calcio,Out,Marco Sinigaglia,24,Italy,Midfielder,Other,Calcio Monza,Other,1992
+Torino Calcio,Out,Massimiliano Ferina,20,Italy,Defender,Other,FC Pavia 1911,Other,1992
+Torino Calcio,Out,Massimiliano Manni,20,Italy,LB,Other,Avezzano Calcio,Other,1992
+Udinese Calcio,In,Marek Koźmiński,21,Poland,LB,Other,Hutnik Krakow,0,1992
+Udinese Calcio,In,Jonathan Bachini,17,Italy,LM,Other,Alessandria Youth,Other,1992
+Udinese Calcio,In,Paolo Di Sarno,24,Italy,GK,Other,SS Lazio,Other,1992
+Udinese Calcio,In,Alessandro Orlando,22,Italy,LB,Other,UC Sampdoria,Other,1992
+Udinese Calcio,In,Piotr Czachowski,25,Poland,CB,Other,Zaglebie Lubin,Other,1992
+Udinese Calcio,In,Emiliano Bernardini,18,Italy,Defender,Other,AS Roma,Other,1992
+Udinese Calcio,In,Alessandro Testaferrata,18,Italy,GK,Other,Bozzano,Other,1992
+Udinese Calcio,In,Stefano Pellegrini,24,Italy,RB,Other,AS Roma,Other,1992
+Udinese Calcio,In,Stefano Desideri,27,Italy,RM,Other,Inter Milan,Other,1992
+Udinese Calcio,In,Marco Branca,27,Italy,CF,Other,AC Fiorentina,Other,1992
+Udinese Calcio,Out,Manuel Marcuz,20,Italy,RB,Other,Calcio Catania,Other,1992
+Udinese Calcio,Out,Massimo Susic,25,Italy,CB,Other,AC Pisa 1909,Other,1992
+Udinese Calcio,Out,Stefano Rossini,21,Italy,LB,Other,Inter Milan,Other,1992
+Udinese Calcio,Out,Piotr Czachowski,26,Poland,CB,Other,Legia Warszawa,Other,1992
+Udinese Calcio,Out,Antonino Gazzè,17,Italy,Defender,Other,Parma Primavera,Other,1992
+Udinese Calcio,Out,Antonio Manicone,25,Italy,DM,Other,Inter Milan,Other,1992
+Udinese Calcio,Out,Marco Nappi,26,Italy,SS,Other,SP Ars et Labor,Other,1992
+Udinese Calcio,Out,Rodolfo Vanoli,29,Italy,Midfielder,Other,SP Ars et Labor,Other,1992
+Udinese Calcio,Out,Massimiliano Buzzinelli,19,Italy,Midfielder,Other,Avezzano Calcio,Other,1992
+Udinese Calcio,Out,Emidio Oddi,,Italy,RB,Other,Retired,Other,1992
+Udinese Calcio,Out,Simone Cadamuro,19,Italy,Striker,Other,Formia Calcio,Other,1992
+SS Lazio,In,Paul Gascoigne,25,England,AM,Other,Tottenham Hotspur,7400000,1992
+SS Lazio,In,Giuseppe Signori,24,Italy,CF,Other,Foggia Calcio,4000000,1992
+SS Lazio,In,Roberto Cravero,28,Italy,SW,Other,Torino Calcio,3870000,1992
+SS Lazio,In,Giuseppe Favalli,20,Italy,LB,Other,US Cremonese,2580000,1992
+SS Lazio,In,Dario Marcolin,20,Italy,DM,Other,US Cremonese,2580000,1992
+SS Lazio,In,Diego Fuser,23,Italy,RM,Other,AC Milan,2000000,1992
+SS Lazio,In,Aron Winter,25,"Netherlands, Suriname",CM,Other,Ajax Amsterdam,1300000,1992
+SS Lazio,In,Paolo Di Sarno,24,Italy,GK,Other,PC Ternana,Other,1992
+SS Lazio,In,Mauro Bonomi,19,Italy,CB,Other,US Cremonese,Other,1992
+SS Lazio,In,Djair,,Brazil,CM,Other,FC St. Gallen 1879,Other,1992
+SS Lazio,In,Giacomo Galli,20,Italy,Striker,Other,US Palermo,Other,1992
+SS Lazio,In,Luca Luzardi,22,Italy,CB,Other,Brescia Calcio,Other,1992
+SS Lazio,Out,Rubén Sosa,26,Uruguay,CF,Other,Inter Milan,6000000,1992
+SS Lazio,Out,Paolo Di Sarno,24,Italy,GK,Other,Udinese Calcio,Other,1992
+SS Lazio,Out,Berardino Capocchiano,26,Italy,CF,Other,AS Bari,Other,1992
+SS Lazio,Out,Gabriele Pin,30,Italy,CM,Other,AC Parma,Other,1992
+SS Lazio,Out,Stefano Melchiori,26,Italy,Midfielder,Other,US Lecce,Other,1992
+SS Lazio,Out,Raffaele Sergio,25,Italy,LB,Other,Torino Calcio,Other,1992
+SS Lazio,Out,Alessandro Manetti,20,Italy,Midfielder,Other,ASD Acireale Calcio,Other,1992
+SS Lazio,Out,Giacomo Galli,21,Italy,Striker,Other,Formia Calcio,Other,1992
+SS Lazio,Out,Roberto Soldà,33,Italy,Midfielder,Other,Calcio Monza,Other,1992
+SS Lazio,Out,Claudio Vertova,32,Italy,Defender,Other,Calcio Lecco 1912,Other,1992
+Genoa 1893,In,Michele Padovano,25,Italy,CF,Other,SSC Napoli,Other,1992
+Genoa 1893,In,John van 't Schip,28,"Netherlands, Canada",RW,Other,Ajax Amsterdam,Other,1992
+Genoa 1893,In,Gianpaolo Spagnulo,27,Italy,GK,Other,AC Pisa 1909,Other,1992
+Genoa 1893,In,Fabio Rossi,21,Italy,Defender,Other,US Massese 1919,Other,1992
+Genoa 1893,In,Roberto Arco,18,Italy,RW,Other,Unknown,Other,1992
+Genoa 1893,In,Andrea Fortunato,20,Italy,LB,Other,AC Pisa 1909,Other,1992
+Genoa 1893,In,Stefano Tacconi,35,Italy,GK,Other,Juventus FC,Other,1992
+Genoa 1893,In,Christian Panucci,19,Italy,RB,Other,Genoa U19,Other,1992
+Genoa 1893,In,Davide Nicola,19,Italy,RB,Other,Genoa U19,Other,1992
+Genoa 1893,In,Luca Cavallo,19,Italy,RM,Other,Genoa U19,Other,1992
+Genoa 1893,Out,Stefano Eranio,25,Italy,RM,Other,AC Milan,4650000,1992
+Genoa 1893,Out,Massimiliano Corrado,20,Italy,RB,Other,AC Reggiana,Other,1992
+Genoa 1893,Out,Igor Dobrovolskiy,25,"Russia, Moldova",AM,Other,Olympique Marseille,Other,1992
+Genoa 1893,Out,Paolo Ponzo,20,Italy,DM,Other,Aquila Montevarchi 1902,Other,1992
+Genoa 1893,Out,Simone Braglia,29,Italy,GK,Other,AC Perugia,Other,1992
+Genoa 1893,Out,Fabio Visca,22,Italy,Midfielder,Other,AS Casale,Other,1992
+Genoa 1893,Out,Marco Pacione,28,Italy,LW,Other,AC Reggiana,Other,1992
+Genoa 1893,Out,Carlos Aguilera,27,Uruguay,CF,Other,Torino Calcio,Other,1992
+Genoa 1893,Out,Andrea Bianchi,23,Italy,Midfielder,Other,AS Lucchese Libertas,Other,1992
+Genoa 1893,Out,Manuel Ghizzardi,19,Italy,GK,Other,Carrarese Calcio 1908,Other,1992
+AC Parma,In,Faustino Asprilla,22,Colombia,CF,Other,Atlético Nacional,1900000,1992
+AC Parma,In,Fausto Pizzi,24,Italy,AM,Other,Inter Milan,Other,1992
+AC Parma,In,Gianluca Hervatin,18,Italy,Striker,Other,US Tempio,Other,1992
+AC Parma,In,Antonio Sconziano,20,Italy,RB,Other,1913 Seregno Calcio,Other,1992
+AC Parma,In,Salvatore Matrecano,21,Italy,CB,Other,Foggia Calcio,Other,1992
+AC Parma,In,Gabriele Pin,30,Italy,CM,Other,SS Lazio,Other,1992
+AC Parma,In,Gianluca Franchini,19,Italy,DM,Other,US Avellino,Other,1992
+AC Parma,In,Marco Ferrari,25,Italy,GK,Other,US Avellino,Other,1992
+AC Parma,In,Giovanni Sorce,22,Italy,Striker,Other,AS Lucchese Libertas,Other,1992
+AC Parma,In,Marco Ferrante,21,"Italy, Australia",CF,Other,SSC Napoli,Other,1992
+AC Parma,Out,Antonio Sconziano,20,Italy,RB,Other,US Avellino,Other,1992
+AC Parma,Out,Giovanni Bia,23,Italy,CB,Other,AS Cosenza Calcio,Other,1992
+AC Parma,Out,Massimo Agostini,28,Italy,CF,Other,Ancona Calcio,Other,1992
+AC Parma,Out,Tarcisio Catanese,24,Italy,Midfielder,Other,Bologna FC 1909,Other,1992
+AC Parma,Out,Aldo Monza,22,Italy,Midfielder,Other,AS Cosenza Calcio,Other,1992
+AC Parma,Out,Giovanni Sorce,23,Italy,Striker,Other,AC Riunite Messina,Other,1992
+AC Parma,Out,Mario Lemme,19,Italy,Midfielder,Other,Vicenza Calcio,Other,1992
+Inter Milan,In,Darko Pancev,26,North Macedonia,CF,Other,Red Star Belgrade,12000000,1992
+Inter Milan,In,Igor Shalimov,23,Russia,AM,Other,Foggia Calcio,6750000,1992
+Inter Milan,In,Matthias Sammer,24,Germany,SW,Other,VfB Stuttgart,6000000,1992
+Inter Milan,In,Rubén Sosa,26,Uruguay,CF,Other,SS Lazio,6000000,1992
+Inter Milan,In,Salvatore Schillaci,27,Italy,CF,Other,Juventus FC,4400000,1992
+Inter Milan,In,Luigi De Agostini,31,Italy,LB,Other,Juventus FC,1030000,1992
+Inter Milan,In,Giuseppe Marino,23,Italy,Midfielder,Other,Taranto FC 1927,Other,1992
+Inter Milan,In,Stefano Rossini,21,Italy,LB,Other,Udinese Calcio,Other,1992
+Inter Milan,In,Paolo Tramezzani,21,Italy,LB,Other,AS Lucchese Libertas,Other,1992
+Inter Milan,In,Stefano Vecchi,20,Italy,Midfielder,Other,AC Spezia,Other,1992
+Inter Milan,In,Antonio Manicone,25,Italy,DM,Other,Udinese Calcio,Other,1992
+Inter Milan,In,Mirko Taccola,22,Italy,CB,Other,AC Pisa 1909,Other,1992
+Inter Milan,In,Renzo Tasso,19,Italy,DM,Other,Inter Milan Primavera,Other,1992
+Inter Milan,In,Simone Veronese,17,Italy,RB,Other,Inter Milan Primavera,Other,1992
+Inter Milan,Out,Jürgen Klinsmann,27,"Germany, United States",CF,Other,AS Monaco,7000000,1992
+Inter Milan,Out,Matthias Sammer,25,Germany,SW,Other,Borussia Dortmund,4250000,1992
+Inter Milan,Out,Lothar Matthäus,31,Germany,DM,Other,Bayern Munich,2000000,1992
+Inter Milan,Out,Fausto Pizzi,24,Italy,AM,Other,AC Parma,Other,1992
+Inter Milan,Out,Marcello Montanari,27,Italy,SW,Other,AS Bari,Other,1992
+Inter Milan,Out,Andreas Brehme,31,Germany,LB,Other,Real Zaragoza,Other,1992
+Inter Milan,Out,Giuseppe Marino,23,Italy,Midfielder,Other,Taranto FC 1927,Other,1992
+Inter Milan,Out,Luca Mondini,22,Italy,GK,Other,Como Calcio,Other,1992
+Inter Milan,Out,Raffaele Nuzzo,19,Italy,GK,Other,US Pergocrema 1932,Other,1992
+Inter Milan,Out,Giuseppe Baresi,34,Italy,DM,Other,Modena FC,Other,1992
+Inter Milan,Out,Massimo Ciocci,24,Italy,CF,Other,SP Ars et Labor,Other,1992
+Inter Milan,Out,Marco Grossi,19,Italy,Midfielder,Other,Ascoli Calcio 1898,Other,1992
+Inter Milan,Out,Massimiliano Caniato,24,Italy,GK,Other,AC Venezia 1907,Other,1992
+Inter Milan,Out,Davide Belotti,20,Italy,CB,Other,SS Nola,Other,1992
+Inter Milan,Out,Stefano Desideri,27,Italy,RM,Other,Udinese Calcio,Other,1992
+Brescia Calcio,In,Florin Răducioiu,22,"Romania, Spain",CF,Other,Verona FC,4500000,1992
+Brescia Calcio,In,Gheorghe Hagi,27,"Romania, Türkiye",AM,Other,Real Madrid,2000000,1992
+Brescia Calcio,In,Ovidiu Sabău,24,Romania,CM,Other,Feyenoord Rotterdam,1590000,1992
+Brescia Calcio,In,Massimo Giannelli,22,Italy,AM,Other,CPR Ospitaletto,Other,1992
+Brescia Calcio,In,Nicola Marangon,21,Italy,RB,Other,CPR Ospitaletto,Other,1992
+Brescia Calcio,In,Massimo Paganin,21,Italy,CB,Other,AC Reggiana,Other,1992
+Brescia Calcio,In,Luca Brunetti,27,Italy,Defender,Other,Taranto FC 1927,Other,1992
+Brescia Calcio,In,Gabriele Pelati,18,Italy,Defender,Other,Unknown,Other,1992
+Brescia Calcio,In,Dorin Mateuț,27,Romania,AM,Other,Real Zaragoza,Other,1992
+Brescia Calcio,In,Paolo Ziliani,21,Italy,SW,Other,SSC Napoli,Other,1992
+Brescia Calcio,In,Marco Landucci,28,Italy,GK,Other,AS Lucchese Libertas,Other,1992
+Brescia Calcio,In,Paolo Negro,20,Italy,RB,Other,Bologna FC 1909,Other,1992
+Brescia Calcio,In,Fabio Gallo,21,Italy,DM,Other,AC Spezia,Other,1992
+Brescia Calcio,In,Marco Piovanelli,18,Italy,Midfielder,Other,Brescia Primavera,Other,1992
+Brescia Calcio,Out,Maurizio Ganz,23,Italy,CF,Other,Atalanta BC,3000000,1992
+Brescia Calcio,Out,Emanuele Filippini,18,Italy,CM,Other,CPR Ospitaletto,Other,1992
+Brescia Calcio,Out,Marco Merlo,24,Italy,Midfielder,Other,Taranto FC 1927,Other,1992
+Brescia Calcio,Out,Corrado Cortesi,25,Italy,Striker,Other,AC Palazzolo,Other,1992
+Brescia Calcio,Out,Riccardo Masia,19,Italy,Defender,Other,CPR Ospitaletto,Other,1992
+Brescia Calcio,Out,Paolo Bonfadini,20,Italy,Defender,Other,AC Spezia,Other,1992
+Brescia Calcio,Out,Filippo Citterio,36,Italy,LB,Other,1913 Seregno Calcio,Other,1992
+Brescia Calcio,Out,Francesco Passiatore,21,Italy,Striker,Other,Casarano Calcio,Other,1992
+Brescia Calcio,Out,Paolo Ziliani,21,Italy,SW,Other,SSC Napoli,Other,1992
+Brescia Calcio,Out,Luca Luzardi,22,Italy,CB,Other,SS Lazio,Other,1992
+Brescia Calcio,Out,Daniele Cerretti,18,Italy,GK,Other,CPR Ospitaletto,Other,1992
+Brescia Calcio,Out,Daniele Carnasciali,25,Italy,RB,Other,AC Fiorentina,Other,1992
+Brescia Calcio,Out,Stefano Preti,21,Italy,Midfielder,Other,AC Palazzolo,Other,1992
+Brescia Calcio,Out,Gianni Flamigni,23,Italy,Defender,Other,US Lecce,Other,1992
+AS Roma,In,Claudio Caniggia,25,Argentina,RW,Other,Atalanta BC,6750000,1992
+AS Roma,In,Siniša Mihajlović,23,"Serbia, Italy",CB,Other,Red Star Belgrade,4500000,1992
+AS Roma,In,Fabio Petruzzi,21,Italy,CB,Other,US Casertana,Other,1992
+AS Roma,In,Dario Rossi,19,Italy,Defender,Other,PC Ternana,Other,1992
+AS Roma,In,Francesco Totti,16,Italy,SS,Other,Roma U19,Other,1992
+AS Roma,Out,Fabrizio Di Mauro,27,Italy,DM,Other,AC Fiorentina,3500000,1992
+AS Roma,Out,Rudi Völler,32,Germany,CF,Other,Olympique Marseille,Other,1992
+AS Roma,Out,Sebastiano Nela,31,Italy,LB,Other,SSC Napoli,Other,1992
+AS Roma,Out,Gabriele Grossi,20,Italy,LB,Other,US Lecce,Other,1992
+AS Roma,Out,Emiliano Bernardini,18,Italy,Defender,Other,Udinese Calcio,Other,1992
+AS Roma,Out,Ferro Tontini,22,Italy,GK,Other,Calcio Catania,Other,1992
+AS Roma,Out,Stefano Pellegrini,24,Italy,RB,Other,Udinese Calcio,Other,1992
+AS Roma,Out,Alessio Scarchilli,19,Italy,AM,Other,US Lecce,Other,1992
+AS Roma,Out,Fabrizio Carli,17,Italy,Striker,Other,SSC Napoli,Other,1992
+AS Roma,Out,Andrea Orocini,20,Italy,Midfielder,Other,USC Baracca Lugo 1909,Other,1992

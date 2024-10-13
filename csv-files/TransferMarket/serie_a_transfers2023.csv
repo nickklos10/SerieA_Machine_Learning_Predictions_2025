@@ -1,0 +1,528 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+SSC Napoli,In,Jesper Lindstrøm,23,Denmark,AM,28000000,Eintracht Frankfurt,30000000,2023
+SSC Napoli,In,Giacomo Raspadori,23,Italy,SS,35000000,US Sassuolo,27000000,2023
+SSC Napoli,In,Cyril Ngonge,23,"Belgium, DR Congo",RW,6000000,Hellas Verona,18000000,2023
+SSC Napoli,In,Giovanni Simeone,27,"Argentina, Spain",CF,15000000,Hellas Verona,12000000,2023
+SSC Napoli,In,Jens Cajuste,24,"Sweden, United States",DM,6000000,Stade Reims,12000000,2023
+SSC Napoli,In,Natan,22,Brazil,CB,5500000,Red Bull Bragantino,10000000,2023
+SSC Napoli,In,Elia Caprile,21,Italy,GK,4000000,SSC Bari,7000000,2023
+SSC Napoli,In,Walid Cheddira,25,"Morocco, Italy",CF,7500000,SSC Bari,7000000,2023
+SSC Napoli,In,Pasquale Mazzocchi,28,Italy,RB,4000000,US Salernitana 1919,3000000,2023
+SSC Napoli,In,Nosa Edward Obaretin,20,"Italy, Nigeria",CB,25000,Napoli Primavera,Other,2023
+SSC Napoli,Out,Min-jae Kim,26,"Korea, South",CB,45000000,Bayern Munich,50000000,2023
+SSC Napoli,Out,Eljif Elmas,24,North Macedonia,AM,20000000,RB Leipzig,24000000,2023
+SSC Napoli,Out,Hirving Lozano,28,Mexico,LW,15000000,PSV Eindhoven,15000000,2023
+SSC Napoli,Out,Andrea Petagna,28,Italy,CF,3800000,AC Monza,10000000,2023
+SSC Napoli,Out,Sebastiano Luperto,26,Italy,CB,3500000,FC Empoli,2500000,2023
+SSC Napoli,Out,Davide Marfella,23,Italy,GK,50000,Casertana FC,0,2023
+SSC Napoli,Out,Karim Zedadka,23,"Algeria, France",LM,250000,Swift Hesperange,0,2023
+SSC Napoli,Out,Leonardo Candellone,25,Italy,CF,400000,SS Juve Stabia,0,2023
+SSC Napoli,Out,Davide Costanzo,21,Italy,CB,Other,Portici 1906,0,2023
+SSC Napoli,Out,Filippo Costa,28,Italy,LM,400000,LR Vicenza,0,2023
+SSC Napoli,Out,Valerio Labriola,22,Italy,CM,125000,Giugliano Calcio 1928,Other,2023
+SSC Napoli,Out,Daniel Hysaj,19,"Albania, Italy",CB,100000,Without Club,Other,2023
+SS Lazio,In,Taty Castellanos,24,Argentina,CF,15000000,New York City FC,15000000,2023
+SS Lazio,In,Gustav Isaksen,22,Denmark,RW,7500000,FC Midtjylland,12000000,2023
+SS Lazio,In,Matteo Cancellieri,21,Italy,RW,5000000,Hellas Verona,8500000,2023
+SS Lazio,In,Christos Mandas,21,Greece,GK,1000000,OFI Crete FC,1300000,2023
+SS Lazio,In,Diego González,20,Paraguay,RW,750000,Celaya FC,1100000,2023
+SS Lazio,In,Daichi Kamada,26,Japan,AM,27000000,Eintracht Frankfurt,0,2023
+SS Lazio,In,Valerio Crespi,18,Italy,CF,100000,Lazio U19,Other,2023
+SS Lazio,In,Saná Fernandes,17,"Portugal, Guinea-Bissau",LW,200000,Lazio U19,Other,2023
+SS Lazio,Out,Sergej Milinković-Savić,28,"Serbia, Spain",CM,30000000,Al-Hilal SFC,40000000,2023
+SS Lazio,Out,Francesco Acerbi,35,Italy,CB,3500000,Inter Milan,4000000,2023
+SS Lazio,Out,Gonzalo Escalante,30,"Argentina, Italy",CM,1500000,Cádiz CF,2500000,2023
+SS Lazio,Out,Emanuele Cicerelli,29,Italy,LW,275000,Catania FC,0,2023
+SS Lazio,Out,Nicolò Armini,22,Italy,CB,175000,Potenza Calcio,0,2023
+SS Lazio,Out,Luka Romero,18,"Argentina, Spain",RW,5000000,AC Milan,0,2023
+SS Lazio,Out,Jony,32,Spain,LW,200000,FC Cartagena,0,2023
+SS Lazio,Out,Riza Durmisi,29,"Denmark, Albania",LB,300000,Without Club,Other,2023
+SS Lazio,Out,Alessandro Rossi,27,Italy,CF,50000,Without Club,Other,2023
+SS Lazio,Out,Ștefan Radu,36,Romania,LB,Other,Retired,Other,2023
+Inter Milan,In,Benjamin Pavard,27,France,CB,40000000,Bayern Munich,30000000,2023
+Inter Milan,In,Kristjan Asllani,21,"Albania, Italy",DM,12000000,FC Empoli,10000000,2023
+Inter Milan,In,Tajon Buchanan,24,"Canada, Jamaica",RM,8000000,Club Brugge KV,7000000,2023
+Inter Milan,In,Yann Bisseck,22,"Germany, Cameroon",CB,5000000,Aarhus GF,7000000,2023
+Inter Milan,In,Yann Sommer,34,Switzerland,GK,5000000,Bayern Munich,6750000,2023
+Inter Milan,In,Francesco Acerbi,35,Italy,CB,4000000,SS Lazio,4000000,2023
+Inter Milan,In,Raffaele Di Gennaro,29,Italy,GK,350000,AS Gubbio 1910,0,2023
+Inter Milan,In,Alexis Sánchez,34,Chile,CF,4000000,Olympique Marseille,0,2023
+Inter Milan,In,Juan Cuadrado,35,"Colombia, Italy",RM,4000000,Juventus FC,0,2023
+Inter Milan,In,Marcus Thuram,25,"France, Guadeloupe",CF,32000000,Borussia Mönchengladbach,0,2023
+Inter Milan,In,Davy Klaassen,30,Netherlands,CM,10000000,Ajax Amsterdam,0,2023
+Inter Milan,In,Francesco Pio Esposito,18,Italy,CF,Other,Inter Milan Primavera,Other,2023
+Inter Milan,Out,André Onana,27,Cameroon,GK,35000000,Manchester United,50200000,2023
+Inter Milan,Out,Andrea Pinamonti,24,Italy,CF,15000000,US Sassuolo,20000000,2023
+Inter Milan,Out,Marcelo Brozovic,30,Croatia,DM,16000000,Al-Nassr FC,18000000,2023
+Inter Milan,Out,Robin Gosens,29,"Germany, Netherlands",LM,12000000,1.FC Union Berlin,13000000,2023
+Inter Milan,Out,Samuele Mulattieri,22,Italy,CF,4000000,US Sassuolo,6000000,2023
+Inter Milan,Out,Lorenzo Pirola,21,Italy,CB,5500000,US Salernitana 1919,5000000,2023
+Inter Milan,Out,Giovanni Fabbian,20,Italy,AM,14000000,Bologna FC 1909,5000000,2023
+Inter Milan,Out,Facundo Colidio,23,"Argentina, Italy",CF,5000000,CA River Plate,4500000,2023
+Inter Milan,Out,Valentino Lazaro,27,Austria,LM,3500000,Torino FC,3400000,2023
+Inter Milan,Out,Darian Males,22,"Switzerland, Serbia",RM,2500000,BSC Young Boys,2000000,2023
+Inter Milan,Out,Marco Pompetti,23,Italy,DM,650000,US Catanzaro,500000,2023
+Inter Milan,Out,Andi Hoti,20,"Kosovo, Albania",CB,700000,1.FC Magdeburg,220000,2023
+Inter Milan,Out,Gabriel Brazão,23,Brazil,GK,300000,Santos FC,0,2023
+Inter Milan,Out,Danilo D'Ambrosio,34,Italy,CB,1000000,AC Monza,0,2023
+Inter Milan,Out,Edin Dzeko,37,Bosnia-Herzegovina,CF,2700000,Fenerbahce,0,2023
+Inter Milan,Out,Roberto Gagliardini,29,Italy,CM,3000000,AC Monza,0,2023
+Inter Milan,Out,Lorenzo Peschetola,20,Italy,AM,175000,SS Monopoli 1966,0,2023
+Inter Milan,Out,Milan Skriniar,28,Slovakia,CB,30000000,Paris Saint-Germain,0,2023
+Inter Milan,Out,Dalbert,29,Brazil,LB,800000,Sport Club Internacional,0,2023
+Inter Milan,Out,Niccolò Squizzato,21,Italy,DM,200000,Delfino Pescara 1936,0,2023
+Inter Milan,Out,Tibo Persyn,21,Belgium,RB,350000,FC Eindhoven,Other,2023
+Inter Milan,Out,Franco Vezzoni,21,"Argentina, Italy",LM,250000,Calcio Foggia 1920,Other,2023
+Inter Milan,Out,Edoardo Sottini,20,Italy,CB,400000,AS Cittadella,Other,2023
+Inter Milan,Out,Alex Cordaz,40,Italy,GK,Other,Without Club,Other,2023
+Inter Milan,Out,Fabrizio Bagheria,22,Italy,GK,50000,Without Club,Other,2023
+Inter Milan,Out,Samir Handanovič,38,Slovenia,GK,Other,Retired,Other,2023
+Inter Milan,Out,Davide Zugaro,23,Italy,LB,50000,Without Club,Other,2023
+AC Milan,In,Samuel Chukwueze,24,Nigeria,RW,25000000,Villarreal CF,20000000,2023
+AC Milan,In,Yunus Musah,20,"United States, England",CM,18000000,Valencia CF,20000000,2023
+AC Milan,In,Christian Pulisic,24,"United States, Croatia",RW,25000000,Chelsea FC,20000000,2023
+AC Milan,In,Tijjani Reijnders,24,Netherlands,CM,14000000,AZ Alkmaar,19000000,2023
+AC Milan,In,Ruben Loftus-Cheek,27,"England, Guyana",CM,25000000,Chelsea FC,18500000,2023
+AC Milan,In,Noah Okafor,23,"Switzerland, Nigeria",LW,20000000,Red Bull Salzburg,14000000,2023
+AC Milan,In,Filippo Terracciano,20,Italy,RB,3500000,Hellas Verona,4500000,2023
+AC Milan,In,Marco Pellegrino,21,"Argentina, Italy",CB,400000,Club Atlético Platense,3500000,2023
+AC Milan,In,Marco Sportiello,31,Italy,GK,1500000,Atalanta BC,0,2023
+AC Milan,In,Luka Jović,25,"Serbia, Bosnia-Herzegovina",CF,8000000,ACF Fiorentina,0,2023
+AC Milan,In,Luka Romero,18,"Argentina, Spain",RW,3000000,SS Lazio,0,2023
+AC Milan,In,Chaka Traorè,18,Cote d'Ivoire,LW,500000,Milan Primavera,Other,2023
+AC Milan,In,Lapo Nava,19,Italy,GK,150000,Milan Primavera,Other,2023
+AC Milan,Out,Sandro Tonali,23,Italy,CM,38000000,Newcastle United,64000000,2023
+AC Milan,Out,Junior Messias,32,"Brazil, Italy",RW,2500000,Genoa CFC,1500000,2023
+AC Milan,Out,Marco Brescianini,23,Italy,CM,3500000,Frosinone Calcio,1200000,2023
+AC Milan,Out,Andreas Jungdal,21,Denmark,GK,1500000,US Cremonese,0,2023
+AC Milan,Out,Antonio Mionic,22,Croatia,CM,100000,SK Lisen,0,2023
+AC Milan,Out,Ante Rebić,29,Croatia,LW,2200000,Besiktas JK,0,2023
+AC Milan,Out,Gabriele Bellodi,22,Italy,CB,200000,Olbia Calcio 1905,0,2023
+AC Milan,Out,Ciprian Tătărușanu,37,Romania,GK,Other,Abha Club,0,2023
+AC Milan,Out,Zlatan Ibrahimović,41,"Sweden, Bosnia-Herzegovina",CF,Other,Retired,Other,2023
+Atalanta BC,In,El Bilal Touré,21,"Mali, Cote d'Ivoire",CF,12000000,UD Almería,29100000,2023
+Atalanta BC,In,Gianluca Scamacca,24,Italy,CF,22000000,West Ham United,25600000,2023
+Atalanta BC,In,Mitchel Bakker,23,Netherlands,LB,9000000,Bayer 04 Leverkusen,9500000,2023
+Atalanta BC,In,Isak Hien,24,"Sweden, Burkina Faso",CB,9000000,Hellas Verona,8500000,2023
+Atalanta BC,In,Michel Adopo,22,"France, Cote d'Ivoire",CM,500000,Torino FC,0,2023
+Atalanta BC,In,Sead Kolasinac,30,"Bosnia-Herzegovina, Germany",CB,8000000,Olympique Marseille,0,2023
+Atalanta BC,Out,Rasmus Højlund,20,Denmark,CF,65000000,Manchester United,73900000,2023
+Atalanta BC,Out,Jérémie Boga,26,"Cote d'Ivoire, France",LW,15000000,OGC Nice,17000000,2023
+Atalanta BC,Out,Merih Demiral,25,Türkiye,CB,16000000,Al-Ahli SFC,16600000,2023
+Atalanta BC,Out,Joakim Maehle,26,Denmark,RB,14000000,VfL Wolfsburg,12200000,2023
+Atalanta BC,Out,Matteo Pessina,26,Italy,CM,15000000,AC Monza,12000000,2023
+Atalanta BC,Out,Ruslan Malinovskyi,30,Ukraine,AM,8000000,Olympique Marseille,10000000,2023
+Atalanta BC,Out,Emmanuel Latte Lath,24,"Cote d'Ivoire, Italy",CF,6000000,Middlesbrough FC,5370000,2023
+Atalanta BC,Out,Sam Lammers,26,Netherlands,CF,5000000,Rangers FC,4100000,2023
+Atalanta BC,Out,Luis Muriel,32,Colombia,CF,2000000,Orlando City SC,1000000,2023
+Atalanta BC,Out,David Heidenreich,23,Czech Republic,CB,200000,FC Hradec Kralove,68000,2023
+Atalanta BC,Out,Marco Sportiello,31,Italy,GK,1500000,AC Milan,0,2023
+Atalanta BC,Out,Marco Carraro,25,Italy,CM,300000,SPAL,0,2023
+Atalanta BC,Out,Stefano Mazzini,24,Italy,GK,25000,Carrarese Calcio 1908,0,2023
+Atalanta BC,Out,Luca Vido,26,Italy,CF,500000,AC Reggiana 1919,Other,2023
+Atalanta BC,Out,Salvatore Elia,24,Italy,RW,800000,Spezia Calcio,Other,2023
+Atalanta BC,Out,Jonathan Italeng,21,Cameroon,CF,100000,Atalanta U23,Other,2023
+Atalanta BC,Out,Moustapha Cissé,19,Guinea,CF,800000,Atalanta U23,Other,2023
+Atalanta BC,Out,Christian Capone,24,Italy,SS,200000,Atalanta U23,Other,2023
+Atalanta BC,Out,Alessandro Cortinovis,22,Italy,AM,400000,Atalanta U23,Other,2023
+Atalanta BC,Out,Christian Mora,25,Italy,RB,50000,Atalanta U23,Other,2023
+Atalanta BC,Out,Alassane Sidibe,21,Cote d'Ivoire,CM,450000,Atalanta U23,Other,2023
+Atalanta BC,Out,Emmanuel Gyabuaa,21,"Italy, Ghana",CM,500000,Atalanta U23,Other,2023
+Atalanta BC,Out,Andrea Ceresoli,20,Italy,LB,500000,Atalanta U23,Other,2023
+Atalanta BC,Out,Daniele Solcia,22,Italy,CB,175000,Atalanta U23,Other,2023
+Atalanta BC,Out,Marco Varnier,25,Italy,CB,250000,Atalanta U23,Other,2023
+Atalanta BC,Out,Ludovico Gelmi,22,Italy,GK,175000,Atalanta U23,Other,2023
+Atalanta BC,Out,Lukas Vorlicky,21,Czech Republic,AM,200000,Atalanta U23,Other,2023
+Atalanta BC,Out,Khadim Ndiaye,23,Senegal,GK,50000,Without Club,Other,2023
+Atalanta BC,Out,Alessandro Mallamo,24,Italy,CM,350000,Atalanta U23,Other,2023
+Atalanta BC,Out,Davide Ghislandi,22,Italy,RM,175000,Atalanta U23,Other,2023
+Atalanta BC,Out,Simone Muratore,25,Italy,CM,Other,Retired,Other,2023
+AS Roma,In,Tommaso Baldanzi,20,Italy,AM,15000000,FC Empoli,10000000,2023
+AS Roma,In,Leandro Paredes,29,Argentina,DM,12000000,Paris Saint-Germain,2500000,2023
+AS Roma,In,Houssem Aouar,25,"Algeria, France",CM,13000000,Olympique Lyon,0,2023
+AS Roma,In,Evan Ndicka,23,"Cote d'Ivoire, France",CB,28000000,Eintracht Frankfurt,0,2023
+AS Roma,Out,Roger Ibañez,24,"Brazil, Italy",CB,20000000,Al-Ahli SFC,30000000,2023
+AS Roma,Out,Justin Kluivert,24,"Netherlands, Suriname",LW,14000000,AFC Bournemouth,10800000,2023
+AS Roma,Out,Matías Viña,26,"Uruguay, Italy",LB,10000000,CR Flamengo,8100000,2023
+AS Roma,Out,Cristian Volpato,19,"Italy, Australia",AM,4500000,US Sassuolo,7500000,2023
+AS Roma,Out,Benjamin Tahirovic,20,"Bosnia-Herzegovina, Sweden",DM,5000000,Ajax Amsterdam,7500000,2023
+AS Roma,Out,Carles Pérez,25,Spain,RW,2500000,Celta de Vigo,5200000,2023
+AS Roma,Out,Bryan Reynolds,22,United States,RB,3000000,KVC Westerlo,3500000,2023
+AS Roma,Out,Nemanja Matic,35,"Serbia, Slovakia",DM,3000000,Stade Rennais FC,2500000,2023
+AS Roma,Out,Filippo Missori,19,Italy,RB,1500000,US Sassuolo,2500000,2023
+AS Roma,Out,Gonzalo Villar,25,Spain,CM,3000000,Granada CF,1800000,2023
+AS Roma,Out,Ruben Providence,21,"France, Haiti",LW,500000,TSV Hartberg,500000,2023
+AS Roma,Out,William Bianda,23,"France, Cameroon",CB,200000,Without Club,Other,2023
+AS Roma,Out,Ante Coric,26,Croatia,AM,250000,Without Club,Other,2023
+Juventus FC,In,Manuel Locatelli,25,Italy,DM,30000000,US Sassuolo,36400000,2023
+Juventus FC,In,Moise Kean,23,"Italy, Cote d'Ivoire",CF,18000000,Everton FC,30000000,2023
+Juventus FC,In,Timothy Weah,23,"United States, France",RM,14000000,LOSC Lille,11000000,2023
+Juventus FC,In,Arkadiusz Milik,29,Poland,CF,8000000,Olympique Marseille,7300000,2023
+Juventus FC,In,Tiago Djaló,23,"Portugal, Guinea-Bissau",CB,15000000,LOSC Lille,5100000,2023
+Juventus FC,In,Facundo González,20,"Uruguay, Italy",CB,1000000,Valencia Mestalla,1750000,2023
+Juventus FC,In,Kenan Yıldız,18,"Türkiye, Germany",SS,1000000,Juventus Next Gen,Other,2023
+Juventus FC,In,Dean Huijsen,18,"Spain, Netherlands",CB,400000,Juventus Next Gen,Other,2023
+Juventus FC,In,Hans Nicolussi Caviglia,23,Italy,CM,2000000,Juventus Next Gen,Other,2023
+Juventus FC,Out,Dejan Kulusevski,23,"Sweden, North Macedonia",AM,55000000,Tottenham Hotspur,30000000,2023
+Juventus FC,Out,Denis Zakaria,26,"Switzerland, DR Congo",DM,25000000,AS Monaco,20000000,2023
+Juventus FC,Out,Radu Drăgușin,21,Romania,CB,25000000,Genoa CFC,9700000,2023
+Juventus FC,Out,Filippo Ranocchia,22,Italy,CM,4000000,Palermo FC,3880000,2023
+Juventus FC,Out,Marko Pjaca,28,Croatia,LW,2500000,HNK Rijeka,0,2023
+Juventus FC,Out,Mohamed Ihattaren,21,"Netherlands, Morocco",AM,100000,Samsunspor,0,2023
+Juventus FC,Out,Leonardo Bonucci,36,Italy,CB,Other,1.FC Union Berlin,0,2023
+Juventus FC,Out,Juan Cuadrado,35,"Colombia, Italy",RM,1000000,Inter Milan,0,2023
+Juventus FC,Out,Ángel Di María,35,"Argentina, Italy",RW,3000000,SL Benfica,0,2023
+ACF Fiorentina,In,Lucas Beltrán,22,"Argentina, Italy",CF,12000000,CA River Plate,12600000,2023
+ACF Fiorentina,In,M'Bala Nzola,26,"Angola, France",CF,8000000,Spezia Calcio,12600000,2023
+ACF Fiorentina,In,Fabiano Parisi,22,Italy,LB,10000000,FC Empoli,10000000,2023
+ACF Fiorentina,In,Oliver Christensen,24,Denmark,GK,4000000,Hertha BSC,3800000,2023
+ACF Fiorentina,In,Gino Infantino,20,"Argentina, Italy",CM,3000000,CA Rosario Central,2850000,2023
+ACF Fiorentina,In,Yerry Mina,28,Colombia,CB,10000000,Everton FC,0,2023
+ACF Fiorentina,In,Lorenzo Amatucci,19,Italy,DM,700000,Fiorentina Primavera,Other,2023
+ACF Fiorentina,In,Tommaso Vannucchi,16,Italy,GK,150000,Fiorentina Under 17,Other,2023
+ACF Fiorentina,In,Dimo Krastev,20,Bulgaria,CB,200000,Fiorentina Primavera,Other,2023
+ACF Fiorentina,In,Michael Kayode,18,"Italy, Nigeria",RB,800000,Fiorentina Primavera,Other,2023
+ACF Fiorentina,In,Lorenzo Lucchesi,20,Italy,CB,150000,Fiorentina Primavera,Other,2023
+ACF Fiorentina,In,Costantino Favasuli,19,Italy,LM,200000,Fiorentina Primavera,Other,2023
+ACF Fiorentina,In,Filippo Distefano,19,Italy,SS,600000,Fiorentina Primavera,Other,2023
+ACF Fiorentina,In,Tommaso Martinelli,17,Italy,GK,200000,Fiorentina Primavera,Other,2023
+ACF Fiorentina,In,Pietro Comuzzo,18,Italy,CB,150000,Fiorentina Primavera,Other,2023
+ACF Fiorentina,Out,Arthur Cabral,25,Brazil,CF,14000000,SL Benfica,20000000,2023
+ACF Fiorentina,Out,Igor,25,Brazil,CB,17000000,Brighton & Hove Albion,16150000,2023
+ACF Fiorentina,Out,Aleksa Terzic,23,Serbia,LB,3000000,Red Bull Salzburg,5400000,2023
+ACF Fiorentina,Out,Youssef Maleh,24,"Morocco, Italy",CM,4500000,US Lecce,5000000,2023
+ACF Fiorentina,Out,Szymon Żurkowski,25,Poland,CM,2500000,Spezia Calcio,3380000,2023
+ACF Fiorentina,Out,Jacob Rasmussen,26,Denmark,CB,3000000,Bröndby IF,3000000,2023
+ACF Fiorentina,Out,Samuele Spalluto,22,Italy,CF,200000,SS Monopoli 1966,250000,2023
+ACF Fiorentina,Out,Michele Cerofolini,24,Italy,GK,700000,Frosinone Calcio,0,2023
+ACF Fiorentina,Out,Gabriele Gori,24,Italy,CF,550000,US Avellino 1912,0,2023
+ACF Fiorentina,Out,Giovanni Corradini,20,Italy,DM,200000,Spezia Calcio,0,2023
+ACF Fiorentina,Out,Luka Jović,25,"Serbia, Bosnia-Herzegovina",CF,7000000,AC Milan,0,2023
+ACF Fiorentina,Out,Riccardo Saponara,31,Italy,AM,700000,Hellas Verona,0,2023
+ACF Fiorentina,Out,Lorenzo Venuti,28,Italy,RB,1200000,US Lecce,0,2023
+ACF Fiorentina,Out,Toni Fruk,22,Croatia,AM,5000000,HNK Rijeka,0,2023
+ACF Fiorentina,Out,Yerry Mina,29,Colombia,CB,3000000,Cagliari Calcio,0,2023
+ACF Fiorentina,Out,Marco Benassi,28,Italy,CM,900000,Without Club,Other,2023
+ACF Fiorentina,Out,Filippo Frison,20,Italy,CB,25000,Without Club,Other,2023
+ACF Fiorentina,Out,Salvatore Sirigu,36,Italy,GK,275000,Without Club,Other,2023
+Bologna FC 1909,In,Riccardo Calafiori,21,Italy,CB,4500000,FC Basel 1893,24500000,2023
+Bologna FC 1909,In,Santiago Castro,19,Argentina,CF,7000000,CA Vélez Sarsfield,12000000,2023
+Bologna FC 1909,In,Jesper Karlsson,25,Sweden,LW,18000000,AZ Alkmaar,11000000,2023
+Bologna FC 1909,In,Sam Beukema,24,Netherlands,CB,4500000,AZ Alkmaar,9000000,2023
+Bologna FC 1909,In,Dan Ndoye,22,"Switzerland, Senegal",RW,3500000,FC Basel 1893,9000000,2023
+Bologna FC 1909,In,Stefan Posch,26,Austria,RB,14000000,TSG 1899 Hoffenheim,5000000,2023
+Bologna FC 1909,In,Giovanni Fabbian,20,Italy,AM,6000000,Inter Milan,5000000,2023
+Bologna FC 1909,In,Mihajlo Ilic,20,Serbia,CB,3000000,FK Partizan Belgrade,4500000,2023
+Bologna FC 1909,In,Nikola Moro,25,Croatia,DM,6500000,Dynamo Moscow,2500000,2023
+Bologna FC 1909,In,Oussama El Azzouzi,22,"Morocco, Netherlands",DM,800000,Union Saint-Gilloise,2000000,2023
+Bologna FC 1909,In,Tommaso Corazza,19,Italy,LB,100000,Bologna Primavera,Other,2023
+Bologna FC 1909,Out,Jerdy Schouten,26,Netherlands,DM,28000000,PSV Eindhoven,15000000,2023
+Bologna FC 1909,Out,Nicolás Domínguez,25,"Argentina, Italy",CM,17000000,Nottingham Forest,10000000,2023
+Bologna FC 1909,Out,Musa Barrow,24,The Gambia,LW,8000000,Al-Taawoun FC,8500000,2023
+Bologna FC 1909,Out,Denso Kasius,20,Netherlands,RB,2000000,AZ Alkmaar,3000000,2023
+Bologna FC 1909,Out,Emanuel Vignato,23,"Italy, Brazil",RW,1100000,Pisa Sporting Club,500000,2023
+Bologna FC 1909,Out,Dion Ruffo Luci,22,Italy,CM,Other,Rimini FC,0,2023
+Bologna FC 1909,Out,Kingsley Michael,24,Nigeria,CM,150000,DSV Leoben,0,2023
+Bologna FC 1909,Out,Matias Rocchi,20,Italy,LW,75000,US Corticella,0,2023
+Bologna FC 1909,Out,Musa Juwara,21,The Gambia,RW,850000,Vejle Boldklub,0,2023
+Bologna FC 1909,Out,Gary Medel,35,"Chile, Spain",CB,400000,Clube de Regatas Vasco da Gama,0,2023
+Bologna FC 1909,Out,Francesco Bardi,31,Italy,GK,300000,AC Reggiana 1919,0,2023
+Bologna FC 1909,Out,Sebastian Breza,25,"Canada, Norway",GK,500000,CF Montréal,0,2023
+Bologna FC 1909,Out,Matteo Angeli,20,Italy,CB,500000,AS Cittadella,0,2023
+Bologna FC 1909,Out,Roberto Soriano,32,"Italy, Germany",AM,1000000,Without Club,Other,2023
+Bologna FC 1909,Out,Wisdom Amey,17,"Italy, Togo",CB,500000,Bologna Primavera,Other,2023
+Bologna FC 1909,Out,Nicola Sansone,31,"Italy, Germany",LW,1000000,Without Club,Other,2023
+Torino FC,In,Ivan Ilić,22,Serbia,CM,19000000,Hellas Verona,16500000,2023
+Torino FC,In,Nikola Vlašić,25,Croatia,AM,17000000,West Ham United,10600000,2023
+Torino FC,In,Raoul Bellanova,23,Italy,RB,5000000,Cagliari Calcio,7000000,2023
+Torino FC,In,Valentino Lazaro,27,Austria,LM,5000000,Inter Milan,3400000,2023
+Torino FC,In,Adrien Tamèze,29,"France, Cameroon",DM,6000000,Hellas Verona,2800000,2023
+Torino FC,In,Saba Sazonov,21,"Georgia, Russia",CB,3000000,Dynamo Moscow,2750000,2023
+Torino FC,In,Kevin Haveri,21,Albania,LB,300000,Rimini FC,300000,2023
+Torino FC,In,Mihai Popa,22,Romania,GK,1000000,FC Voluntari,0,2023
+Torino FC,In,Ange Caumenan N'Guessan,19,"France, Cote d'Ivoire",CB,200000,Torino Primavera,Other,2023
+Torino FC,In,Ali Dembélé,19,"France, Mali",RB,200000,Torino Primavera,Other,2023
+Torino FC,Out,Wilfried Singo,22,Cote d'Ivoire,CB,25000000,AS Monaco,9100000,2023
+Torino FC,Out,David Zima,23,Czech Republic,CB,4000000,SK Slavia Prague,4000000,2023
+Torino FC,Out,Armando Izzo,31,Italy,CB,2500000,AC Monza,3000000,2023
+Torino FC,Out,Magnus Warming,23,Denmark,LW,700000,SK Brann,650000,2023
+Torino FC,Out,Christian Celesia,21,Italy,LB,225000,Mantova 1911,0,2023
+Torino FC,Out,Michel Adopo,22,"France, Cote d'Ivoire",CM,1000000,Atalanta BC,0,2023
+Torino FC,Out,Samuele Vianni,22,Italy,CF,50000,Nuova Florida Calcio,0,2023
+Torino FC,Out,Etrit Berisha,34,"Albania, Sweden",GK,500000,FC Empoli,0,2023
+Torino FC,Out,Ola Aina,26,"Nigeria, England",RB,12000000,Nottingham Forest,0,2023
+Torino FC,Out,Matthew Garbett,21,"New Zealand, France",CM,450000,NAC Breda,Other,2023
+Torino FC,Out,Simone Verdi,31,Italy,AM,2500000,Como 1907,Other,2023
+Torino FC,Out,Matteo Fiorenza,20,Italy,GK,100000,Without Club,Other,2023
+AC Monza,In,Matteo Pessina,26,Italy,CM,15000000,Atalanta BC,12000000,2023
+AC Monza,In,Andrea Petagna,28,Italy,CF,10000000,SSC Napoli,10000000,2023
+AC Monza,In,Gianluca Caprari,29,Italy,SS,8000000,Hellas Verona,8000000,2023
+AC Monza,In,Pablo Marí,29,Spain,CB,5000000,Arsenal FC,6200000,2023
+AC Monza,In,Alessio Cragno,29,Italy,GK,3000000,Cagliari Calcio,3600000,2023
+AC Monza,In,Armando Izzo,31,Italy,CB,3000000,Torino FC,3000000,2023
+AC Monza,In,Milan Djuric,33,"Bosnia-Herzegovina, Italy",CF,1000000,Hellas Verona,2000000,2023
+AC Monza,In,Danilo D'Ambrosio,34,Italy,CB,1500000,Inter Milan,0,2023
+AC Monza,In,Roberto Gagliardini,29,Italy,CM,4000000,Inter Milan,0,2023
+AC Monza,In,Matija Popovic,18,Serbia,AM,2000000,FK Partizan Belgrade U19,0,2023
+AC Monza,In,Papu Gómez,35,"Argentina, Italy",LW,3000000,Without Club,Other,2023
+AC Monza,In,Giulio Donati,33,Italy,RB,500000,Without Club,Other,2023
+AC Monza,Out,Eugenio Lamanna,34,Italy,GK,100000,Calcio Lecco 1912,0,2023
+AC Monza,Out,Tommaso Morosini,31,Italy,CM,Other,USD Cisanese,0,2023
+AC Monza,Out,Christian Gytkjaer,33,Denmark,CF,700000,Venezia FC,0,2023
+AC Monza,Out,Andrea Barberis,29,Italy,DM,150000,Pisa Sporting Club,0,2023
+AC Monza,Out,Luca Marrone,33,Italy,CB,100000,Calcio Lecco 1912,0,2023
+AC Monza,Out,Luca Mazzitelli,27,Italy,CM,4000000,Frosinone Calcio,Other,2023
+AC Monza,Out,Mario Sampirisi,30,Italy,RB,600000,AC Reggiana 1919,Other,2023
+AC Monza,Out,Stefano Rubbi,20,Italy,GK,Other,Without Club,Other,2023
+AC Monza,Out,Giulio Donati,33,Italy,RB,300000,Without Club,Other,2023
+Udinese Calcio,In,Brenner,23,Brazil,CF,8000000,FC Cincinnati,10000000,2023
+Udinese Calcio,In,Christian Kabasele,32,"Belgium, DR Congo",CB,1000000,Watford FC,6500000,2023
+Udinese Calcio,In,Thomas Kristensen,21,Denmark,CB,700000,Aarhus GF,5000000,2023
+Udinese Calcio,In,Martín Payero,24,"Argentina, Italy",CM,3500000,Middlesbrough FC,3000000,2023
+Udinese Calcio,In,Keinan Davis,25,England,CF,3000000,Aston Villa,2300000,2023
+Udinese Calcio,In,Étienne Camara,20,"France, Guinea",DM,500000,Huddersfield Town,2000000,2023
+Udinese Calcio,In,Antonio Tikvic,19,"Croatia, Germany",CB,150000,FC Bayern Munich II,650000,2023
+Udinese Calcio,In,Jordan Zemura,23,"Zimbabwe, England",LB,6000000,AFC Bournemouth,0,2023
+Udinese Calcio,In,Lautaro Giannetti,30,"Argentina, Italy",CB,2800000,CA Vélez Sarsfield,0,2023
+Udinese Calcio,In,Oier Zarraga,24,Spain,CM,3000000,Athletic Bilbao,0,2023
+Udinese Calcio,In,Maduka Okoye,23,"Nigeria, Germany",GK,2000000,Watford FC,Other,2023
+Udinese Calcio,In,Domingos Quina,23,"Portugal, Guinea-Bissau",CM,1800000,Watford FC,Other,2023
+Udinese Calcio,In,Sekou Diawara,19,"Belgium, Guinea",CF,300000,Udinese Primavera,Other,2023
+Udinese Calcio,In,David Pejičić,16,Slovenia,AM,Other,Udinese Primavera,Other,2023
+Udinese Calcio,In,Roberto Pereyra,32,Argentina,CM,6000000,Without Club,Other,2023
+Udinese Calcio,Out,Beto,25,"Portugal, Guinea-Bissau",CF,20000000,Everton FC,25000000,2023
+Udinese Calcio,Out,Rodrigo Becão,27,Brazil,CB,8000000,Fenerbahce,8310000,2023
+Udinese Calcio,Out,Martin Palumbo,21,"Norway, Italy",CM,350000,Juventus Next Gen,780000,2023
+Udinese Calcio,Out,Simone Ianesi,21,Italy,LW,200000,US Città di Pontedera,0,2023
+Udinese Calcio,Out,Tolgay Arslan,32,"Germany, Türkiye",AM,1000000,Melbourne City FC,0,2023
+Udinese Calcio,Out,Mattia Damiani,20,Italy,DM,100000,SS Arezzo,0,2023
+Udinese Calcio,Out,Cristo,25,Spain,SS,6000000,FC Arouca,0,2023
+Udinese Calcio,Out,Ilija Nestorovski,33,North Macedonia,CF,300000,Ascoli Calcio,0,2023
+Udinese Calcio,Out,Étienne Camara,20,"France, Guinea",DM,2000000,R Charleroi SC,Other,2023
+Udinese Calcio,Out,Roberto Pereyra,32,Argentina,CM,1800000,Without Club,Other,2023
+Udinese Calcio,Out,Marvin Zeegelaar,32,"Netherlands, Suriname",LB,200000,Without Club,Other,2023
+US Sassuolo,In,Andrea Pinamonti,24,Italy,CF,15000000,Inter Milan,20000000,2023
+US Sassuolo,In,Cristian Volpato,19,"Italy, Australia",AM,3000000,AS Roma,7500000,2023
+US Sassuolo,In,Nedim Bajrami,24,"Albania, Switzerland",AM,7500000,FC Empoli,6000000,2023
+US Sassuolo,In,Josh Doig,21,Scotland,LB,7000000,Hellas Verona,6000000,2023
+US Sassuolo,In,Daniel Boloca,24,"Italy, Romania",DM,3500000,Frosinone Calcio,6000000,2023
+US Sassuolo,In,Samuele Mulattieri,22,Italy,CF,4500000,Inter Milan,6000000,2023
+US Sassuolo,In,Luca Lipani,18,Italy,DM,400000,Genoa CFC,3000000,2023
+US Sassuolo,In,Filippo Missori,19,Italy,RB,800000,AS Roma,2500000,2023
+US Sassuolo,In,Uroš Račić,25,Serbia,DM,6500000,Valencia CF,2200000,2023
+US Sassuolo,In,Kevin Miranda,20,Italy,CB,125000,Sassuolo Primavera,Other,2023
+US Sassuolo,In,Edoardo Pieragnolo,20,Italy,LB,100000,Sassuolo Primavera,Other,2023
+US Sassuolo,Out,Manuel Locatelli,25,Italy,DM,28000000,Juventus FC,36400000,2023
+US Sassuolo,Out,Giacomo Raspadori,23,Italy,SS,25000000,SSC Napoli,27000000,2023
+US Sassuolo,Out,Hamed Junior Traoré,23,Cote d'Ivoire,AM,17000000,AFC Bournemouth,25620000,2023
+US Sassuolo,Out,Rogério,25,"Brazil, Italy",LB,5000000,VfL Wolfsburg,5500000,2023
+US Sassuolo,Out,Mert Müldür,24,"Türkiye, Austria",RB,6000000,Fenerbahce,3000000,2023
+US Sassuolo,Out,Kaan Ayhan,28,"Türkiye, Germany",RB,4700000,Galatasaray,2800000,2023
+US Sassuolo,Out,Riccardo Marchizza,25,Italy,LB,2500000,Frosinone Calcio,1300000,2023
+US Sassuolo,Out,Abdou Harroui,25,"Morocco, Netherlands",CM,2700000,Frosinone Calcio,700000,2023
+US Sassuolo,Out,Brian Oddei,20,Ghana,RW,225000,NK Rudes,1000,2023
+US Sassuolo,Out,Michele Forchignone,20,Italy,LW,100000,Siracusa Calcio,0,2023
+US Sassuolo,Out,Alessandro Barbetta,20,Italy,CB,Other,Calcio Budoni,0,2023
+US Sassuolo,Out,Marco Sala,24,Italy,LB,1100000,Como 1907,0,2023
+US Sassuolo,Out,Matteo Campani,23,Italy,GK,25000,Pisa Sporting Club,0,2023
+US Sassuolo,Out,Samuele Vitale,20,Italy,GK,75000,SS Monopoli 1966,Other,2023
+US Sassuolo,Out,Matteo Pinelli,22,Italy,LW,50000,Without Club,Other,2023
+FC Empoli,In,Sebastian Walukiewicz,23,Poland,CB,3000000,Cagliari Calcio,4500000,2023
+FC Empoli,In,Sebastiano Luperto,26,Italy,CB,3000000,SSC Napoli,2500000,2023
+FC Empoli,In,Emmanuel Gyasi,29,"Ghana, Italy",LW,2000000,Spezia Calcio,2000000,2023
+FC Empoli,In,Francesco Caputo,35,Italy,CF,1500000,UC Sampdoria,1500000,2023
+FC Empoli,In,Saba Goglichidze,19,Georgia,CB,300000,Torpedo Kutaisi,450000,2023
+FC Empoli,In,M'Baye Niang,29,"Senegal, France",CF,2700000,Adana Demirspor,250000,2023
+FC Empoli,In,Samuele Angori,19,Italy,LB,200000,AC Perugia Calcio,200000,2023
+FC Empoli,In,Giuseppe Pezzella,25,Italy,LB,2500000,Parma Calcio 1913,0,2023
+FC Empoli,In,Alberto Grassi,28,Italy,DM,2000000,Parma Calcio 1913,0,2023
+FC Empoli,In,Etrit Berisha,34,"Albania, Sweden",GK,400000,Torino FC,0,2023
+FC Empoli,Out,Guglielmo Vicario,26,Italy,GK,35000000,Tottenham Hotspur,18500000,2023
+FC Empoli,Out,Fabiano Parisi,22,Italy,LB,9500000,ACF Fiorentina,10000000,2023
+FC Empoli,Out,Tommaso Baldanzi,20,Italy,AM,15000000,AS Roma,10000000,2023
+FC Empoli,Out,Kristjan Asllani,21,"Albania, Italy",DM,18000000,Inter Milan,10000000,2023
+FC Empoli,Out,Nedim Bajrami,24,"Albania, Switzerland",AM,4500000,US Sassuolo,6000000,2023
+FC Empoli,Out,Filippo Bandinelli,28,Italy,CM,1500000,Spezia Calcio,2500000,2023
+FC Empoli,Out,Leo Stulac,28,Slovenia,DM,1000000,Palermo FC,1000000,2023
+FC Empoli,Out,Andrea La Mantia,32,Italy,CF,450000,SPAL,1000000,2023
+FC Empoli,Out,Giuseppe Filì,20,Italy,CB,50000,United Riccione,0,2023
+FC Empoli,Out,Tommaso Fantacci,26,Italy,AM,75000,Monterosi Tuscia FC,0,2023
+FC Empoli,Out,Duccio Lazzeri,19,Italy,LB,Other,Polisportiva Firenze Ovest,0,2023
+FC Empoli,Out,Gabriel Meli,24,Italy,GK,100000,US Recanatese,0,2023
+FC Empoli,Out,Leonardo Pezzola,21,Italy,CB,75000,US Sambenedettese,0,2023
+FC Empoli,Out,Lorenzo Tropea,20,Italy,LB,10000,Cavese 1919,Other,2023
+FC Empoli,Out,Giovanni Crociata,26,Italy,CM,600000,Calcio Lecco 1912,Other,2023
+FC Empoli,Out,Alessio Rizza,20,Italy,LB,200000,AS Cittadella,Other,2023
+FC Empoli,Out,Samir Ujkani,34,"Kosovo, Albania",GK,Other,Without Club,Other,2023
+US Salernitana 1919,In,Boulaye Dia,26,"Senegal, France",CF,25000000,Villarreal CF,14400000,2023
+US Salernitana 1919,In,Lorenzo Pirola,21,Italy,CB,8000000,Inter Milan,5000000,2023
+US Salernitana 1919,In,Loum Tchaouna,19,"France, Chad",RW,1800000,Stade Rennais FC,3000000,2023
+US Salernitana 1919,In,Mateusz Legowski,20,Poland,DM,1800000,Pogon Szczecin,3000000,2023
+US Salernitana 1919,In,Chukwubuikem Ikwuemesi,22,Nigeria,CF,500000,NK Celje,1800000,2023
+US Salernitana 1919,In,Antonio Candreva,36,Italy,AM,1500000,UC Sampdoria,500000,2023
+US Salernitana 1919,In,Triantafyllos Pasalidis,27,Greece,CB,500000,OFI Crete FC,250000,2023
+US Salernitana 1919,In,Trivante Stewart,23,Jamaica,CF,Other,Mount Pleasant FA,100000,2023
+US Salernitana 1919,In,Benoît Costil,36,France,GK,1000000,LOSC Lille,0,2023
+US Salernitana 1919,In,Jérôme Boateng,35,Germany,CB,500000,Without Club,Other,2023
+US Salernitana 1919,In,Konstantinos Manolas,32,Greece,CB,2500000,Without Club,Other,2023
+US Salernitana 1919,In,Pasquale Allocca,18,Italy,GK,Other,Salernitana Primavera,Other,2023
+US Salernitana 1919,Out,Pasquale Mazzocchi,28,Italy,RB,3000000,SSC Napoli,3000000,2023
+US Salernitana 1919,Out,Luka Bogdan,27,Croatia,CB,400000,Ternana Calcio,600000,2023
+US Salernitana 1919,Out,Pawel Jaroszynski,28,Poland,LM,450000,Cracovia,450000,2023
+US Salernitana 1919,Out,Julian Kristoffersen,26,Norway,CF,75000,Ancona Calcio,60000,2023
+US Salernitana 1919,Out,Gioacchino Galeotafiore,23,Italy,CB,75000,Paganese Calcio 1926,0,2023
+US Salernitana 1919,Out,Erik Botheim,24,Norway,CF,3500000,Malmö FF,0,2023
+US Salernitana 1919,Out,Jacopo De Matteis,20,Italy,GK,Other,ACR Messina,Other,2023
+US Salernitana 1919,Out,Reda Boultam,25,"Netherlands, Morocco",AM,150000,NK Olimpija Ljubljana,Other,2023
+US Salernitana 1919,Out,Valerio Mantovani,27,Italy,CB,400000,Ternana Calcio,Other,2023
+US Salernitana 1919,Out,Francesco Orlando,26,Italy,RW,100000,Taranto FC 1927,Other,2023
+US Lecce,In,Youssef Maleh,24,"Morocco, Italy",CM,4500000,ACF Fiorentina,5000000,2023
+US Lecce,In,Wladimiro Falcone,28,Italy,GK,5000000,UC Sampdoria,4000000,2023
+US Lecce,In,Nikola Krstovic,23,"Montenegro, Serbia",CF,2200000,DAC Dunajska Streda,3900000,2023
+US Lecce,In,Mohamed Kaba,21,"France, Guinea",CM,3000000,Valenciennes FC,3000000,2023
+US Lecce,In,Marin Pongračić,25,"Croatia, Germany",CB,4000000,VfL Wolfsburg,1600000,2023
+US Lecce,In,Santiago Pierotti,22,"Argentina, Italy",RW,2500000,CA Colón,1200000,2023
+US Lecce,In,Ylber Ramadani,27,"Albania, Kosovo",DM,800000,Aberdeen FC,1200000,2023
+US Lecce,In,Rémi Oudin,26,France,AM,4000000,FC Girondins Bordeaux,1000000,2023
+US Lecce,In,Giacomo Faticanti,19,Italy,DM,800000,Roma U19,1000000,2023
+US Lecce,In,Hamza Rafia,24,"Tunisia, France",CM,600000,Delfino Pescara 1936,800000,2023
+US Lecce,In,Patrick Dorgu,18,"Denmark, Nigeria",LW,400000,FC Nordsjaelland U19,200000,2023
+US Lecce,In,Zinedin Smajlovic,19,"Sweden, Bosnia-Herzegovina",CB,Other,Täby FK,100000,2023
+US Lecce,In,Lorenzo Venuti,28,Italy,RB,2000000,ACF Fiorentina,0,2023
+US Lecce,In,Nicola Sansone,32,"Italy, Germany",LW,1500000,Without Club,Other,2023
+US Lecce,In,Jeppe Corfitzen,18,Denmark,RW,200000,Lecce Primavera,Other,2023
+US Lecce,In,Rareș Burnete,19,Romania,CF,700000,Lecce Primavera,Other,2023
+US Lecce,Out,Morten Hjulmand,24,Denmark,DM,40000000,Sporting CP,19500000,2023
+US Lecce,Out,Assan Ceesay,29,The Gambia,CF,2000000,Damac FC,2800000,2023
+US Lecce,Out,Federico Di Francesco,29,Italy,LW,1400000,Palermo FC,1300000,2023
+US Lecce,Out,Ilario Monterisi,21,Italy,CB,2800000,Frosinone Calcio,500000,2023
+US Lecce,Out,Tommaso Cassandro,23,Italy,RB,600000,Como 1907,500000,2023
+US Lecce,Out,John Björkengren,24,Sweden,CM,750000,Randers FC,300000,2023
+US Lecce,Out,Simone Romagnoli,33,Italy,CB,800000,Frosinone Calcio,100000,2023
+US Lecce,Out,Alessio Piazza,21,Italy,LW,200000,Santa Lucia FC,0,2023
+US Lecce,Out,Fabio Lucioni,35,Italy,CB,300000,Palermo FC,0,2023
+US Lecce,Out,Roberto Pierno,22,Italy,RB,150000,Delfino Pescara 1936,0,2023
+US Lecce,Out,Cristian Macrì,20,Italy,CM,Other,FC Francavilla 1931,0,2023
+US Lecce,Out,Alessandro Tuia,33,Italy,CB,250000,Without Club,Other,2023
+Hellas Verona,In,Ondrej Duda,28,Slovakia,CM,3400000,1.FC Köln,3100000,2023
+Hellas Verona,In,Tijjani Noslin,24,Netherlands,RW,900000,Fortuna Sittard,3000000,2023
+Hellas Verona,In,Yayah Kallon,22,Sierra Leone,RW,1500000,Genoa CFC,1800000,2023
+Hellas Verona,In,Dani Silva,23,Portugal,CM,2000000,Vitória Guimarães SC,1500000,2023
+Hellas Verona,In,Stefan Mitrović,21,"Serbia, Canada",LW,3000000,Red Star Belgrade,1300000,2023
+Hellas Verona,In,Jayden Braaf,20,"Netherlands, Suriname",LW,1000000,Borussia Dortmund II,1000000,2023
+Hellas Verona,In,Tomas Suslov,21,Slovakia,AM,2000000,FC Groningen,1000000,2023
+Hellas Verona,In,Reda Belahyane,19,"France, Morocco",DM,200000,OGC Nice,500000,2023
+Hellas Verona,In,Elayis Tavsan,22,"Netherlands, Türkiye",RW,1000000,NEC Nijmegen,500000,2023
+Hellas Verona,In,Juan Manuel Cruz,24,"Argentina, Italy",CF,450000,CA Banfield,0,2023
+Hellas Verona,In,Jordi Mboula,24,"Spain, Congo",RW,1200000,RCD Mallorca,0,2023
+Hellas Verona,In,Riccardo Saponara,31,Italy,AM,2000000,ACF Fiorentina,0,2023
+Hellas Verona,In,Joselito,19,Spain,DM,75000,Hellas Verona Primavera,Other,2023
+Hellas Verona,Out,Cyril Ngonge,23,"Belgium, DR Congo",RW,12000000,SSC Napoli,18000000,2023
+Hellas Verona,Out,Ivan Ilić,22,Serbia,CM,18000000,Torino FC,16500000,2023
+Hellas Verona,Out,Giovanni Simeone,27,"Argentina, Spain",CF,10000000,SSC Napoli,12000000,2023
+Hellas Verona,Out,Matteo Cancellieri,21,Italy,RW,4800000,SS Lazio,8500000,2023
+Hellas Verona,Out,Isak Hien,24,"Sweden, Burkina Faso",CB,20000000,Atalanta BC,8500000,2023
+Hellas Verona,Out,Gianluca Caprari,29,Italy,SS,4000000,AC Monza,8000000,2023
+Hellas Verona,Out,Josh Doig,21,Scotland,LB,6000000,US Sassuolo,6000000,2023
+Hellas Verona,Out,Filippo Terracciano,20,Italy,RB,4500000,AC Milan,4500000,2023
+Hellas Verona,Out,Ibrahim Sulemana,20,Ghana,DM,4000000,Cagliari Calcio,4000000,2023
+Hellas Verona,Out,Bruno Amione,22,"Argentina, Italy",CB,3000000,Santos Laguna,3000000,2023
+Hellas Verona,Out,Adrien Tamèze,29,"France, Cameroon",DM,5000000,Torino FC,2800000,2023
+Hellas Verona,Out,Martin Hongla,25,Cameroon,DM,2500000,Granada CF,2700000,2023
+Hellas Verona,Out,Milan Djuric,33,"Bosnia-Herzegovina, Italy",CF,1500000,AC Monza,2000000,2023
+Hellas Verona,Out,Ivor Pandur,23,Croatia,GK,2000000,Fortuna Sittard,1400000,2023
+Hellas Verona,Out,Adama Sane,23,Senegal,CF,Other,Gzira United FC,0,2023
+Hellas Verona,Out,Panagiotis Retsos,24,Greece,CB,3000000,Olympiacos Piraeus,0,2023
+Hellas Verona,Out,Miguel Veloso,37,Portugal,DM,Other,Pisa Sporting Club,0,2023
+Hellas Verona,Out,Jordi Mboula,24,"Spain, Congo",RW,1200000,Racing Santander,0,2023
+Hellas Verona,Out,Ajdin Hrustić,27,"Australia, Bosnia-Herzegovina",AM,600000,Heracles Almelo,0,2023
+Hellas Verona,Out,Riccardo Saponara,32,Italy,AM,700000,MKE Ankaragücü,Other,2023
+Frosinone Calcio,In,Riccardo Marchizza,25,Italy,LB,1000000,US Sassuolo,1300000,2023
+Frosinone Calcio,In,Marco Brescianini,23,Italy,CM,900000,AC Milan,1200000,2023
+Frosinone Calcio,In,Marvin Cuni,21,"Albania, Germany",CF,400000,FC Bayern Munich II,1000000,2023
+Frosinone Calcio,In,Abdou Harroui,25,"Morocco, Netherlands",CM,2700000,US Sassuolo,700000,2023
+Frosinone Calcio,In,Ilario Monterisi,21,Italy,CB,300000,US Lecce,500000,2023
+Frosinone Calcio,In,Farès Ghedjemis,21,"France, Algeria",RW,600000,FC Rouen 1899,300000,2023
+Frosinone Calcio,In,Gennaro Borrelli,23,Italy,CF,500000,Delfino Pescara 1936,300000,2023
+Frosinone Calcio,In,Simone Romagnoli,33,Italy,CB,750000,US Lecce,100000,2023
+Frosinone Calcio,In,Michele Cerofolini,24,Italy,GK,500000,ACF Fiorentina,0,2023
+Frosinone Calcio,In,Emanuele Valeri,25,Italy,LB,2300000,US Cremonese,0,2023
+Frosinone Calcio,In,Mehdi Bourabia,32,"Morocco, France",CM,1300000,Spezia Calcio,0,2023
+Frosinone Calcio,In,Luca Mazzitelli,27,Italy,CM,3000000,AC Monza,Other,2023
+Frosinone Calcio,In,Pierluigi Frattali,37,Italy,GK,150000,SSC Bari,Other,2023
+Frosinone Calcio,In,İsak Vural,17,"Türkiye, Sweden",AM,200000,Hammarby IF,Other,2023
+Frosinone Calcio,In,Mateus Lusuardi,19,Brazil,CB,50000,Criciúma EC U20,Other,2023
+Frosinone Calcio,In,Michele Avella,23,Italy,GK,250000,Without Club,Other,2023
+Frosinone Calcio,Out,Daniel Boloca,24,"Italy, Romania",DM,7000000,US Sassuolo,6000000,2023
+Frosinone Calcio,Out,Matteo Ricci,29,Italy,DM,1000000,UC Sampdoria,1250000,2023
+Frosinone Calcio,Out,Roberto Insigne,29,Italy,RW,1300000,Palermo FC,1000000,2023
+Frosinone Calcio,Out,Lukas Klitten,23,Denmark,LB,350000,Hobro IK,0,2023
+Frosinone Calcio,Out,Thomas Vettorel,22,"Italy, Switzerland",GK,200000,AS Gubbio 1910,0,2023
+Frosinone Calcio,Out,Marcus Rohdén,32,Sweden,CM,600000,Fatih Karagümrük,0,2023
+Frosinone Calcio,Out,Michele Volpe,25,Italy,CF,50000,US Alessandria Calcio 1912,0,2023
+Frosinone Calcio,Out,Federico Bevilacqua,21,Italy,CB,50000,Dolomiti Bellunesi,0,2023
+Frosinone Calcio,Out,Alexander Satariano,21,Malta,CF,250000,Birkirkara FC,0,2023
+Frosinone Calcio,Out,Matteo Cotali,26,Italy,LB,750000,Modena FC,0,2023
+Frosinone Calcio,Out,Mehdi Bourabia,32,"Morocco, France",CM,1000000,Kayserispor,Other,2023
+Frosinone Calcio,Out,Karlo Lulic,27,Croatia,CM,450000,SSC Bari,Other,2023
+Frosinone Calcio,Out,Marko Bozic,25,Austria,LM,500000,NK Maribor,Other,2023
+Frosinone Calcio,Out,Giuseppe Marcianò,23,Italy,GK,Other,Without Club,Other,2023
+Frosinone Calcio,Out,Simone Stampete,20,Italy,CF,50000,Without Club,Other,2023
+Frosinone Calcio,Out,Andrea Errico,24,Italy,CM,50000,Without Club,Other,2023
+Frosinone Calcio,Out,Luca Matarese,25,Italy,LW,Other,Without Club,Other,2023
+Frosinone Calcio,Out,Milan Kremenovic,21,"Serbia, Germany",CB,50000,Without Club,Other,2023
+Genoa CFC,In,Mateo Retegui,24,"Italy, Argentina",CF,16000000,Club Atlético Tigre,15250000,2023
+Genoa CFC,In,Radu Drăgușin,21,Romania,CB,8000000,Juventus FC,9700000,2023
+Genoa CFC,In,Ruslan Malinovskyi,30,Ukraine,AM,10000000,Olympique Marseille,7000000,2023
+Genoa CFC,In,Josep Martínez,25,Spain,GK,3500000,RB Leipzig,3500000,2023
+Genoa CFC,In,George Pușcaș,27,Romania,CF,2500000,Reading FC,2500000,2023
+Genoa CFC,In,Mattia Aramu,28,Italy,AM,2200000,Venezia FC,2500000,2023
+Genoa CFC,In,David Ankeye,21,Nigeria,CF,1000000,FC Sheriff Tiraspol,2500000,2023
+Genoa CFC,In,Junior Messias,32,"Brazil, Italy",RW,3000000,AC Milan,1500000,2023
+Genoa CFC,In,Daniele Sommariva,25,Italy,GK,100000,Delfino Pescara 1936,100000,2023
+Genoa CFC,In,Franz Stolz,22,Austria,GK,200000,SKN St. Pölten,250000,2023
+Genoa CFC,In,Nicola Leali,30,Italy,GK,900000,Ascoli Calcio,0,2023
+Genoa CFC,In,Kevin Strootman,33,Netherlands,CM,1300000,Olympique Marseille,0,2023
+Genoa CFC,In,Aarón Martín,26,Spain,LB,7000000,1.FSV Mainz 05,0,2023
+Genoa CFC,In,Simone Calvani,18,Italy,GK,50000,Genoa U19,Other,2023
+Genoa CFC,In,Brayan Boci,19,"Albania, Italy",LB,150000,Genoa U19,Other,2023
+Genoa CFC,Out,Radu Drăgușin,21,Romania,CB,25000000,Tottenham Hotspur,25000000,2023
+Genoa CFC,Out,Luca Lipani,18,Italy,DM,4000000,US Sassuolo,3000000,2023
+Genoa CFC,Out,Yayah Kallon,22,Sierra Leone,RW,1000000,Hellas Verona,1800000,2023
+Genoa CFC,Out,Adrian Semper,25,Croatia,GK,2500000,Como 1907,1460000,2023
+Genoa CFC,Out,Pablo Galdames,27,Chile,CM,1500000,Clube de Regatas Vasco da Gama,800000,2023
+Genoa CFC,Out,Giacomo Calò,26,Italy,DM,800000,Cosenza Calcio,1000,2023
+Genoa CFC,Out,Kacper Zielski,20,Poland,CM,Other,Raków Częstochowa II,0,2023
+Genoa CFC,Out,Vittorio Parigini,27,Italy,RW,300000,Feralpisalò,0,2023
+Genoa CFC,Out,Stefano Sturaro,30,Italy,CM,500000,Fatih Karagümrük,0,2023
+Genoa CFC,Out,Abdoulaye Touré,29,"Guinea, France",DM,3000000,Le Havre AC,0,2023
+Genoa CFC,Out,Nicholas Rizzo,23,"Italy, Brazil",CB,150000,US Triestina,0,2023
+Genoa CFC,Out,Rok Vodisek,24,Slovenia,GK,100000,NK Rogaska,0,2023
+Genoa CFC,Out,Davide Biraschi,29,Italy,CB,900000,Fatih Karagümrük,0,2023
+Genoa CFC,Out,Mattia Zennaro,22,Italy,CM,400000,Feralpisalò,0,2023
+Genoa CFC,Out,Gianluca Parodi,20,Italy,LB,100000,FC Lumezzane,0,2023
+Genoa CFC,Out,Michele Besaggio,21,Italy,CM,600000,Brescia Calcio,Other,2023
+Genoa CFC,Out,Giuseppe Agostino,20,Italy,GK,100000,US Triestina,Other,2023
+Genoa CFC,Out,Stefan Ilsanker,34,Austria,DM,Other,Career break,Other,2023
+Genoa CFC,Out,Domenico Criscito,36,Italy,LB,Other,Retired,Other,2023
+Cagliari Calcio,In,Mateusz Wieteska,26,Poland,CB,3000000,Clermont Foot 63,5000000,2023
+Cagliari Calcio,In,Matteo Prati,19,Italy,DM,1000000,SPAL,5000000,2023
+Cagliari Calcio,In,Ibrahim Sulemana,20,Ghana,DM,1500000,Hellas Verona,4000000,2023
+Cagliari Calcio,In,Alessandro Di Pardo,23,Italy,RB,600000,Juventus Next Gen,2000000,2023
+Cagliari Calcio,In,Simone Scuffet,27,Italy,GK,2000000,CFR Cluj,2000000,2023
+Cagliari Calcio,In,Pantelis Hatzidiakos,26,"Greece, Netherlands",CB,4000000,AZ Alkmaar,2000000,2023
+Cagliari Calcio,In,Tommaso Augello,28,Italy,LB,2000000,UC Sampdoria,2000000,2023
+Cagliari Calcio,In,Jakub Jankto,27,Czech Republic,LM,1000000,Getafe CF,860000,2023
+Cagliari Calcio,In,Christian Travaglini,23,Italy,LB,200000,Olbia Calcio 1905,100000,2023
+Cagliari Calcio,In,Yerry Mina,29,Colombia,CB,5000000,ACF Fiorentina,0,2023
+Cagliari Calcio,In,Davide Veroli,20,Italy,LB,200000,Cagliari Primavera,Other,2023
+Cagliari Calcio,Out,Raoul Bellanova,23,Italy,RB,15000000,Torino FC,7000000,2023
+Cagliari Calcio,Out,Sebastian Walukiewicz,23,Poland,CB,2500000,FC Empoli,4500000,2023
+Cagliari Calcio,Out,Alessio Cragno,29,Italy,GK,1500000,AC Monza,3600000,2023
+Cagliari Calcio,Out,Alberto Cerri,27,Italy,CF,1700000,Como 1907,1250000,2023
+Cagliari Calcio,Out,Nunzio Lella,23,Italy,CM,750000,Venezia FC,500000,2023
+Cagliari Calcio,Out,Edoardo Goldaniga,30,Italy,CB,1200000,Como 1907,380000,2023
+Cagliari Calcio,Out,Eldin Lolic,19,"Bosnia-Herzegovina, France",GK,Other,FK Tuzla City,0,2023
+Cagliari Calcio,Out,Elio Capradossi,27,"Uganda, Italy",CB,300000,Calcio Lecco 1912,0,2023
+Cagliari Calcio,Out,Vincenzo Millico,22,Italy,LW,600000,Ascoli Calcio,0,2023
+Cagliari Calcio,Out,Antonio Barreca,28,Italy,LB,500000,UC Sampdoria,Other,2023

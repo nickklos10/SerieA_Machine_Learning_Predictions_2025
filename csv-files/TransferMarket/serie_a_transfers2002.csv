@@ -1,0 +1,460 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+Piacenza FC,In,Marco Stella,21,Italy,RM,Other,Pescara Calcio,700000,2002
+Piacenza FC,In,Simone Paoletti,18,Italy,GK,Other,Cagliese Calcio,Other,2002
+Piacenza FC,In,Dario Marcolin,30,Italy,DM,Other,UC Sampdoria,Other,2002
+Piacenza FC,In,Johnnier Montaño,19,Colombia,AM,Other,AC Parma,Other,2002
+Piacenza FC,In,Luigi Riccio,24,Italy,CM,Other,Ternana Calcio,Other,2002
+Piacenza FC,In,Amedeo Mangone,33,Italy,CB,Other,Brescia Calcio,Other,2002
+Piacenza FC,In,Hugo Campagnaro,22,"Argentina, Italy",CB,Other,CD Morón,Other,2002
+Piacenza FC,In,Ibrahim Babatunde,17,"Nigeria, Italy",CF,Other,AC Arezzo,Other,2002
+Piacenza FC,In,Ciro De Cesare,31,Italy,SS,Other,Como Calcio,Other,2002
+Piacenza FC,In,Matteo Abbate,18,Italy,CB,Other,Piacenza Primavera,Other,2002
+Piacenza FC,In,Maurizio Franzone,33,Italy,GK,Other,Without Club,Other,2002
+Piacenza FC,Out,Sergio Volpi,28,Italy,CM,Other,UC Sampdoria,3500000,2002
+Piacenza FC,Out,Nicola Mora,22,Italy,LB,Other,AS Bari,1500000,2002
+Piacenza FC,Out,Amauri,22,"Italy, Brazil",CF,Other,FC Empoli,150000,2002
+Piacenza FC,Out,Carmine Gautieri,31,Italy,RW,Other,Atalanta BC,0,2002
+Piacenza FC,Out,Nicola Caccia,32,Italy,CF,Other,Como Calcio,0,2002
+Piacenza FC,Out,Johnnier Montaño,19,Colombia,AM,Other,AC Parma,Other,2002
+Piacenza FC,Out,Alessandro Lucarelli,24,Italy,CB,Other,US Palermo,Other,2002
+Piacenza FC,Out,Lorenzo Liverani,18,Italy,Defender,Other,FC Pavia 1911,Other,2002
+Piacenza FC,Out,Giuseppe Cardone,28,Italy,RB,Other,AC Parma,Other,2002
+Piacenza FC,Out,Roberto Maltagliati,33,Italy,CB,Other,Ancona Calcio,Other,2002
+Piacenza FC,Out,Matuzalém,22,"Brazil, Italy",DM,Other,AC Parma,Other,2002
+Piacenza FC,Out,Francesco Statuto,30,Italy,CM,Other,Without Club,Other,2002
+Torino Calcio,In,Luca Mezzano,24,Italy,CB,Other,Inter Milan,Other,2002
+Torino Calcio,In,Giammarco Frezza,26,Italy,LM,Other,US Palermo,Other,2002
+Torino Calcio,In,Gennaro Scarlato,25,Italy,CB,Other,Udinese Calcio,Other,2002
+Torino Calcio,In,Alberto Maria Fontana,27,Italy,GK,Other,US Palermo,Other,2002
+Torino Calcio,In,Andrea Soncin,18,Italy,CB,Other,AC Perugia,Other,2002
+Torino Calcio,In,Alessandro Conticchio,28,Italy,CM,Other,US Lecce,Other,2002
+Torino Calcio,In,Alessandro Campo,18,Italy,RW,Other,AC Prato,Other,2002
+Torino Calcio,In,Vincenzo Sommese,26,Italy,RW,Other,Vicenza Calcio,Other,2002
+Torino Calcio,In,Ronaldo Vanin,19,"Brazil, Italy",RB,Other,Torino Primavera,Other,2002
+Torino Calcio,In,Fabio Giordano,18,Italy,DM,Other,Torino Primavera,Other,2002
+Torino Calcio,In,Riccardo Maspero,31,Italy,AM,Other,Without Club,Other,2002
+Torino Calcio,In,Segun Omolade,19,Nigeria,Striker,Other,Torino Primavera,Other,2002
+Torino Calcio,In,Francesco Statuto,31,Italy,CM,Other,Without Club,Other,2002
+Torino Calcio,In,Federico Marchetti,19,Italy,GK,Other,Torino Primavera,Other,2002
+Torino Calcio,In,Stefano Bianciardi,17,Italy,LB,Other,Torino Primavera,Other,2002
+Torino Calcio,In,Alexander Manninger,25,Austria,GK,Other,Without Club,Other,2002
+Torino Calcio,In,Andrea Mantovani,18,Italy,CB,Other,Torino Primavera,Other,2002
+Torino Calcio,Out,Antonino Asta,31,Italy,RM,Other,US Palermo,0,2002
+Torino Calcio,Out,Massimo Brambilla,29,Italy,CM,Other,AC Siena,0,2002
+Torino Calcio,Out,Alessandro Cibocchi,19,Italy,LB,Other,US Viterbese,Other,2002
+Torino Calcio,Out,Giorgio Venturin,34,Italy,CM,Other,Taranto FC 1927,Other,2002
+Torino Calcio,Out,Vítor Silva,20,Portugal,RW,Other,FC Porto B,Other,2002
+Torino Calcio,Out,Abdullah Fusseini,20,Ghana,Midfielder,Other,AS Gualdo Calcio,Other,2002
+Torino Calcio,Out,Andrea Soncin,19,Italy,CB,Other,Vis Pesaro 1898,Other,2002
+Torino Calcio,Out,Benoît Cauet,33,France,CM,Other,Como Calcio,Other,2002
+Torino Calcio,Out,Tiziano Turchetti,22,Italy,Striker,Other,US Viterbese,Other,2002
+Torino Calcio,Out,Gabriele Paoletti,24,Italy,GK,Other,SS Lanciano,Other,2002
+Torino Calcio,Out,Djibril Diawara,27,"Senegal, France",CB,Other,Unknown,Other,2002
+Torino Calcio,Out,Gennaro Scarlato,25,Italy,CB,Other,Ternana Calcio,Other,2002
+Torino Calcio,Out,Riccardo Maspero,31,Italy,AM,Other,Without Club,Other,2002
+Juventus FC,In,Manuele Blasi,21,Italy,CM,Other,AC Perugia,17700000,2002
+Juventus FC,In,Mauro Camoranesi,25,"Italy, Argentina",RM,Other,Hellas Verona,8500000,2002
+Juventus FC,In,Fabrizio Miccoli,23,Italy,CF,Other,Ternana Calcio,7500000,2002
+Juventus FC,In,Davide Baiocco,27,Italy,DM,Other,AC Perugia,7200000,2002
+Juventus FC,In,Abdoulay Konko,18,"France, Morocco",RB,Other,Genoa CFC Youth,0,2002
+Juventus FC,In,Emiliano Moretti,21,Italy,CB,Other,Florentia Viola,Other,2002
+Juventus FC,In,Mattia Cassani,18,Italy,RB,Other,Canavese Youth,Other,2002
+Juventus FC,In,Daniele Gastaldello,19,Italy,CB,Other,Calcio Padova,Other,2002
+Juventus FC,In,Salvatore Fresi,29,Italy,CB,Other,Bologna FC 1909,Other,2002
+Juventus FC,In,Antonio Chimenti,32,Italy,GK,Other,US Lecce,Other,2002
+Juventus FC,In,Aboubacar Fofana,19,"France, Cote d'Ivoire",LM,Other,Juventus Primavera,Other,2002
+Juventus FC,Out,Fabián Carini,22,"Uruguay, Italy",GK,Other,Standard Liège,5000000,2002
+Juventus FC,Out,Matteo Brighi,21,Italy,CM,Other,AC Parma,5000000,2002
+Juventus FC,Out,Vincent Péricard,19,"France, Cameroon",CF,Other,Portsmouth FC,600000,2002
+Juventus FC,Out,Michele Paramatti,34,Italy,LB,Other,Bologna FC 1909,Other,2002
+Juventus FC,Out,Jaroslav Sedivec,21,Czech Republic,LW,Other,Calcio Catania,Other,2002
+Juventus FC,Out,Marco Zanchi,25,Italy,CB,Other,Bologna FC 1909,Other,2002
+Juventus FC,Out,Marco Rigoni,23,Italy,CM,Other,US Triestina,Other,2002
+Juventus FC,Out,Nicola Amoruso,27,Italy,CF,Other,AC Perugia,Other,2002
+Juventus FC,Out,Luigi Lavecchia,20,Italy,RM,Other,Ascoli Calcio 1898,Other,2002
+Juventus FC,Out,Michelangelo Rampulla,39,Italy,GK,Other,Retired,Other,2002
+Como Calcio,In,Sasa Bjelanovic,23,"Croatia, Italy",CF,Other,NK Varteks Varazdin,2500000,2002
+Como Calcio,In,Benny Carbone,30,Italy,SS,Other,Middlesbrough FC,950000,2002
+Como Calcio,In,Vincenzo Chianese,26,Italy,CF,Other,Vicenza Calcio,0,2002
+Como Calcio,In,Fabrizio Ferron,36,Italy,GK,Other,Hellas Verona,0,2002
+Como Calcio,In,Marco Rossi,24,Italy,RM,Other,Florentia Viola,0,2002
+Como Calcio,In,Nicola Caccia,32,Italy,CF,300000,Piacenza FC,0,2002
+Como Calcio,In,Pasquale Padalino,29,Italy,CB,Other,Inter Milan,0,2002
+Como Calcio,In,Nikola Lazetic,24,Serbia,RM,Other,Fenerbahce,0,2002
+Como Calcio,In,Mirko Benin,24,Italy,AM,Other,Florentia Viola,Other,2002
+Como Calcio,In,Giuseppe Greco,18,Italy,CF,Other,FC Pavia 1911,Other,2002
+Como Calcio,In,Luigi Anaclerio,21,Italy,Striker,Other,AS Bari,Other,2002
+Como Calcio,In,Jorge Serna,22,Colombia,CF,Other,Independiente Medellín,Other,2002
+Como Calcio,In,Massimo Tarantino,31,Italy,LB,Other,Bologna FC 1909,Other,2002
+Como Calcio,In,Juarez,28,Brazil,RB,Other,US Lecce,Other,2002
+Como Calcio,In,Milan Zahalka,25,Czech Republic,GK,Other,Carrarese Calcio 1908,Other,2002
+Como Calcio,In,Daniel Fonseca,33,"Uruguay, Italy",CF,Other,Club Nacional,Other,2002
+Como Calcio,In,Benoît Cauet,33,France,CM,Other,Torino Calcio,Other,2002
+Como Calcio,In,Luca Belingheri,19,Italy,AM,Other,Alzano Virescit,Other,2002
+Como Calcio,In,Jean-Paul van Gastel,30,Netherlands,CB,Other,Ternana Calcio,Other,2002
+Como Calcio,In,Denis Godeas,27,Italy,CF,Other,FC Messina Peloro,Other,2002
+Como Calcio,In,Niccolò Guzzo,19,Italy,RB,Other,Fiorentina Primavera,Other,2002
+Como Calcio,In,Anderson,19,"Brazil, Italy",LB,Other,AS Pordenone Calcio,Other,2002
+Como Calcio,In,Ciro De Cesare,30,Italy,SS,Other,Chievo Verona,Other,2002
+Como Calcio,Out,Luis Oliveira,33,"Belgium, Brazil",CF,Other,Calcio Catania,500000,2002
+Como Calcio,Out,Nikola Lazetic,24,Serbia,RM,Other,SS Lazio,Other,2002
+Como Calcio,Out,Andrea Ardito,25,Italy,DM,Other,Bologna FC 1909,Other,2002
+Como Calcio,Out,Cristiano Pavone,30,Italy,LB,Other,FC Messina Peloro,Other,2002
+Como Calcio,Out,Fabio Gallo,31,Italy,DM,Other,Treviso FBC 1993,Other,2002
+Como Calcio,Out,Stephen Makinwa,18,"Nigeria, Italy",CF,Other,AC Reggiana 1919,Other,2002
+Como Calcio,Out,Oscar Brevi,35,Italy,CB,Other,US Palermo,Other,2002
+Como Calcio,Out,Simone Bridarolli,20,Italy,Striker,Other,Retired,Other,2002
+Como Calcio,Out,Davide Olivares,30,Italy,Midfielder,Other,AS Lucchese Libertas,Other,2002
+Como Calcio,Out,Nicola Zanini,28,Italy,AM,Other,US Triestina,Other,2002
+Como Calcio,Out,Marco Nappi,36,Italy,SS,Other,Savona FBC,Other,2002
+Como Calcio,Out,Massimo Lombardini,30,Italy,Midfielder,Other,US Alessandria Calcio,Other,2002
+Como Calcio,Out,Francesco Bega,27,Italy,CB,Other,US Triestina,Other,2002
+Como Calcio,Out,Alfredo Femiano,23,Italy,DM,Other,AS Lucchese Libertas,Other,2002
+Como Calcio,Out,Denis Godeas,27,Italy,CF,Other,AS Bari,Other,2002
+Como Calcio,Out,Jean-Paul van Gastel,30,Netherlands,CB,Other,De Graafschap Doetinchem,Other,2002
+Como Calcio,Out,Vincenzo Pandullo,31,Italy,Defender,Other,Legnano AC,Other,2002
+Como Calcio,Out,Andrea Corti,19,Italy,Defender,Other,US Giovanile Canzese,Other,2002
+Como Calcio,Out,Luca Del Chiaro,21,Italy,Defender,Other,AS Lucchese Libertas,Other,2002
+Como Calcio,Out,Ciro De Cesare,31,Italy,SS,Other,Piacenza FC,Other,2002
+Como Calcio,Out,Christian Terni,30,Italy,CB,Other,Ternana Calcio,Other,2002
+Como Calcio,Out,Francesco Pedone,34,Italy,RM,Other,UC Sampdoria,Other,2002
+Como Calcio,Out,Gianluca Spinelli,35,Italy,GK,Other,Retired,Other,2002
+Como Calcio,Out,Daniel Fonseca,33,"Uruguay, Italy",CF,Other,Retired,Other,2002
+Atalanta BC,In,Carmine Gautieri,31,Italy,RW,Other,Piacenza FC,0,2002
+Atalanta BC,In,Apostolos Liolidis,24,Greece,RW,Other,Aris Thessaloniki,0,2002
+Atalanta BC,In,Ivan Javorcic,23,Croatia,DM,Other,Treviso FBC 1993,Other,2002
+Atalanta BC,In,Natale Gonnella,26,Italy,CB,Other,Hellas Verona,Other,2002
+Atalanta BC,In,Davor Vugrinec,27,Croatia,CF,Other,US Lecce,Other,2002
+Atalanta BC,In,Danilo Zini,24,Italy,CB,Other,AC Pistoiese,Other,2002
+Atalanta BC,In,Alessandro Wilson,19,Italy,Defender,Other,Atalanta Primavera,Other,2002
+Atalanta BC,Out,Massimo Paganin,31,Italy,CB,Other,UC Sampdoria,0,2002
+Atalanta BC,Out,Vinicio Espinal,20,"Dominican Republic, Italy",RM,Other,Taranto FC 1927,0,2002
+Atalanta BC,Out,Davide Pinato,38,Italy,GK,Other,UC Sampdoria,0,2002
+Atalanta BC,Out,Ljubisa Dundjerski,30,Serbia,CM,Other,Treviso FBC 1993,Other,2002
+Atalanta BC,Out,Pierluigi Orlandini,29,Italy,RM,Other,Brindisi Calcio,Other,2002
+Atalanta BC,Out,Danilo Zini,24,Italy,CB,Other,Ascoli Calcio 1898,Other,2002
+Atalanta BC,Out,Corrado Colombo,22,Italy,CF,Other,UC Sampdoria,Other,2002
+Atalanta BC,Out,Yuri Breviario,19,Italy,CM,Other,AC Prato,Other,2002
+Atalanta BC,Out,Joelson,18,"Brazil, Italy",RW,Other,FC Pavia 1911,Other,2002
+Atalanta BC,Out,Fabiano Medina,20,Brazil,CB,Other,Alzano Virescit,Other,2002
+Atalanta BC,Out,Luca Cavalli,24,Italy,CM,Other,Retired,Other,2002
+Inter Milan,In,Hernán Crespo,27,"Argentina, Italy",CF,Other,SS Lazio,40000000,2002
+Inter Milan,In,Fabio Cannavaro,28,Italy,CB,Other,AC Parma,23000000,2002
+Inter Milan,In,Francesco Coco,25,Italy,LB,Other,AC Milan,22500000,2002
+Inter Milan,In,Matías Almeyda,28,"Argentina, Italy",DM,Other,AC Parma,22100000,2002
+Inter Milan,In,Bernardo Corradi,26,Italy,CF,Other,Chievo Verona,4000000,2002
+Inter Milan,In,Luca Ceccarelli,19,Italy,CB,Other,Florentia Viola,2580000,2002
+Inter Milan,In,Ümit Davala,28,Türkiye,RM,Other,AC Milan,2000000,2002
+Inter Milan,In,Daniele Adani,27,Italy,CB,Other,Florentia Viola,0,2002
+Inter Milan,In,Carlos Gamarra,31,Paraguay,CB,Other,CR Flamengo,0,2002
+Inter Milan,In,Domenico Morfeo,26,Italy,AM,Other,Florentia Viola,0,2002
+Inter Milan,In,Alessio Scarpi,29,Italy,GK,Other,Cagliari Calcio,0,2002
+Inter Milan,In,Giuseppe Ticli,23,Italy,LM,Other,AC Reggiana 1919,Other,2002
+Inter Milan,In,Alberto Quadri,19,Italy,DM,Other,Spezia Calcio 1906,Other,2002
+Inter Milan,In,Mattia Altobelli,19,Italy,AM,Other,Inter Milan Primavera,Other,2002
+Inter Milan,In,Goran Pandev,18,"North Macedonia, Italy",SS,Other,Inter Milan Primavera,Other,2002
+Inter Milan,In,Obafemi Martins,17,"Nigeria, Italy",CF,Other,Inter Milan Primavera,Other,2002
+Inter Milan,In,Giovanni Pasquale,20,Italy,LM,Other,Inter Milan Primavera,Other,2002
+Inter Milan,In,Alberto Quadri,19,Italy,DM,Other,Inter Milan Primavera,Other,2002
+Inter Milan,Out,Ronaldo,25,"Brazil, Spain",CF,Other,Real Madrid,45000000,2002
+Inter Milan,Out,Clarence Seedorf,26,"Netherlands, Suriname",CM,Other,AC Milan,22500000,2002
+Inter Milan,Out,Adriano,20,Brazil,CF,Other,AC Parma,14500000,2002
+Inter Milan,Out,Bernardo Corradi,26,Italy,CF,Other,SS Lazio,10000000,2002
+Inter Milan,Out,Dario Simic,26,Croatia,CB,Other,AC Milan,5000000,2002
+Inter Milan,Out,Grigoris Georgatos,29,Greece,LB,Other,AEK Athens,3000000,2002
+Inter Milan,Out,Sixto Peralta,23,"Argentina, Italy",CM,Other,Racing Club,2000000,2002
+Inter Milan,Out,Vratislav Gresko,24,Slovakia,LB,Other,AC Parma,0,2002
+Inter Milan,Out,Pasquale Padalino,29,Italy,CB,Other,Como Calcio,0,2002
+Inter Milan,Out,Luca Mezzano,24,Italy,CB,Other,Torino Calcio,Other,2002
+Inter Milan,Out,Alberto Quadri,19,Italy,DM,Other,Spezia Calcio 1906,Other,2002
+AC Milan,In,Alessandro Nesta,26,Italy,CB,Other,SS Lazio,31000000,2002
+AC Milan,In,Clarence Seedorf,26,"Netherlands, Suriname",CM,Other,Inter Milan,22500000,2002
+AC Milan,In,Martin Laursen,24,Denmark,CB,Other,AC Parma,11000000,2002
+AC Milan,In,Dario Simic,26,Croatia,CB,Other,Inter Milan,5000000,2002
+AC Milan,In,Samuele Dalla Bona,21,Italy,CM,700000,Chelsea FC,1600000,2002
+AC Milan,In,Leonardo,33,"Brazil, Italy",AM,Other,CR Flamengo,0,2002
+AC Milan,In,Cafu,33,"Brazil, Italy",RB,Other,AS Roma,0,2002
+AC Milan,In,Jon Dahl Tomasson,25,Denmark,CF,Other,Feyenoord Rotterdam,0,2002
+AC Milan,In,Rivaldo,30,"Brazil, Spain",AM,Other,FC Barcelona,0,2002
+AC Milan,In,Catilina Aubameyang,18,"Gabon, France",LM,Other,Milan Primavera,Other,2002
+AC Milan,Out,Francesco Coco,25,Italy,LB,Other,Inter Milan,22500000,2002
+AC Milan,Out,Javi Moreno,27,Spain,CF,Other,Atlético de Madrid,13000000,2002
+AC Milan,Out,Maurizio Domizzi,22,Italy,CB,Other,UC Sampdoria,5000000,2002
+AC Milan,Out,Cosmin Contra,26,"Romania, Spain",RB,Other,Atlético de Madrid,3000000,2002
+AC Milan,Out,Ümit Davala,28,Türkiye,RM,Other,Inter Milan,2000000,2002
+AC Milan,Out,Pablo García,25,"Uruguay, Spain",DM,Other,CA Osasuna,0,2002
+AC Milan,Out,Aliyu Datti,20,"Nigeria, Italy",CF,Other,AC Siena,Other,2002
+AC Milan,Out,Nicola Corrent,22,Italy,CM,Other,Modena FC,Other,2002
+AC Milan,Out,Daniele Daino,22,Italy,RB,Other,Ancona Calcio,Other,2002
+AC Milan,Out,Mattia Graffiedi,22,Italy,CF,Other,Ancona Calcio,Other,2002
+AC Milan,Out,Sebastiano Rossi,37,Italy,GK,Other,Without Club,Other,2002
+AC Milan,Out,Leonardo,33,"Brazil, Italy",AM,Other,Retired,Other,2002
+SS Lazio,In,Bernardo Corradi,26,Italy,CF,Other,Inter Milan,10000000,2002
+SS Lazio,In,Christian Manfredini,27,"Cote d'Ivoire, Italy",LW,Other,Chievo Verona,6710000,2002
+SS Lazio,In,Massimo Oddo,26,Italy,RB,Other,Hellas Verona,1500000,2002
+SS Lazio,In,Enrico Chiesa,31,Italy,CF,Other,Florentia Viola,0,2002
+SS Lazio,In,Nikola Lazetic,24,Serbia,RM,Other,Como Calcio,Other,2002
+SS Lazio,Out,Hernán Crespo,27,"Argentina, Italy",CF,Other,Inter Milan,40000000,2002
+SS Lazio,Out,Alessandro Nesta,26,Italy,CB,Other,AC Milan,31000000,2002
+SS Lazio,Out,Iván de la Peña,26,Spain,AM,Other,RCD Espanyol Barcelona,0,2002
+SS Lazio,Out,Karel Poborský,30,Czech Republic,RW,Other,AC Sparta Prague,0,2002
+SS Lazio,Out,Emanuele Matzuzzi,26,Italy,Midfielder,Other,AS Gubbio 1910,Other,2002
+SS Lazio,Out,Gasperino Cinelli,20,Italy,CF,Other,FC Aprilia,Other,2002
+SS Lazio,Out,Emanuele Pesaresi,25,Italy,LB,Other,Chievo Verona,Other,2002
+SS Lazio,Out,Diego Favazza,19,Italy,GK,Other,Teramo Calcio,Other,2002
+SS Lazio,Out,Michelangelo Minieri,21,Italy,CB,Other,Florentia Viola,Other,2002
+SS Lazio,Out,Alberto Comazzi,23,Italy,CB,Other,Hellas Verona,Other,2002
+AC Parma,In,Daniele Bonera,21,Italy,CB,Other,Brescia Calcio,15000000,2002
+AC Parma,In,Adriano,20,Brazil,CF,Other,Inter Milan,14500000,2002
+AC Parma,In,Alberto Gilardino,19,Italy,CF,Other,Hellas Verona,12000000,2002
+AC Parma,In,Adrian Mutu,23,Romania,LW,Other,Hellas Verona,10000000,2002
+AC Parma,In,Sebastiano Siviglia,29,Italy,CB,Other,AS Roma,9000000,2002
+AC Parma,In,Mark Bresciano,22,"Australia, Italy",CM,Other,FC Empoli,7000000,2002
+AC Parma,In,Matteo Brighi,21,Italy,CM,Other,Juventus FC,5000000,2002
+AC Parma,In,Florian Myrtaj,25,"Albania, Italy",CF,Other,Teramo Calcio,800000,2002
+AC Parma,In,Christian Terlizzi,22,Italy,CB,Other,Teramo Calcio,550000,2002
+AC Parma,In,Vratislav Gresko,24,Slovakia,LB,Other,Inter Milan,0,2002
+AC Parma,In,Emanuele Filippini,29,Italy,CM,Other,Brescia Calcio,Other,2002
+AC Parma,In,Roberto Massaro,18,Italy,LW,Other,Florentia Viola,Other,2002
+AC Parma,In,Johnnier Montaño,19,Colombia,AM,Other,Piacenza FC,Other,2002
+AC Parma,In,Aimo Diana,24,Italy,RM,Other,Brescia Calcio,Other,2002
+AC Parma,In,Alex Gibbs,18,"Italy, South Africa",CF,Other,Calcio Monza,Other,2002
+AC Parma,In,Giuseppe Cardone,28,Italy,RB,Other,Piacenza FC,Other,2002
+AC Parma,In,Gabriel Oyola,19,Argentina,CB,Other,CA Talleres,Other,2002
+AC Parma,In,Matuzalém,22,"Brazil, Italy",DM,Other,Piacenza FC,Other,2002
+AC Parma,In,Alessandro Pierini,29,Italy,CB,Other,Reggina Calcio,Other,2002
+AC Parma,In,Alessandro Rosina,18,Italy,RW,Other,Parma Primavera,Other,2002
+AC Parma,In,Francesco Ruopolo,19,Italy,CF,Other,Parma Primavera,Other,2002
+AC Parma,Out,Fabio Cannavaro,28,Italy,CB,Other,Inter Milan,23000000,2002
+AC Parma,Out,Matías Almeyda,28,"Argentina, Italy",DM,Other,Inter Milan,22100000,2002
+AC Parma,Out,Martin Laursen,24,Denmark,CB,Other,AC Milan,11000000,2002
+AC Parma,Out,Luigi Sartor,27,Italy,RB,Other,AS Roma,9500000,2002
+AC Parma,Out,Stephen Appiah,21,Ghana,DM,Other,Brescia Calcio,4550000,2002
+AC Parma,Out,Néstor Sensini,35,"Argentina, Italy",CB,Other,Udinese Calcio,0,2002
+AC Parma,Out,Johan Micoud,29,France,AM,Other,SV Werder Bremen,0,2002
+AC Parma,Out,Jonathan Bachini,27,Italy,LM,Other,Brescia Calcio,Other,2002
+AC Parma,Out,Gabriele Giaroli,21,Italy,GK,Other,US Sassuolo,Other,2002
+AC Parma,Out,Johnnier Montaño,19,Colombia,AM,Other,Piacenza FC,Other,2002
+AC Parma,Out,Alain Boghossian,31,"France, Armenia",CM,Other,RCD Espanyol Barcelona,Other,2002
+AC Parma,Out,Gianluca De Angelis,21,Italy,CF,Other,Hellas Verona,Other,2002
+AC Parma,Out,Christian Terlizzi,22,Italy,CB,Other,AC Cesena,Other,2002
+AC Parma,Out,Matuzalém,22,"Brazil, Italy",DM,Other,Brescia Calcio,Other,2002
+AC Parma,Out,Zlatko Zebić,23,Jugoslawien (SFR),AM,Other,1.FC Kosice (1951 - 2004),Other,2002
+AC Parma,Out,Florian Myrtaj,25,"Albania, Italy",CF,Other,AC Cesena,Other,2002
+AC Parma,Out,Hakan Şükür,30,Türkiye,CF,Other,Without Club,Other,2002
+Udinese Calcio,In,Marek Jankulovski,25,"Czech Republic, North Macedonia",LB,Other,SSC Napoli,3500000,2002
+Udinese Calcio,In,Carsten Jancker,27,Germany,CF,Other,Bayern Munich,2500000,2002
+Udinese Calcio,In,Thomas Thorninger,29,Denmark,CF,Other,FC Copenhagen,1000000,2002
+Udinese Calcio,In,Néstor Sensini,35,"Argentina, Italy",CB,Other,AC Parma,0,2002
+Udinese Calcio,In,Giuseppe Gemiti,21,"Germany, Italy",LB,Other,Eintracht Frankfurt,0,2002
+Udinese Calcio,In,Pavel Grznar,23,Czech Republic,LB,Other,FC Viktoria Plzen,Other,2002
+Udinese Calcio,In,Fabio Rossitto,30,Italy,CM,Other,Florentia Viola,Other,2002
+Udinese Calcio,In,Sulley Muntari,17,Ghana,CM,Other,Udinese Primavera,Other,2002
+Udinese Calcio,In,Felipe,17,"Brazil, Italy",CB,Other,Udinese Primavera,Other,2002
+Udinese Calcio,Out,Winston Parks,21,Costa Rica,CF,Other,Lokomotiv Moskau,1800000,2002
+Udinese Calcio,Out,Vito Raimondi,19,Italy,AM,Other,SV Darmstadt 98,0,2002
+Udinese Calcio,Out,Carlos Pavón,28,Honduras,CF,Other,SSC Napoli,0,2002
+Udinese Calcio,Out,Ousmane Sanda Sanda,20,Cameroon,Midfielder,Other,FC Sporting Benevento,Other,2002
+Udinese Calcio,Out,Fábio César Montezine,23,"Qatar, Brazil",LW,Other,SSC Napoli,Other,2002
+Udinese Calcio,Out,Gennaro Scarlato,25,Italy,CB,Other,Torino Calcio,Other,2002
+Udinese Calcio,Out,Marco Zamboni,24,Italy,CB,Other,Modena FC,Other,2002
+Udinese Calcio,Out,Maurizio Bedin,23,Italy,CM,Other,Cosenza Calcio 1914,Other,2002
+Udinese Calcio,Out,Mauro Esposito,23,Italy,RW,Other,Cagliari Calcio,Other,2002
+Udinese Calcio,Out,Elijah Louhenapessy,25,Netherlands,DM,Other,Polisportiva Tamai,Other,2002
+Udinese Calcio,Out,Luigi Turci,32,Italy,GK,Other,UC Sampdoria,Other,2002
+Udinese Calcio,Out,Esteban Lopez,25,"Spain, Argentina",RB,Other,Retired,Other,2002
+Udinese Calcio,Out,Régis Genaux,28,Belgium,RB,Other,Retired,Other,2002
+Udinese Calcio,Out,Jorge Cordero,25,Spain,Midfielder,Other,Ciudad de Murcia,Other,2002
+Chievo Verona,In,Björn Runström,18,Sweden,CF,150000,Bologna FC 1909,500000,2002
+Chievo Verona,In,Francesco Magnanelli,17,Italy,DM,Other,AS Gubbio 1910,50000,2002
+Chievo Verona,In,Oliver Bierhoff,34,Germany,CF,Other,AS Monaco,0,2002
+Chievo Verona,In,John Mensah,19,Ghana,CB,Other,Genoa CFC,0,2002
+Chievo Verona,In,Gianluca Grassadonia,30,Italy,CB,Other,Cagliari Calcio,0,2002
+Chievo Verona,In,Lilian Nalis,30,France,CM,Other,SC Bastia,0,2002
+Chievo Verona,In,Marco Veronese,26,Italy,CF,Other,Modena FC,Other,2002
+Chievo Verona,In,Michael Zago,21,Italy,CM,Other,Nuovo Calcio Trento,Other,2002
+Chievo Verona,In,Emanuele Pesaresi,25,Italy,LB,Other,SS Lazio,Other,2002
+Chievo Verona,In,Ivone De Franceschi,28,Italy,LW,Other,AC Venezia 1907,Other,2002
+Chievo Verona,In,Mattia Passarini,21,Italy,GK,Other,US Sassuolo,Other,2002
+Chievo Verona,In,Jin-ho Lee,17,"Korea, South",CF,Other,Without Club,Other,2002
+Chievo Verona,In,Giuseppe Aquaro,19,"Switzerland, Italy",CB,Other,Chievo Primavera,Other,2002
+Chievo Verona,In,Marcos De Paula,18,Brazil,CF,Other,Chievo Primavera,Other,2002
+Chievo Verona,Out,Christian Manfredini,27,"Cote d'Ivoire, Italy",LW,Other,SS Lazio,6710000,2002
+Chievo Verona,Out,Bernardo Corradi,26,Italy,CF,Other,Inter Milan,4000000,2002
+Chievo Verona,Out,Patrice Grillon,22,France,Defender,Other,Dijon FCO,Other,2002
+Chievo Verona,Out,Maurizio D'Angelo,33,Italy,CB,Other,SSC Napoli,Other,2002
+Chievo Verona,Out,Cleiton Da Silva Lima,19,Brazil,Midfielder,Other,AC Mantova 1911,Other,2002
+Chievo Verona,Out,Diomansy Kamara,21,"Senegal, France",RW,Other,Modena FC,Other,2002
+Chievo Verona,Out,Jin-ho Lee,18,"Korea, South",CF,Other,Ulsan Hyundai,Other,2002
+Chievo Verona,Out,Dario Passoni,28,Italy,CM,Other,Uralan Elista,Other,2002
+Chievo Verona,Out,Francesco Quintavalla,20,Italy,RB,Other,Poggese Calcio,Other,2002
+Chievo Verona,Out,Enrico Fantini,26,Italy,CF,Other,AC Venezia 1907,Other,2002
+Chievo Verona,Out,Ciro De Cesare,30,Italy,SS,Other,Como Calcio,Other,2002
+AS Roma,In,Christian Panucci,29,Italy,RB,Other,AS Monaco,9810000,2002
+AS Roma,In,Luigi Sartor,27,Italy,RB,Other,AC Parma,9500000,2002
+AS Roma,In,Cristian Ranalli,23,Italy,Striker,Other,SS Lanciano,250000,2002
+AS Roma,In,Pep Guardiola,31,Spain,DM,Other,Brescia Calcio,0,2002
+AS Roma,In,Traianos Dellas,26,Greece,CB,Other,AC Perugia,0,2002
+AS Roma,In,Mancini,22,"Brazil, Italy",LW,Other,Clube Atlético Mineiro,0,2002
+AS Roma,In,Davide Bombardini,28,Italy,LM,Other,US Palermo,0,2002
+AS Roma,In,Daniele De Rossi,18,Italy,DM,Other,Roma U19,Other,2002
+AS Roma,In,Mancini,22,"Brazil, Italy",LW,Other,AC Venezia 1907,Other,2002
+AS Roma,In,Damiano Ferronetti,17,Italy,CB,Other,Roma U19,Other,2002
+AS Roma,In,Christian Scarlato,18,Italy,Midfielder,Other,Roma U19,Other,2002
+AS Roma,In,Cesare Bovo,19,Italy,CB,Other,Roma U19,Other,2002
+AS Roma,In,Alberto Aquilani,17,Italy,CM,Other,Roma U19,Other,2002
+AS Roma,Out,Sebastiano Siviglia,29,Italy,CB,Other,AC Parma,9000000,2002
+AS Roma,Out,Marcos Assunção,25,"Brazil, Spain",CM,Other,Real Betis Balompié,7000000,2002
+AS Roma,Out,Franco Brienza,23,Italy,AM,Other,US Palermo,5500000,2002
+AS Roma,Out,Marco Amelia,20,Italy,GK,Other,AS Livorno,2800000,2002
+AS Roma,Out,Fábio Júnior,25,"Brazil, Italy",CF,Other,Vitória Guimarães SC,800000,2002
+AS Roma,Out,Pep Guardiola,31,Spain,DM,Other,Brescia Calcio,650000,2002
+AS Roma,Out,Cafu,33,"Brazil, Italy",RB,Other,AC Milan,0,2002
+AS Roma,Out,Antônio Carlos Zago,33,"Brazil, Italy",CB,Other,Besiktas JK,0,2002
+AS Roma,Out,Cristian Ranalli,23,Italy,Striker,Other,Cagliari Calcio,Other,2002
+AS Roma,Out,Sebastián Cejas,27,Argentina,GK,Other,Ascoli Calcio 1898,Other,2002
+AS Roma,Out,Cesare Bovo,19,Italy,CB,Other,US Lecce,Other,2002
+AS Roma,Out,Gustavo Vassallo,23,"Peru, Italy",CF,Other,CD Alcalá,Other,2002
+AS Roma,Out,Alessandro Tulli,20,Italy,CF,Other,AS Livorno,Other,2002
+Brescia Calcio,In,Stephen Appiah,21,Ghana,DM,1000000,AC Parma,4550000,2002
+Brescia Calcio,In,Pep Guardiola,31,Spain,DM,Other,AS Roma,650000,2002
+Brescia Calcio,In,Jonathan Bachini,27,Italy,LM,Other,AC Parma,Other,2002
+Brescia Calcio,In,Marco Pisano,20,Italy,LB,Other,Taranto FC 1927,Other,2002
+Brescia Calcio,In,Fábio Bilica,23,Brazil,CB,Other,US Palermo,Other,2002
+Brescia Calcio,In,Marius Stankevicius,20,Lithuania,CB,Other,FK Ekranas Panevezys (- 2014),Other,2002
+Brescia Calcio,In,Matuzalém,22,"Brazil, Italy",DM,Other,AC Parma,Other,2002
+Brescia Calcio,In,Davide Micillo,31,Italy,GK,Other,Cosenza Calcio 1914,Other,2002
+Brescia Calcio,In,Gilberto Martínez,22,Costa Rica,CB,Other,Deportivo Saprissa,Other,2002
+Brescia Calcio,In,Víctor Mareco,18,Paraguay,CB,Other,Brescia Primavera,Other,2002
+Brescia Calcio,In,Giordano Paganotto,17,Italy,Defender,Other,Brescia Primavera,Other,2002
+Brescia Calcio,Out,Daniele Bonera,21,Italy,CB,Other,AC Parma,15000000,2002
+Brescia Calcio,Out,Federico Giunti,31,Italy,DM,Other,Besiktas JK,2500000,2002
+Brescia Calcio,Out,Pep Guardiola,31,Spain,DM,Other,AS Roma,0,2002
+Brescia Calcio,Out,Sandro Grande,24,"Canada, Italy",DM,Other,Potenza Sport Club,0,2002
+Brescia Calcio,Out,Stefano Brognoli,19,Italy,CM,Other,Varese FC,0,2002
+Brescia Calcio,Out,Angelo Danotti,22,Italy,LB,Other,ASD Acireale Calcio,Other,2002
+Brescia Calcio,Out,Ermanno Leoni,21,Italy,Midfielder,Other,US Sassuolo,Other,2002
+Brescia Calcio,Out,Emanuele Filippini,29,Italy,CM,Other,AC Parma,Other,2002
+Brescia Calcio,Out,Mauro Bacchin,32,Italy,GK,Other,ASG Nocerina,Other,2002
+Brescia Calcio,Out,Andrea Sussi,28,Italy,LB,Other,Ternana Calcio,Other,2002
+Brescia Calcio,Out,Stefano Tignonsini,20,Italy,CB,Other,AC Palazzolo,Other,2002
+Brescia Calcio,Out,Aimo Diana,24,Italy,RM,Other,AC Parma,Other,2002
+Brescia Calcio,Out,Massimiliano Caputo,22,Italy,LW,Other,Sora Calcio 1907,Other,2002
+Brescia Calcio,Out,Amedeo Mangone,33,Italy,CB,Other,Piacenza FC,Other,2002
+Brescia Calcio,Out,Matteo Tacchini,21,Italy,Midfielder,Other,US Sassuolo,Other,2002
+Brescia Calcio,Out,Simone Dallamano,19,Italy,LB,Other,AC Prato,Other,2002
+Brescia Calcio,Out,Alessandro Calori,35,Italy,CB,Other,AC Venezia 1907,Other,2002
+Brescia Calcio,Out,Massimiliano Esposito,30,Italy,RM,Other,Ternana Calcio,Other,2002
+AC Perugia,In,Konstantinos Louboutis,23,Greece,LB,Other,Aris Thessaloniki,0,2002
+AC Perugia,In,Antonio Criniti,31,Italy,Striker,Other,US Sambenedettese,Other,2002
+AC Perugia,In,Emanuele Berrettoni,21,Italy,SS,Other,Lazio U19,Other,2002
+AC Perugia,In,Lorenzo Crocetti,18,Italy,CF,Other,Fiorentina Primavera,Other,2002
+AC Perugia,In,Paolo Zaccagnini,25,Italy,RM,Other,Chieti Calcio,Other,2002
+AC Perugia,In,Giorgio Cini,23,Italy,Midfielder,Other,AS Ostiamare Lido Calcio,Other,2002
+AC Perugia,In,Massimo Demartis,27,Italy,CB,Other,Calcio Catania,Other,2002
+AC Perugia,In,Zeljko Kalac,29,"Australia, Croatia",GK,Other,Roda JC Kerkrade,Other,2002
+AC Perugia,In,Giovanni Sulcis,27,Italy,Midfielder,Other,Cagliari Calcio,Other,2002
+AC Perugia,In,Giuseppe Aprea,25,Italy,GK,Other,Fermana Calcio 1920,Other,2002
+AC Perugia,In,Tiago Calvano,21,"Brazil, Italy",CB,Other,Botafogo de Futebol e Regatas,Other,2002
+AC Perugia,In,Nicola Amoruso,27,Italy,CF,Other,Juventus FC,Other,2002
+AC Perugia,In,Sebastiano Rossi,38,Italy,GK,Other,Without Club,Other,2002
+AC Perugia,In,Daniele Cacciaglia,20,Italy,CM,Other,Perugia Primavera,Other,2002
+AC Perugia,Out,Manuele Blasi,21,Italy,CM,Other,Juventus FC,17700000,2002
+AC Perugia,Out,Davide Baiocco,27,Italy,DM,Other,Juventus FC,7200000,2002
+AC Perugia,Out,Traianos Dellas,26,Greece,CB,Other,AS Roma,0,2002
+AC Perugia,Out,Andrea Mazzantini,33,Italy,GK,Other,AC Siena,0,2002
+AC Perugia,Out,Giovanni Proietti,25,"Italy, Switzerland",GK,Other,AC Arezzo,0,2002
+AC Perugia,Out,Fabián O'Neill,28,Uruguay,AM,Other,Cagliari Calcio,0,2002
+AC Perugia,Out,Silvio Spann,21,Trinidad and Tobago,DM,Other,US Sambenedettese,0,2002
+AC Perugia,Out,Donovan Maury,21,Belgium,RB,Other,Roda JC Kerkrade,0,2002
+AC Perugia,Out,Antonio Criniti,32,Italy,Striker,Other,US Sambenedettese,Other,2002
+AC Perugia,Out,Samuel,28,Brazil,CB,Other,Criciúma Esporte Clube,Other,2002
+AC Perugia,Out,Massimo Demartis,27,Italy,CB,Other,Calcio Catania,Other,2002
+AC Perugia,Out,Claudio Paris,29,Argentina,DM,Other,Racing Club,Other,2002
+AC Perugia,Out,Paolo Zaccagnini,25,Italy,RM,Other,Sora Calcio 1907,Other,2002
+AC Perugia,Out,Nicolás Córdova,23,Chile,CM,Other,AS Bari,Other,2002
+AC Perugia,Out,Andrea Soncin,18,Italy,CB,Other,Torino Calcio,Other,2002
+AC Perugia,Out,Giorgio Cini,23,Italy,Midfielder,Other,L'Aquila 1927,Other,2002
+AC Perugia,Out,Salvatore Monaco,29,Italy,CB,Other,Calcio Catania,Other,2002
+AC Perugia,Out,Nicolás Cinalli,22,"Argentina, Italy",GK,Other,Varese FC,Other,2002
+AC Perugia,Out,Denis André Dasoul,18,Belgium,RB,Other,KRC Genk,Other,2002
+AC Perugia,Out,Gianluca Petrachi,33,Italy,Midfielder,Other,Taranto FC 1927,Other,2002
+AC Perugia,Out,Fabian Jacquemin,21,Belgium,Midfielder,Other,Fermana Calcio 1920,Other,2002
+AC Perugia,Out,Hilário Leal,28,"Portugal, France",RB,Other,FC Maia,Other,2002
+Bologna FC 1909,In,Christian Amoroso,25,Italy,CM,Other,Florentia Viola,0,2002
+Bologna FC 1909,In,Michele Paramatti,34,Italy,LB,Other,Juventus FC,Other,2002
+Bologna FC 1909,In,Andrea Pansera,22,Italy,GK,Other,UC AlbinoLeffe,Other,2002
+Bologna FC 1909,In,Leonardo Colucci,29,Italy,CM,Other,Hellas Verona,Other,2002
+Bologna FC 1909,In,Andrea Ardito,25,Italy,DM,Other,Como Calcio,Other,2002
+Bologna FC 1909,In,Marco Zanchi,25,Italy,CB,Other,Juventus FC,Other,2002
+Bologna FC 1909,In,Claudio Terzi,18,Italy,CB,Other,Bologna Primavera,Other,2002
+Bologna FC 1909,In,Paolo Vanoli,30,Italy,LB,Other,Without Club,Other,2002
+Bologna FC 1909,In,Mourad Meghni,18,"Algeria, France",AM,Other,Bologna Primavera,Other,2002
+Bologna FC 1909,Out,Björn Runström,18,Sweden,CF,Other,Chievo Verona,500000,2002
+Bologna FC 1909,Out,Roberto Goretti,26,Italy,DM,Other,AC Reggiana 1919,0,2002
+Bologna FC 1909,Out,Emanuele Brioschi,27,Italy,CB,Other,Cosenza Calcio 1914,Other,2002
+Bologna FC 1909,Out,Fabio Macellari,28,Italy,LB,Other,Cagliari Calcio,Other,2002
+Bologna FC 1909,Out,Massimo Tarantino,31,Italy,LB,Other,Como Calcio,Other,2002
+Bologna FC 1909,Out,Salvatore Fresi,29,Italy,CB,Other,Juventus FC,Other,2002
+Bologna FC 1909,Out,Lamberto Zauli,31,Italy,AM,Other,US Palermo,Other,2002
+FC Empoli,In,Amauri,22,"Italy, Brazil",CF,Other,Piacenza FC,150000,2002
+FC Empoli,In,Alessandro Agostini,23,Italy,LB,900000,Florentia Viola,0,2002
+FC Empoli,In,Mario Cassano,18,Italy,GK,100000,Florentia Viola,0,2002
+FC Empoli,In,Marco Carparelli,26,Italy,SS,Other,Genoa CFC,Other,2002
+FC Empoli,In,Frank Lagana,17,"Australia, Italy",AM,Other,FFA Centre of Excellence (- 2017),Other,2002
+FC Empoli,In,David Bret,18,France,GK,Other,Montpellier HSC,Other,2002
+FC Empoli,In,Ighli Vannucchi,24,Italy,AM,Other,AC Venezia 1907,Other,2002
+FC Empoli,In,Stefano Lucchini,21,Italy,CB,3500000,Ternana Calcio,Other,2002
+FC Empoli,In,Antonio Buscè,26,Italy,RM,Other,AC Lumezzane,Other,2002
+FC Empoli,In,Francesco Lodi,18,Italy,DM,Other,Empoli Primavera,Other,2002
+FC Empoli,In,Christian Paoletti,17,Italy,GK,Other,Empoli Primavera,Other,2002
+FC Empoli,Out,Massimo Maccarone,22,Italy,CF,Other,Middlesbrough FC,9050000,2002
+FC Empoli,Out,Mark Bresciano,22,"Australia, Italy",CM,Other,AC Parma,7000000,2002
+FC Empoli,Out,Davide Matteini,20,Italy,LW,Other,US Palermo,950000,2002
+FC Empoli,Out,Salvatore Mastronunzio,22,Italy,CF,Other,Fermana Calcio 1920,Other,2002
+FC Empoli,Out,Davide Moro,20,Italy,CM,Other,Sangiovannese 1927,Other,2002
+FC Empoli,Out,Antonio Schetter,20,Italy,RW,Other,FC Viribus Somma 100,Other,2002
+FC Empoli,Out,Pietro Fusco,30,Italy,RB,Other,Calcio Catania,Other,2002
+FC Empoli,Out,Filippo Zacchei,21,Italy,RW,Other,US Sambenedettese,Other,2002
+FC Empoli,Out,Michele Fusi,22,Italy,CB,Other,UC AlbinoLeffe,Other,2002
+FC Empoli,Out,Riccardo Bonetto,23,Italy,LB,Other,Ascoli Calcio 1898,Other,2002
+FC Empoli,Out,Giacomo Mazzi,23,Italy,GK,Other,US Viterbese,Other,2002
+Modena FC,In,Rune Pedersen,23,Denmark,GK,Other,FC Copenhagen,0,2002
+Modena FC,In,Alessandro Zamperini,19,Italy,CB,Other,Portsmouth FC,0,2002
+Modena FC,In,Simone Pavan,28,Italy,CB,Other,AC Venezia 1907,Other,2002
+Modena FC,In,Nicola Corrent,22,Italy,CM,Other,AC Milan,Other,2002
+Modena FC,In,Diomansy Kamara,21,"Senegal, France",RW,Other,Chievo Verona,Other,2002
+Modena FC,In,Fabio Vignaroli,26,Italy,CF,Other,US Salernitana,Other,2002
+Modena FC,In,Marco Zamboni,24,Italy,CB,Other,Udinese Calcio,Other,2002
+Modena FC,In,Sofiane Zaaboub,19,"Algeria, France",LM,Other,AS Saint-Étienne,Other,2002
+Modena FC,In,Alessio Sestu,18,Italy,RW,Other,Lazio U19,Other,2002
+Modena FC,In,Nicola Campedelli,23,Italy,RM,Other,US Salernitana,Other,2002
+Modena FC,In,Marcello Albino,30,Italy,CM,Other,Ancona Calcio,Other,2002
+Modena FC,In,Andrea Sentimenti,17,Italy,GK,Other,Modena Primavera,Other,2002
+Modena FC,In,Enrico Po,17,Italy,Midfielder,Other,Modena Primavera,Other,2002
+Modena FC,Out,Amadou Sanokho,22,"France, Mali",DM,Other,Rondinella Impruneta,0,2002
+Modena FC,Out,Vito Grieco,31,Italy,DM,Other,Calcio Catania,Other,2002
+Modena FC,Out,Emiliano Tarana,23,Italy,RW,Other,Ancona Calcio,Other,2002
+Modena FC,Out,Marco Veronese,26,Italy,CF,Other,Chievo Verona,Other,2002
+Modena FC,Out,Giovanni Orfei,26,Italy,CB,Other,AC Venezia 1907,Other,2002
+Modena FC,Out,Alessio Sestu,19,Italy,RW,Other,Treviso FBC 1993,Other,2002
+Modena FC,Out,Mauro Zironelli,32,Italy,Midfielder,Other,Associazione Calcio Thiene,Other,2002
+Modena FC,Out,Rubens Pasino,31,Italy,AM,Other,SSC Napoli,Other,2002
+Reggina Calcio,In,Carlos Paredes,25,Paraguay,DM,Other,FC Porto,4800000,2002
+Reggina Calcio,In,Shunsuke Nakamura,24,Japan,AM,Other,Yokohama F. Marinos,2000000,2002
+Reggina Calcio,In,Alessandro Pierini,29,Italy,CB,Other,Florentia Viola,0,2002
+Reggina Calcio,In,Massimo Rastelli,33,Italy,RW,Other,SSC Napoli,Other,2002
+Reggina Calcio,In,Nassim Mendil,23,"France, Algeria",CF,Other,Cosenza Calcio 1914,Other,2002
+Reggina Calcio,In,Riccardo Alderuccio,18,Italy,CB,Other,Unknown,Other,2002
+Reggina Calcio,In,Roberto Mafucci,17,Italy,Striker,Other,Unknown,Other,2002
+Reggina Calcio,Out,Davide Dionigi,28,Italy,CF,Other,SSC Napoli,2000000,2002
+Reggina Calcio,Out,Mario La Canna,24,Italy,RW,Other,SP Ars et Labor,0,2002
+Reggina Calcio,Out,Alessandro Zoppetti,23,Italy,CB,Other,US Lecce,Other,2002
+Reggina Calcio,Out,Arnauld Mercier,30,France,CB,Other,Valenciennes FC,Other,2002
+Reggina Calcio,Out,Antonio Giosa,18,Italy,CB,Other,AS Cittadella Padova,Other,2002
+Reggina Calcio,Out,Stefano Casale,31,Italy,RM,Other,Cosenza Calcio 1914,Other,2002
+Reggina Calcio,Out,Graziano Ursino,19,Italy,Defender,Other,Ragusa Calcio,Other,2002
+Reggina Calcio,Out,Salvatore Ricca,18,Italy,CB,Other,Fermana Calcio 1920,Other,2002
+Reggina Calcio,Out,Alessandro Pierini,29,Italy,CB,Other,AC Parma,Other,2002
+Reggina Calcio,Out,Francesco Cester,21,Italy,Striker,Other,Unknown,Other,2002
+Reggina Calcio,Out,Maurizio Franzone,33,Italy,GK,Other,Without Club,Other,2002

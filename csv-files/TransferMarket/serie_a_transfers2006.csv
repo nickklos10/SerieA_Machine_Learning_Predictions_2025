@@ -1,0 +1,520 @@
+Team,Transfer Type,Player,Age,Nationality,Position,Market Value,From Club,Fee,Year
+AS Roma,In,David Pizarro,26,Chile,CM,8000000,Inter Milan,12250000,2006
+AS Roma,In,Marco Cassetti,29,Italy,RB,6000000,US Lecce,2350000,2006
+AS Roma,In,Valerio Virga,20,Italy,RB,600000,US Palermo,500000,2006
+AS Roma,In,Júlio Sérgio,27,"Brazil, Italy",GK,Other,Esporte Clube Juventude,400000,2006
+AS Roma,In,Édgar Álvarez,26,Honduras,RM,600000,CA Peñarol,400000,2006
+AS Roma,In,Ricardo Faty,19,"Senegal, France",DM,300000,RC Strasbourg Alsace,360000,2006
+AS Roma,In,Max Tonetto,31,Italy,LB,1700000,UC Sampdoria,0,2006
+AS Roma,Out,Mido,23,Egypt,CF,Other,Tottenham Hotspur,6750000,2006
+AS Roma,Out,Cesare Bovo,23,Italy,CB,Other,US Palermo,3550000,2006
+AS Roma,Out,Gianluca Comotto,27,Italy,RB,Other,Torino FC,2200000,2006
+AS Roma,Out,Leandro Cufré,28,Argentina,LB,Other,AS Monaco,2100000,2006
+AS Roma,Out,Ivan Pelizzoli,25,Italy,GK,Other,Reggina Calcio,2000000,2006
+AS Roma,Out,Gaetano D'Agostino,24,Italy,CM,Other,Udinese Calcio,1200000,2006
+AS Roma,Out,Daniele Corvia,21,Italy,CF,Other,AC Siena,400000,2006
+AS Roma,Out,Olivier Dacourt,31,"France, Guadeloupe",DM,Other,Inter Milan,0,2006
+AS Roma,Out,Damiano Tommasi,32,Italy,CM,Other,Levante UD,0,2006
+AS Roma,Out,Danilo Cassandra,,Italy,Striker,Other,Atletico Roma Youth,Other,2006
+Inter Milan,In,Zlatan Ibrahimović,24,"Sweden, Bosnia-Herzegovina",CF,25000000,Juventus FC,24800000,2006
+Inter Milan,In,Patrick Vieira,30,"France, Senegal",DM,28000000,Juventus FC,9500000,2006
+Inter Milan,In,Maicon,24,Brazil,RB,7000000,AS Monaco,6800000,2006
+Inter Milan,In,Fabio Grosso,28,Italy,LB,7000000,US Palermo,5500000,2006
+Inter Milan,In,Rincón,19,Brazil,CB,Other,São Paulo Futebol Clube,1800000,2006
+Inter Milan,In,César,31,"Brazil, Italy",LM,2000000,SS Lazio,0,2006
+Inter Milan,In,Olivier Dacourt,31,"France, Guadeloupe",DM,5000000,AS Roma,0,2006
+Inter Milan,In,Abdoulaye Diarra,20,Cote d'Ivoire,LM,Other,NK Maribor,Other,2006
+Inter Milan,In,Leonardo Bonucci,19,Italy,CB,50000,Inter Milan Primavera,Other,2006
+Inter Milan,In,Ibrahim Maaroufi,17,"Morocco, Belgium",DM,Other,Inter Milan Primavera,Other,2006
+Inter Milan,In,Jonathan Biabiany,18,"France, Guadeloupe",RW,Other,Inter Milan Primavera,Other,2006
+Inter Milan,In,Abdoulaye Diarra,19,Cote d'Ivoire,LM,Other,Inter Milan Primavera,Other,2006
+Inter Milan,In,Tijani Belaid,18,"Tunisia, France",AM,Other,Inter Milan Primavera,Other,2006
+Inter Milan,Out,Obafemi Martins,21,"Nigeria, Italy",CF,Other,Newcastle United,16000000,2006
+Inter Milan,Out,David Pizarro,26,Chile,CM,Other,AS Roma,12250000,2006
+Inter Milan,Out,Paolo Dellafiore,21,"Italy, Argentina",CB,Other,US Palermo,1500000,2006
+Inter Milan,Out,Giovanni Pasquale,24,Italy,LM,Other,AS Livorno,800000,2006
+Inter Milan,Out,Abdoulaye Diarra,20,Cote d'Ivoire,LM,Other,NK Maribor,175000,2006
+Inter Milan,Out,Aco Stojkov,23,North Macedonia,LW,Other,FK Partizan Belgrade,85000,2006
+Inter Milan,Out,Matteo Momentè,18,Italy,CF,Other,SSC Venezia,Other,2006
+Inter Milan,Out,Cristiano Zanetti,29,Italy,DM,Other,Juventus FC,0,2006
+Inter Milan,Out,Giuseppe Favalli,34,Italy,LB,Other,AC Milan,0,2006
+Inter Milan,Out,Zé Maria,32,"Brazil, Italy",RB,Other,Levante UD,0,2006
+Inter Milan,Out,Kily González,31,"Argentina, Spain",LM,Other,CA Rosario Central,0,2006
+Inter Milan,Out,Pierre Womé,27,Cameroon,LB,Other,SV Werder Bremen,0,2006
+Inter Milan,Out,Jacopo Ravasi,19,Italy,CF,Other,US Pergocrema 1932,Other,2006
+Inter Milan,Out,Ilario Aloe,19,Italy,RW,Other,Ravenna Calcio,Other,2006
+Inter Milan,Out,Alessandro Potenza,22,Italy,RB,Other,ACF Fiorentina,Other,2006
+Inter Milan,Out,Alberto Quadri,23,Italy,DM,Other,SS Lazio,Other,2006
+Inter Milan,Out,Edoardo Soloni,18,Italy,Defender,Other,AC Montichiari,Other,2006
+Inter Milan,Out,Siniša Mihajlović,37,"Serbia, Italy",CB,Other,Retired,Other,2006
+Cagliari Calcio,In,Semedo,21,Portugal,DM,300000,Sporting CP,0,2006
+Cagliari Calcio,In,Cristiano Del Grosso,23,Italy,LB,300000,Ascoli Calcio 1898,Other,2006
+Cagliari Calcio,In,Tiziano Bruzzone,22,Italy,CF,Other,Cascina,Other,2006
+Cagliari Calcio,In,Marco Fortin,31,Italy,GK,400000,AC Siena,Other,2006
+Cagliari Calcio,In,Davide Marchini,25,Italy,RM,50000,US Triestina,Other,2006
+Cagliari Calcio,In,Leonardo Colucci,33,Italy,CM,200000,Bologna FC 1909,Other,2006
+Cagliari Calcio,In,Andrea Peana,20,Italy,CB,50000,Cagliari Primavera,Other,2006
+Cagliari Calcio,In,Simone Aresti,21,Italy,GK,50000,Cagliari Primavera,Other,2006
+Cagliari Calcio,Out,Andrea Campagnolo,29,Italy,GK,Other,Reggina Calcio,0,2006
+Cagliari Calcio,Out,Nelson Abeijón,33,"Uruguay, Italy",DM,Other,Atalanta BC,0,2006
+Cagliari Calcio,Out,Andrea Peana,20,Italy,CB,Other,US Triestina,0,2006
+Cagliari Calcio,Out,Luca Tomasig,23,Italy,GK,Other,Catanzaro FC,Other,2006
+Cagliari Calcio,Out,Francesco Bega,31,Italy,CB,Other,Genoa CFC,Other,2006
+Cagliari Calcio,Out,Fabio Vignati,22,Italy,CB,Other,AC Cesena,Other,2006
+Cagliari Calcio,Out,Nicola Lai,20,Italy,Midfielder,Other,FC Rieti,Other,2006
+Cagliari Calcio,Out,Andrea Cossu,26,Italy,AM,Other,Hellas Verona,Other,2006
+Cagliari Calcio,Out,Jaime Penedo,24,"Panama, Spain",GK,Other,CA Osasuna Promesas,Other,2006
+SS Lazio,In,Stephen Makinwa,22,"Nigeria, Italy",CF,4000000,US Palermo,6300000,2006
+SS Lazio,In,Cristian Ledesma,23,"Italy, Argentina",DM,9000000,US Lecce,5300000,2006
+SS Lazio,In,Stefano Mauri,26,Italy,AM,3000000,Udinese Calcio,3500000,2006
+SS Lazio,In,Pasquale Foggia,23,Italy,AM,2500000,AC Milan,3150000,2006
+SS Lazio,In,Cribari,26,"Brazil, Italy",CB,3000000,Udinese Calcio,3000000,2006
+SS Lazio,In,Tommaso Berni,23,Italy,GK,1500000,Ternana Calcio,1500000,2006
+SS Lazio,In,Libis Arenas,19,Colombia,GK,Other,Envigado FC,800000,2006
+SS Lazio,In,Modibo Diakité,19,"France, Mali",CB,Other,Pescara Calcio,300000,2006
+SS Lazio,In,Lucas Correa,22,"Argentina, Spain",DM,Other,SS Lanciano,0,2006
+SS Lazio,In,Massimo Mutarelli,28,Italy,CM,1600000,US Palermo,0,2006
+SS Lazio,In,Riccardo Bonetto,27,Italy,LB,800000,FC Empoli,0,2006
+SS Lazio,In,Alberto Quadri,23,Italy,DM,Other,Inter Milan,Other,2006
+SS Lazio,Out,Massimo Oddo,30,Italy,RB,Other,AC Milan,7750000,2006
+SS Lazio,Out,Matías Lequi,25,"Argentina, Italy",CB,Other,Celta de Vigo,750000,2006
+SS Lazio,Out,Fabio Liverani,30,"Italy, Somalia",DM,Other,ACF Fiorentina,0,2006
+SS Lazio,Out,Alessio De Angelis,21,Italy,GK,Other,ASD Morolo Calcio,0,2006
+SS Lazio,Out,César,31,"Brazil, Italy",LM,Other,Inter Milan,0,2006
+SS Lazio,Out,Paolo Di Canio,37,Italy,CF,Other,Cisco Roma,0,2006
+SS Lazio,Out,Ousmane Dabo,29,"France, Senegal",DM,Other,Manchester City,0,2006
+SS Lazio,Out,Christian Keller,25,Denmark,DM,Other,Stabæk Fotball,Other,2006
+SS Lazio,Out,Braian Robert,22,Argentina,LM,Other,La Plata Futbol Club,Other,2006
+SS Lazio,Out,Francesco Torroni,20,Italy,Midfielder,Other,Without Club,Other,2006
+Udinese Calcio,In,Alexis Sánchez,17,Chile,CF,Other,CD Cobreloa,3000000,2006
+Udinese Calcio,In,Aleksandar Luković,23,Serbia,CB,3000000,Red Star Belgrade,2700000,2006
+Udinese Calcio,In,Andrea Coda,21,Italy,CB,4200000,FC Empoli,2320000,2006
+Udinese Calcio,In,Tomas Sivok,23,Czech Republic,CB,800000,AC Sparta Prague,2000000,2006
+Udinese Calcio,In,Gaetano D'Agostino,24,Italy,CM,5000000,AS Roma,1200000,2006
+Udinese Calcio,In,Christian Tiboni,18,Italy,CF,Other,Atalanta BC,1100000,2006
+Udinese Calcio,In,Michele Rinaldi,19,Italy,CB,Other,Atalanta Primavera,800000,2006
+Udinese Calcio,In,Juan Surraco,18,"Uruguay, Spain",SS,Other,Central Español,625000,2006
+Udinese Calcio,In,Andrea Dossena,24,Italy,LM,400000,Treviso FBC 1993,500000,2006
+Udinese Calcio,In,Tomas Zapotocny,26,Czech Republic,CB,350000,FC Slovan Liberec,500000,2006
+Udinese Calcio,In,Schumacher,19,"Brazil, Italy",CF,Other,Atlético Paranaense,250000,2006
+Udinese Calcio,In,Fabrizio Casazza,36,Italy,GK,400000,FC Pavia 1911,150000,2006
+Udinese Calcio,In,José Montiel,18,Paraguay,CM,Other,Olimpia Asunción,0,2006
+Udinese Calcio,In,Igor Djuric,17,"Switzerland, Serbia",CB,50000,AC Bellinzona,Other,2006
+Udinese Calcio,In,Flavio Lazzari,19,Italy,AM,100000,ASD Nuova Lodigiani 2005,Other,2006
+Udinese Calcio,In,Guilherme Siqueira,20,"Brazil, Italy",LB,Other,Inter Milan Primavera,Other,2006
+Udinese Calcio,In,Andrea Peron,19,Italy,CF,Other,Udinese Primavera,Other,2006
+Udinese Calcio,In,Emanuele Politti,18,Italy,CB,Other,Udinese Primavera,Other,2006
+Udinese Calcio,In,Federico Gerardi,18,Italy,CF,Other,Udinese Primavera,Other,2006
+Udinese Calcio,Out,Stefano Mauri,26,Italy,AM,Other,SS Lazio,3500000,2006
+Udinese Calcio,Out,Cribari,26,"Brazil, Italy",CB,Other,SS Lazio,3000000,2006
+Udinese Calcio,Out,Valerio Bertotto,33,Italy,CB,Other,AC Siena,2500000,2006
+Udinese Calcio,Out,Fabio Quagliarella,23,Italy,CF,Other,UC Sampdoria,1500000,2006
+Udinese Calcio,Out,Fernando Tissone,20,"Argentina, Italy",DM,Other,Atalanta BC,1500000,2006
+Udinese Calcio,Out,Mirko Pieri,27,Italy,LB,Other,UC Sampdoria,600000,2006
+Udinese Calcio,Out,Fausto Rossini,28,Italy,CF,Other,Calcio Catania,0,2006
+Udinese Calcio,Out,José Luís Vidigal,33,"Portugal, Angola",DM,Other,AS Livorno,0,2006
+Udinese Calcio,Out,Gabriele Paoletti,28,Italy,GK,Other,FC Messina Peloro,0,2006
+Udinese Calcio,Out,Al-Saadi Al Gaddafi,33,Libya,AM,Other,Al-Jamahiriyah,0,2006
+Udinese Calcio,Out,Vincent Candela,32,France,LB,Other,AC Siena,0,2006
+Udinese Calcio,Out,Paul Ramirez,20,Venezuela,CF,Other,FUA Maracaibo,Other,2006
+Udinese Calcio,Out,Olivier Renard,27,Belgium,GK,Other,Standard Liège,Other,2006
+Udinese Calcio,Out,Juarez,32,Brazil,RB,Other,Retired,Other,2006
+Torino FC,In,Simone Barone,28,Italy,CM,6000000,US Palermo,4100000,2006
+Torino FC,In,Elvis Abbruscato,25,Italy,CF,700000,AC Arezzo,3600000,2006
+Torino FC,In,Gianluca Comotto,27,Italy,RB,600000,AS Roma,2200000,2006
+Torino FC,In,Ivan Franceschini,29,Italy,CB,1500000,Reggina Calcio,800000,2006
+Torino FC,In,Nikola Lazetic,28,Serbia,RM,1500000,AS Livorno,720000,2006
+Torino FC,In,Marco Di Loreto,31,Italy,CB,1300000,ACF Fiorentina,500000,2006
+Torino FC,In,Masashi Oguro,26,Japan,CF,1250000,Grenoble Foot 38,Other,2006
+Torino FC,In,Gabriele Cioffi,30,Italy,CB,100000,AC Mantova 1911,Other,2006
+Torino FC,In,Giuseppe Pancaro,34,Italy,RB,1500000,ACF Fiorentina,Other,2006
+Torino FC,In,Davide Bottone,20,Italy,CM,Other,Torino Primavera,Other,2006
+Torino FC,In,Gianluca Miolli,,Italy,GK,Other,Torino Primavera,Other,2006
+Torino FC,In,Angelo Ogbonna,18,"Italy, Nigeria",CB,Other,Torino Primavera,Other,2006
+Torino FC,Out,André Pinga,25,Brazil,AM,Other,Sport Club Internacional,900000,2006
+Torino FC,Out,Zisis Vryzas,32,Greece,CF,Other,Skoda Xanthi,0,2006
+Torino FC,Out,Angelo Pagotto,32,Italy,GK,Other,US Grosseto FC,Other,2006
+Torino FC,Out,Davide Nicola,33,Italy,RB,Other,Spezia Calcio 1906,Other,2006
+Torino FC,Out,Fabio Piroli,21,Italy,Striker,Other,Taranto FC 1927,Other,2006
+Torino FC,Out,Luca Ungari,31,Italy,CB,Other,Modena FC,Other,2006
+Torino FC,Out,Giovanni Orfei,30,Italy,CB,Other,Salernitana Calcio 1919,Other,2006
+Torino FC,Out,Claudio Ferrarese,27,Italy,RW,Other,Hellas Verona,Other,2006
+Torino FC,Out,Mark Edusei,29,"Ghana, Italy",DM,Other,Calcio Catania,Other,2006
+Torino FC,Out,Raffaele Longo,28,Italy,CM,Other,Genoa CFC,Other,2006
+Torino FC,Out,Martin Lejsal,23,Czech Republic,GK,Other,1. FC Brno,Other,2006
+ACF Fiorentina,In,Adrian Mutu,27,Romania,LW,11000000,Juventus FC,8000000,2006
+ACF Fiorentina,In,Sébastien Frey,26,France,GK,15000000,Parma FC,5750000,2006
+ACF Fiorentina,In,Mario Santana,24,"Argentina, Italy",RW,6500000,US Palermo,5500000,2006
+ACF Fiorentina,In,Massimo Gobbi,25,Italy,LB,2200000,Treviso FBC 1993,3800000,2006
+ACF Fiorentina,In,Zdravko Kuzmanovic,19,"Serbia, Switzerland",CM,800000,FC Basel 1893,3000000,2006
+ACF Fiorentina,In,Reginaldo,22,"Brazil, Italy",CF,1500000,Treviso FBC 1993,1500000,2006
+ACF Fiorentina,In,Vlada Avramov,27,"Serbia, Italy",GK,500000,Vicenza Calcio,1200000,2006
+ACF Fiorentina,In,Fabio Liverani,30,"Italy, Somalia",DM,7000000,SS Lazio,0,2006
+ACF Fiorentina,In,Francesco Parravicini,24,Italy,DM,900000,Treviso FBC 1993,Other,2006
+ACF Fiorentina,In,Henry Okoroji,22,"Nigeria, Italy",CB,Other,FC Pro Vasto,Other,2006
+ACF Fiorentina,In,Alessandro Potenza,22,Italy,RB,3000000,Inter Milan,Other,2006
+ACF Fiorentina,In,Davide Brivio,18,Italy,LB,Other,Fiorentina Primavera,Other,2006
+ACF Fiorentina,In,Stefano Del Sante,20,Italy,CF,150000,AS Pizzighettone,Other,2006
+ACF Fiorentina,Out,Bogdan Lobonț,28,Romania,GK,Other,FC Dinamo 1948,1100000,2006
+ACF Fiorentina,Out,Gianni Guigou,31,"Uruguay, Italy",DM,Other,Treviso FBC 1993,500000,2006
+ACF Fiorentina,Out,Enrico Fantini,30,Italy,CF,Other,Bologna FC 1909,500000,2006
+ACF Fiorentina,Out,Marco Di Loreto,31,Italy,CB,Other,Torino FC,500000,2006
+ACF Fiorentina,Out,Marco Roccati,31,Italy,GK,Other,US Ivrea Calcio,0,2006
+ACF Fiorentina,Out,Gianluca Berti,39,Italy,GK,Other,UC Sampdoria,0,2006
+ACF Fiorentina,Out,Federico Bini,17,Italy,GK,Other,AC Pisa 1909,Other,2006
+ACF Fiorentina,Out,Francesco Parravicini,24,Italy,DM,Other,US Palermo,Other,2006
+ACF Fiorentina,Out,Christian Riganó,32,Italy,CF,Other,FC Messina Peloro,Other,2006
+ACF Fiorentina,Out,Giuseppe Pancaro,34,Italy,RB,Other,Torino FC,Other,2006
+ACF Fiorentina,Out,Hidetoshi Nakata,29,Japan,AM,Other,Retired,Other,2006
+AC Milan,In,Ricardo Oliveira,26,Brazil,CF,6000000,Real Betis Balompié,15000000,2006
+AC Milan,In,Massimo Oddo,30,Italy,RB,10000000,SS Lazio,7750000,2006
+AC Milan,In,Ronaldo,30,"Brazil, Spain",CF,27500000,Real Madrid,7500000,2006
+AC Milan,In,Yoann Gourcuff,19,France,AM,3500000,Stade Rennais FC,4500000,2006
+AC Milan,In,Daniele Bonera,25,Italy,CB,6000000,Parma FC,3300000,2006
+AC Milan,In,Leandro Grimi,21,"Argentina, Italy",LB,2000000,Racing Club,2500000,2006
+AC Milan,In,Marco Storari,30,Italy,GK,1200000,FC Messina Peloro,850000,2006
+AC Milan,In,Ferdinando Coppola,28,Italy,GK,1500000,Ascoli Calcio 1898,200000,2006
+AC Milan,In,Giuseppe Favalli,34,Italy,LB,1500000,Inter Milan,0,2006
+AC Milan,In,Pasquale Foggia,23,Italy,AM,2500000,FC Empoli,Other,2006
+AC Milan,In,Luca Antonelli,19,Italy,LB,Other,Milan Primavera,Other,2006
+AC Milan,Out,Andriy Shevchenko,29,Ukraine,CF,Other,Chelsea FC,43880000,2006
+AC Milan,Out,Johann Vogel,29,Switzerland,DM,Other,Real Betis Balompié,4500000,2006
+AC Milan,Out,Pasquale Foggia,23,Italy,AM,Other,SS Lazio,3150000,2006
+AC Milan,Out,Jaap Stam,33,Netherlands,CB,Other,Ajax Amsterdam,3000000,2006
+AC Milan,Out,Nicola Pozzi,20,Italy,CF,Other,FC Empoli,2500000,2006
+AC Milan,Out,Michele Piccolo,20,Italy,CF,Other,AS Pizzighettone,1000,2006
+AC Milan,Out,Dimitrios Eleftheropoulos,29,Greece,GK,Other,Ascoli Calcio 1898,0,2006
+AC Milan,Out,Márcio Amoroso,32,"Brazil, Italy",CF,Other,Sport Club Corinthians Paulista,0,2006
+AC Milan,Out,Catilina Aubameyang,22,"Gabon, France",LM,Other,Paris FC,0,2006
+AC Milan,Out,Rui Costa,34,Portugal,AM,Other,SL Benfica,0,2006
+AC Milan,Out,Samuele Dalla Bona,25,Italy,CM,Other,SSC Napoli,0,2006
+AC Milan,Out,Eros Favaretto,19,Italy,GK,Other,AS Viterbese Calcio,Other,2006
+Atalanta BC,In,Moris Carrozzieri,25,Italy,CB,100000,UC Sampdoria,1970000,2006
+Atalanta BC,In,Fernando Tissone,20,"Argentina, Italy",DM,2000000,Udinese Calcio,1500000,2006
+Atalanta BC,In,Christian Vieri,33,"Italy, Australia",CF,8000000,UC Sampdoria,0,2006
+Atalanta BC,In,Cristiano Doni,33,Italy,AM,800000,RCD Mallorca,0,2006
+Atalanta BC,In,Nelson Abeijón,33,"Uruguay, Italy",DM,1000000,Cagliari Calcio,0,2006
+Atalanta BC,In,Ferreira Pinto,26,Brazil,RW,Other,AC Cesena,Other,2006
+Atalanta BC,In,Andrea Consigli,19,Italy,GK,50000,Atalanta Primavera,Other,2006
+Atalanta BC,In,Alessio Manzoni,19,Italy,CM,Other,Atalanta Primavera,Other,2006
+Atalanta BC,Out,Christian Tiboni,18,Italy,CF,Other,Udinese Calcio,1100000,2006
+Atalanta BC,Out,Igor Budan,26,Croatia,CF,Other,US Palermo,1000000,2006
+Atalanta BC,Out,Luis Fernando Centi,30,"Italy, Colombia",CM,Other,Ascoli Calcio 1898,725000,2006
+Atalanta BC,Out,Duccio Innocenti,30,Italy,CB,Other,UC AlbinoLeffe,0,2006
+Atalanta BC,Out,Giovanni Pagnoni,20,Italy,Midfielder,Other,ASD Nuova Vis Pesaro 2006,0,2006
+Atalanta BC,Out,Michele Marcolini,30,Italy,CM,Other,Chievo Verona,Other,2006
+Atalanta BC,Out,Andrea Soncin,28,Italy,CF,Other,Ascoli Calcio 1898,Other,2006
+Atalanta BC,Out,Luca Saudati,28,Italy,CF,Other,FC Empoli,Other,2006
+Atalanta BC,Out,Ernesto Terra,28,Italy,CB,Other,AC Arezzo,Other,2006
+UC Sampdoria,In,Emiliano Bonazzoli,27,Italy,CF,5000000,Parma FC,5250000,2006
+UC Sampdoria,In,Pietro Accardi,23,Italy,CB,250000,US Palermo,2000000,2006
+UC Sampdoria,In,Massimo Bonanni,24,Italy,LM,2000000,US Palermo,2000000,2006
+UC Sampdoria,In,Fabio Quagliarella,23,Italy,CF,1800000,Udinese Calcio,1500000,2006
+UC Sampdoria,In,Christian Terlizzi,26,Italy,CB,5600000,US Palermo,1500000,2006
+UC Sampdoria,In,Andrea Parola,27,Italy,DM,1000000,Ascoli Calcio 1898,900000,2006
+UC Sampdoria,In,Mirko Pieri,27,Italy,LB,400000,Udinese Calcio,600000,2006
+UC Sampdoria,In,Al-Saadi Al Gaddafi,33,Libya,AM,200000,Al-Jamahiriyah,275000,2006
+UC Sampdoria,In,Christian Vieri,32,"Italy, Australia",CF,8000000,AS Monaco,0,2006
+UC Sampdoria,In,Gianluca Berti,39,Italy,GK,100000,ACF Fiorentina,0,2006
+UC Sampdoria,In,Daniele Franceschini,30,Italy,LM,2300000,Chievo Verona,0,2006
+UC Sampdoria,In,Saidi Oluseyi Adeshokan,21,Nigeria,CF,50000,FC Chiasso,Other,2006
+UC Sampdoria,In,Ivan Zivanovic,24,Serbia,CB,100000,FK Smederevo 1924,Other,2006
+UC Sampdoria,In,Alessandro Romeo,19,Italy,CF,Other,Sampdoria Primavera,Other,2006
+UC Sampdoria,In,Vladimir Koman,17,"Hungary, Ukraine",AM,Other,Sampdoria Primavera,Other,2006
+UC Sampdoria,In,Bidre'ce Azor,18,"Haiti, Italy",Striker,Other,Sampdoria Primavera,Other,2006
+UC Sampdoria,Out,Aimo Diana,28,Italy,RM,Other,US Palermo,5000000,2006
+UC Sampdoria,Out,Marco Pisano,24,Italy,LB,Other,US Palermo,4000000,2006
+UC Sampdoria,Out,Maurizio Domizzi,26,Italy,CB,Other,SSC Napoli,2750000,2006
+UC Sampdoria,Out,Vitaliy Kutuzov,26,Belarus,CF,Other,Parma FC,2000000,2006
+UC Sampdoria,Out,Moris Carrozzieri,25,Italy,CB,Other,Atalanta BC,1970000,2006
+UC Sampdoria,Out,Giampaolo Calzi,20,Italy,DM,Other,Ravenna Calcio,300000,2006
+UC Sampdoria,Out,Christian Vieri,33,"Italy, Australia",CF,Other,Atalanta BC,0,2006
+UC Sampdoria,Out,Mark Iuliano,32,Italy,CB,Other,FC Messina Peloro,0,2006
+UC Sampdoria,Out,Marcello Castellini,33,Italy,CB,Other,Bologna FC 1909,0,2006
+UC Sampdoria,Out,Francesco Antonioli,36,Italy,GK,Other,Bologna FC 1909,0,2006
+UC Sampdoria,Out,Max Tonetto,31,Italy,LB,Other,AS Roma,0,2006
+UC Sampdoria,Out,Thomas Job,21,Cameroon,RW,Other,Ascoli Calcio 1898,Other,2006
+UC Sampdoria,Out,Corrado Colombo,26,Italy,CF,Other,Brescia Calcio,Other,2006
+UC Sampdoria,Out,Simone Pavan,32,Italy,CB,Other,AS Livorno,Other,2006
+UC Sampdoria,Out,Gionata Mingozzi,21,Italy,CM,Other,US Lecce,Other,2006
+UC Sampdoria,Out,Francesco Flachi,32,Italy,CF,Other,Without Club,Other,2006
+US Palermo,In,Amauri,26,"Italy, Brazil",CF,4000000,Chievo Verona,8750000,2006
+US Palermo,In,Fábio Simplício,26,Brazil,CM,6000000,Parma FC,5500000,2006
+US Palermo,In,Edinson Cavani,19,"Uruguay, Italy",CF,Other,Danubio FC,5000000,2006
+US Palermo,In,Aimo Diana,28,Italy,RM,7500000,UC Sampdoria,5000000,2006
+US Palermo,In,Marco Pisano,24,Italy,LB,3500000,UC Sampdoria,4000000,2006
+US Palermo,In,Cesare Bovo,23,Italy,CB,4500000,AS Roma,3550000,2006
+US Palermo,In,Roberto Guana,25,Italy,CM,1500000,Brescia Calcio,3500000,2006
+US Palermo,In,Mark Bresciano,26,"Australia, Italy",CM,4500000,Parma FC,2500000,2006
+US Palermo,In,Mattia Cassani,22,Italy,RB,600000,Hellas Verona,2500000,2006
+US Palermo,In,Radoslaw Matusiak,25,Poland,CF,2500000,GKS Belchatow,1900000,2006
+US Palermo,In,Paolo Dellafiore,21,"Italy, Argentina",CB,1500000,Inter Milan,1500000,2006
+US Palermo,In,Ciro Capuano,24,Italy,LB,450000,Bologna FC 1909,1000000,2006
+US Palermo,In,Igor Budan,26,Croatia,CF,3000000,Atalanta BC,1000000,2006
+US Palermo,In,Alberto Fontana,39,Italy,GK,600000,Chievo Verona,0,2006
+US Palermo,In,Guillermo Giacomazzi,29,"Uruguay, Italy",CM,2500000,US Lecce,Other,2006
+US Palermo,In,Gianni Munari,23,Italy,CM,400000,Hellas Verona,Other,2006
+US Palermo,In,Francesco Parravicini,24,Italy,DM,900000,ACF Fiorentina,Other,2006
+US Palermo,In,Nicola Ficano,19,Italy,LB,Other,US Palermo Youth,Other,2006
+US Palermo,In,Salvatore Sirigu,19,Italy,GK,50000,Palermo Primavera,Other,2006
+US Palermo,Out,Stephen Makinwa,22,"Nigeria, Italy",CF,Other,SS Lazio,6300000,2006
+US Palermo,Out,Mario Santana,24,"Argentina, Italy",RW,Other,ACF Fiorentina,5500000,2006
+US Palermo,Out,Fabio Grosso,28,Italy,LB,Other,Inter Milan,5500000,2006
+US Palermo,Out,Simone Barone,28,Italy,CM,Other,Torino FC,4100000,2006
+US Palermo,Out,Pietro Accardi,23,Italy,CB,Other,UC Sampdoria,2000000,2006
+US Palermo,Out,Massimo Bonanni,24,Italy,LM,Other,UC Sampdoria,2000000,2006
+US Palermo,Out,Christian Terlizzi,26,Italy,CB,Other,UC Sampdoria,1500000,2006
+US Palermo,Out,Denis Godeas,31,Italy,CF,Other,Chievo Verona,700000,2006
+US Palermo,Out,Valerio Virga,20,Italy,RB,Other,AS Roma,500000,2006
+US Palermo,Out,Massimo Mutarelli,28,Italy,CM,Other,SS Lazio,0,2006
+US Palermo,Out,Paul Codrea,25,Romania,CM,Other,AC Siena,Other,2006
+US Palermo,Out,Andrea Gasbarroni,24,Italy,SS,Other,Parma FC,Other,2006
+US Palermo,Out,Matteo Guardalben,32,Italy,GK,Other,Vicenza Calcio,Other,2006
+FC Empoli,In,Nicola Pozzi,20,Italy,CF,3000000,AC Milan,2500000,2006
+FC Empoli,In,Dezmon Giraldi,20,Australia,CF,Other,Cuoiopelli Cappiano Romaiano,Other,2006
+FC Empoli,In,Francesco Marianini,27,Italy,CM,800000,US Lecce,Other,2006
+FC Empoli,In,Daniele Adani,32,Italy,CB,450000,Ascoli Calcio 1898,Other,2006
+FC Empoli,In,Davide Bassi,21,Italy,GK,Other,US Massese 1919,Other,2006
+FC Empoli,In,Luca Saudati,28,Italy,CF,600000,Atalanta BC,Other,2006
+FC Empoli,In,Simone Iacoponi,19,Italy,CB,Other,Empoli Primavera,Other,2006
+FC Empoli,In,Éder,19,"Italy, Brazil",CF,150000,Empoli Primavera,Other,2006
+FC Empoli,In,Gianluca Musacci,19,Italy,CM,Other,Empoli Primavera,Other,2006
+FC Empoli,Out,Francesco Tavano,27,Italy,CF,Other,Valencia CF,10000000,2006
+FC Empoli,Out,Andrea Coda,21,Italy,CB,Other,Udinese Calcio,2320000,2006
+FC Empoli,Out,Daniele Buzzegoli,23,Italy,DM,Other,AC Pisa 1909,0,2006
+FC Empoli,Out,Paolo Zanetti,23,Italy,DM,Other,Ascoli Calcio 1898,0,2006
+FC Empoli,Out,Claudio Sciannamè,18,Italy,LB,Other,Rovigo Calcio,0,2006
+FC Empoli,Out,Riccardo Bonetto,27,Italy,LB,Other,SS Lazio,0,2006
+FC Empoli,Out,Mirco Gasparetto,26,Italy,CF,Other,Genoa CFC,Other,2006
+FC Empoli,Out,Matteo Serafini,28,Italy,CF,Other,Brescia Calcio,Other,2006
+FC Empoli,Out,Tommaso Pieroni,19,Italy,RM,Other,AC Sporting Cecina,Other,2006
+FC Empoli,Out,Pasquale Foggia,23,Italy,AM,Other,AC Milan,Other,2006
+FC Empoli,Out,Sebastián Cejas,31,Argentina,GK,Other,CSD Colo-Colo,Other,2006
+FC Messina Peloro,In,Angelo Rea,24,Italy,CB,50000,AC Cesena,500000,2006
+FC Messina Peloro,In,Daniele De Vezze,26,Italy,CM,400000,Genoa CFC,0,2006
+FC Messina Peloro,In,Mark Iuliano,32,Italy,CB,1000000,UC Sampdoria,0,2006
+FC Messina Peloro,In,Gabriele Paoletti,28,Italy,GK,800000,Udinese Calcio,0,2006
+FC Messina Peloro,In,Vincent Candela,33,France,LB,1500000,AC Siena,0,2006
+FC Messina Peloro,In,Nicolás Córdova,27,Chile,CM,300000,AS Livorno,0,2006
+FC Messina Peloro,In,Saul Santarelli,32,Italy,GK,100000,Forlì FC,0,2006
+FC Messina Peloro,In,Andrea Gaveglia,22,Italy,LB,Other,SSC Giugliano,Other,2006
+FC Messina Peloro,In,Antonio Ghomsi,20,"Cameroon, Italy",LB,Other,Perugia Calcio,Other,2006
+FC Messina Peloro,In,Gennaro Scafaro,26,Italy,Defender,Other,ASD Città di Acri,Other,2006
+FC Messina Peloro,In,Enrico Morello,29,Italy,CB,Other,SEF Torres 1903,Other,2006
+FC Messina Peloro,In,Massimo Minetti,28,Italy,SS,Other,SEF Torres 1903,Other,2006
+FC Messina Peloro,In,Luigi Lavecchia,24,Italy,RM,500000,Juventus FC,Other,2006
+FC Messina Peloro,In,Manolo Pestrin,28,Italy,DM,150000,AC Cesena,Other,2006
+FC Messina Peloro,In,Christian Riganó,32,Italy,CF,800000,ACF Fiorentina,Other,2006
+FC Messina Peloro,In,Roberto D'Aversa,31,Italy,CM,1000000,AC Siena,Other,2006
+FC Messina Peloro,In,Gaetano Calà,17,Italy,CB,Other,Messina Berretti,Other,2006
+FC Messina Peloro,In,Alessandro Cesaretti,38,Italy,GK,50000,Without Club,Other,2006
+FC Messina Peloro,Out,Marco Storari,30,Italy,GK,Other,AC Milan,850000,2006
+FC Messina Peloro,Out,Salvatore Aronica,28,Italy,CB,Other,Reggina Calcio,800000,2006
+FC Messina Peloro,Out,Rahman Rezaei,31,"Iran, Italy",CB,Other,AS Livorno,500000,2006
+FC Messina Peloro,Out,Filippo Cristante,29,Italy,CB,Other,AC Mantova 1911,300000,2006
+FC Messina Peloro,Out,Simone Eramo,20,Italy,CB,Other,AC Bellinzona,75000,2006
+FC Messina Peloro,Out,Giuseppe Santoro,18,Italy,GK,Other,SS Villacidrese,0,2006
+FC Messina Peloro,Out,Rafael,26,Brazil,RB,Other,Fluminense Football Club,0,2006
+FC Messina Peloro,Out,Andrea Pansera,26,Italy,GK,Other,Calcio Padova,0,2006
+FC Messina Peloro,Out,Nicholas Caglioni,24,Italy,GK,Other,Disqualification,Other,2006
+FC Messina Peloro,Out,Salvatore Sullo,35,Italy,AM,Other,US Avellino,Other,2006
+FC Messina Peloro,Out,Francesco Girillo,20,Italy,CM,Other,AS Andria BAT,Other,2006
+FC Messina Peloro,Out,Alessandro Cesaretti,38,Italy,GK,Other,Retired,Other,2006
+AS Livorno,In,Giovanni Pasquale,24,Italy,LM,1500000,Inter Milan,800000,2006
+AS Livorno,In,Rahman Rezaei,31,"Iran, Italy",CB,1000000,FC Messina Peloro,500000,2006
+AS Livorno,In,Dario Knezevic,24,Croatia,CB,Other,HNK Rijeka,500000,2006
+AS Livorno,In,José Luís Vidigal,33,"Portugal, Angola",DM,1500000,Udinese Calcio,0,2006
+AS Livorno,In,Emanuele Manitta,29,Italy,GK,350000,Bologna FC 1909,Other,2006
+AS Livorno,In,Antonio Filippini,33,Italy,RM,1000000,Treviso FBC 1993,Other,2006
+AS Livorno,In,Nicola Iannotti,21,Italy,RM,Other,Novara Calcio 1908,Other,2006
+AS Livorno,In,Simone Pavan,32,Italy,CB,500000,UC Sampdoria,Other,2006
+AS Livorno,In,Martin Bergvold,22,Denmark,DM,375000,FC Copenhagen,Other,2006
+AS Livorno,In,Niccolò Casini,21,Italy,GK,Other,ASD Rondinella Marzocco,Other,2006
+AS Livorno,In,Umberto Quistelli,27,Italy,Midfielder,Other,FC Sporting Genzano,Other,2006
+AS Livorno,Out,Tomas Danilevicius,28,"Lithuania, Greece",CF,Other,Bologna FC 1909,2000000,2006
+AS Livorno,Out,Nikola Lazetic,28,Serbia,RM,Other,Torino FC,720000,2006
+AS Livorno,Out,Jorge Vargas,30,Chile,CB,Other,Red Bull Salzburg,0,2006
+AS Livorno,Out,Edoardo Grosso,19,Italy,Striker,Other,US Città di Pontedera,0,2006
+AS Livorno,Out,César Prates,31,"Brazil, Italy",RB,Other,Chievo Verona,0,2006
+AS Livorno,Out,Gabriele Falchini,20,Italy,CF,Other,San Francesco Loano,0,2006
+AS Livorno,Out,Nicolás Córdova,27,Chile,CM,Other,FC Messina Peloro,0,2006
+AS Livorno,Out,Emmanuel Osei,23,Ghana,DM,Other,ASV Cham,0,2006
+AS Livorno,Out,Paolo Ginestra,27,Italy,GK,Other,Ternana Calcio,0,2006
+AS Livorno,Out,Gennaro Ruotolo,39,Italy,CM,Other,Sorrento Calcio,0,2006
+AS Livorno,Out,Francesco De Iuliis,17,Italy,Defender,Other,Unknown,Other,2006
+AS Livorno,Out,Luca Mazzoni,22,Italy,GK,Other,Calcio Lecco 1912,Other,2006
+AS Livorno,Out,Stefano Argilli,33,Italy,CB,Other,Frosinone Calcio,Other,2006
+AS Livorno,Out,Alessandro Stefanini,19,Italy,Midfielder,Other,FC Pavia 1911,Other,2006
+AS Livorno,Out,Luca Vigiani,30,Italy,RM,Other,Reggina Calcio,Other,2006
+AC Siena,In,Valerio Bertotto,33,Italy,CB,1250000,Udinese Calcio,2500000,2006
+AC Siena,In,Daniele Corvia,21,Italy,CF,2000000,AS Roma,400000,2006
+AC Siena,In,Alexander Manninger,29,Austria,GK,1400000,Red Bull Salzburg,0,2006
+AC Siena,In,Nicola Pavarini,32,Italy,GK,600000,Reggina Calcio,0,2006
+AC Siena,In,Massimo Maccarone,27,Italy,CF,3500000,Middlesbrough FC,0,2006
+AC Siena,In,Vincent Candela,32,France,LB,1500000,Udinese Calcio,0,2006
+AC Siena,In,Anssi Jaakkola,19,Finland,GK,Other,Tornion Pallo -47,0,2006
+AC Siena,In,Mario Frick,31,"Liechtenstein, Switzerland",CF,150000,Ternana Calcio,0,2006
+AC Siena,In,Paul Codrea,25,Romania,CM,500000,US Palermo,Other,2006
+AC Siena,In,Giovanni Bartolucci,22,Italy,RB,100000,SEF Torres 1903,Other,2006
+AC Siena,In,Gorazd Zajc,18,Slovenia,CF,Other,NK Maribor,Other,2006
+AC Siena,In,Abdoulay Konko,22,"France, Morocco",RB,600000,Juventus FC,Other,2006
+AC Siena,In,Marcin Siedlarz,18,Poland,CM,175000,Widzew Lodz,Other,2006
+AC Siena,In,Ezio Brevi,36,Italy,DM,Other,Calcio Catania,Other,2006
+AC Siena,In,Andrea Masiello,20,Italy,CB,50000,Juventus FC,Other,2006
+AC Siena,In,Thomas Albanese,18,Italy,CF,Other,Tolentino Calcio,Other,2006
+AC Siena,In,Alessandro Bettega,19,Italy,CM,Other,Juventus Primavera,Other,2006
+AC Siena,In,Rosario Pepe,19,"Belgium, Italy",CM,Other,Siena Primavera,Other,2006
+AC Siena,Out,Erjon Bogdani,29,Albania,CF,Other,Chievo Verona,3000000,2006
+AC Siena,Out,Vincent Candela,33,France,LB,Other,FC Messina Peloro,0,2006
+AC Siena,Out,Francesco Colonnese,34,Italy,CB,Other,Potenza Sport Club,0,2006
+AC Siena,Out,Jacopo Piazzi,19,Italy,LB,Other,US Forcoli 1921,0,2006
+AC Siena,Out,Giuseppe Campisi,19,Italy,Defender,Other,SSC Giugliano,Other,2006
+AC Siena,Out,Fernando,25,"Brazil, Italy",DM,Other,FC Girondins Bordeaux,Other,2006
+AC Siena,Out,Marco Fortin,31,Italy,GK,Other,Cagliari Calcio,Other,2006
+AC Siena,Out,Andrea Masiello,20,Italy,CB,200000,Genoa CFC,Other,2006
+AC Siena,Out,Gorazd Zajc,19,Slovenia,CF,Other,NK Maribor,Other,2006
+AC Siena,Out,Tomás Guzmán,24,Paraguay,AM,Other,Juventus FC,Other,2006
+AC Siena,Out,Simone Bonomi,25,Italy,LB,Other,FC Crotone,Other,2006
+AC Siena,Out,Gianluca Falsini,30,Italy,LB,Other,Calcio Catania,Other,2006
+AC Siena,Out,Roberto D'Aversa,31,Italy,CM,Other,FC Messina Peloro,Other,2006
+AC Siena,Out,Davide Zomer,29,Italy,GK,Other,AC Ancona,Other,2006
+AC Siena,Out,Paolo Foglio,30,Italy,RB,Other,Ascoli Calcio 1898,Other,2006
+Parma FC,In,Vitaliy Kutuzov,26,Belarus,CF,3500000,UC Sampdoria,2000000,2006
+Parma FC,In,Antonio Bocchetti,26,Italy,LB,200000,Piacenza FC,620000,2006
+Parma FC,In,Paolo Castellini,27,Italy,LB,1500000,Real Betis Balompié,0,2006
+Parma FC,In,Andrea Gasbarroni,24,Italy,SS,3500000,US Palermo,Other,2006
+Parma FC,In,Massimo Paci,28,Italy,CB,400000,Ascoli Calcio 1898,Other,2006
+Parma FC,In,Federico Moretti,17,Italy,CM,Other,Parma Primavera,Other,2006
+Parma FC,Out,Sébastien Frey,26,France,GK,Other,ACF Fiorentina,5750000,2006
+Parma FC,Out,Fábio Simplício,26,Brazil,CM,Other,US Palermo,5500000,2006
+Parma FC,Out,Emiliano Bonazzoli,27,Italy,CF,Other,UC Sampdoria,5250000,2006
+Parma FC,Out,Daniele Bonera,25,Italy,CB,Other,AC Milan,3300000,2006
+Parma FC,Out,Mark Bresciano,26,"Australia, Italy",CM,Other,US Palermo,2500000,2006
+Parma FC,Out,Marco Marchionni,25,Italy,RM,Other,Juventus FC,0,2006
+Parma FC,Out,Marco Delvecchio,33,Italy,CF,Other,Ascoli Calcio 1898,0,2006
+Parma FC,Out,Zlatko Dedic,22,Slovenia,CF,Other,Frosinone Calcio,Other,2006
+Parma FC,Out,Paolo Cannavaro,25,Italy,CB,Other,SSC Napoli,Other,2006
+Parma FC,Out,Marco Fanna,19,Italy,LM,Other,AC Trento,Other,2006
+Parma FC,Out,Francesco Ruopolo,23,Italy,CF,Other,US Triestina,Other,2006
+Calcio Catania,In,Mariano Izco,23,"Argentina, Italy",CM,Other,Club Atlético Tigre,60000,2006
+Calcio Catania,In,Fausto Rossini,28,Italy,CF,1500000,Udinese Calcio,0,2006
+Calcio Catania,In,Raffaele Ioime,19,Italy,GK,Other,AS Cosenza Calcio,0,2006
+Calcio Catania,In,Giorgio Corona,32,Italy,CF,250000,Catanzaro FC,0,2006
+Calcio Catania,In,Juan Manuel Vargas,22,Peru,LB,400000,CA Colón,0,2006
+Calcio Catania,In,Wálter García,22,"Argentina, Spain",CB,750000,Rubin Kazan,Other,2006
+Calcio Catania,In,Marco Biagianti,22,Italy,DM,Other,FC Pro Vasto,Other,2006
+Calcio Catania,In,Giuseppe Colucci,25,Italy,CM,2000000,Hellas Verona,Other,2006
+Calcio Catania,In,Gianvito Plasmati,23,Italy,CF,Other,AS Andria BAT,Other,2006
+Calcio Catania,In,Francesco Millesi,25,Italy,LW,800000,US Avellino,Other,2006
+Calcio Catania,In,Mark Edusei,29,"Ghana, Italy",DM,600000,Torino FC,Other,2006
+Calcio Catania,In,Lorenzo Stovini,29,Italy,CB,800000,US Lecce,Other,2006
+Calcio Catania,In,Gennaro Sardo,27,Italy,RB,300000,Piacenza FC,Other,2006
+Calcio Catania,In,Vincenzo Ferrante,19,Italy,GK,Other,Paganese Calcio 1926,Other,2006
+Calcio Catania,In,Gianluca Falsini,30,Italy,LB,1000000,AC Siena,Other,2006
+Calcio Catania,In,Mauro Minelli,25,Italy,CB,550000,UC AlbinoLeffe,Other,2006
+Calcio Catania,Out,Roberto De Zerbi,27,Italy,AM,Other,SSC Napoli,2500000,2006
+Calcio Catania,Out,Antonino Cardinale,30,Italy,CM,Other,US Foggia,0,2006
+Calcio Catania,Out,Renato Olive,35,Italy,CM,Other,Bologna FC 1909,0,2006
+Calcio Catania,Out,Vito Laudicina,17,Italy,GK,Other,Città di Carini,0,2006
+Calcio Catania,Out,Wálter García,22,"Argentina, Spain",CB,Other,Quilmes AC,Other,2006
+Calcio Catania,Out,Orazio Russo,32,Italy,RW,Other,Calcio Padova,Other,2006
+Calcio Catania,Out,Adriano Mezavilla,23,"Brazil, Italy",DM,Other,AC Cesena,Other,2006
+Calcio Catania,Out,Luciano Zavagno,28,"Argentina, Italy",LB,Other,Ionikos Nikeas,Other,2006
+Calcio Catania,Out,Ezio Brevi,36,Italy,DM,Other,AC Siena,Other,2006
+Calcio Catania,Out,Matteo Gritti,19,Italy,CB,Other,AS Andria BAT,Other,2006
+Reggina Calcio,In,Ivan Pelizzoli,25,Italy,GK,3000000,AS Roma,2000000,2006
+Reggina Calcio,In,Nenad Novakovic,24,Serbia,GK,Other,Odense Boldklub,1600000,2006
+Reggina Calcio,In,Salvatore Aronica,28,Italy,CB,1000000,FC Messina Peloro,800000,2006
+Reggina Calcio,In,Nicki Bille,18,Denmark,CF,Other,BK Frem,250000,2006
+Reggina Calcio,In,Andrea Campagnolo,29,Italy,GK,950000,Cagliari Calcio,0,2006
+Reggina Calcio,In,Daniele Amerini,31,Italy,CM,100000,Modena FC,0,2006
+Reggina Calcio,In,Julio de León,26,Honduras,AM,150000,Teramo Calcio,Other,2006
+Reggina Calcio,In,Christian Puggioni,25,Italy,GK,Other,AC Pisa 1909,Other,2006
+Reggina Calcio,In,Luca Tognozzi,28,Italy,CM,Other,Pescara Calcio,Other,2006
+Reggina Calcio,In,Palmiro Di Dio,20,Italy,CB,Other,Ternana Calcio,Other,2006
+Reggina Calcio,In,Luca Vigiani,30,Italy,RM,600000,AS Livorno,Other,2006
+Reggina Calcio,In,Giovanni Morabito,27,Italy,LB,100000,AC Cesena,Other,2006
+Reggina Calcio,In,Pietro Marino,19,Italy,GK,Other,Reggina Primavera,Other,2006
+Reggina Calcio,In,Gaetano Ungaro,18,Italy,CB,50000,Reggina Primavera,Other,2006
+Reggina Calcio,In,Antonino Barillà,18,Italy,CM,125000,Reggina Primavera,Other,2006
+Reggina Calcio,Out,Julio de León,27,Honduras,AM,Other,Genoa CFC,3200000,2006
+Reggina Calcio,Out,Ivan Pelizzoli,26,Italy,GK,Other,Lokomotiv Moskau,3000000,2006
+Reggina Calcio,Out,Luca Rigoni,21,Italy,CM,Other,Vicenza Calcio,1000000,2006
+Reggina Calcio,Out,Ivan Franceschini,29,Italy,CB,Other,Torino FC,800000,2006
+Reggina Calcio,Out,Juriy Cannarsa,30,Italy,RB,Other,Frosinone Calcio,0,2006
+Reggina Calcio,Out,Marco Zamboni,28,Italy,CB,Other,Spezia Calcio 1906,0,2006
+Reggina Calcio,Out,Nicola Pavarini,32,Italy,GK,Other,AC Siena,0,2006
+Reggina Calcio,Out,Carlos Paredes,29,Paraguay,DM,Other,Sporting CP,0,2006
+Reggina Calcio,Out,Filippo Carobbio,27,Italy,CM,Other,Genoa CFC,Other,2006
+Reggina Calcio,Out,Antonio Saviano,22,Italy,GK,Other,SSC Napoli,Other,2006
+Reggina Calcio,Out,Francesco Cosenza,20,Italy,CB,Other,Taranto FC 1927,Other,2006
+Reggina Calcio,Out,Bruno Lança,23,Brazil,Midfielder,Other,Hubei Wuhan (-2008),Other,2006
+Reggina Calcio,Out,Davide Dionigi,32,Italy,CF,Other,Spezia Calcio 1906,Other,2006
+Reggina Calcio,Out,Gaetano De Rosa,33,Italy,CB,Other,Genoa CFC,Other,2006
+Chievo Verona,In,Erjon Bogdani,29,Albania,CF,3250000,AC Siena,3000000,2006
+Chievo Verona,In,Denis Godeas,31,Italy,CF,800000,US Palermo,700000,2006
+Chievo Verona,In,Giuseppe Cozzolino,21,Italy,CF,800000,US Lecce,300000,2006
+Chievo Verona,In,Simone Bentivoglio,21,Italy,CM,50000,Juventus FC,220000,2006
+Chievo Verona,In,Carlo Ferrario,19,Italy,CF,Other,Calcio Lecco 1912,1000,2006
+Chievo Verona,In,César Prates,31,"Brazil, Italy",RB,3000000,AS Livorno,0,2006
+Chievo Verona,In,Xhulian Rrudho,19,Albania,CF,Other,AC Ancona,0,2006
+Chievo Verona,In,Emanuele Concetti,28,Italy,GK,70000,US Sambenedettese,Other,2006
+Chievo Verona,In,Vincenzo Sicignano,31,Italy,GK,600000,US Lecce,Other,2006
+Chievo Verona,In,Michele Marcolini,30,Italy,CM,900000,Atalanta BC,Other,2006
+Chievo Verona,In,Diego Oliveira,20,Brazil,RW,Other,Calcio Padova,Other,2006
+Chievo Verona,In,Vincenzo Italiano,29,Italy,CM,700000,Hellas Verona,Other,2006
+Chievo Verona,In,Mattia Passarini,25,Italy,GK,Other,FC Vittoria,Other,2006
+Chievo Verona,In,Michele Troiano,21,Italy,DM,200000,Modena FC,Other,2006
+Chievo Verona,In,Dario Scardina,18,Italy,RB,Other,Chievo Primavera,Other,2006
+Chievo Verona,Out,Amauri,26,"Italy, Brazil",CF,Other,US Palermo,8750000,2006
+Chievo Verona,Out,Daniele Franceschini,30,Italy,LM,Other,UC Sampdoria,0,2006
+Chievo Verona,Out,Alberto Fontana,39,Italy,GK,Other,US Palermo,0,2006
+Chievo Verona,Out,Andrea Zanchetta,31,Italy,CM,Other,US Lecce,0,2006
+Chievo Verona,Out,Simone Tiribocchi,28,Italy,CF,Other,US Lecce,Other,2006
+Chievo Verona,Out,Denis Godeas,31,Italy,CF,Other,AC Mantova 1911,Other,2006
+Chievo Verona,Out,Salvatore Bruno,27,Italy,CF,Other,Modena FC,Other,2006
+Chievo Verona,Out,Davide Succi,24,Italy,CF,Other,Ravenna Calcio,Other,2006
+Chievo Verona,Out,Emiliano Landolina,19,Italy,Midfielder,Other,AC Prato,Other,2006
+Ascoli Calcio 1898,In,Luis Fernando Centi,30,"Italy, Colombia",CM,400000,Atalanta BC,725000,2006
+Ascoli Calcio 1898,In,Stefano Guberti,21,Italy,LW,Other,SEF Torres 1903,300000,2006
+Ascoli Calcio 1898,In,Gianluca Pagliuca,39,Italy,GK,300000,Bologna FC 1909,0,2006
+Ascoli Calcio 1898,In,Olivier N’Siabamfumu,20,"France, DR Congo",CB,Other,Stade Rennais FC B,0,2006
+Ascoli Calcio 1898,In,Simone Pesce,23,Italy,DM,Other,SEF Torres 1903,0,2006
+Ascoli Calcio 1898,In,Paolo Zanetti,23,Italy,DM,600000,FC Empoli,0,2006
+Ascoli Calcio 1898,In,Dimitrios Eleftheropoulos,29,Greece,GK,600000,AC Milan,0,2006
+Ascoli Calcio 1898,In,Valentin Năstase,31,Romania,CB,100000,Bologna FC 1909,0,2006
+Ascoli Calcio 1898,In,Ervin Skela,29,"Albania, Italy",AM,1100000,1.FC Kaiserslautern,0,2006
+Ascoli Calcio 1898,In,Fabio Pecchia,32,Italy,RM,1000000,Bologna FC 1909,0,2006
+Ascoli Calcio 1898,In,Marco Delvecchio,33,Italy,CF,750000,Parma FC,0,2006
+Ascoli Calcio 1898,In,Giampietro Perrulli,21,Italy,LW,175000,US Sambenedettese,Other,2006
+Ascoli Calcio 1898,In,Thomas Job,21,Cameroon,RW,250000,UC Sampdoria,Other,2006
+Ascoli Calcio 1898,In,Stefano Lombardi,30,Italy,CB,50000,AC Arezzo,Other,2006
+Ascoli Calcio 1898,In,Michelangelo Minieri,25,Italy,CB,400000,US Triestina,Other,2006
+Ascoli Calcio 1898,In,Gaetano Fontana,36,Italy,CM,150000,SSC Napoli,Other,2006
+Ascoli Calcio 1898,In,Gaetano Vastola,28,Italy,RB,150000,Salernitana Calcio 1919,Other,2006
+Ascoli Calcio 1898,In,Andrea Soncin,28,Italy,CF,200000,Atalanta BC,Other,2006
+Ascoli Calcio 1898,In,Marco Pecorari,28,Italy,CB,500000,US Lecce,Other,2006
+Ascoli Calcio 1898,In,Paolo Foglio,30,Italy,RB,400000,AC Siena,Other,2006
+Ascoli Calcio 1898,In,Salvatore Bocchetti,19,"Italy, Russia",CB,Other,Ascoli Picchio Primavera,Other,2006
+Ascoli Calcio 1898,In,Luigi Di Biagio,35,Italy,DM,825000,Without Club,Other,2006
+Ascoli Calcio 1898,Out,Salvatore Bocchetti,20,"Italy, Russia",CB,Other,Frosinone Calcio,1900000,2006
+Ascoli Calcio 1898,Out,Andrea Parola,27,Italy,DM,Other,UC Sampdoria,900000,2006
+Ascoli Calcio 1898,Out,Angelo Antonazzo,24,Italy,RB,Other,Modena FC,300000,2006
+Ascoli Calcio 1898,Out,Ferdinando Coppola,28,Italy,GK,Other,AC Milan,200000,2006
+Ascoli Calcio 1898,Out,Marco Ferrante,35,"Italy, Australia",CF,Other,Pescara Calcio,0,2006
+Ascoli Calcio 1898,Out,Alfredo Cariello,26,Italy,LM,Other,FC Crotone,0,2006
+Ascoli Calcio 1898,Out,Domenico Cristiano,30,Italy,DM,Other,Rimini FC,0,2006
+Ascoli Calcio 1898,Out,Andrade,27,"Portugal, Brazil",GK,Other,Duque de Caxias FC (RJ),0,2006
+Ascoli Calcio 1898,Out,Ervin Skela,30,"Albania, Italy",AM,Other,FC Energie Cottbus,0,2006
+Ascoli Calcio 1898,Out,Ivano Della Morte,31,Italy,CM,Other,Forza e Coraggio Alessandria,0,2006
+Ascoli Calcio 1898,Out,Cristiano Del Grosso,23,Italy,LB,Other,Cagliari Calcio,Other,2006
+Ascoli Calcio 1898,Out,Roberto Guana,25,Italy,CM,Other,Brescia Calcio,Other,2006
+Ascoli Calcio 1898,Out,Mirko Cudini,33,Italy,CB,Other,Vicenza Calcio,Other,2006
+Ascoli Calcio 1898,Out,Fabio Pecchia,33,Italy,RM,Other,US Foggia,Other,2006
+Ascoli Calcio 1898,Out,Alessandro Moro,21,Italy,DM,Other,Treviso FBC 1993,Other,2006
+Ascoli Calcio 1898,Out,Daniele Adani,32,Italy,CB,Other,FC Empoli,Other,2006
+Ascoli Calcio 1898,Out,Massimo Paci,28,Italy,CB,Other,Parma FC,Other,2006
+Ascoli Calcio 1898,Out,Maurizio Lauro,25,Italy,CB,Other,AC Cesena,Other,2006
+Ascoli Calcio 1898,Out,Vincenzo Patrick Guglielmelli,19,Italy,Striker,Other,AS Viterbese Calcio,Other,2006
+Ascoli Calcio 1898,Out,Marco Pecorari,28,Italy,CB,Other,Spezia Calcio 1906,Other,2006
+Ascoli Calcio 1898,Out,Michele Lestani,20,Italy,CM,Other,Alghero 1945,Other,2006
