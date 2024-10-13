@@ -8,6 +8,7 @@ This project involves scraping, cleaning, and analyzing Serie A soccer data, inc
 - [Installation](#installation)
 - [Scripts Overview](#scripts-overview)
 - [Technologies Used](#technologies-used)
+- [Data Preparation](#data-preparation)
 - [Modeling](#modeling)
 - [SHAP Analysis](#shap-analysis)
 - [Dataset](#dataset)
@@ -52,6 +53,34 @@ pip install -r requirements.txt
 - Scikit-learn for scaling and evaluation metrics.
 - TensorFlow/Keras for machine learning modeling.
 - SHAP for model explainability and feature importance.
+
+
+## Data Preparation
+
+### Adding Scraped CSV Files
+In order to use the data aggregation and preparation script (ML_SerieA_Ultimate_DF.ipynb), ensure that all scraped CSV files are present in the same directory as the notebook. These CSV files include:
+
+- Transfer data from Transfer_SerieA_scraping.ipynb.
+- Team-specific data from Teams_SerieA_scraping.ipynb.
+- Team stats data from SerieA_Team_Stats.ipynb.
+- Manager data from Serie_A_Managers.ipynb.
+  
+The script aggregates these files, cleans the data, and prepares a unified dataset for machine learning modeling.
+
+Make sure the following CSV files are available:
+
+- serie_a_transfers[year].csv
+- scraped_data_[TeamName].csv
+- serie_a_market_values.csv
+- serie_a_coaches_grouped.csv
+  
+Run ML_SerieA_Ultimate_DF.ipynb to combine these into a final dataset.
+
+### Adding the Final Aggregated File
+After running ML_SerieA_Ultimate_DF.ipynb, the script will generate an aggregated file called final_merged_data_with_transfers.csv, which contains all the combined data for model training.
+
+To proceed with building and training the machine learning models, ensure that this final file is placed in the same directory as the Serie_A_ML_Final.ipynb script. This file is essential as it contains the preprocessed data used for predictions in the final model.
+
 
 ## Modeling
 
