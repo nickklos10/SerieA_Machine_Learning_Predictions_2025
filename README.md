@@ -7,15 +7,10 @@ This project involves scraping, cleaning, and analyzing Serie A soccer data, inc
 - [Installation](#installation)
 - [Scripts Overview](#scripts-overview)
 - [Technologies Used](#technologies-used)
-- [Repository Structure](#repository-structure)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Database Setup](#database-setup)
-- [User Roles and Permissions](#user-roles-and-permissions)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+- [Modeling](#modeling)
+- [SHAP Analysis](#shap-analysis)
+- [Dataset](#dataset)
+- [Result](#result)
 
 ## Installation
 
@@ -46,4 +41,45 @@ pip install -r requirements.txt
 - Serie_A_Managers.ipynb: Scrapes manager data for Serie A teams, including matches managed, seasons, titles, and points per match (PPM). Saves the data as serie_a_coaches.csv.
 
 - Serie_A_ML_Final.ipynb: Builds and trains a machine learning model using neural networks to predict team performance metrics, including points, victories, goals scored, goals conceded, and final standings.
+
+
+## Technologies Used
+
+- Python 3.9
+- Pandas for data manipulation.
+- Requests and BeautifulSoup for web scraping.
+- Scikit-learn for scaling and evaluation metrics.
+- TensorFlow/Keras for machine learning modeling.
+- SHAP for model explainability and feature importance.
+
+## Modeling
+
+The model uses a neural network with multiple input features, such as:
+
+- Squad size, average age, number of foreigners.
+- Market values of the team and player transfers.
+- Manager experience and points per match.
+
+Two models are built:
+
+- Main Model: Predicts performance metrics for all teams.
+- Limited Teams Model: Trains specifically on teams with less historical data to handle overfitting issues.
+
+
+## SHAP Analysis
+
+The SHAP library is used to analyze the impact of features on predictions. Important features like team market value, manager, and transfer fees are visualized to understand how they influence team performance predictions.
+
+
+## Dataset
+
+The datasets are aggregated from multiple sources:
+
+- Serie A transfers: Player movement in and out of teams.
+- Team statistics: Squad size, age, foreigners, market value.
+- Manager data: Manager history for each club.
+- Team performance: Wins, draws, losses, goals for, goals against.
+
+## Results
+The machine learning model provides predictions for the 2024/2025 Serie A season, including points, victories, and team rankings. Detailed analysis for overachievers and underachievers is included.
 
