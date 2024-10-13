@@ -116,7 +116,6 @@ The machine learning model provides predictions for the 2024/2025 Serie A season
 
 ## Data Sources
 The data for this project was scraped from the following websites:
-[GitHub Pages](https://pages.github.com/).
 
 - [Transfermarkt](https://www.transfermarkt.us/): This website provides detailed soccer statistics, including player transfers, team statistics, and manager performance data. It was used to scrape information on player transfers, team market values, and manager history.
 
