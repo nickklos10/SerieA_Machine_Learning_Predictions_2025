@@ -13,6 +13,7 @@ This project involves scraping, cleaning, and analyzing Serie A soccer data, inc
 - [SHAP Analysis](#shap-analysis)
 - [Dataset](#dataset)
 - [Result](#result)
+- [Data Sources](#data-sources)
 
 ## Installation
 
@@ -112,4 +113,14 @@ The datasets are aggregated from multiple sources:
 
 ## Results
 The machine learning model provides predictions for the 2024/2025 Serie A season, including points, victories, and team rankings. Detailed analysis for overachievers and underachievers is included.
+
+## Data Sources
+The data for this project was scraped from the following websites:
+[GitHub Pages](https://pages.github.com/).
+
+- `[Transfermarkt](https://www.transfermarkt.us/)`: This website provides detailed soccer statistics, including player transfers, team statistics, and manager performance data. It was used to scrape information on player transfers, team market values, and manager history.
+
+- `[Italia1910](http://www.italia1910.com/)`: This website provides historical Serie A standings and match data. It was used to scrape team-specific performance data for various Serie A seasons.
+
+These sources provided all the necessary data to build a comprehensive dataset for the machine learning models. Make sure to review the terms of service for these websites if you plan to use them for further data collection.
 
