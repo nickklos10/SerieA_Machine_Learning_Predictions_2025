@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/572c8da5-5014-4fd2-afa9-2843fa35f60b)
-# Serie A Machine Learning Predictions
+![image](https://github.com/user-attachments/assets/572c8da5-5014-4fd2-afa9-2843fa35f60b) # Serie A Machine Learning Predictions
 
 This project involves scraping, cleaning, and analyzing Serie A soccer data, including team statistics, player transfers, and manager details, to build machine learning models predicting various outcomes. The models predict team points, goals, wins, draws, losses, and final rankings.
 
