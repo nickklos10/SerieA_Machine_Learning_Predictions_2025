@@ -1,0 +1,406 @@
+Club,Year,Coach,Nationality,Matches,Seasons,Finals,Titles,Points,PPM
+AC Milan,2024,Paulo Fonseca,Portugal,6,1,0,0,11,1.83
+AC Monza,2024,Alessandro Nesta,Italy,6,1,0,0,3,0.5
+ACF Fiorentina,2024,Raffaele Palladino,Italy,6,1,0,0,7,1.17
+AS Roma,2024,Ivan Juric,Croatia,2,1,0,0,6,1.875
+Atalanta BC,2024,Gian Piero Gasperini,Italy,6,1,0,0,7,1.17
+Bologna FC 1909,2024,Vincenzo Italiano,Italy,6,1,0,0,7,1.17
+Cagliari Calcio,2024,Davide Nicola,Italy,6,1,0,0,5,0.83
+Como 1907,2024,Cesc Fàbregas,Spain,6,1,0,0,8,1.33
+FC Empoli,2024,Roberto D'Aversa,Italy,6,1,0,0,10,1.67
+Genoa CFC,2024,Alberto Gilardino,Italy,6,1,0,0,5,0.83
+Hellas Verona,2024,Paolo Zanetti,Italy,6,1,0,0,6,1
+Inter Milan,2024,Simone Inzaghi,Italy,6,1,0,0,11,1.83
+Juventus FC,2024,Thiago Motta,Italy,6,1,0,0,12,2
+Parma Calcio 1913,2024,Fabio Pecchia,Italy,6,1,0,0,5,0.83
+SS Lazio,2024,Marco Baroni,Italy,6,1,0,0,10,1.67
+SSC Napoli,2024,Antonio Conte,Italy,6,1,0,0,13,2.17
+Torino FC,2024,Paolo Vanoli,Italy,6,1,0,0,11,1.83
+US Lecce,2024,Luca Gotti,Italy,6,1,0,0,5,0.83
+Udinese Calcio,2024,Kosta Runjaic,Germany,6,1,0,0,10,1.67
+Venezia FC,2024,Eusebio Di Francesco,Italy,6,1,0,0,4,0.67
+AC Milan,2023,Stefano Pioli,Italy,38,1,0,0,75,1.97
+AC Monza,2023,Raffaele Palladino,Italy,38,1,0,0,45,1.18
+ACF Fiorentina,2023,Vincenzo Italiano,Italy,38,1,0,0,60,1.58
+AS Roma,2023,Daniele De Rossi,Italy,18,1,0,0,34,1.67
+Atalanta BC,2023,Gian Piero Gasperini,Italy,38,1,0,0,69,1.82
+Bologna FC 1909,2023,Thiago Motta,Italy,38,1,0,0,68,1.79
+Cagliari Calcio,2023,Claudio Ranieri,Italy,38,1,0,0,36,0.95
+FC Empoli,2023,Davide Nicola,Italy,18,1,0,0,23,1.28
+Frosinone Calcio,2023,Eusebio Di Francesco,Italy,38,1,0,0,35,0.92
+Genoa CFC,2023,Alberto Gilardino,Italy,38,1,0,0,49,1.29
+Hellas Verona,2023,Marco Baroni,Italy,38,1,0,0,38,1
+Inter Milan,2023,Simone Inzaghi,Italy,38,1,0,0,94,2.47
+Juventus FC,2023,Paolo Montero,Uruguay,2,1,0,0,4,1.93
+SS Lazio,2023,Giovanni Martusciello,Italy,1,1,0,0,3,2.143333333
+SSC Napoli,2023,Rudi Garcia,France,12,1,0,0,21,1.403333333
+Torino FC,2023,Ivan Juric,Croatia,38,1,0,0,53,1.39
+US Lecce,2023,Luca Gotti,Italy,10,1,0,0,13,1.3
+Udinese Calcio,2023,Fabio Cannavaro,Italy,6,1,0,0,9,1.23
+AC Milan,2022,Stefano Pioli,Italy,38,1,0,0,70,1.84
+AC Monza,2022,Raffaele Palladino,Italy,32,1,0,0,51,1.59
+ACF Fiorentina,2022,Vincenzo Italiano,Italy,38,1,0,0,56,1.47
+AS Roma,2022,José Mourinho,Portugal,38,1,0,0,63,1.66
+Atalanta BC,2022,Gian Piero Gasperini,Italy,38,1,0,0,64,1.68
+Bologna FC 1909,2022,Luca Vigiani,Italy,1,1,0,0,3,1.7
+FC Empoli,2022,Paolo Zanetti,Italy,38,1,0,0,43,1.13
+Hellas Verona,2022,Marco Zaffaroni,Italy,24,1,1,1,29,0.885
+Inter Milan,2022,Simone Inzaghi,Italy,38,1,0,0,72,1.89
+Juventus FC,2022,Massimiliano Allegri,Italy,38,1,0,0,72,1.89
+SS Lazio,2022,Maurizio Sarri,Italy,38,1,0,0,74,1.95
+SSC Napoli,2022,Luciano Spalletti,Italy,38,1,0,0,90,2.37
+Spezia Calcio,2022,Luca Gotti,Italy,22,1,0,0,19,0.805
+Torino FC,2022,Ivan Juric,Croatia,38,1,0,0,53,1.39
+UC Sampdoria,2022,Dejan Stankovic,Serbia,30,1,0,0,17,0.57
+US Cremonese,2022,Davide Ballardini,Italy,20,1,0,0,20,1
+US Lecce,2022,Marco Baroni,Italy,38,1,0,0,36,0.95
+US Salernitana 1919,2022,Paulo Sousa,Portugal,16,1,0,0,21,1.13
+US Sassuolo,2022,Alessio Dionisi,Italy,38,1,0,0,45,1.18
+Udinese Calcio,2022,Andrea Sottil,Italy,38,1,0,0,46,1.21
+AC Milan,2021,Stefano Pioli,Italy,38,1,0,0,86,2.26
+ACF Fiorentina,2021,Vincenzo Italiano,Italy,38,1,0,0,62,1.63
+AS Roma,2021,José Mourinho,Portugal,38,1,0,0,63,1.66
+Atalanta BC,2021,Gian Piero Gasperini,Italy,38,1,0,0,59,1.55
+Bologna FC 1909,2021,Siniša Mihajlović,Serbia,38,1,0,0,46,1.21
+Cagliari Calcio,2021,Walter Mazzarri,Italy,32,1,0,0,27,0.755
+FC Empoli,2021,Aurelio Andreazzoli,Italy,38,1,0,0,41,1.08
+Genoa CFC,2021,Alexander Blessin,Germany,16,1,0,0,16,0.875
+Hellas Verona,2021,Igor Tudor,Croatia,35,1,0,0,53,1.51
+Inter Milan,2021,Simone Inzaghi,Italy,38,1,0,0,84,2.21
+Juventus FC,2021,Massimiliano Allegri,Italy,38,1,0,0,70,1.84
+SS Lazio,2021,Maurizio Sarri,Italy,38,1,0,0,64,1.68
+SSC Napoli,2021,Luciano Spalletti,Italy,38,1,0,0,79,2.08
+Spezia Calcio,2021,Thiago Motta,Italy,38,1,0,0,36,0.95
+Torino FC,2021,Ivan Juric,Croatia,38,1,0,0,50,1.32
+UC Sampdoria,2021,Marco Giampaolo,Italy,16,1,0,0,16,0.955
+US Salernitana 1919,2021,Davide Nicola,Italy,15,1,0,0,18,1.2
+US Sassuolo,2021,Alessio Dionisi,Italy,38,1,0,0,50,1.32
+Udinese Calcio,2021,Gabriele Cioffi,Italy,22,1,0,0,31,1.205
+Venezia FC,2021,Andrea Soncin,Italy,5,1,0,0,5,0.835
+AC Milan,2020,Stefano Pioli,Italy,38,1,0,0,79,2.08
+ACF Fiorentina,2020,Giuseppe Iachini,Italy,17,1,0,0,19,1.06
+AS Roma,2020,Paulo Fonseca,Portugal,38,1,0,0,62,1.63
+Atalanta BC,2020,Gian Piero Gasperini,Italy,38,1,0,0,78,2.05
+Benevento Calcio,2020,Filippo Inzaghi,Italy,38,1,0,0,33,0.87
+Bologna FC 1909,2020,Siniša Mihajlović,Serbia,38,1,0,0,41,1.08
+Cagliari Calcio,2020,Leonardo Semplici,Italy,15,1,0,0,22,1.06
+FC Crotone,2020,Serse Cosmi,Italy,14,1,0,0,11,0.645
+Genoa CFC,2020,Davide Ballardini,Italy,25,1,0,0,35,0.97
+Hellas Verona,2020,Ivan Juric,Croatia,38,1,0,0,45,1.18
+Inter Milan,2020,Antonio Conte,Italy,38,1,0,0,91,2.39
+Juventus FC,2020,Andrea Pirlo,Italy,38,1,0,0,78,2.05
+Parma Calcio 1913,2020,Fabio Liverani,Italy,16,1,0,0,12,0.75
+SS Lazio,2020,Simone Inzaghi,Italy,38,1,0,0,68,1.79
+SSC Napoli,2020,Gennaro Gattuso,Italy,38,1,0,0,77,2.03
+Spezia Calcio,2020,Vincenzo Italiano,Italy,38,1,0,0,39,1.03
+Torino FC,2020,Davide Nicola,Italy,20,1,0,0,24,0.96
+UC Sampdoria,2020,Claudio Ranieri,Italy,38,1,0,0,52,1.37
+US Sassuolo,2020,Roberto De Zerbi,Italy,38,1,0,0,62,1.63
+Udinese Calcio,2020,Luca Gotti,Italy,38,1,0,0,40,1.05
+AC Milan,2019,Stefano Pioli,Italy,31,1,0,0,57,1.565
+ACF Fiorentina,2019,Giuseppe Iachini,Italy,21,1,0,0,32,1.26
+AS Roma,2019,Paulo Fonseca,Portugal,38,1,0,0,70,1.84
+Atalanta BC,2019,Gian Piero Gasperini,Italy,38,1,0,0,78,2.05
+Bologna FC 1909,2019,Siniša Mihajlović,Serbia,27,1,0,0,35,1.195
+Brescia Calcio,2019,Eugenio Corini,Italy,19,1,0,0,15,0.79
+Cagliari Calcio,2019,Rolando Maran,Italy,25,1,0,0,32,1.14
+Genoa CFC,2019,Davide Nicola,Italy,21,1,0,0,28,1.33
+Hellas Verona,2019,Ivan Juric,Croatia,38,1,0,0,49,1.29
+Inter Milan,2019,Antonio Conte,Italy,38,1,0,0,82,2.16
+Juventus FC,2019,Maurizio Sarri,Italy,38,1,0,0,83,2.18
+Parma Calcio 1913,2019,Roberto D'Aversa,Italy,38,1,0,0,49,1.29
+SS Lazio,2019,Simone Inzaghi,Italy,38,1,0,0,78,2.05
+SSC Napoli,2019,Gennaro Gattuso,Italy,23,1,0,0,41,1.59
+Torino FC,2019,Walter Mazzarri,Italy,22,1,0,0,27,1.02
+UC Sampdoria,2019,Claudio Ranieri,Italy,31,1,0,0,39,1.26
+US Lecce,2019,Fabio Liverani,Italy,38,1,0,0,35,0.92
+US Sassuolo,2019,Roberto De Zerbi,Italy,38,1,0,0,51,1.34
+Udinese Calcio,2019,Luca Gotti,Italy,29,1,0,0,38,1.31
+AC Milan,2018,Gennaro Gattuso,Italy,38,1,0,0,68,1.79
+ACF Fiorentina,2018,Stefano Pioli,Italy,31,1,0,0,39,1.26
+AS Roma,2018,Claudio Ranieri,Italy,12,1,0,0,22,1.76
+Atalanta BC,2018,Gian Piero Gasperini,Italy,38,1,0,0,69,1.82
+Bologna FC 1909,2018,Siniša Mihajlović,Serbia,17,1,0,0,30,1.215
+Cagliari Calcio,2018,Rolando Maran,Italy,38,1,0,0,41,1.08
+FC Empoli,2018,Giuseppe Iachini,Italy,16,1,0,0,16,1
+Frosinone Calcio,2018,Marco Baroni,Italy,22,1,0,0,17,0.77
+Genoa CFC,2018,Davide Ballardini,Italy,7,1,0,0,12,1.335
+Inter Milan,2018,Luciano Spalletti,Italy,38,1,0,0,69,1.82
+Juventus FC,2018,Massimiliano Allegri,Italy,38,1,0,0,90,2.37
+Parma Calcio 1913,2018,Roberto D'Aversa,Italy,38,1,0,0,41,1.08
+SPAL,2018,Leonardo Semplici,Italy,38,1,0,0,42,1.11
+SS Lazio,2018,Simone Inzaghi,Italy,38,1,0,0,59,1.55
+SSC Napoli,2018,Carlo Ancelotti,Italy,38,1,0,0,79,2.08
+Torino FC,2018,Walter Mazzarri,Italy,38,1,0,0,63,1.66
+UC Sampdoria,2018,Marco Giampaolo,Italy,38,1,0,0,53,1.39
+US Sassuolo,2018,Roberto De Zerbi,Italy,38,1,0,0,43,1.13
+Udinese Calcio,2018,Igor Tudor,Croatia,11,1,0,0,18,1.153333333
+AC Milan,2017,Gennaro Gattuso,Italy,24,1,0,0,44,1.63
+ACF Fiorentina,2017,Stefano Pioli,Italy,38,1,0,0,57,1.5
+AS Roma,2017,Eusebio Di Francesco,Italy,38,1,0,0,77,2.03
+Atalanta BC,2017,Gian Piero Gasperini,Italy,38,1,0,0,60,1.58
+Bologna FC 1909,2017,Roberto Donadoni,Italy,38,1,0,0,39,1.03
+Cagliari Calcio,2017,Diego López,Uruguay,30,1,0,0,33,1.1
+Chievo Verona,2017,Lorenzo D'Anna,Italy,3,1,0,0,9,1.945
+FC Crotone,2017,Walter Zenga,Italy,23,1,0,0,23,0.9
+Genoa CFC,2017,Davide Ballardini,Italy,26,1,0,0,35,1.35
+Inter Milan,2017,Luciano Spalletti,Italy,38,1,0,0,72,1.89
+Juventus FC,2017,Massimiliano Allegri,Italy,38,1,0,0,95,2.5
+SPAL,2017,Leonardo Semplici,Italy,38,1,0,0,38,1
+SS Lazio,2017,Simone Inzaghi,Italy,38,1,0,0,72,1.89
+SSC Napoli,2017,Maurizio Sarri,Italy,38,1,0,0,91,2.39
+Torino FC,2017,Walter Mazzarri,Italy,19,1,0,0,29,1.425
+UC Sampdoria,2017,Marco Giampaolo,Italy,38,1,0,0,54,1.42
+US Sassuolo,2017,Giuseppe Iachini,Italy,24,1,0,0,32,1.06
+Udinese Calcio,2017,Igor Tudor,Croatia,4,1,0,0,7,1.233333333
+AC Milan,2016,Vincenzo Montella,Italy,38,1,0,0,63,1.66
+ACF Fiorentina,2016,Paulo Sousa,Portugal,38,1,0,0,60,1.58
+AS Roma,2016,Luciano Spalletti,Italy,38,1,0,0,87,2.29
+Atalanta BC,2016,Gian Piero Gasperini,Italy,38,1,0,0,72,1.89
+Bologna FC 1909,2016,Roberto Donadoni,Italy,38,1,0,0,41,1.08
+Cagliari Calcio,2016,Massimo Rastelli,Italy,38,1,0,0,47,1.24
+Chievo Verona,2016,Rolando Maran,Italy,38,1,0,0,43,1.13
+Delfino Pescara 1936,2016,Zdenek Zeman,Czech Republic,14,1,0,0,9,0.64
+FC Crotone,2016,Davide Nicola,Italy,38,1,0,0,34,0.89
+FC Empoli,2016,Giovanni Martusciello,Italy,38,1,0,0,32,0.84
+Genoa CFC,2016,Ivan Juric,Croatia,32,1,0,0,32,0.835
+Inter Milan,2016,Stefano Vecchi,Italy,4,1,0,0,9,1.74
+Juventus FC,2016,Massimiliano Allegri,Italy,38,1,0,0,91,2.39
+Palermo FC,2016,Diego Bortoluzzi,Italy,7,1,0,0,11,1.07
+SS Lazio,2016,Simone Inzaghi,Italy,38,1,0,0,70,1.84
+SSC Napoli,2016,Maurizio Sarri,Italy,38,1,0,0,86,2.26
+Torino FC,2016,Siniša Mihajlović,Serbia,38,1,0,0,53,1.39
+UC Sampdoria,2016,Marco Giampaolo,Italy,38,1,0,0,48,1.26
+US Sassuolo,2016,Eusebio Di Francesco,Italy,38,1,0,0,46,1.21
+Udinese Calcio,2016,Luigi Delneri,Italy,31,1,0,0,38,1.115
+AC Carpi,2015,Fabrizio Castori,Italy,33,1,0,0,34,1.03
+AC Milan,2015,Siniša Mihajlović,Serbia,32,1,0,0,49,1.43
+ACF Fiorentina,2015,Paulo Sousa,Portugal,38,1,0,0,64,1.68
+AS Roma,2015,Luciano Spalletti,Italy,19,1,0,0,46,2.105
+Atalanta BC,2015,Edoardo Reja,Italy,38,1,0,0,45,1.18
+Bologna FC 1909,2015,Roberto Donadoni,Italy,28,1,0,0,36,1.29
+Chievo Verona,2015,Rolando Maran,Italy,38,1,0,0,50,1.32
+FC Empoli,2015,Marco Giampaolo,Italy,38,1,0,0,46,1.21
+Genoa CFC,2015,Gian Piero Gasperini,Italy,38,1,0,0,46,1.21
+Inter Milan,2015,Roberto Mancini,Italy,38,1,0,0,67,1.76
+Juventus FC,2015,Massimiliano Allegri,Italy,38,1,0,0,91,2.39
+Palermo FC,2015,Guillermo Barros Schelotto,Argentina,2,1,0,0,3,1.293333333
+SS Lazio,2015,Simone Inzaghi,Italy,7,1,0,0,12,1.53
+SSC Napoli,2015,Maurizio Sarri,Italy,38,1,0,0,82,2.16
+Torino FC,2015,Gian Piero Ventura,Italy,38,1,0,0,45,1.18
+UC Sampdoria,2015,Walter Zenga,Italy,12,1,0,0,16,1.125
+US Sassuolo,2015,Eusebio Di Francesco,Italy,38,1,0,0,61,1.61
+Udinese Calcio,2015,Stefano Colantuono,Italy,29,1,0,0,30,1.015
+AC Milan,2014,Filippo Inzaghi,Italy,38,1,0,0,52,1.37
+ACF Fiorentina,2014,Vincenzo Montella,Italy,38,1,0,0,64,1.68
+AS Roma,2014,Rudi Garcia,France,38,1,0,0,70,1.84
+Atalanta BC,2014,Edoardo Reja,Italy,13,1,0,0,14,1
+Cagliari Calcio,2014,Gianluca Festa,Italy,7,1,0,0,13,1.093333333
+Cesena FC,2014,Domenico Di Carlo,Italy,24,1,0,0,16,0.67
+Chievo Verona,2014,Rolando Maran,Italy,31,1,0,0,39,0.915
+FC Empoli,2014,Maurizio Sarri,Italy,38,1,0,0,42,1.11
+Genoa CFC,2014,Gian Piero Gasperini,Italy,38,1,0,0,59,1.55
+Hellas Verona,2014,Andrea Mandorlini,Italy,38,1,0,0,46,1.21
+Inter Milan,2014,Walter Mazzarri,Italy,11,1,0,0,16,1.445
+Juventus FC,2014,Massimiliano Allegri,Italy,38,1,0,0,87,2.29
+Palermo FC,2014,Giuseppe Iachini,Italy,38,1,0,0,49,1.29
+Parma Calcio 1913,2014,Roberto Donadoni,Italy,38,1,0,0,26,0.68
+SS Lazio,2014,Stefano Pioli,Italy,38,1,0,0,69,1.82
+SSC Napoli,2014,Rafael Benítez,Spain,38,1,0,0,63,1.66
+Torino FC,2014,Gian Piero Ventura,Italy,38,1,0,0,54,1.42
+UC Sampdoria,2014,Siniša Mihajlović,Serbia,38,1,0,0,56,1.47
+US Sassuolo,2014,Eusebio Di Francesco,Italy,38,1,0,0,49,1.29
+Udinese Calcio,2014,Andrea Stramaccioni,Italy,38,1,0,0,41,1.08
+AC Milan,2013,Clarence Seedorf,Netherlands,19,1,0,0,35,1.5
+ACF Fiorentina,2013,Vincenzo Montella,Italy,38,1,0,0,65,1.71
+AS Roma,2013,Rudi Garcia,France,38,1,0,0,85,2.24
+Atalanta BC,2013,Stefano Colantuono,Italy,38,1,0,0,50,1.32
+Bologna FC 1909,2013,Stefano Pioli,Italy,18,1,0,0,15,0.83
+Cagliari Calcio,2013,Ivo Pulga,Italy,6,1,0,0,7,1.085
+Catania FC,2013,Maurizio Pellegrino,Italy,6,1,0,0,12,1.365
+Chievo Verona,2013,Eugenio Corini,Italy,26,1,0,0,30,1.15
+Genoa CFC,2013,Gian Piero Gasperini,Italy,32,1,0,0,40,1.25
+Hellas Verona,2013,Andrea Mandorlini,Italy,38,1,0,0,54,1.42
+Inter Milan,2013,Walter Mazzarri,Italy,38,1,0,0,60,1.58
+Juventus FC,2013,Antonio Conte,Italy,38,1,0,0,102,2.68
+Parma Calcio 1913,2013,Roberto Donadoni,Italy,38,1,0,0,58,1.53
+SS Lazio,2013,Edoardo Reja,Italy,21,1,0,0,36,1.445
+SSC Napoli,2013,Rafael Benítez,Spain,38,1,0,0,78,2.05
+Torino FC,2013,Gian Piero Ventura,Italy,38,1,0,0,57,1.5
+UC Sampdoria,2013,Siniša Mihajlović,Serbia,26,1,0,0,36,1.065
+US Livorno 1915,2013,Domenico Di Carlo,Italy,14,1,0,0,12,0.86
+US Sassuolo,2013,Eusebio Di Francesco,Italy,33,1,0,0,34,1.03
+Udinese Calcio,2013,Francesco Guidolin,Italy,38,1,0,0,44,1.16
+AC Milan,2012,Massimiliano Allegri,Italy,38,1,0,0,72,1.89
+ACF Fiorentina,2012,Vincenzo Montella,Italy,38,1,0,0,70,1.84
+AS Roma,2012,Aurelio Andreazzoli,Italy,15,1,0,0,28,1.675
+Atalanta BC,2012,Stefano Colantuono,Italy,38,1,0,0,42,1.11
+Bologna FC 1909,2012,Stefano Pioli,Italy,38,1,0,0,44,1.16
+Cagliari Calcio,2012,Ivo Pulga,Italy,32,1,0,0,45,1.41
+Catania FC,2012,Rolando Maran,Italy,38,1,0,0,56,1.47
+Chievo Verona,2012,Eugenio Corini,Italy,32,1,0,0,42,1.31
+Genoa CFC,2012,Davide Ballardini,Italy,17,1,0,0,21,1.185
+Inter Milan,2012,Andrea Stramaccioni,Italy,38,1,0,0,54,1.42
+Juventus FC,2012,Massimo Carrera,Italy,7,1,0,0,19,2.323333333
+Palermo FC,2012,Alberto Malesani,Italy,3,1,0,0,3,0.96
+Parma Calcio 1913,2012,Roberto Donadoni,Italy,38,1,0,0,49,1.29
+SS Lazio,2012,Vladimir Petkovic,Switzerland,38,1,0,0,61,1.61
+SSC Napoli,2012,Walter Mazzarri,Italy,38,1,0,0,78,2.05
+Siena FC,2012,Serse Cosmi,Italy,17,1,0,0,17,1
+Torino FC,2012,Gian Piero Ventura,Italy,38,1,0,0,40,1.05
+UC Sampdoria,2012,Delio Rossi,Italy,21,1,0,0,25,1.125
+Udinese Calcio,2012,Francesco Guidolin,Italy,38,1,0,0,66,1.74
+AC Milan,2011,Massimiliano Allegri,Italy,38,1,0,0,80,2.11
+ACF Fiorentina,2011,Vincenzo Guerini,Italy,2,1,0,0,4,1.45
+AS Roma,2011,Luis Enrique,Spain,38,1,0,0,56,1.47
+Atalanta BC,2011,Stefano Colantuono,Italy,38,1,0,0,52,1.37
+Bologna FC 1909,2011,Stefano Pioli,Italy,33,1,0,0,50,1.52
+Cagliari Calcio,2011,Massimo Ficcadenti,Italy,21,1,0,0,25,1.125
+Catania FC,2011,Vincenzo Montella,Italy,38,1,0,0,48,1.26
+Chievo Verona,2011,Domenico Di Carlo,Italy,38,1,0,0,49,1.29
+Genoa CFC,2011,Alberto Malesani,Italy,19,1,0,0,23,1.205
+Inter Milan,2011,Andrea Stramaccioni,Italy,9,1,0,0,17,1.715
+Juventus FC,2011,Antonio Conte,Italy,38,1,0,0,84,2.21
+Palermo FC,2011,Devis Mangia,Italy,15,1,0,0,20,1.165
+Parma Calcio 1913,2011,Roberto Donadoni,Italy,21,1,0,0,37,1.44
+SS Lazio,2011,Edoardo Reja,Italy,38,1,0,0,62,1.63
+SSC Napoli,2011,Walter Mazzarri,Italy,38,1,0,0,61,1.61
+Siena FC,2011,Giuseppe Sannino,Italy,38,1,0,0,44,1.16
+US Lecce,2011,Serse Cosmi,Italy,25,1,0,0,28,1.12
+Udinese Calcio,2011,Francesco Guidolin,Italy,38,1,0,0,64,1.68
+AC Milan,2010,Massimiliano Allegri,Italy,38,1,0,0,82,2.16
+ACF Fiorentina,2010,Siniša Mihajlović,Serbia,38,1,0,0,51,1.34
+AS Roma,2010,Vincenzo Montella,Italy,13,1,0,0,24,1.705
+Bologna FC 1909,2010,Alberto Malesani,Italy,37,1,0,0,44,1.095
+Cagliari Calcio,2010,Roberto Donadoni,Italy,26,1,0,0,34,1.115
+Catania FC,2010,Diego Simeone,Argentina,18,1,0,0,24,1.215
+Cesena FC,2010,Massimo Ficcadenti,Italy,38,1,0,0,43,1.13
+Chievo Verona,2010,Stefano Pioli,Italy,38,1,0,0,46,1.21
+Genoa CFC,2010,Davide Ballardini,Italy,28,1,0,0,40,1.265
+Inter Milan,2010,Leonardo,Brazil,23,1,0,0,53,1.915
+Juventus FC,2010,Luigi Delneri,Italy,38,1,0,0,58,1.53
+Palermo FC,2010,Delio Rossi,Italy,34,1,0,0,53,1.56
+Parma Calcio 1913,2010,Franco Colomba,Italy,7,1,0,0,14,1.515
+SS Lazio,2010,Edoardo Reja,Italy,38,1,0,0,66,1.74
+SSC Napoli,2010,Walter Mazzarri,Italy,38,1,0,0,70,1.84
+UC Sampdoria,2010,Domenico Di Carlo,Italy,28,1,0,0,31,1.11
+US Lecce,2010,Luigi De Canio,Italy,38,1,0,0,41,1.08
+Udinese Calcio,2010,Francesco Guidolin,Italy,38,1,0,0,66,1.74
+AC Milan,2009,Leonardo,Brazil,38,1,0,0,70,1.84
+ACF Fiorentina,2009,Cesare Prandelli,Italy,38,1,0,0,47,1.24
+AS Roma,2009,Claudio Ranieri,Italy,36,1,0,0,80,2.22
+Atalanta BC,2009,Bortolo Mutti,Italy,20,1,0,0,22,1.05
+Bologna FC 1909,2009,Franco Colomba,Italy,30,1,0,0,36,1.2
+Cagliari Calcio,2009,Massimiliano Allegri,Italy,33,1,0,0,40,1.21
+Catania FC,2009,Siniša Mihajlović,Serbia,23,1,0,0,36,1.57
+Chievo Verona,2009,Domenico Di Carlo,Italy,38,1,0,0,44,1.16
+Genoa CFC,2009,Gian Piero Gasperini,Italy,38,1,0,0,51,1.34
+Inter Milan,2009,José Mourinho,Portugal,38,1,0,0,82,2.16
+Juventus FC,2009,Ciro Ferrara,Italy,21,1,0,0,33,1.43
+Palermo FC,2009,Delio Rossi,Italy,25,1,0,0,48,1.615
+Parma Calcio 1913,2009,Francesco Guidolin,Italy,38,1,0,0,52,1.37
+SS Lazio,2009,Edoardo Reja,Italy,15,1,0,0,24,1.28
+SSC Bari,2009,Gian Piero Ventura,Italy,38,1,0,0,50,1.32
+SSC Napoli,2009,Walter Mazzarri,Italy,31,1,0,0,52,1.34
+Siena FC,2009,Alberto Malesani,Italy,25,1,0,0,25,1
+UC Sampdoria,2009,Luigi Delneri,Italy,38,1,0,0,67,1.76
+US Livorno 1915,2009,Serse Cosmi,Italy,24,1,0,0,23,0.96
+Udinese Calcio,2009,Pasquale Marino,Italy,30,1,0,0,38,1.27
+AC Milan,2008,Carlo Ancelotti,Italy,38,1,0,0,74,1.95
+ACF Fiorentina,2008,Cesare Prandelli,Italy,38,1,0,0,68,1.79
+AS Roma,2008,Luciano Spalletti,Italy,38,1,0,0,63,1.66
+Atalanta BC,2008,Luigi Delneri,Italy,38,1,0,0,47,1.24
+Bologna FC 1909,2008,Giuseppe Papadopulo,Italy,7,1,0,0,11,1.24
+Cagliari Calcio,2008,Massimiliano Allegri,Italy,38,1,0,0,53,1.39
+Catania FC,2008,Walter Zenga,Italy,38,1,0,0,43,1.13
+Chievo Verona,2008,Domenico Di Carlo,Italy,28,1,0,0,32,1.14
+Genoa CFC,2008,Gian Piero Gasperini,Italy,38,1,0,0,68,1.79
+Inter Milan,2008,José Mourinho,Portugal,38,1,0,0,84,2.21
+Juventus FC,2008,Ciro Ferrara,Italy,2,1,0,0,6,2.445
+Palermo FC,2008,Davide Ballardini,Italy,37,1,0,0,57,1.54
+Reggina 1914,2008,Giuseppe Pillon,Italy,18,1,0,0,16,0.89
+SS Lazio,2008,Delio Rossi,Italy,38,1,0,0,50,1.32
+SSC Napoli,2008,Edoardo Reja,Italy,27,1,0,0,35,1.15
+Siena FC,2008,Marco Giampaolo,Italy,38,1,0,0,44,1.16
+Torino FC,2008,Giancarlo Camolese,Italy,9,1,0,0,10,0.923333333
+UC Sampdoria,2008,Walter Mazzarri,Italy,38,1,0,0,46,1.21
+US Lecce,2008,Mario Beretta,Italy,27,1,0,0,23,0.85
+Udinese Calcio,2008,Pasquale Marino,Italy,38,1,0,0,58,1.53
+AC Milan,2007,Carlo Ancelotti,Italy,38,1,0,0,64,1.68
+ACF Fiorentina,2007,Cesare Prandelli,Italy,37,1,0,0,65,1.38
+AS Roma,2007,Luciano Spalletti,Italy,38,1,0,0,82,2.16
+Atalanta BC,2007,Luigi Delneri,Italy,38,1,0,0,48,1.26
+Cagliari Calcio,2007,Davide Ballardini,Italy,21,1,0,0,32,1.52
+Catania FC,2007,Walter Zenga,Italy,7,1,0,0,8,1.023333333
+FC Empoli,2007,Luigi Cagni,Italy,20,1,0,0,20,1
+Genoa CFC,2007,Gian Piero Gasperini,Italy,38,1,0,0,48,1.26
+Inter Milan,2007,Roberto Mancini,Italy,38,1,0,0,85,2.24
+Juventus FC,2007,Claudio Ranieri,Italy,38,1,0,0,72,1.89
+Palermo FC,2007,Stefano Colantuono,Italy,21,1,0,0,29,1.22
+Reggina 1914,2007,Nevio Orlandi,Italy,12,1,0,0,18,1.28
+SS Lazio,2007,Delio Rossi,Italy,38,1,0,0,46,1.21
+SSC Napoli,2007,Edoardo Reja,Italy,38,1,0,0,50,1.32
+Siena FC,2007,Mario Beretta,Italy,26,1,0,0,35,1.35
+Torino FC,2007,Giovanni De Biasi,Italy,5,1,0,0,6,1.115
+UC Sampdoria,2007,Walter Mazzarri,Italy,38,1,0,0,60,1.58
+US Livorno 1915,2007,Giancarlo Camolese,Italy,28,1,0,0,28,1
+Udinese Calcio,2007,Pasquale Marino,Italy,38,1,0,0,57,1.5
+AC Milan,2006,Carlo Ancelotti,Italy,38,1,0,0,69,1.82
+ACF Fiorentina,2006,Cesare Prandelli,Italy,38,1,0,0,73,1.92
+ACR Messina,2006,Alberto Cavasin,Italy,8,1,0,0,8,1
+AS Roma,2006,Luciano Spalletti,Italy,38,1,0,0,75,1.97
+Ascoli Calcio,2006,Nedo Sonetti,Italy,27,1,0,0,23,0.85
+Atalanta BC,2006,Stefano Colantuono,Italy,38,1,0,0,50,1.32
+Cagliari Calcio,2006,Marco Giampaolo,Italy,30,1,0,0,33,0.99
+Catania FC,2006,Pasquale Marino,Italy,38,1,0,0,41,1.08
+Chievo Verona,2006,Luigi Delneri,Italy,32,1,0,0,38,1.19
+FC Empoli,2006,Luigi Cagni,Italy,38,1,0,0,54,1.42
+Inter Milan,2006,Roberto Mancini,Italy,38,1,0,0,97,2.55
+Palermo FC,2006,Renzo Gobbo,Italy,1,1,0,0,3,2.285
+Parma Calcio 1913,2006,Claudio Ranieri,Italy,16,1,0,0,27,1.69
+Reggina 1914,2006,Walter Mazzarri,Italy,38,1,0,0,51,1.34
+SS Lazio,2006,Delio Rossi,Italy,38,1,0,0,65,1.71
+Siena FC,2006,Mario Beretta,Italy,38,1,0,0,41,1.08
+Torino FC,2006,Giovanni De Biasi,Italy,14,1,0,0,18,1.105
+UC Sampdoria,2006,Walter Novellino,Italy,38,1,0,0,49,1.29
+US Livorno 1915,2006,Fernando Orsi,Italy,10,1,0,0,14,1.22
+Udinese Calcio,2006,Alberto Malesani,Italy,19,1,0,0,23,1.21
+AC Milan,2005,Carlo Ancelotti,Italy,38,1,0,0,88,2.32
+ACF Fiorentina,2005,Cesare Prandelli,Italy,38,1,0,0,74,1.95
+ACR Messina,2005,Bortolo Mutti,Italy,31,1,0,0,28,0.9
+AS Roma,2005,Luciano Spalletti,Italy,38,1,0,0,69,1.82
+Ascoli Calcio,2005,Massimo Silva,Italy,38,1,0,0,43,1.13
+Cagliari Calcio,2005,Nedo Sonetti,Italy,27,1,0,0,34,1.13
+Chievo Verona,2005,Giuseppe Pillon,Italy,38,1,0,0,54,1.42
+FC Empoli,2005,Luigi Cagni,Italy,18,1,0,0,26,1.195
+Inter Milan,2005,Roberto Mancini,Italy,38,1,0,0,76,2
+Juventus FC,2005,Fabio Capello,Italy,38,1,0,0,91,2.39
+Palermo FC,2005,Giuseppe Papadopulo,Italy,16,1,0,0,26,1.405
+Parma Calcio 1913,2005,Mario Beretta,Italy,38,1,0,0,45,1.18
+Reggina 1914,2005,Walter Mazzarri,Italy,38,1,0,0,41,1.08
+SS Lazio,2005,Delio Rossi,Italy,38,1,0,0,62,1.63
+Siena FC,2005,Luigi De Canio,Italy,38,1,0,0,39,1.03
+UC Sampdoria,2005,Walter Novellino,Italy,38,1,0,0,41,1.08
+US Lecce,2005,Roberto Rizzo,Italy,17,1,0,0,16,0.845
+US Livorno 1915,2005,Roberto Donadoni,Italy,23,1,0,0,38,1.19
+Udinese Calcio,2005,Giovanni Galeone,Italy,8,1,0,0,15,1.48
+AC Milan,2004,Carlo Ancelotti,Italy,38,1,0,0,79,2.08
+ACF Fiorentina,2004,Sergio Buso,Italy,13,1,0,0,16,1.145
+ACR Messina,2004,Bortolo Mutti,Italy,38,1,0,0,48,1.26
+AS Roma,2004,Luigi Delneri,Italy,24,1,0,0,34,1.21
+Atalanta BC,2004,Delio Rossi,Italy,24,1,0,0,28,1.17
+Bologna FC 1909,2004,Carlo Mazzone,Italy,40,1,0,0,45,1.13
+Brescia Calcio,2004,Alberto Cavasin,Italy,15,1,0,0,21,1.4
+Cagliari Calcio,2004,Daniele Arrigoni,Italy,38,1,0,0,44,1.16
+Chievo Verona,2004,Maurizio D'Angelo,Italy,3,1,0,0,7,1.68
+Inter Milan,2004,Roberto Mancini,Italy,38,1,0,0,72,1.89
+Juventus FC,2004,Fabio Capello,Italy,38,1,0,0,86,2.26
+Palermo FC,2004,Francesco Guidolin,Italy,38,1,0,0,53,1.39
+Parma Calcio 1913,2004,Pietro Carmignani,Italy,25,1,0,0,33,1.32
+Reggina 1914,2004,Walter Mazzarri,Italy,38,1,0,0,44,1.16
+SS Lazio,2004,Giuseppe Papadopulo,Italy,22,1,0,0,27,1.145
+Siena FC,2004,Luigi De Canio,Italy,21,1,0,0,28,1.33
+UC Sampdoria,2004,Walter Novellino,Italy,38,1,0,0,61,1.61
+US Lecce,2004,Zdenek Zeman,Czech Republic,38,1,0,0,44,1.16
+US Livorno 1915,2004,Roberto Donadoni,Italy,20,1,0,0,25,1.18
+Udinese Calcio,2004,Luciano Spalletti,Italy,38,1,0,0,62,1.63
