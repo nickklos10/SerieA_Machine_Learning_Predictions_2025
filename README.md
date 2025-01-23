@@ -20,7 +20,7 @@ This project involves scraping, cleaning, and analyzing Serie A soccer data, inc
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/SerieA_Machine_Learning_Predictions.git
+git clone https://github.com/nickklos10/SerieA_Machine_Learning_Predictions.git
 cd SerieA_Machine_Learning_Predictions
 ```
 
