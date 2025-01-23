@@ -124,7 +124,7 @@ The data for this project was scraped from the following websites:
 
 These sources provided all the necessary data to build a comprehensive dataset for the machine learning models. Make sure to review the terms of service for these websites if you plan to use them for further data collection.
 
-## Final Standings
+## Predicted Standings
 
 ![Screenshot 2025-01-23 at 6 52 05 PM](https://github.com/user-attachments/assets/6ea86563-d3ad-4276-ab97-9b7664e6eeda)
 
