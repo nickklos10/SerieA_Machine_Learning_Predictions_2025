@@ -113,7 +113,7 @@ The datasets are aggregated from multiple sources:
 - `Team performance`: Wins, draws, losses, goals for, goals against.
 
 ## Results
-The machine learning model provides predictions for the 2024/2025 Serie A season, including points, victories, and team rankings. Detailed analysis for overachievers and underachievers is included.
+The machine learning model provides predictions for the 2024/2025 Serie A season, including points and team rankings. Detailed analysis for overachievers and underachievers is included.
 
 ## Data Sources
 The data for this project was scraped from the following websites:
