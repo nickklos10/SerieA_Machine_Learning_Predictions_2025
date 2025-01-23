@@ -14,7 +14,7 @@ This project involves scraping, cleaning, and analyzing Serie A soccer data, inc
 - [Dataset](#dataset)
 - [Result](#result)
 - [Data Sources](#data-sources)
-- [Final Standings](#final-standings)
+- [Predicted Standings](#predicted-standings)
 
 ## Installation
 
