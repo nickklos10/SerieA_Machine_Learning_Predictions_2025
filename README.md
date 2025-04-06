@@ -137,7 +137,6 @@ The data for this project was scraped from the following websites:
 > websites if you plan to use them for further data collection.
 
 ## Predicted Standings
-
-![Screenshot 2025-01-23 at 6 52 05 PM](https://github.com/user-attachments/assets/6ea86563-d3ad-4276-ab97-9b7664e6eeda)
+![Black and Purple Minimal Football League Standings Instagram Story](https://github.com/user-attachments/assets/d77540cb-6aab-496b-8b37-6d51fe258237)
 
 
