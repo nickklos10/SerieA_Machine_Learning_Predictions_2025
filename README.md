@@ -47,7 +47,7 @@ pip install -r requirements.txt
 - `2025_Final_ML_SerieA.ipynb`: Builds and trains a machine learning model using neural networks to predict team performance metrics, including points, victories, ties, losses and final standings.
   
 > [!NOTE]
-> Recent Modifications
+> `Recent Modifications:`
 >  * Improved the prediction pipeline with enhanced imputation, scaling, and updated categorical encoding.
 >  * Adjusted the post‑processing step to ensure that the predicted outcomes (wins, draws, and losses) are consistent with the predicted points.
 
