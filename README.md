@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/572c8da5-5014-4fd2-afa9-2843fa35f60b) 
 # Serie A Machine Learning Predictions
 
-This project involves scraping, cleaning, and analyzing Serie A soccer data, including team statistics, player transfers, and manager details, to build machine learning models predicting various outcomes. The models predict team points, goals, wins, draws, losses, and final rankings for the 2024/2025 season.
+This project involves scraping, cleaning, and analyzing Serie A soccer data—including team statistics, player transfers, and manager details—to build machine learning models that predict various outcomes. The models forecast team points, wins, draws, losses and final standings for the 2024/2025 season.
 
 ## Table of Contents
 
@@ -44,7 +44,12 @@ pip install -r requirements.txt
 
 - `Serie_A_Managers.ipynb`: Scrapes manager data for Serie A teams, including matches managed, seasons, titles, and points per match (PPM). Saves the data as serie_a_coaches.csv.
 
-- `Serie_A_ML_Final.ipynb`: Builds and trains a machine learning model using neural networks to predict team performance metrics, including points, victories, goals scored, goals conceded, and final standings.
+- `2025_Final_ML_SerieA.ipynb`: Builds and trains a machine learning model using neural networks to predict team performance metrics, including points, victories, ties, losses and final standings.
+  
+> [!NOTE]
+> Recent Modifications
+>  * Improved the prediction pipeline with enhanced imputation, scaling, and updated categorical encoding.
+>  * Adjusted the post‑processing step to ensure that the predicted outcomes (wins, draws, and losses) are consistent with the predicted points.
 
 
 ## Technologies Used
@@ -52,7 +57,7 @@ pip install -r requirements.txt
 - `Python 3.9`
 - `Pandas` for data manipulation.
 - `Requests` and `BeautifulSoup` for web scraping.
-- `Scikit-learn` for scaling and evaluation metrics.
+- `Scikit-learn` for scaling, imputation and evaluation metrics.
 - `TensorFlow/Keras` for machine learning modeling.
 - `SHAP` for model explainability and feature importance.
 
@@ -88,14 +93,13 @@ To proceed with building and training the machine learning models, ensure that t
 
 The model uses a neural network with multiple input features, such as:
 
-- Squad size, average age, number of foreigners.
-- Market values of the team and player transfers.
-- Manager experience and points per match.
+* Numerical Inputs: Squad size, average age, market values, etc. (including log-transformed versions)
+* Categorical Inputs: Team and coach (encoded to handle unknown values)
+* Other Inputs: Total games played (Gio)
 
-Two models are built:
+> [!NOTE]
+> `Modifications:` The prediction pipeline was updated to include improved imputation, scaling, and robust post‑processing (adjusting wins, draws, and losses so that they sum to a realistic season total based on the predicted points).
 
-- `Main Model`: Predicts performance metrics for all teams.
-- `Limited Teams Model`: Trains specifically on teams with less historical data to handle overfitting issues.
 
 
 ## SHAP Analysis
@@ -113,7 +117,13 @@ The datasets are aggregated from multiple sources:
 - `Team performance`: Wins, draws, losses, goals for, goals against.
 
 ## Results
-The machine learning model provides predictions for the 2024/2025 Serie A season, including points and team rankings. Detailed analysis for overachievers and underachievers is included.
+The machine learning model predicts the final standings for the 2024/2025 Serie A season, including estimates for team points, wins, draws, losses, and overall rankings. Detailed analysis identifies overachieving and underachieving teams based on historical performance and current market values.
+
+<details> <summary><strong>Spoiler: Inter Milan Will Be Back-to-Back Champions!</strong></summary>
+According to our model predictions, Inter Milan is expected to win the Serie A title for the 2024/2025 season, marking their second consecutive championship. The model’s forecasts, supported by key factors such as team market value and transfer activity, strongly indicate Inter's dominance in the upcoming season.
+
+</details>
+The complete predicted standings, along with SHAP and dependence plots illustrating feature importance, are included in this repository.
 
 ## Data Sources
 The data for this project was scraped from the following websites:
@@ -122,7 +132,9 @@ The data for this project was scraped from the following websites:
 
 - [Italia1910](http://www.italia1910.com/): This website provides historical Serie A standings and match data. It was used to scrape team-specific performance data for various Serie A seasons.
 
-These sources provided all the necessary data to build a comprehensive dataset for the machine learning models. Make sure to review the terms of service for these websites if you plan to use them for further data collection.
+> [!IMPORTANT]
+> These sources provided all the necessary data to build a comprehensive dataset for the machine learning models. Make sure to review the terms of service for these 
+> websites if you plan to use them for further data collection.
 
 ## Predicted Standings
 
